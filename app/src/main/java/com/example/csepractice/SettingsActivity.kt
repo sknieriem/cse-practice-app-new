@@ -1,129 +1,107 @@
 package com.example.csepractice
 
-import android.content.Context
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.activity.enableEdgeToEdge
-import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
-import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.Button
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.RadioButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
-import com.example.csepractice.repository.QuestionRepository
 import com.example.csepractice.ui.theme.CSEPracticeAppTheme
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
+import com.example.csepractice.ui.theme.PreferencesDataStore
 import kotlinx.coroutines.launch
-import android.widget.Toast
 
 class SettingsActivity : ComponentActivity() {
-    @OptIn(ExperimentalMaterial3Api::class)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
-        val prefs = getSharedPreferences("app_prefs", Context.MODE_PRIVATE)
-        val isDarkMode = prefs.getBoolean("dark_mode", false)
         setContent {
-            CSEPracticeAppTheme(darkTheme = isDarkMode) {
+            CSEPracticeAppTheme {
                 Scaffold(
-                    modifier = Modifier.fillMaxSize(),
                     topBar = {
-                        TopAppBar(
-                            title = { Text("Settings") },
-                            navigationIcon = {
-                                IconButton(onClick = { finish() }) {
-                                    Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back")
-                                }
-                            }
-                        )
+                        SettingsTopBar(onBackClick = { finish() })
                     }
                 ) { innerPadding ->
-                    SettingsScreen(modifier = Modifier.padding(innerPadding))
+                    SettingsScreen(Modifier.padding(innerPadding))
                 }
             }
         }
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun SettingsTopBar(onBackClick: () -> Unit) {
+    TopAppBar(
+        title = { Text("Settings") },
+        navigationIcon = {
+            IconButton(onClick = onBackClick) {
+                Icon(Icons.Filled.ArrowBack, contentDescription = "Back")
+            }
+        }
+    )
+}
+
 @Composable
 fun SettingsScreen(modifier: Modifier = Modifier) {
     val context = LocalContext.current
-    val prefs = context.getSharedPreferences("app_prefs", Context.MODE_PRIVATE)
-    var isDarkMode by remember { mutableStateOf(prefs.getBoolean("dark_mode", false)) }
-    var colorScheme by remember { mutableStateOf(prefs.getString("color_scheme", "Default") ?: "Default") }
+    val coroutineScope = rememberCoroutineScope()
 
-    Column(
-        modifier = modifier.fillMaxSize().padding(16.dp),
-        verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally
-    ) {
-        Text("Settings", style = MaterialTheme.typography.headlineMedium)
+    val isDarkMode by PreferencesDataStore.darkModeFlow(context).collectAsState(initial = false)
+    val colorScheme by PreferencesDataStore.colorSchemeFlow(context).collectAsState(initial = "Default")
 
-        Spacer(modifier = Modifier.height(32.dp))
-
+    Column(modifier = modifier.padding(16.dp)) {
         Row(verticalAlignment = Alignment.CenterVertically) {
-            Text("Dark Mode", modifier = Modifier.padding(end = 16.dp))
+            Text("Dark Mode")
             Switch(
                 checked = isDarkMode,
-                onCheckedChange = { enabled ->
-                    isDarkMode = enabled
-                    with(prefs.edit()) {
-                        putBoolean("dark_mode", enabled)
-                        apply()
+                onCheckedChange = { newValue ->
+                    coroutineScope.launch {
+                        PreferencesDataStore.setDarkMode(context, newValue)
                     }
                 }
             )
         }
-
         Spacer(modifier = Modifier.height(16.dp))
-        Text("Color Scheme:")
-        Row {
-            listOf("Default", "Blue", "Green").forEach { scheme ->
-                RadioButton(selected = colorScheme == scheme, onClick = {
-                    colorScheme = scheme
-                    with(prefs.edit()) {
-                        putString("color_scheme", scheme)
-                        apply()
-                    }
-                })
-                Text(scheme)
-            }
-        }
-
-        Spacer(modifier = Modifier.height(32.dp))
-
+        Text("Color Scheme")
         Button(onClick = {
-            val repository = QuestionRepository(context)
-            CoroutineScope(Dispatchers.IO).launch {
-                repository.clearAllSessions()
+            coroutineScope.launch {
+                PreferencesDataStore.setColorScheme(context, "Default")
             }
-            Toast.makeText(context, "History reset!", Toast.LENGTH_SHORT).show()
         }) {
-            Text("Reset Progress History")
+            Text("Default")
+        }
+        Button(onClick = {
+            coroutineScope.launch {
+                PreferencesDataStore.setColorScheme(context, "Blue")
+            }
+        }) {
+            Text("Blue")
+        }
+        Button(onClick = {
+            coroutineScope.launch {
+                PreferencesDataStore.setColorScheme(context, "Green")
+            }
+        }) {
+            Text("Green")
         }
     }
 }
