@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "What is the capital of the Philippines?",
+        "optionA": "Manila",
+        "optionB": "Cebu",
+        "optionC": "Davao",
+        "optionD": "Quezon City",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Manila is the official capital of the Philippines."
+    },
+    {
+        "text": "Who is the current President of the Philippines? (As of 2022)",
+        "optionA": "Ferdinand Marcos Jr.",
+        "optionB": "Rodrigo Duterte",
+        "optionC": "Benigno Aquino III",
+        "optionD": "Gloria Arroyo",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Ferdinand Marcos Jr. was elected in 2022, serving as of 2025."
+    },
+    {
+        "text": "The Philippine Constitution was ratified in:",
+        "optionA": "1987",
+        "optionB": "1973",
+        "optionC": "1935",
+        "optionD": "1899",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The current constitution was ratified in 1987 under President Corazon Aquino."
+    },
+    {
+        "text": "RA 6713 is the:",
+        "optionA": "Code of Conduct for Public Officials",
+        "optionB": "Anti-Graft Law",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "RA 6713 is the Code of Conduct and Ethical Standards for Public Officials and Employees."
+    },
+    {
+        "text": "The three branches of government are:",
+        "optionA": "Executive, Legislative, Judiciary",
+        "optionB": "Senate, House, Court",
+        "optionC": "President, Congress, Supreme Court",
+        "optionD": "All above",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Philippine government is divided into executive, legislative, and judiciary branches."
+    },
+    {
+        "text": "National hero of the Philippines:",
+        "optionA": "Jose Rizal",
+        "optionB": "Andres Bonifacio",
+        "optionC": "Emilio Aguinaldo",
+        "optionD": "Lapu-Lapu",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Jose Rizal is officially recognized as the national hero."
+    },
+    {
+        "text": "The Philippine flag has colors:",
+        "optionA": "Blue, Red, White, Yellow",
+        "optionB": "Green, White, Red",
+        "optionC": "Blue, White, Red",
+        "optionD": "Red, White, Blue",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The flag has blue, red, white, and a yellow sun with stars."
+    },
+    {
+        "text": "Number of regions in the Philippines:",
+        "optionA": "17",
+        "optionB": "18",
+        "optionC": "16",
+        "optionD": "15",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "There are 18 regions as of 2025, including the Negros Island Region."
+    },
+    {
+        "text": "The largest island is:",
+        "optionA": "Luzon",
+        "optionB": "Mindanao",
+        "optionC": "Visayas",
+        "optionD": "Palawan",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Luzon is the largest island by area in the Philippines."
+    },
+    {
+        "text": "Independence Day is:",
+        "optionA": "June 12",
+        "optionB": "July 4",
+        "optionC": "August 31",
+        "optionD": "April 9",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "June 12, 1898, is the declaration of independence from Spain."
+    },
+    {
+        "text": "According to the Philippine Constitution, what is the minimum age to run for President?",
+        "optionA": "35",
+        "optionB": "30",
+        "optionC": "40",
+        "optionD": "25",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Article VII, Section 2 of the 1987 Constitution requires at least 40 years old."
+    },
+    {
+        "text": "RA 6713 refers to the Code of Conduct and Ethical Standards for:",
+        "optionA": "Public Officials and Employees",
+        "optionB": "Private Sector Workers",
+        "optionC": "Students",
+        "optionD": "Military Personnel",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "RA 6713 is for public officials and employees."
+    },
+    {
+        "text": "How many Senators are there in the Philippine Senate?",
+        "optionA": "24",
+        "optionB": "20",
+        "optionC": "30",
+        "optionD": "12",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Senate has 24 members."
+    },
+    {
+        "text": "What does the Bill of Rights in the Constitution primarily protect?",
+        "optionA": "Individual freedoms",
+        "optionB": "Economic policies",
+        "optionC": "Foreign relations",
+        "optionD": "Military powers",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Bill of Rights protects individual freedoms and rights."
+    },
+    {
+        "text": "Under RA 6713, what is a prohibited act for public officials?",
+        "optionA": "Political neutrality",
+        "optionB": "Accepting gifts that create conflict of interest",
+        "optionC": "Professionalism",
+        "optionD": "Responsiveness to public",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Section 7 prohibits accepting gifts that may influence official duties."
+    },
+    {
+        "text": "What branch of government includes the President and Vice President?",
+        "optionA": "Executive",
+        "optionB": "Legislative",
+        "optionC": "Judicial",
+        "optionD": "Local",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The executive branch is headed by the President and Vice President."
+    },
+    {
+        "text": "In human rights concepts, what does 'peace' involve per the reviewer?",
+        "optionA": "Absence of conflict and promotion of justice",
+        "optionB": "Military strength",
+        "optionC": "Economic growth only",
+        "optionD": "Environmental protection",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Peace involves not just absence of war but promotion of justice and rights."
+    },
+    {
+        "text": "What is a key norm of conduct under RA 6713?",
+        "optionA": "Professionalism",
+        "optionB": "Corruption",
+        "optionC": "Nepotism",
+        "optionD": "Bribery",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Section 4 lists professionalism as a norm."
+    },
+    {
+        "text": "Environment Management and Protection in the Constitution emphasizes:",
+        "optionA": "Sustainable development",
+        "optionB": "Urban expansion",
+        "optionC": "Industrial growth without limits",
+        "optionD": "Deforestation",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Article XII emphasizes sustainable development for the environment."
+    },
+    {
+        "text": "How many Representatives are in the House based on population?",
+        "optionA": "Up to 250 or more",
+        "optionB": "Exactly 100",
+        "optionC": "24",
+        "optionD": "200 fixed",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The House has not more than 250 members, but can be more with party-list."
+    },
+    {
+        "text": "What are the 3 main branches of the Government of the Philippines?",
+        "optionA": "Senate, Supreme Court, Congress",
+        "optionB": "Presidential, Unicameral-Parliamentary, Bicameral-Parliamentary",
+        "optionC": "Legislative, Executive, Judicial",
+        "optionD": "The Legislature, The Senate, The Supreme Court",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "The three branches are legislative, executive, and judicial."
+    },
+    {
+        "text": "The Supreme Court shall be composed of a Chief Justice and how many Associates Justices?",
+        "optionA": "12",
+        "optionB": "13",
+        "optionC": "14",
+        "optionD": "15",
+        "correctAnswer": "D",
+        "category": "General Information",
+        "explanation": "The Supreme Court has 1 Chief Justice and 14 Associate Justices."
+    },
+    {
+        "text": "The Commander-in-Chief of all armed forces of the Philippines in 2025 is _________.",
+        "optionA": "Air Force Commanding General Jeffrey Delgado",
+        "optionB": "Ferdinand Marcos Jr.",
+        "optionC": "Chief Justice Maria Lourdes Sereno",
+        "optionD": "AFP Chief Lieutenant Gen. Emmanuel Bautista",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The President is the Commander-in-Chief."
+    },
+    {
+        "text": "The executive power shall be vested in the _________.",
+        "optionA": "President of the Philippines",
+        "optionB": "House of Representatives",
+        "optionC": "The Supreme Court",
+        "optionD": "The Congress",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Executive power is vested in the President per the Constitution."
+    },
+    {
+        "text": "The legislative power shall be vested in the _________ which shall consist of a Senate and a House of Representatives.",
+        "optionA": "Congress of the Philippines",
+        "optionB": "House of Ombudsman",
+        "optionC": "The Supreme Court",
+        "optionD": "Bureau of Internal Revenue",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Legislative power is vested in Congress."
+    },
+    {
+        "text": "The Senate shall be composed of how many senators elected at large by voters of the Philippines?",
+        "optionA": "21",
+        "optionB": "22",
+        "optionC": "23",
+        "optionD": "24",
+        "correctAnswer": "D",
+        "category": "General Information",
+        "explanation": "The Senate has 24 senators."
+    },
+    {
+        "text": "How long shall the term of office of the senators be commenced?",
+        "optionA": "3 years",
+        "optionB": "4 years",
+        "optionC": "5 years",
+        "optionD": "6 years",
+        "correctAnswer": "D",
+        "category": "General Information",
+        "explanation": "Senators serve 6-year terms."
+    },
+    {
+        "text": "The term of office of the President and Vice-president of the Philippines shall be up to how many years?",
+        "optionA": "3 years",
+        "optionB": "4 years",
+        "optionC": "5 years",
+        "optionD": "6 years",
+        "correctAnswer": "D",
+        "category": "General Information",
+        "explanation": "The President and Vice-President serve 6-year terms."
+    },
+    {
+        "text": "The members of the House of Representatives shall be elected for a term of _______.",
+        "optionA": "3 years",
+        "optionB": "4 years",
+        "optionC": "5 years",
+        "optionD": "6 years",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Representatives serve 3-year terms."
+    },
+    {
+        "text": "The following shall be exempted from taxation except:",
+        "optionA": "Lands and buildings",
+        "optionB": "Churches and convents",
+        "optionC": "Charitable institutions",
+        "optionD": "Non-profit cemeteries",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Article VI, Section 28 exempts churches, charitable institutions, and non-profit cemeteries from taxation, but not general lands and buildings."
+    },
+    {
+        "text": "The Congress, by a vote of ____ of both Houses in joint session assembled, voting separately, shall have the sole power to declare a state of war.",
+        "optionA": "Two-thirds",
+        "optionB": "One-half",
+        "optionC": "Three quarters",
+        "optionD": "Minority",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Article VI, Section 23 requires a two-thirds vote."
+    },
+    {
+        "text": "It states that “no person shall be deprived of life, liberty, or property without due process of law, nor any person be denied the equal protection of the laws.”",
+        "optionA": "Article VI",
+        "optionB": "Bill of Rights",
+        "optionC": "Republic Act",
+        "optionD": "Court Order",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "This is from Article III, the Bill of Rights."
+    },
+    {
+        "text": "What is the state policy on labor?",
+        "optionA": "Full protection to labor",
+        "optionB": "Promotion of full employment",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Article XIII emphasizes full protection to labor and promotion of full employment."
+    },
+    {
+        "text": "The national language of the Philippines is:",
+        "optionA": "English",
+        "optionB": "Filipino",
+        "optionC": "Tagalog",
+        "optionD": "Cebuano",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Article XIV declares Filipino as the national language."
+    },
+    {
+        "text": "What is the term for the House Speaker?",
+        "optionA": "3 years",
+        "optionB": "6 years",
+        "optionC": "Until replaced",
+        "optionD": "4 years",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "The House Speaker serves at the pleasure of the House."
+    },
+    {
+        "text": "The Ombudsman is responsible for:",
+        "optionA": "Investigating public officials",
+        "optionB": "Making laws",
+        "optionC": "Executing laws",
+        "optionD": "Judging cases",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Ombudsman investigates complaints against public officials."
+    },
+    {
+        "text": "RA 9262 is:",
+        "optionA": "Anti-Violence Against Women and Children",
+        "optionB": "Anti-Corruption",
+        "optionC": "Environmental Law",
+        "optionD": "Labor Code",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "RA 9262 is the Anti-VAWC Act."
+    },
+    {
+        "text": "The Philippines is an archipelago with how many islands?",
+        "optionA": "7,641",
+        "optionB": "7,107",
+        "optionC": "7,500",
+        "optionD": "6,852",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The official count is 7,641 islands."
+    },
+    {
+        "text": "The current Chief Justice as of 2025 is:",
+        "optionA": "Alexander Gesmundo",
+        "optionB": "Maria Lourdes Sereno",
+        "optionC": "Diosdado Peralta",
+        "optionD": "Lucas Bersamin",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Alexander Gesmundo is the Chief Justice since 2021."
+    },
+    {
+        "text": "What is the role of the Commission on Elections?",
+        "optionA": "Conduct elections",
+        "optionB": "Audit finances",
+        "optionC": "Appoint officials",
+        "optionD": "Make laws",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "COMELEC administers elections and referenda."
+    },
+    {
+        "text": "RA 9003 is the:",
+        "optionA": "Ecological Solid Waste Management Act",
+        "optionB": "Clean Air Act",
+        "optionC": "Water Code",
+        "optionD": "Forestry Code",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "RA 9003 is for solid waste management."
+    },
+    {
+        "text": "What is the capital city of Brazil?",
+        "optionA": "Rio de Janeiro",
+        "optionB": "Brasilia",
+        "optionC": "Sao Paulo",
+        "optionD": "Salvador",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Brasilia is the capital city of Brazil, designed by Oscar Niemeyer and established in 1960."
+    },
+    {
+        "text": "Who was the first president of the Philippines?",
+        "optionA": "Jose Rizal",
+        "optionB": "Emilio Aguinaldo",
+        "optionC": "Manuel Quezon",
+        "optionD": "Ferdinand Marcos",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Emilio Aguinaldo was the first president of the Philippines, serving from 1899 to 1901."
+    },
+    {
+        "text": "What is the largest planet in our solar system?",
+        "optionA": "Earth",
+        "optionB": "Mars",
+        "optionC": "Jupiter",
+        "optionD": "Saturn",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Jupiter is the largest planet in our solar system by both mass and diameter."
+    },
+    {
+        "text": "Which gas is most abundant in Earth’s atmosphere?",
+        "optionA": "Oxygen",
+        "optionB": "Nitrogen",
+        "optionC": "Carbon Dioxide",
+        "optionD": "Argon",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Nitrogen makes up about 78% of Earth’s atmosphere by volume."
+    },
+    {
+        "text": "What is the national flower of the Philippines?",
+        "optionA": "Orchid",
+        "optionB": "Sampaguita",
+        "optionC": "Rose",
+        "optionD": "Sunflower",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Sampaguita, or Jasminum sambac, is the national flower of the Philippines, symbolizing purity and simplicity."
+    },
+    {
+        "text": "Which country hosted the 2024 Summer Olympics?",
+        "optionA": "France",
+        "optionB": "Japan",
+        "optionC": "Brazil",
+        "optionD": "Australia",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "France hosted the 2024 Summer Olympics in Paris."
+    },
+    {
+        "text": "What is the chemical symbol for gold?",
+        "optionA": "Ag",
+        "optionB": "Au",
+        "optionC": "Fe",
+        "optionD": "Cu",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The chemical symbol for gold is Au, derived from its Latin name, aurum."
+    },
+    {
+        "text": "Which ocean is the largest in the world?",
+        "optionA": "Atlantic Ocean",
+        "optionB": "Indian Ocean",
+        "optionC": "Pacific Ocean",
+        "optionD": "Arctic Ocean",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "The Pacific Ocean is the largest and deepest ocean, covering about one-third of Earth’s surface."
+    },
+    {
+        "text": "Who wrote the novel 'Noli Me Tangere'?",
+        "optionA": "Ferdinand Marcos",
+        "optionB": "Jose Rizal",
+        "optionC": "Apolinario Mabini",
+        "optionD": "Andres Bonifacio",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Jose Rizal wrote 'Noli Me Tangere,' a novel exposing Spanish colonial abuses in the Philippines."
+    },
+    {
+        "text": "What is the longest river in the world?",
+        "optionA": "Amazon River",
+        "optionB": "Nile River",
+        "optionC": "Yangtze River",
+        "optionD": "Mississippi River",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Nile River, flowing through northeastern Africa, is considered the longest river globally at about 6,650 km."
+    },
+    {
+        "text": "Which element is essential for human respiration?",
+        "optionA": "Hydrogen",
+        "optionB": "Oxygen",
+        "optionC": "Nitrogen",
+        "optionD": "Carbon",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Oxygen is essential for human respiration, used in cellular processes to produce energy."
+    },
+    {
+        "text": "What is the currency of Japan?",
+        "optionA": "Yuan",
+        "optionB": "Yen",
+        "optionC": "Won",
+        "optionD": "Ringgit",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Yen is the official currency of Japan."
+    },
+    {
+        "text": "Which mountain is the highest in the world?",
+        "optionA": "K2",
+        "optionB": "Kangchenjunga",
+        "optionC": "Mount Everest",
+        "optionD": "Lhotse",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Mount Everest, in the Himalayas, is the highest mountain above sea level at 8,848 meters."
+    },
+    {
+        "text": "Who is known as the 'Father of Modern Physics'?",
+        "optionA": "Isaac Newton",
+        "optionB": "Albert Einstein",
+        "optionC": "Galileo Galilei",
+        "optionD": "Niels Bohr",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Albert Einstein is called the 'Father of Modern Physics' for his theory of relativity."
+    },
+    {
+        "text": "What is the national animal of the Philippines?",
+        "optionA": "Tamaraw",
+        "optionB": "Carabao",
+        "optionC": "Philippine Eagle",
+        "optionD": "Tarsier",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "The Philippine Eagle is the national animal, symbolizing strength and uniqueness."
+    },
+    {
+        "text": "Which country is known as the 'Land of the Rising Sun'?",
+        "optionA": "China",
+        "optionB": "Japan",
+        "optionC": "South Korea",
+        "optionD": "Thailand",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Japan is called the 'Land of the Rising Sun' due to its eastern location where the sun rises."
+    },
+    {
+        "text": "What is the primary source of energy for Earth’s climate system?",
+        "optionA": "Moon",
+        "optionB": "Sun",
+        "optionC": "Earth’s core",
+        "optionD": "Wind",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Sun provides the primary energy driving Earth’s climate through solar radiation."
+    },
+    {
+        "text": "Which country has the largest population in the world?",
+        "optionA": "United States",
+        "optionB": "India",
+        "optionC": "China",
+        "optionD": "Indonesia",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "India surpassed China in 2023 to become the most populous country."
+    },
+    {
+        "text": "What is the boiling point of water at sea level?",
+        "optionA": "50°C",
+        "optionB": "100°C",
+        "optionC": "150°C",
+        "optionD": "200°C",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Water boils at 100°C at sea level under standard atmospheric pressure."
+    },
+    {
+        "text": "Which Philippine holiday commemorates the EDSA Revolution?",
+        "optionA": "Independence Day",
+        "optionB": "People Power Anniversary",
+        "optionC": "Rizal Day",
+        "optionD": "Labor Day",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "People Power Anniversary, celebrated on February 25, marks the 1986 EDSA Revolution."
+    },
+        {
+        "text": "What is the smallest country in the world by land area?",
+        "optionA": "Monaco",
+        "optionB": "Vatican City",
+        "optionC": "San Marino",
+        "optionD": "Liechtenstein",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Vatican City is the smallest country, with an area of about 44 hectares."
+    },
+    {
+        "text": "Who discovered penicillin?",
+        "optionA": "Alexander Fleming",
+        "optionB": "Marie Curie",
+        "optionC": "Louis Pasteur",
+        "optionD": "Jonas Salk",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Alexander Fleming discovered penicillin in 1928, leading to modern antibiotics."
+    },
+    {
+        "text": "What is the capital of Australia?",
+        "optionA": "Sydney",
+        "optionB": "Melbourne",
+        "optionC": "Canberra",
+        "optionD": "Brisbane",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Canberra is the capital city of Australia, chosen as a compromise between Sydney and Melbourne."
+    },
+    {
+        "text": "Which planet is known as the Red Planet?",
+        "optionA": "Venus",
+        "optionB": "Mars",
+        "optionC": "Jupiter",
+        "optionD": "Mercury",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Mars is called the Red Planet due to its reddish appearance from iron oxide (rust)."
+    },
+    {
+        "text": "What is the national fruit of the Philippines?",
+        "optionA": "Mango",
+        "optionB": "Banana",
+        "optionC": "Coconut",
+        "optionD": "Pineapple",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The mango is the national fruit of the Philippines, known for its sweet varieties."
+    },
+    {
+        "text": "Which year did the Philippines gain independence from the United States?",
+        "optionA": "1946",
+        "optionB": "1898",
+        "optionC": "1935",
+        "optionD": "1965",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Philippines gained independence from the U.S. on July 4, 1946."
+    },
+    {
+        "text": "What is the chemical formula for water?",
+        "optionA": "CO2",
+        "optionB": "H2O",
+        "optionC": "O2",
+        "optionD": "N2",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The chemical formula for water is H2O, representing two hydrogen atoms and one oxygen atom."
+    },
+    {
+        "text": "Which country is known for the Great Wall?",
+        "optionA": "Japan",
+        "optionB": "China",
+        "optionC": "India",
+        "optionD": "Korea",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Great Wall of China is a historic fortification built to protect Chinese states."
+    },
+    {
+        "text": "What is the largest desert in the world?",
+        "optionA": "Sahara Desert",
+        "optionB": "Gobi Desert",
+        "optionC": "Antarctic Desert",
+        "optionD": "Kalahari Desert",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "The Antarctic Desert is the largest desert, covering about 13.8 million square kilometers."
+    },
+    {
+        "text": "Who painted the Mona Lisa?",
+        "optionA": "Vincent van Gogh",
+        "optionB": "Leonardo da Vinci",
+        "optionC": "Pablo Picasso",
+        "optionD": "Michelangelo",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Leonardo da Vinci painted the Mona Lisa, a famous Renaissance artwork."
+    },
+    {
+        "text": "What is the currency of the United Kingdom?",
+        "optionA": "Euro",
+        "optionB": "Pound Sterling",
+        "optionC": "Dollar",
+        "optionD": "Yen",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Pound Sterling is the official currency of the United Kingdom."
+    },
+    {
+        "text": "Which gas is used in light bulbs to prevent filament oxidation?",
+        "optionA": "Helium",
+        "optionB": "Argon",
+        "optionC": "Neon",
+        "optionD": "Krypton",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Argon is commonly used in incandescent light bulbs to prevent filament oxidation."
+    },
+    {
+        "text": "What is the capital of France?",
+        "optionA": "Lyon",
+        "optionB": "Marseille",
+        "optionC": "Paris",
+        "optionD": "Nice",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Paris is the capital city of France, known for landmarks like the Eiffel Tower."
+    },
+    {
+        "text": "Which Philippine hero is known as the 'Sublime Paralytic'?",
+        "optionA": "Jose Rizal",
+        "optionB": "Apolinario Mabini",
+        "optionC": "Andres Bonifacio",
+        "optionD": "Emilio Aguinaldo",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Apolinario Mabini, despite being paralyzed, was a key intellectual in the Philippine Revolution."
+    },
+    {
+        "text": "What is the smallest planet in our solar system?",
+        "optionA": "Venus",
+        "optionB": "Mercury",
+        "optionC": "Mars",
+        "optionD": "Pluto",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Mercury is the smallest planet in our solar system; Pluto is no longer classified as a planet."
+    },
+    {
+        "text": "Which continent is known as the 'Dark Continent'?",
+        "optionA": "Asia",
+        "optionB": "Africa",
+        "optionC": "South America",
+        "optionD": "Australia",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Africa was historically called the 'Dark Continent' due to its unexplored interior."
+    },
+    {
+        "text": "What is the primary source of vitamin D for humans?",
+        "optionA": "Sunlight",
+        "optionB": "Fish",
+        "optionC": "Milk",
+        "optionD": "Vegetables",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Sunlight triggers vitamin D synthesis in the skin, the primary source for most people."
+    },
+    {
+        "text": "Which country is the largest producer of coffee?",
+        "optionA": "Colombia",
+        "optionB": "Brazil",
+        "optionC": "Vietnam",
+        "optionD": "Ethiopia",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Brazil is the world’s largest coffee producer, accounting for about 40% of global supply."
+    },
+    {
+        "text": "What is the chemical symbol for iron?",
+        "optionA": "Fe",
+        "optionB": "Ir",
+        "optionC": "In",
+        "optionD": "Io",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for iron is Fe, from its Latin name, ferrum."
+    },
+    {
+        "text": "Which Philippine city is known as the 'City of Pines'?",
+        "optionA": "Davao",
+        "optionB": "Baguio",
+        "optionC": "Cebu",
+        "optionD": "Manila",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Baguio is called the 'City of Pines' due to its cool climate and pine forests."
+    },
+        {
+        "text": "What is the capital of Canada?",
+        "optionA": "Toronto",
+        "optionB": "Ottawa",
+        "optionC": "Vancouver",
+        "optionD": "Montreal",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Ottawa is the capital city of Canada, housing the Parliament of Canada."
+    },
+    {
+        "text": "Who invented the telephone?",
+        "optionA": "Thomas Edison",
+        "optionB": "Alexander Graham Bell",
+        "optionC": "Nikola Tesla",
+        "optionD": "Guglielmo Marconi",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Alexander Graham Bell is credited with inventing the telephone in 1876."
+    },
+    {
+        "text": "Which river flows through Egypt?",
+        "optionA": "Amazon",
+        "optionB": "Nile",
+        "optionC": "Mississippi",
+        "optionD": "Yangtze",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Nile River flows through Egypt, vital for its agriculture and history."
+    },
+    {
+        "text": "What is the national language of the Philippines?",
+        "optionA": "Tagalog",
+        "optionB": "Filipino",
+        "optionC": "English",
+        "optionD": "Cebuano",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Filipino, based on Tagalog, is the national language of the Philippines."
+    },
+    {
+        "text": "Which planet is closest to the Sun?",
+        "optionA": "Venus",
+        "optionB": "Mercury",
+        "optionC": "Earth",
+        "optionD": "Mars",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Mercury is the closest planet to the Sun, orbiting at about 58 million kilometers."
+    },
+    {
+        "text": "What is the currency of Russia?",
+        "optionA": "Ruble",
+        "optionB": "Euro",
+        "optionC": "Dollar",
+        "optionD": "Yen",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Ruble is the official currency of Russia."
+    },
+    {
+        "text": "Which gas is essential for photosynthesis?",
+        "optionA": "Oxygen",
+        "optionB": "Carbon Dioxide",
+        "optionC": "Nitrogen",
+        "optionD": "Hydrogen",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Carbon Dioxide is used by plants during photosynthesis to produce glucose."
+    },
+    {
+        "text": "What is the largest mammal in the world?",
+        "optionA": "Blue Whale",
+        "optionB": "Elephant",
+        "optionC": "Giraffe",
+        "optionD": "Rhinoceros",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Blue Whale is the largest mammal, growing up to 100 meters in length."
+    },
+    {
+        "text": "Which country is known for the Taj Mahal?",
+        "optionA": "India",
+        "optionB": "Pakistan",
+        "optionC": "Bangladesh",
+        "optionD": "Nepal",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Taj Mahal, a UNESCO World Heritage Site, is located in Agra, India."
+    },
+    {
+        "text": "What is the freezing point of water at sea level?",
+        "optionA": "0°C",
+        "optionB": "100°C",
+        "optionC": "-10°C",
+        "optionD": "50°C",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Water freezes at 0°C at sea level under standard atmospheric pressure."
+    },
+    {
+        "text": "Which Philippine island is known for its white sand beaches, Boracay?",
+        "optionA": "Luzon",
+        "optionB": "Visayas",
+        "optionC": "Mindanao",
+        "optionD": "Palawan",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Boracay, famous for its white sand beaches, is in the Visayas."
+    },
+    {
+        "text": "Who developed the theory of evolution by natural selection?",
+        "optionA": "Charles Darwin",
+        "optionB": "Gregor Mendel",
+        "optionC": "Alfred Wallace",
+        "optionD": "Louis Pasteur",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Charles Darwin published the theory of evolution by natural selection in 'On the Origin of Species.'"
+    },
+    {
+        "text": "What is the capital of South Africa?",
+        "optionA": "Cape Town",
+        "optionB": "Pretoria",
+        "optionC": "Johannesburg",
+        "optionD": "Durban",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Pretoria is one of South Africa’s three capital cities, serving as the administrative capital."
+    },
+    {
+        "text": "Which element is the second most abundant in the universe?",
+        "optionA": "Hydrogen",
+        "optionB": "Helium",
+        "optionC": "Oxygen",
+        "optionD": "Carbon",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Helium is the second most abundant element in the universe, after hydrogen."
+    },
+    {
+        "text": "What is the national sport of the Philippines?",
+        "optionA": "Basketball",
+        "optionB": "Arnis",
+        "optionC": "Volleyball",
+        "optionD": "Boxing",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Arnis, a martial art, is the national sport of the Philippines."
+    },
+    {
+        "text": "Which country is the largest by land area?",
+        "optionA": "Canada",
+        "optionB": "Russia",
+        "optionC": "China",
+        "optionD": "United States",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Russia is the largest country by land area, covering about 17.1 million square kilometers."
+    },
+    {
+        "text": "What is the chemical symbol for oxygen?",
+        "optionA": "O",
+        "optionB": "Ox",
+        "optionC": "Og",
+        "optionD": "Os",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for oxygen is O on the periodic table."
+    },
+    {
+        "text": "Which monument is a symbol of freedom in the United States?",
+        "optionA": "Lincoln Memorial",
+        "optionB": "Statue of Liberty",
+        "optionC": "Washington Monument",
+        "optionD": "Mount Rushmore",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Statue of Liberty is a global symbol of freedom, gifted by France in 1886."
+    },
+    {
+        "text": "What is the longest mountain range in the world?",
+        "optionA": "Himalayas",
+        "optionB": "Andes",
+        "optionC": "Rocky Mountains",
+        "optionD": "Alps",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Andes, stretching along South America, is the longest mountain range at about 7,000 km."
+    },
+    {
+        "text": "Which Philippine festival is known as the 'Festival of Festivals'?",
+        "optionA": "Sinulog",
+        "optionB": "Panagbenga",
+        "optionC": "Ati-Atihan",
+        "optionD": "Dinagyang",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Ati-Atihan in Kalibo, Aklan, is called the 'Festival of Festivals' for its vibrant celebration."
+    },
+        {
+        "text": "What is the capital of India?",
+        "optionA": "Mumbai",
+        "optionB": "New Delhi",
+        "optionC": "Kolkata",
+        "optionD": "Chennai",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "New Delhi is the capital city of India, serving as the seat of government."
+    },
+    {
+        "text": "Who was the first man to walk on the moon?",
+        "optionA": "Buzz Aldrin",
+        "optionB": "Neil Armstrong",
+        "optionC": "Yuri Gagarin",
+        "optionD": "John Glenn",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Neil Armstrong was the first human to walk on the moon in 1969 during the Apollo 11 mission."
+    },
+    {
+        "text": "Which gas gives soda its fizz?",
+        "optionA": "Nitrogen",
+        "optionB": "Carbon Dioxide",
+        "optionC": "Oxygen",
+        "optionD": "Helium",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Carbon Dioxide is dissolved in soda, creating bubbles and fizz."
+    },
+    {
+        "text": "What is the national tree of the Philippines?",
+        "optionA": "Narra",
+        "optionB": "Coconut",
+        "optionC": "Mango",
+        "optionD": "Acacia",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Narra tree is the national tree of the Philippines, symbolizing strength and durability."
+    },
+    {
+        "text": "Which country is known as the 'Land of a Thousand Lakes'?",
+        "optionA": "Sweden",
+        "optionB": "Finland",
+        "optionC": "Norway",
+        "optionD": "Canada",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Finland is called the 'Land of a Thousand Lakes' due to its numerous lakes."
+    },
+    {
+        "text": "What is the chemical symbol for silver?",
+        "optionA": "Ag",
+        "optionB": "Au",
+        "optionC": "Si",
+        "optionD": "Sr",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for silver is Ag, from its Latin name, argentum."
+    },
+    {
+        "text": "Which ocean borders the eastern coast of the United States?",
+        "optionA": "Pacific Ocean",
+        "optionB": "Atlantic Ocean",
+        "optionC": "Indian Ocean",
+        "optionD": "Arctic Ocean",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Atlantic Ocean borders the eastern coast of the United States."
+    },
+    {
+        "text": "Who wrote the Philippine national anthem?",
+        "optionA": "Jose Garcia Villa",
+        "optionB": "Julian Felipe",
+        "optionC": "Claro M. Recto",
+        "optionD": "Lope K. Santos",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Julian Felipe composed the music for the Philippine national anthem, 'Lupang Hinirang.'"
+    },
+    {
+        "text": "What is the largest island in the Philippines?",
+        "optionA": "Luzon",
+        "optionB": "Mindanao",
+        "optionC": "Visayas",
+        "optionD": "Palawan",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Luzon is the largest island in the Philippines by both area and population."
+    },
+    {
+        "text": "Which scientist proposed the heliocentric model of the solar system?",
+        "optionA": "Ptolemy",
+        "optionB": "Galileo Galilei",
+        "optionC": "Nicolaus Copernicus",
+        "optionD": "Johannes Kepler",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Nicolaus Copernicus proposed that the Earth and planets revolve around the Sun."
+    },
+    {
+        "text": "What is the currency of South Korea?",
+        "optionA": "Yen",
+        "optionB": "Won",
+        "optionC": "Yuan",
+        "optionD": "Ringgit",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Won is the official currency of South Korea."
+    },
+    {
+        "text": "Which gas is used in balloons to make them float?",
+        "optionA": "Oxygen",
+        "optionB": "Helium",
+        "optionC": "Nitrogen",
+        "optionD": "Carbon Dioxide",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Helium, being lighter than air, is used to make balloons float."
+    },
+    {
+        "text": "What is the capital of Egypt?",
+        "optionA": "Cairo",
+        "optionB": "Alexandria",
+        "optionC": "Giza",
+        "optionD": "Luxor",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Cairo is the capital city of Egypt, known for the nearby pyramids."
+    },
+    {
+        "text": "Which Philippine hero is known as the 'Brains of the Katipunan'?",
+        "optionA": "Emilio Aguinaldo",
+        "optionB": "Andres Bonifacio",
+        "optionC": "Apolinario Mabini",
+        "optionD": "Jose Rizal",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Andres Bonifacio founded and led the Katipunan, earning the title 'Brains of the Katipunan.'"
+    },
+    {
+        "text": "Which planet has the most moons?",
+        "optionA": "Jupiter",
+        "optionB": "Saturn",
+        "optionC": "Uranus",
+        "optionD": "Neptune",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Saturn has the most confirmed moons, over 80 with official names."
+    },
+    {
+        "text": "What is the deepest ocean trench in the world?",
+        "optionA": "Tonga Trench",
+        "optionB": "Mariana Trench",
+        "optionC": "Philippine Trench",
+        "optionD": "Kermadec Trench",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Mariana Trench is the deepest ocean trench, reaching about 11,000 meters."
+    },
+    {
+        "text": "What is the primary source of energy for hydropower?",
+        "optionA": "Wind",
+        "optionB": "Sun",
+        "optionC": "Water",
+        "optionD": "Geothermal",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Hydropower uses the energy of moving water to generate electricity."
+    },
+    {
+        "text": "Which country is famous for its pyramids?",
+        "optionA": "Mexico",
+        "optionB": "Egypt",
+        "optionC": "Peru",
+        "optionD": "Sudan",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Egypt is renowned for its ancient pyramids, such as those at Giza."
+    },
+    {
+        "text": "What is the chemical symbol for carbon?",
+        "optionA": "C",
+        "optionB": "Ca",
+        "optionC": "Co",
+        "optionD": "Cr",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for carbon is C on the periodic table."
+    },
+    {
+        "text": "Which Philippine city is known as the 'Queen City of the South'?",
+        "optionA": "Manila",
+        "optionB": "Cebu",
+        "optionC": "Davao",
+        "optionD": "Baguio",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Cebu City is called the 'Queen City of the South' for its economic and cultural significance."
+    },
+        {
+        "text": "What is the capital of Germany?",
+        "optionA": "Munich",
+        "optionB": "Berlin",
+        "optionC": "Hamburg",
+        "optionD": "Frankfurt",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Berlin is the capital city of Germany, known for its historical and cultural landmarks."
+    },
+    {
+        "text": "Who discovered the theory of gravity?",
+        "optionA": "Albert Einstein",
+        "optionB": "Isaac Newton",
+        "optionC": "Galileo Galilei",
+        "optionD": "Stephen Hawking",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Isaac Newton formulated the laws of gravity in the late 17th century."
+    },
+    {
+        "text": "Which river is the longest in South America?",
+        "optionA": "Amazon River",
+        "optionB": "Parana River",
+        "optionC": "Orinoco River",
+        "optionD": "Magdalena River",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Amazon River is the longest in South America, approximately 6,575 km."
+    },
+    {
+        "text": "What is the national dance of the Philippines?",
+        "optionA": "Tinikling",
+        "optionB": "Cariñosa",
+        "optionC": "Pandanggo",
+        "optionD": "Singkil",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Tinikling, a bamboo dance, is considered the national dance of the Philippines."
+    },
+    {
+        "text": "Which planet is known for its rings?",
+        "optionA": "Jupiter",
+        "optionB": "Saturn",
+        "optionC": "Uranus",
+        "optionD": "Neptune",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Saturn is famous for its prominent and visible ring system."
+    },
+    {
+        "text": "What is the currency of Brazil?",
+        "optionA": "Peso",
+        "optionB": "Real",
+        "optionC": "Dollar",
+        "optionD": "Euro",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Real is the official currency of Brazil."
+    },
+    {
+        "text": "Which gas is the second most abundant in Earth’s atmosphere?",
+        "optionA": "Nitrogen",
+        "optionB": "Oxygen",
+        "optionC": "Carbon Dioxide",
+        "optionD": "Argon",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Oxygen makes up about 21% of Earth’s atmosphere, second to nitrogen."
+    },
+    {
+        "text": "What is the tallest building in the world as of 2025?",
+        "optionA": "Burj Khalifa",
+        "optionB": "Shanghai Tower",
+        "optionC": "One World Trade Center",
+        "optionD": "Lotte World Tower",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Burj Khalifa in Dubai remains the tallest building at 829.8 meters as of 2025."
+    },
+    {
+        "text": "Which country is known for the Eiffel Tower?",
+        "optionA": "Italy",
+        "optionB": "France",
+        "optionC": "Spain",
+        "optionD": "Germany",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Eiffel Tower is a famous landmark in Paris, France."
+    },
+    {
+        "text": "What is the chemical symbol for sodium?",
+        "optionA": "Na",
+        "optionB": "So",
+        "optionC": "Sd",
+        "optionD": "Sn",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for sodium is Na, from its Latin name, natrium."
+    },
+    {
+        "text": "Which Philippine province is known for its rice terraces?",
+        "optionA": "Ifugao",
+        "optionB": "Pampanga",
+        "optionC": "Batangas",
+        "optionD": "Quezon",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Ifugao is famous for the Banaue Rice Terraces, a UNESCO World Heritage Site."
+    },
+    {
+        "text": "Who was the first woman to win a Nobel Prize?",
+        "optionA": "Marie Curie",
+        "optionB": "Jane Addams",
+        "optionC": "Mother Teresa",
+        "optionD": "Rosalind Franklin",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Marie Curie won the Nobel Prize in Physics in 1903 and Chemistry in 1911."
+    },
+    {
+        "text": "What is the capital of Thailand?",
+        "optionA": "Bangkok",
+        "optionB": "Chiang Mai",
+        "optionC": "Phuket",
+        "optionD": "Pattaya",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Bangkok is the capital city of Thailand, known for its vibrant culture."
+    },
+    {
+        "text": "Which gas is responsible for the greenhouse effect?",
+        "optionA": "Oxygen",
+        "optionB": "Nitrogen",
+        "optionC": "Carbon Dioxide",
+        "optionD": "Helium",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Carbon Dioxide is a primary greenhouse gas, trapping heat in Earth’s atmosphere."
+    },
+    {
+        "text": "What is the national bird of the United States?",
+        "optionA": "Bald Eagle",
+        "optionB": "Red Cardinal",
+        "optionC": "Blue Jay",
+        "optionD": "Turkey",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Bald Eagle is the national emblem and bird of the United States."
+    },
+    {
+        "text": "Which country is the largest producer of rice?",
+        "optionA": "India",
+        "optionB": "China",
+        "optionC": "Thailand",
+        "optionD": "Vietnam",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "China is the world’s largest producer of rice, a staple crop."
+    },
+    {
+        "text": "What is the chemical symbol for hydrogen?",
+        "optionA": "H",
+        "optionB": "Hy",
+        "optionC": "Hg",
+        "optionD": "He",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for hydrogen is H on the periodic table."
+    },
+    {
+        "text": "Which Philippine festival celebrates the Santo Niño?",
+        "optionA": "Sinulog",
+        "optionB": "Panagbenga",
+        "optionC": "Kadayawan",
+        "optionD": "MassKara",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Sinulog Festival in Cebu celebrates the Santo Niño, the Child Jesus."
+    },
+    {
+        "text": "What is the largest continent by land area?",
+        "optionA": "Africa",
+        "optionB": "Asia",
+        "optionC": "Australia",
+        "optionD": "Europe",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Asia is the largest continent, covering about 44.58 million square kilometers."
+    },
+    {
+        "text": "Who invented the light bulb?",
+        "optionA": "Thomas Edison",
+        "optionB": "Nikola Tesla",
+        "optionC": "Alexander Graham Bell",
+        "optionD": "Guglielmo Marconi",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Thomas Edison developed the first commercially practical incandescent light bulb."
+    },
+        {
+        "text": "What is the capital of Italy?",
+        "optionA": "Milan",
+        "optionB": "Rome",
+        "optionC": "Venice",
+        "optionD": "Florence",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Rome is the capital city of Italy, known for historical sites like the Colosseum."
+    },
+    {
+        "text": "Which scientist discovered radioactivity?",
+        "optionA": "Marie Curie",
+        "optionB": "Ernest Rutherford",
+        "optionC": "Henri Becquerel",
+        "optionD": "Max Planck",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Henri Becquerel discovered radioactivity in 1896, later studied by Marie Curie."
+    },
+    {
+        "text": "Which river flows through Paris?",
+        "optionA": "Thames",
+        "optionB": "Seine",
+        "optionC": "Danube",
+        "optionD": "Rhine",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Seine River flows through Paris, dividing the city into northern and southern halves."
+    },
+    {
+        "text": "What is the national costume of the Philippines for women?",
+        "optionA": "Kimono",
+        "optionB": "Baro’t Saya",
+        "optionC": "Ao Dai",
+        "optionD": "Cheongsam",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Baro’t Saya is the traditional national costume for women in the Philippines."
+    },
+    {
+        "text": "Which planet is known as the 'Morning Star'?",
+        "optionA": "Mercury",
+        "optionB": "Venus",
+        "optionC": "Mars",
+        "optionD": "Jupiter",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Venus is called the 'Morning Star' due to its brightness in the early morning sky."
+    },
+    {
+        "text": "What is the currency of Mexico?",
+        "optionA": "Peso",
+        "optionB": "Dollar",
+        "optionC": "Real",
+        "optionD": "Euro",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Peso is the official currency of Mexico."
+    },
+    {
+        "text": "Which gas is used in neon signs?",
+        "optionA": "Helium",
+        "optionB": "Neon",
+        "optionC": "Argon",
+        "optionD": "Krypton",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Neon gas is used in neon signs to produce a bright red-orange glow."
+    },
+    {
+        "text": "What is the smallest continent by land area?",
+        "optionA": "Australia",
+        "optionB": "Europe",
+        "optionC": "Antarctica",
+        "optionD": "South America",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Australia is the smallest continent, covering about 7.7 million square kilometers."
+    },
+    {
+        "text": "Who wrote 'Romeo and Juliet'?",
+        "optionA": "William Shakespeare",
+        "optionB": "Charles Dickens",
+        "optionC": "Jane Austen",
+        "optionD": "Mark Twain",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "William Shakespeare wrote the tragic play 'Romeo and Juliet' in the 1590s."
+    },
+    {
+        "text": "Which Philippine city is known as the 'Walled City'?",
+        "optionA": "Vigan",
+        "optionB": "Manila",
+        "optionC": "Cebu",
+        "optionD": "Davao",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Manila’s Intramuros is known as the 'Walled City' due to its historic fortified walls."
+    },
+    {
+        "text": "What is the chemical symbol for potassium?",
+        "optionA": "P",
+        "optionB": "K",
+        "optionC": "Po",
+        "optionD": "Pt",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The chemical symbol for potassium is K, from its Latin name, kalium."
+    },
+    {
+        "text": "Which country is known for the Leaning Tower of Pisa?",
+        "optionA": "France",
+        "optionB": "Italy",
+        "optionC": "Spain",
+        "optionD": "Greece",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Leaning Tower of Pisa is located in Pisa, Italy."
+    },
+    {
+        "text": "What is the primary source of energy for wind power?",
+        "optionA": "Sun",
+        "optionB": "Wind",
+        "optionC": "Water",
+        "optionD": "Geothermal",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Wind power harnesses the kinetic energy of wind to generate electricity."
+    },
+    {
+        "text": "Which Philippine hero is known as the 'National Hero'?",
+        "optionA": "Andres Bonifacio",
+        "optionB": "Jose Rizal",
+        "optionC": "Emilio Aguinaldo",
+        "optionD": "Apolinario Mabini",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Jose Rizal is recognized as the National Hero of the Philippines for his writings and martyrdom."
+    },
+    {
+        "text": "Which planet is known as the 'Gas Giant'?",
+        "optionA": "Mars",
+        "optionB": "Jupiter",
+        "optionC": "Venus",
+        "optionD": "Mercury",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Jupiter is a gas giant, composed mostly of hydrogen and helium."
+    },
+    {
+        "text": "What is the currency of India?",
+        "optionA": "Rupee",
+        "optionB": "Ruble",
+        "optionC": "Yen",
+        "optionD": "Dollar",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Rupee is the official currency of India."
+    },
+    {
+        "text": "Which gas is used in scuba diving tanks?",
+        "optionA": "Helium",
+        "optionB": "Oxygen",
+        "optionC": "Nitrogen",
+        "optionD": "Carbon Dioxide",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Oxygen, often mixed with other gases like nitrogen, is used in scuba diving tanks."
+    },
+    {
+        "text": "What is the capital of Russia?",
+        "optionA": "Moscow",
+        "optionB": "St. Petersburg",
+        "optionC": "Kazan",
+        "optionD": "Novosibirsk",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Moscow is the capital city of Russia, home to the Kremlin."
+    },
+    {
+        "text": "Which Philippine island is known for its Chocolate Hills?",
+        "optionA": "Bohol",
+        "optionB": "Palawan",
+        "optionC": "Luzon",
+        "optionD": "Mindanao",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Bohol is famous for the Chocolate Hills, a unique geological formation."
+    },
+    {
+        "text": "Who developed the periodic table?",
+        "optionA": "Dmitri Mendeleev",
+        "optionB": "Marie Curie",
+        "optionC": "John Dalton",
+        "optionD": "Antoine Lavoisier",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Dmitri Mendeleev created the first widely recognized periodic table in 1869."
+    },
+        {
+        "text": "What is the capital of Spain?",
+        "optionA": "Barcelona",
+        "optionB": "Madrid",
+        "optionC": "Seville",
+        "optionD": "Valencia",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Madrid is the capital city of Spain, known for its cultural heritage."
+    },
+    {
+        "text": "Who discovered America in 1492?",
+        "optionA": "Ferdinand Magellan",
+        "optionB": "Christopher Columbus",
+        "optionC": "Vasco da Gama",
+        "optionD": "Marco Polo",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Christopher Columbus reached the Americas in 1492, initiating European exploration."
+    },
+    {
+        "text": "Which river is the longest in Europe?",
+        "optionA": "Danube",
+        "optionB": "Volga",
+        "optionC": "Rhine",
+        "optionD": "Seine",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Volga River is the longest in Europe, stretching about 3,690 km."
+    },
+    {
+        "text": "What is the national emblem of the Philippines?",
+        "optionA": "Sampaguita",
+        "optionB": "Philippine Eagle",
+        "optionC": "Three Stars and a Sun",
+        "optionD": "Carabao",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "The Three Stars and a Sun is part of the Philippine flag, the national emblem."
+    },
+    {
+        "text": "Which planet is known as the 'Blue Planet'?",
+        "optionA": "Mars",
+        "optionB": "Earth",
+        "optionC": "Neptune",
+        "optionD": "Uranus",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Earth is called the 'Blue Planet' due to its abundant water, visible from space."
+    },
+    {
+        "text": "What is the currency of Germany?",
+        "optionA": "Mark",
+        "optionB": "Euro",
+        "optionC": "Franc",
+        "optionD": "Pound",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Euro is the official currency of Germany, adopted in 2002."
+    },
+    {
+        "text": "Which gas is used in fire extinguishers?",
+        "optionA": "Oxygen",
+        "optionB": "Carbon Dioxide",
+        "optionC": "Nitrogen",
+        "optionD": "Helium",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Carbon Dioxide is commonly used in fire extinguishers to smother flames."
+    },
+    {
+        "text": "What is the largest country in South America by land area?",
+        "optionA": "Argentina",
+        "optionB": "Brazil",
+        "optionC": "Chile",
+        "optionD": "Peru",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Brazil is the largest country in South America, covering about 8.5 million square kilometers."
+    },
+    {
+        "text": "Who painted 'The Starry Night'?",
+        "optionA": "Claude Monet",
+        "optionB": "Vincent van Gogh",
+        "optionC": "Pablo Picasso",
+        "optionD": "Salvador Dali",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Vincent van Gogh painted 'The Starry Night' in 1889, a famous post-impressionist work."
+    },
+    {
+        "text": "Which Philippine province is known as the 'Surfing Capital'?",
+        "optionA": "La Union",
+        "optionB": "Siargao",
+        "optionC": "Aurora",
+        "optionD": "Palawan",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Siargao is known as the 'Surfing Capital of the Philippines' for its world-class waves."
+    },
+    {
+        "text": "What is the chemical symbol for calcium?",
+        "optionA": "Ca",
+        "optionB": "Cl",
+        "optionC": "C",
+        "optionD": "Cu",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for calcium is Ca on the periodic table."
+    },
+    {
+        "text": "Which country is known for the Colosseum?",
+        "optionA": "Greece",
+        "optionB": "Italy",
+        "optionC": "Turkey",
+        "optionD": "Egypt",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Colosseum, an ancient amphitheater, is located in Rome, Italy."
+    },
+    {
+        "text": "What is the primary source of energy for solar power?",
+        "optionA": "Wind",
+        "optionB": "Sun",
+        "optionC": "Water",
+        "optionD": "Geothermal",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Solar power harnesses energy from the Sun using photovoltaic cells."
+    },
+    {
+        "text": "Which Philippine hero wrote 'El Filibusterismo'?",
+        "optionA": "Andres Bonifacio",
+        "optionB": "Jose Rizal",
+        "optionC": "Emilio Aguinaldo",
+        "optionD": "Apolinario Mabini",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Jose Rizal wrote 'El Filibusterismo,' a sequel to 'Noli Me Tangere.'"
+    },
+    {
+        "text": "Which planet is known for its Great Red Spot?",
+        "optionA": "Mars",
+        "optionB": "Jupiter",
+        "optionC": "Saturn",
+        "optionD": "Venus",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Jupiter’s Great Red Spot is a massive storm, visible for centuries."
+    },
+    {
+        "text": "What is the currency of Canada?",
+        "optionA": "Dollar",
+        "optionB": "Pound",
+        "optionC": "Euro",
+        "optionD": "Franc",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Canadian Dollar is the official currency of Canada."
+    },
+    {
+        "text": "Which gas is the main component of natural gas?",
+        "optionA": "Methane",
+        "optionB": "Ethane",
+        "optionC": "Propane",
+        "optionD": "Butane",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Methane is the primary component of natural gas, used as a fuel source."
+    },
+    {
+        "text": "What is the capital of Argentina?",
+        "optionA": "Buenos Aires",
+        "optionB": "Cordoba",
+        "optionC": "Mendoza",
+        "optionD": "Rosario",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Buenos Aires is the capital city of Argentina, known for its vibrant culture."
+    },
+    {
+        "text": "Which Philippine festival is known for its flower floats?",
+        "optionA": "Panagbenga",
+        "optionB": "Sinulog",
+        "optionC": "Dinagyang",
+        "optionD": "MassKara",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Panagbenga in Baguio is famous for its flower-themed floats and parades."
+    },
+    {
+        "text": "Who proposed the laws of planetary motion?",
+        "optionA": "Isaac Newton",
+        "optionB": "Johannes Kepler",
+        "optionC": "Galileo Galilei",
+        "optionD": "Nicolaus Copernicus",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Johannes Kepler formulated the three laws of planetary motion in the early 17th century."
+    },
+        {
+        "text": "What is the capital of South Korea?",
+        "optionA": "Seoul",
+        "optionB": "Busan",
+        "optionC": "Incheon",
+        "optionD": "Daegu",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Seoul is the capital city of South Korea, a major economic hub."
+    },
+    {
+        "text": "Who was the first person to orbit Earth?",
+        "optionA": "Neil Armstrong",
+        "optionB": "Yuri Gagarin",
+        "optionC": "John Glenn",
+        "optionD": "Buzz Aldrin",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Yuri Gagarin, a Soviet cosmonaut, orbited Earth in 1961 aboard Vostok 1."
+    },
+    {
+        "text": "Which river is the longest in Asia?",
+        "optionA": "Yangtze River",
+        "optionB": "Yellow River",
+        "optionC": "Mekong River",
+        "optionD": "Ganges River",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Yangtze River is the longest in Asia, approximately 6,300 km."
+    },
+    {
+        "text": "What is the national costume of the Philippines for men?",
+        "optionA": "Barong Tagalog",
+        "optionB": "Kimono",
+        "optionC": "Tuxedo",
+        "optionD": "Suit",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Barong Tagalog is the traditional national costume for men in the Philippines."
+    },
+    {
+        "text": "Which planet is known as the 'Evening Star'?",
+        "optionA": "Mercury",
+        "optionB": "Venus",
+        "optionC": "Mars",
+        "optionD": "Jupiter",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Venus is called the 'Evening Star' when visible in the evening sky."
+    },
+    {
+        "text": "What is the currency of France?",
+        "optionA": "Franc",
+        "optionB": "Euro",
+        "optionC": "Pound",
+        "optionD": "Dollar",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The Euro is the official currency of France, adopted in 2002."
+    },
+    {
+        "text": "Which gas is used in refrigeration systems?",
+        "optionA": "Freon",
+        "optionB": "Helium",
+        "optionC": "Nitrogen",
+        "optionD": "Oxygen",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Freon, a brand of refrigerants, is commonly used in refrigeration systems."
+    },
+    {
+        "text": "What is the largest country in Africa by land area?",
+        "optionA": "Nigeria",
+        "optionB": "Algeria",
+        "optionC": "South Africa",
+        "optionD": "Ethiopia",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Algeria is the largest country in Africa, covering about 2.38 million square kilometers."
+    },
+    {
+        "text": "Who wrote 'Pride and Prejudice'?",
+        "optionA": "Charlotte Bronte",
+        "optionB": "Jane Austen",
+        "optionC": "Emily Dickinson",
+        "optionD": "Virginia Woolf",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Jane Austen wrote 'Pride and Prejudice,' published in 1813."
+    },
+    {
+        "text": "Which Philippine city is known as the 'City of Smiles'?",
+        "optionA": "Bacolod",
+        "optionB": "Iloilo",
+        "optionC": "Cebu",
+        "optionD": "Davao",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "Bacolod is called the 'City of Smiles' due to its MassKara Festival."
+    },
+    {
+        "text": "What is the chemical symbol for nitrogen?",
+        "optionA": "N",
+        "optionB": "Ni",
+        "optionC": "Na",
+        "optionD": "Ne",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The chemical symbol for nitrogen is N on the periodic table."
+    },
+    {
+        "text": "Which country is known for Machu Picchu?",
+        "optionA": "Mexico",
+        "optionB": "Peru",
+        "optionC": "Bolivia",
+        "optionD": "Chile",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Machu Picchu, an ancient Incan city, is located in Peru."
+    },
+    {
+        "text": "What is the primary source of energy for geothermal power?",
+        "optionA": "Sun",
+        "optionB": "Wind",
+        "optionC": "Earth’s heat",
+        "optionD": "Water",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Geothermal power uses heat from Earth’s interior to generate electricity."
+    },
+    {
+        "text": "Which Philippine hero is known as the 'Great Plebeian'?",
+        "optionA": "Jose Rizal",
+        "optionB": "Andres Bonifacio",
+        "optionC": "Emilio Aguinaldo",
+        "optionD": "Apolinario Mabini",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Andres Bonifacio is called the 'Great Plebeian' for his leadership in the Katipunan."
+    },
+    {
+        "text": "Which planet is known for its blue color?",
+        "optionA": "Mars",
+        "optionB": "Jupiter",
+        "optionC": "Neptune",
+        "optionD": "Venus",
+        "correctAnswer": "C",
+        "category": "General Information",
+        "explanation": "Neptune’s blue color is due to methane in its atmosphere absorbing red light."
+    },
+    {
+        "text": "What is the currency of Australia?",
+        "optionA": "Dollar",
+        "optionB": "Pound",
+        "optionC": "Euro",
+        "optionD": "Yen",
+        "correctAnswer": "A",
+        "category": "General Information",
+        "explanation": "The Australian Dollar is the official currency of Australia."
+    },
+    {
+        "text": "Which gas is used in welding?",
+        "optionA": "Oxygen",
+        "optionB": "Acetylene",
+        "optionC": "Nitrogen",
+        "optionD": "Carbon Dioxide",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Acetylene is commonly used in welding due to its high flame temperature."
+    },
+    {
+        "text": "What is the capital of Nigeria?",
+        "optionA": "Lagos",
+        "optionB": "Abuja",
+        "optionC": "Kano",
+        "optionD": "Ibadan",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "Abuja is the capital city of Nigeria, planned and built in the 1980s."
+    },
+    {
+        "text": "Which Philippine festival is known for its mask-themed parades?",
+        "optionA": "Sinulog",
+        "optionB": "MassKara",
+        "optionC": "Panagbenga",
+        "optionD": "Dinagyang",
+        "correctAnswer": "B",
+        "category": "General Information",
+        "explanation": "The MassKara Festival in Bacolod features vibrant masks and costumes."
+    }
+]

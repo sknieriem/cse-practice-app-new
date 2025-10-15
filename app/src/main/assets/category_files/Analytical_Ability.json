@@ -1,0 +1,2372 @@
+[
+    {
+        "text": "Book is to reading as fork is to:",
+        "optionA": "Drawing",
+        "optionB": "Eating",
+        "optionC": "Writing",
+        "optionD": "Cooking",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "A book is used for reading, just as a fork is used for eating."
+    },
+    {
+        "text": "If all Bloops are Razzies and some Razzies are Lalas, then:",
+        "optionA": "All Bloops are LaLAS",
+        "optionB": "Some Bloops are LaLas",
+        "optionC": "No Bloops are LaLas",
+        "optionD": "Cannot determine",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "The statement doesn't specify if the Lalas overlap with Bloops, so it cannot be determined."
+    },
+    {
+        "text": "Identify assumption: Students should study hard to pass.",
+        "optionA": "Studying hard guarantees pass",
+        "optionB": "Not studying leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without hard study, passing is unlikely."
+    },
+    {
+        "text": "Next in series: A, C, E, G, ____",
+        "optionA": "H",
+        "optionB": "I",
+        "optionC": "J",
+        "optionD": "K",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Alternate letters: A (1), C (3), E (5), G (7), I (9)."
+    },
+    {
+        "text": "Which is odd one out: Apple, Banana, Carrot, Orange",
+        "optionA": "Apple",
+        "optionB": "Banana",
+        "optionC": "Carrot",
+        "optionD": "Orange",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Carrot is a vegetable, while the others are fruits."
+    },
+    {
+        "text": "If X is Y's brother, Y is Z's sister, Z is X's:",
+        "optionA": "Brother",
+        "optionB": "Sister",
+        "optionC": "Uncle",
+        "optionD": "Self",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "X (male), Y (female), Z (male), so Z is X's brother."
+    },
+    {
+        "text": "Conclusion from: All dogs bark. Spot barks. So Spot is a dog.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "This is a logical fallacy; other things can bark."
+    },
+    {
+        "text": "Iron: metal :: granite:",
+        "optionA": "Marble",
+        "optionB": "Rock",
+        "optionC": "Sand",
+        "optionD": "Solid",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Iron is a type of metal, granite is a type of rock."
+    },
+    {
+        "text": "If 2=5, 3=10, 4=17, 5=?",
+        "optionA": "26",
+        "optionB": "25",
+        "optionC": "20",
+        "optionD": "22",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 +1, 2^2+1=5, 3^2+1=10, 4^2+1=17, 5^2+1=26."
+    },
+    {
+        "text": "Data interpretation: (Assume graph) What is the trend?",
+        "optionA": "Increasing",
+        "optionB": "Decreasing",
+        "optionC": "Stable",
+        "optionD": "Varying",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Based on the assumed graph, the trend is increasing."
+    },
+    {
+        "text": "ODOMETER : MILEAGE :: COMPASS :",
+        "optionA": "SPEED",
+        "optionB": "HIKING",
+        "optionC": "NEEDLE",
+        "optionD": "DIRECTION",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Odometer measures mileage, compass measures direction."
+    },
+    {
+        "text": "If it is rainy tomorrow, I will not visit my friend’s house. If I will visit my friend’s house, then ___________________",
+        "optionA": "tomorrow is rainy",
+        "optionB": "tomorrow is not rainy",
+        "optionC": "it will rain later",
+        "optionD": "I will stay home",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Contrapositive: If I visit, then not rainy."
+    },
+    {
+        "text": "Only confident people are actors. All actors are wealthy. Ben is wealthy. Is 'Ben is a confident person' undoubtedly true?",
+        "optionA": "Yes",
+        "optionB": "No",
+        "optionC": "Maybe",
+        "optionD": "Always",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Wealthy does not necessarily mean actor, so not necessarily confident."
+    },
+    {
+        "text": "What is the next number in the sequence: 1, 4, 7, 10, 13?",
+        "optionA": "15",
+        "optionB": "16",
+        "optionC": "14",
+        "optionD": "17",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Add 3 each time: 13+3 = 16."
+    },
+    {
+        "text": "If A then B, If B then C. Therefore, If A then C. Is this true?",
+        "optionA": "Yes (Hypothetical Syllogism)",
+        "optionB": "No",
+        "optionC": "Only if A is true",
+        "optionD": "Depends on C",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "This is hypothetical syllogism, a valid logic rule."
+    },
+    {
+        "text": "Big : Large :: Small :",
+        "optionA": "Tiny",
+        "optionB": "Huge",
+        "optionC": "Medium",
+        "optionD": "Wide",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Big and large are synonyms, small and tiny are synonyms."
+    },
+    {
+        "text": "Opaque : Clear :: Fancy :",
+        "optionA": "Simple",
+        "optionB": "Complex",
+        "optionC": "Elegant",
+        "optionD": "Plain",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Opaque and clear are antonyms, fancy and simple are antonyms."
+    },
+    {
+        "text": "Length : Meters :: Electric Current :",
+        "optionA": "Volts",
+        "optionB": "Amperes",
+        "optionC": "Ohms",
+        "optionD": "Watts",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Length is measured in meters, electric current in amperes."
+    },
+    {
+        "text": "Chef : Cook :: Dancer :",
+        "optionA": "Perform",
+        "optionB": "Dance",
+        "optionC": "Teach",
+        "optionD": "Watch",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Chef cooks, dancer performs."
+    },
+    {
+        "text": "In a data interpretation graph showing sales: Jan 100, Feb 150, Mar 120. What is the average?",
+        "optionA": "123.33",
+        "optionB": "120",
+        "optionC": "130",
+        "optionD": "125",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "(100+150+120)/3 = 370/3 = 123.33."
+    },
+    {
+        "text": "Negligent: requirement: remiss: _____________.",
+        "optionA": "duty",
+        "optionB": "law",
+        "optionC": "task",
+        "optionD": "care",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Negligent means careless in requirement, remiss means careless in duty."
+    },
+    {
+        "text": "Politician: statesman: ______________: ______________. ",
+        "optionA": "lawyer: advocate",
+        "optionB": "doctor: physician",
+        "optionC": "teacher: educator",
+        "optionD": "soldier: warrior",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Politician is to statesman as soldier is to warrior (general to honored term)."
+    },
+    {
+        "text": "Caution is to ________ as radar is to ________.",
+        "optionA": "signal: wave",
+        "optionB": "warning: detection",
+        "optionC": "care: speed",
+        "optionD": "alert: track",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Caution is a warning, radar is for detection."
+    },
+    {
+        "text": "If all cats are animals and some animals are dogs, then:",
+        "optionA": "All cats are dogs",
+        "optionB": "Some cats are dogs",
+        "optionC": "No cats are dogs",
+        "optionD": "Cannot determine",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "The statements don't connect cats to dogs specifically."
+    },
+    {
+        "text": "Next in series: B, D, F, H, ____",
+        "optionA": "J",
+        "optionB": "I",
+        "optionC": "K",
+        "optionD": "G",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Alternate letters: B (2), D (4), F (6), H (8), J (10)."
+    },
+    {
+        "text": "Odd one out: Lion, Tiger, Elephant, Wolf",
+        "optionA": "Lion",
+        "optionB": "Tiger",
+        "optionC": "Elephant",
+        "optionD": "Wolf",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Elephant is herbivore, others are carnivores."
+    },
+    {
+        "text": "If P is Q's father, Q is R's mother, R is P's:",
+        "optionA": "Grandchild",
+        "optionB": "Child",
+        "optionC": "Sibling",
+        "optionD": "Parent",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "P is grandfather to R."
+    },
+    {
+        "text": "All birds fly. Penguins do not fly. So penguins are not birds.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Valid deduction from the premise."
+    },
+    {
+        "text": "Water : Liquid :: Ice :",
+        "optionA": "Solid",
+        "optionB": "Gas",
+        "optionC": "Vapor",
+        "optionD": "Cold",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Water is a liquid state, ice is the solid state of water."
+    },
+    {
+        "text": "If 1=1, 2=4, 3=9, 4=16, 5=?",
+        "optionA": "25",
+        "optionB": "20",
+        "optionC": "30",
+        "optionD": "15",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Squares: 5^2 = 25."
+    },
+    {
+        "text": "Pencil is to sketching as knife is to:",
+        "optionA": "Cutting",
+        "optionB": "Writing",
+        "optionC": "Drawing",
+        "optionD": "Sharpening",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A pencil is used for sketching, just as a knife is used for cutting."
+    },
+    {
+        "text": "If all trees are plants and some plants are ferns, then:",
+        "optionA": "All trees are ferns",
+        "optionB": "Some trees are ferns",
+        "optionC": "No trees are ferns",
+        "optionD": "Cannot determine",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "The statements do not specify whether trees and ferns overlap, so it cannot be determined."
+    },
+    {
+        "text": "Next in series: 3, 7, 12, 18, ____",
+        "optionA": "24",
+        "optionB": "25",
+        "optionC": "26",
+        "optionD": "27",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 4, 5, 6, so the next is 7: 18 + 7 = 26."
+    },
+    {
+        "text": "Odd one out: Rose, Tulip, Daisy, Oak",
+        "optionA": "Rose",
+        "optionB": "Tulip",
+        "optionC": "Daisy",
+        "optionD": "Oak",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Oak is a tree, while the others are flowers."
+    },
+    {
+        "text": "If A is B’s mother, B is C’s sister, C is A’s:",
+        "optionA": "Daughter",
+        "optionB": "Son",
+        "optionC": "Husband",
+        "optionD": "Father",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A is the mother, B and C are her children, so C is A’s daughter."
+    },
+    {
+        "text": "All birds sing. Sparky sings. So Sparky is a bird.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "This is a logical fallacy; other creatures can sing."
+    },
+    {
+        "text": "Volume : Liters :: Distance :",
+        "optionA": "Kilograms",
+        "optionB": "Meters",
+        "optionC": "Amperes",
+        "optionD": "Seconds",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Volume is measured in liters, distance is measured in meters."
+    },
+    {
+        "text": "If 2=8, 3=15, 4=24, 5=?",
+        "optionA": "32",
+        "optionB": "35",
+        "optionC": "36",
+        "optionD": "38",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + n + 4, so 5^2 + 5 + 4 = 25 + 5 + 4 = 35."
+    },
+    {
+        "text": "Identify assumption: To win the race, athletes must train daily.",
+        "optionA": "Training daily guarantees winning",
+        "optionB": "Not training daily leads to losing",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without daily training, winning is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing expenses: Jan 300, Feb 350, Mar 400. What is the average expense?",
+        "optionA": "340",
+        "optionB": "350",
+        "optionC": "360",
+        "optionD": "370",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(300 + 350 + 400) / 3 = 1050 / 3 = 350."
+    },
+    {
+        "text": "Clock is to time as thermometer is to:",
+        "optionA": "Heat",
+        "optionB": "Temperature",
+        "optionC": "Weather",
+        "optionD": "Pressure",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "A clock measures time, a thermometer measures temperature."
+    },
+    {
+        "text": "If all mammals breathe air and some animals are mammals, then:",
+        "optionA": "All animals breathe air",
+        "optionB": "Some animals breathe air",
+        "optionC": "No animals breathe air",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some animals (mammals) must breathe air, but not all animals are mammals."
+    },
+    {
+        "text": "Next in series: 1, 3, 6, 10, ____",
+        "optionA": "14",
+        "optionB": "15",
+        "optionC": "16",
+        "optionD": "17",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 2, 3, 4, so the next is 5: 10 + 5 = 15."
+    },
+    {
+        "text": "Odd one out: Blue, Red, Green, Yellow",
+        "optionA": "Blue",
+        "optionB": "Red",
+        "optionC": "Green",
+        "optionD": "Yellow",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Green is associated with lime (a fruit), while the others are not commonly fruit names."
+    },
+    {
+        "text": "If P is Q’s father, Q is R’s daughter, R is P’s:",
+        "optionA": "Son",
+        "optionB": "Daughter",
+        "optionC": "Wife",
+        "optionD": "Mother",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "P is the father, Q is his daughter, so R must be P’s wife (Q’s mother)."
+    },
+    {
+        "text": "All snakes are reptiles. Some reptiles are turtles. So some snakes are turtles.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statements don’t guarantee that snakes and turtles overlap."
+    },
+    {
+        "text": "Speed : Kilometers per hour :: Force :",
+        "optionA": "Newtons",
+        "optionB": "Joules",
+        "optionC": "Watts",
+        "optionD": "Pascals",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Speed is measured in kilometers per hour, force is measured in newtons."
+    },
+    {
+        "text": "If 1=3, 2=7, 3=13, 4=?",
+        "optionA": "20",
+        "optionB": "21",
+        "optionC": "22",
+        "optionD": "23",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2, so 4^2 + 2 = 16 + 2 = 18."
+    },
+    {
+        "text": "Identify assumption: Good leaders inspire their teams.",
+        "optionA": "Inspiring teams guarantees good leadership",
+        "optionB": "Not inspiring leads to poor leadership",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without inspiration, leadership is poor."
+    },
+    {
+        "text": "In a data interpretation graph showing temperatures: Mon 20, Tue 22, Wed 24. What is the average temperature?",
+        "optionA": "20",
+        "optionB": "21",
+        "optionC": "22",
+        "optionD": "23",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "(20 + 22 + 24) / 3 = 66 / 3 = 22."
+    },
+    {
+        "text": "Shoe is to foot as glove is to:",
+        "optionA": "Hand",
+        "optionB": "Arm",
+        "optionC": "Finger",
+        "optionD": "Wrist",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A shoe covers the foot, a glove covers the hand."
+    },
+    {
+        "text": "If all cars have wheels and some vehicles are cars, then:",
+        "optionA": "All vehicles have wheels",
+        "optionB": "Some vehicles have wheels",
+        "optionC": "No vehicles have wheels",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some vehicles (cars) must have wheels, but not all vehicles are cars."
+    },
+    {
+        "text": "Next in series: 4, 9, 15, 22, ____",
+        "optionA": "28",
+        "optionB": "29",
+        "optionC": "30",
+        "optionD": "31",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 5, 6, 7, so the next is 8: 22 + 8 = 30."
+    },
+    {
+        "text": "Odd one out: Eagle, Sparrow, Penguin, Hawk",
+        "optionA": "Eagle",
+        "optionB": "Sparrow",
+        "optionC": "Penguin",
+        "optionD": "Hawk",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Penguin is flightless, while the others are birds that fly."
+    },
+    {
+        "text": "If X is Y’s mother, Y is Z’s daughter, Z is X’s:",
+        "optionA": "Son",
+        "optionB": "Husband",
+        "optionC": "Daughter",
+        "optionD": "Father",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "X is the mother, Y is her daughter, so Z is X’s husband (Y’s father)."
+    },
+    {
+        "text": "All students study. Some students are scholars. So all scholars study.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all students study and scholars are a subset of students, all scholars study."
+    },
+    {
+        "text": "Area : Square meters :: Mass :",
+        "optionA": "Liters",
+        "optionB": "Kilograms",
+        "optionC": "Meters",
+        "optionD": "Newtons",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Area is measured in square meters, mass is measured in kilograms."
+    },
+    {
+        "text": "If 4=20, 5=30, 6=42, 7=?",
+        "optionA": "56",
+        "optionB": "58",
+        "optionC": "60",
+        "optionD": "62",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n * (n + 1), so 7 * (7 + 1) = 7 * 8 = 56."
+    },
+    {
+        "text": "Identify assumption: To succeed in business, one must take risks.",
+        "optionA": "Taking risks guarantees success",
+        "optionB": "Not taking risks leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without taking risks, success is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing rainfall: Apr 50, May 60, Jun 70. What is the average rainfall?",
+        "optionA": "58",
+        "optionB": "60",
+        "optionC": "62",
+        "optionD": "64",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(50 + 60 + 70) / 3 = 180 / 3 = 60."
+    },
+    {
+        "text": "Teacher is to instructing as chef is to:",
+        "optionA": "Cooking",
+        "optionB": "Serving",
+        "optionC": "Eating",
+        "optionD": "Cleaning",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A teacher instructs, a chef cooks."
+    },
+    {
+        "text": "If all planets orbit the sun and some celestial bodies are planets, then:",
+        "optionA": "All celestial bodies orbit the sun",
+        "optionB": "Some celestial bodies orbit the sun",
+        "optionC": "No celestial bodies orbit the sun",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some celestial bodies (planets) must orbit the sun."
+    },
+    {
+        "text": "Next in series: 5, 8, 12, 18, ____",
+        "optionA": "24",
+        "optionB": "25",
+        "optionC": "26",
+        "optionD": "27",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 3, 4, 6, so the next is 8: 18 + 8 = 26."
+    },
+    {
+        "text": "Odd one out: Guitar, Violin, Piano, Flute",
+        "optionA": "Guitar",
+        "optionB": "Violin",
+        "optionC": "Piano",
+        "optionD": "Flute",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Piano is a keyboard instrument, while the others are string or wind instruments."
+    },
+    {
+        "text": "If J is K’s brother, K is L’s sister, L is J’s:",
+        "optionA": "Brother",
+        "optionB": "Sister",
+        "optionC": "Father",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "J is the brother, K and L are his sisters, so L is J’s sister."
+    },
+    {
+        "text": "All roses are red. Some flowers are roses. So some flowers are red.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all roses are red and some flowers are roses, those flowers must be red."
+    },
+    {
+        "text": "Time : Seconds :: Energy :",
+        "optionA": "Joules",
+        "optionB": "Watts",
+        "optionC": "Volts",
+        "optionD": "Amperes",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Time is measured in seconds, energy is measured in joules."
+    },
+    {
+        "text": "If 2=10, 3=18, 4=28, 5=?",
+        "optionA": "38",
+        "optionB": "39",
+        "optionC": "40",
+        "optionD": "41",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n + 4, so 5^2 + 2*5 + 4 = 25 + 10 + 4 = 39."
+    },
+    {
+        "text": "Identify assumption: To climb the mountain, one must be fit.",
+        "optionA": "Being fit guarantees climbing success",
+        "optionB": "Not being fit leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without fitness, climbing is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing production: Q1 500, Q2 550, Q3 600. What is the average production?",
+        "optionA": "540",
+        "optionB": "550",
+        "optionC": "560",
+        "optionD": "570",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(500 + 550 + 600) / 3 = 1650 / 3 = 550."
+    },
+    {
+        "text": "Brush is to painting as needle is to:",
+        "optionA": "Sewing",
+        "optionB": "Knitting",
+        "optionC": "Threading",
+        "optionD": "Cutting",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A brush is used for painting, a needle is used for sewing."
+    },
+    {
+        "text": "If all books are knowledge and some knowledge is wisdom, then:",
+        "optionA": "All books are wisdom",
+        "optionB": "Some books are wisdom",
+        "optionC": "No books are wisdom",
+        "optionD": "Cannot determine",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "The statements do not specify whether books and wisdom overlap."
+    },
+    {
+        "text": "Next in series: 2, 6, 11, 17, ____",
+        "optionA": "23",
+        "optionB": "24",
+        "optionC": "25",
+        "optionD": "26",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 4, 5, 6, so the next is 7: 17 + 7 = 24."
+    },
+    {
+        "text": "Odd one out: Gold, Silver, Bronze, Iron",
+        "optionA": "Gold",
+        "optionB": "Silver",
+        "optionC": "Bronze",
+        "optionD": "Iron",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Iron is not typically a medal metal, while the others are."
+    },
+    {
+        "text": "If D is E’s mother, E is F’s sister, F is D’s:",
+        "optionA": "Daughter",
+        "optionB": "Son",
+        "optionC": "Husband",
+        "optionD": "Father",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "D is the mother, E and F are her children, so F is D’s daughter."
+    },
+    {
+        "text": "All dogs are loyal. Some animals are dogs. So some animals are loyal.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all dogs are loyal and some animals are dogs, those animals must be loyal."
+    },
+    {
+        "text": "Pressure : Pascals :: Power :",
+        "optionA": "Watts",
+        "optionB": "Joules",
+        "optionC": "Newtons",
+        "optionD": "Amperes",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Pressure is measured in pascals, power is measured in watts."
+    },
+    {
+        "text": "If 3=12, 4=20, 5=30, 6=?",
+        "optionA": "40",
+        "optionB": "42",
+        "optionC": "44",
+        "optionD": "46",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n * (n + 1), so 6 * (6 + 1) = 6 * 7 = 42."
+    },
+    {
+        "text": "Identify assumption: To pass the exam, students must review notes.",
+        "optionA": "Reviewing notes guarantees passing",
+        "optionB": "Not reviewing notes leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without reviewing notes, passing is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing visitors: Day 1 100, Day 2 150, Day 3 200. What is the average number of visitors?",
+        "optionA": "140",
+        "optionB": "150",
+        "optionC": "160",
+        "optionD": "170",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(100 + 150 + 200) / 3 = 450 / 3 = 150."
+    },
+    {
+        "text": "Map is to navigation as compass is to:",
+        "optionA": "Direction",
+        "optionB": "Travel",
+        "optionC": "Distance",
+        "optionD": "Location",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A map is used for navigation, a compass is used for direction."
+    },
+    {
+        "text": "If all chairs have legs and some furniture are chairs, then:",
+        "optionA": "All furniture have legs",
+        "optionB": "Some furniture have legs",
+        "optionC": "No furniture have legs",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some furniture (chairs) must have legs."
+    },
+    {
+        "text": "Next in series: 1, 5, 10, 16, ____",
+        "optionA": "22",
+        "optionB": "23",
+        "optionC": "24",
+        "optionD": "25",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 4, 5, 6, so the next is 7: 16 + 7 = 23."
+    },
+    {
+        "text": "Odd one out: Shirt, Pants, Socks, Hat",
+        "optionA": "Shirt",
+        "optionB": "Pants",
+        "optionC": "Socks",
+        "optionD": "Hat",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Hat is worn on the head, while the others are worn on the body or limbs."
+    },
+    {
+        "text": "If G is H’s father, H is I’s daughter, I is G’s:",
+        "optionA": "Son",
+        "optionB": "Daughter",
+        "optionC": "Wife",
+        "optionD": "Mother",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "G is the father, H is his daughter, so I is G’s wife."
+    },
+    {
+        "text": "All athletes train. Some people are athletes. So some people train.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all athletes train and some people are athletes, those people train."
+    },
+    {
+        "text": "Frequency : Hertz :: Length :",
+        "optionA": "Meters",
+        "optionB": "Kilograms",
+        "optionC": "Seconds",
+        "optionD": "Liters",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Frequency is measured in hertz, length is measured in meters."
+    },
+    {
+        "text": "If 1=5, 2=11, 3=19, 4=?",
+        "optionA": "28",
+        "optionB": "29",
+        "optionC": "30",
+        "optionD": "31",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n + 2, so 4^2 + 2*4 + 2 = 16 + 8 + 2 = 26."
+    },
+    {
+        "text": "Identify assumption: To write a novel, one must be creative.",
+        "optionA": "Being creative guarantees a novel",
+        "optionB": "Not being creative leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without creativity, writing a novel is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing scores: Test 1 80, Test 2 85, Test 3 90. What is the average score?",
+        "optionA": "83",
+        "optionB": "85",
+        "optionC": "87",
+        "optionD": "89",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(80 + 85 + 90) / 3 = 255 / 3 = 85."
+    },
+    {
+        "text": "Ruler is to measuring as camera is to:",
+        "optionA": "Photographing",
+        "optionB": "Filming",
+        "optionC": "Lighting",
+        "optionD": "Focusing",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A ruler is used for measuring, a camera is used for photographing."
+    },
+    {
+        "text": "If all fruits are edible and some plants are fruits, then:",
+        "optionA": "All plants are edible",
+        "optionB": "Some plants are edible",
+        "optionC": "No plants are edible",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some plants (fruits) must be edible."
+    },
+    {
+        "text": "Next in series: 6, 10, 15, 21, ____",
+        "optionA": "27",
+        "optionB": "28",
+        "optionC": "29",
+        "optionD": "30",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 4, 5, 6, so the next is 7: 21 + 7 = 28."
+    },
+    {
+        "text": "Odd one out: Mercury, Venus, Earth, Jupiter",
+        "optionA": "Mercury",
+        "optionB": "Venus",
+        "optionC": "Earth",
+        "optionD": "Jupiter",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Jupiter is a gas giant, while the others are terrestrial planets."
+    },
+    {
+        "text": "If M is N’s mother, N is O’s daughter, O is M’s:",
+        "optionA": "Son",
+        "optionB": "Husband",
+        "optionC": "Daughter",
+        "optionD": "Father",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "M is the mother, N is her daughter, so O is M’s husband."
+    },
+    {
+        "text": "All computers process data. Some machines are computers. So some machines process data.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all computers process data and some machines are computers, those machines process data."
+    },
+    {
+        "text": "Velocity : Meters per second :: Acceleration :",
+        "optionA": "Meters per second squared",
+        "optionB": "Newtons",
+        "optionC": "Joules",
+        "optionD": "Watts",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Velocity is measured in meters per second, acceleration in meters per second squared."
+    },
+    {
+        "text": "If 2=6, 3=12, 4=20, 5=?",
+        "optionA": "28",
+        "optionB": "30",
+        "optionC": "32",
+        "optionD": "34",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n, so 5^2 + 2*5 = 25 + 10 = 35."
+    },
+    {
+        "text": "Identify assumption: To learn coding, one must practice regularly.",
+        "optionA": "Practicing regularly guarantees coding skills",
+        "optionB": "Not practicing regularly leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without regular practice, learning coding is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing sales: Week 1 400, Week 2 450, Week 3 500. What is the average sales?",
+        "optionA": "440",
+        "optionB": "450",
+        "optionC": "460",
+        "optionD": "470",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(400 + 450 + 500) / 3 = 1350 / 3 = 450."
+    },
+    {
+        "text": "Microscope is to magnifying as telescope is to:",
+        "optionA": "Observing",
+        "optionB": "Measuring",
+        "optionC": "Focusing",
+        "optionD": "Recording",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A microscope is used for magnifying, a telescope is used for observing."
+    },
+    {
+        "text": "If all birds have feathers and some animals are birds, then:",
+        "optionA": "All animals have feathers",
+        "optionB": "Some animals have feathers",
+        "optionC": "No animals have feathers",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some animals (birds) must have feathers."
+    },
+    {
+        "text": "Next in series: 3, 8, 14, 21, ____",
+        "optionA": "28",
+        "optionB": "29",
+        "optionC": "30",
+        "optionD": "31",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 5, 6, 7, so the next is 8: 21 + 8 = 29."
+    },
+    {
+        "text": "Odd one out: Ruby, Sapphire, Emerald, Diamond",
+        "optionA": "Ruby",
+        "optionB": "Sapphire",
+        "optionC": "Emerald",
+        "optionD": "Diamond",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Diamond is a form of carbon, while the others are minerals."
+    },
+    {
+        "text": "If R is S’s father, S is T’s daughter, T is R’s:",
+        "optionA": "Son",
+        "optionB": "Daughter",
+        "optionC": "Wife",
+        "optionD": "Mother",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "R is the father, S is his daughter, so T is R’s wife."
+    },
+    {
+        "text": "All teachers educate. Some professionals are teachers. So some professionals educate.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all teachers educate and some professionals are teachers, those professionals educate."
+    },
+    {
+        "text": "Angle : Degrees :: Time :",
+        "optionA": "Seconds",
+        "optionB": "Meters",
+        "optionC": "Liters",
+        "optionD": "Kilograms",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Angle is measured in degrees, time is measured in seconds."
+    },
+    {
+        "text": "If 1=4, 2=10, 3=18, 4=?",
+        "optionA": "26",
+        "optionB": "27",
+        "optionC": "28",
+        "optionD": "29",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 3n, so 4^2 + 3*4 = 16 + 12 = 28."
+    },
+    {
+        "text": "Identify assumption: To win a chess game, one must strategize.",
+        "optionA": "Strategizing guarantees winning",
+        "optionB": "Not strategizing leads to losing",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without strategizing, winning is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing temperatures: Day 1 25, Day 2 30, Day 3 35. What is the average temperature?",
+        "optionA": "28",
+        "optionB": "30",
+        "optionC": "32",
+        "optionD": "34",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(25 + 30 + 35) / 3 = 90 / 3 = 30."
+    },
+    {
+        "text": "Key is to locking as switch is to:",
+        "optionA": "Turning",
+        "optionB": "Opening",
+        "optionC": "Lighting",
+        "optionD": "Moving",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A key is used for locking, a switch is used for turning."
+    },
+    {
+        "text": "If all stars shine and some celestial bodies are stars, then:",
+        "optionA": "All celestial bodies shine",
+        "optionB": "Some celestial bodies shine",
+        "optionC": "No celestial bodies shine",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some celestial bodies (stars) must shine."
+    },
+    {
+        "text": "Next in series: 4, 10, 17, 25, ____",
+        "optionA": "32",
+        "optionB": "33",
+        "optionC": "34",
+        "optionD": "35",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 6, 7, 8, so the next is 9: 25 + 9 = 34."
+    },
+    {
+        "text": "Odd one out: Circle, Square, Triangle, Pentagon",
+        "optionA": "Circle",
+        "optionB": "Square",
+        "optionC": "Triangle",
+        "optionD": "Pentagon",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Circle is round, while the others are polygons."
+    },
+    {
+        "text": "If U is V’s mother, V is W’s daughter, W is U’s:",
+        "optionA": "Son",
+        "optionB": "Husband",
+        "optionC": "Daughter",
+        "optionD": "Father",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "U is the mother, V is her daughter, so W is U’s husband."
+    },
+    {
+        "text": "All engineers innovate. Some professionals are engineers. So some professionals innovate.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all engineers innovate and some professionals are engineers, those professionals innovate."
+    },
+    {
+        "text": "Density : Kilograms per cubic meter :: Speed :",
+        "optionA": "Meters per second",
+        "optionB": "Newtons",
+        "optionC": "Joules",
+        "optionD": "Watts",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Density is measured in kilograms per cubic meter, speed in meters per second."
+    },
+    {
+        "text": "If 2=12, 3=20, 4=30, 5=?",
+        "optionA": "42",
+        "optionB": "44",
+        "optionC": "46",
+        "optionD": "48",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 3n + 6, so 5^2 + 3*5 + 6 = 25 + 15 + 6 = 46."
+    },
+    {
+        "text": "Identify assumption: To become a doctor, one must study medicine.",
+        "optionA": "Studying medicine guarantees becoming a doctor",
+        "optionB": "Not studying medicine leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without studying medicine, becoming a doctor is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing profits: Q1 600, Q2 650, Q3 700. What is the average profit?",
+        "optionA": "640",
+        "optionB": "650",
+        "optionC": "660",
+        "optionD": "670",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(600 + 650 + 700) / 3 = 1950 / 3 = 650."
+    },
+    {
+        "text": "Oven is to baking as stove is to:",
+        "optionA": "Cooking",
+        "optionB": "Heating",
+        "optionC": "Boiling",
+        "optionD": "Frying",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "An oven is used for baking, a stove is used for cooking."
+    },
+    {
+        "text": "If all clouds bring rain and some weather patterns are clouds, then:",
+        "optionA": "All weather patterns bring rain",
+        "optionB": "Some weather patterns bring rain",
+        "optionC": "No weather patterns bring rain",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some weather patterns (clouds) must bring rain."
+    },
+    {
+        "text": "Next in series: 7, 12, 18, 25, ____",
+        "optionA": "32",
+        "optionB": "33",
+        "optionC": "34",
+        "optionD": "35",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 5, 6, 7, so the next is 8: 25 + 8 = 33."
+    },
+    {
+        "text": "Odd one out: Car, Bicycle, Motorcycle, Airplane",
+        "optionA": "Car",
+        "optionB": "Bicycle",
+        "optionC": "Motorcycle",
+        "optionD": "Airplane",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Airplane travels by air, while the others are ground vehicles."
+    },
+    {
+        "text": "If X is Y’s father, Y is Z’s daughter, Z is X’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "X is the father, Y is his daughter, so Z is X’s wife."
+    },
+    {
+        "text": "All artists create. Some people are artists. So some people create.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all artists create and some people are artists, those people create."
+    },
+    {
+        "text": "Luminosity : Candela :: Mass :",
+        "optionA": "Kilograms",
+        "optionB": "Meters",
+        "optionC": "Seconds",
+        "optionD": "Liters",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Luminosity is measured in candela, mass is measured in kilograms."
+    },
+    {
+        "text": "If 3=15, 4=24, 5=35, 6=?",
+        "optionA": "48",
+        "optionB": "50",
+        "optionC": "52",
+        "optionD": "54",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n + 4, so 6^2 + 2*6 + 4 = 36 + 12 + 4 = 52."
+    },
+    {
+        "text": "Identify assumption: To build a house, one must have a plan.",
+        "optionA": "Having a plan guarantees building success",
+        "optionB": "Not having a plan leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without a plan, building a house is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing attendance: Day 1 200, Day 2 250, Day 3 300. What is the average attendance?",
+        "optionA": "240",
+        "optionB": "250",
+        "optionC": "260",
+        "optionD": "270",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(200 + 250 + 300) / 3 = 750 / 3 = 250."
+    },
+    {
+        "text": "Spoon is to stirring as fork is to:",
+        "optionA": "Piercing",
+        "optionB": "Cutting",
+        "optionC": "Scooping",
+        "optionD": "Mixing",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A spoon is used for stirring, a fork is used for piercing."
+    },
+    {
+        "text": "If all rivers flow and some waterways are rivers, then:",
+        "optionA": "All waterways flow",
+        "optionB": "Some waterways flow",
+        "optionC": "No waterways flow",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some waterways (rivers) must flow."
+    },
+    {
+        "text": "Next in series: 5, 11, 18, 26, ____",
+        "optionA": "34",
+        "optionB": "35",
+        "optionC": "36",
+        "optionD": "37",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 6, 7, 8, so the next is 9: 26 + 9 = 35."
+    },
+    {
+        "text": "Odd one out: Dog, Cat, Horse, Bird",
+        "optionA": "Dog",
+        "optionB": "Cat",
+        "optionC": "Horse",
+        "optionD": "Bird",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Bird is not a mammal, while the others are."
+    },
+    {
+        "text": "If A is B’s father, B is C’s daughter, C is A’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "A is the father, B is his daughter, so C is A’s wife."
+    },
+    {
+        "text": "All poets write. Some people are poets. So some people write.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all poets write and some people are poets, those people write."
+    },
+    {
+        "text": "Temperature : Kelvin :: Volume :",
+        "optionA": "Liters",
+        "optionB": "Meters",
+        "optionC": "Kilograms",
+        "optionD": "Seconds",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Temperature is measured in kelvin, volume is measured in liters."
+    },
+    {
+        "text": "Identify assumption: To run a marathon, one must train.",
+        "optionA": "Training guarantees running a marathon",
+        "optionB": "Not training leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without training, running a marathon is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing sales: Q1 700, Q2 750, Q3 800. What is the average sales?",
+        "optionA": "740",
+        "optionB": "750",
+        "optionC": "760",
+        "optionD": "770",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(700 + 750 + 800) / 3 = 2250 / 3 = 750."
+    },
+    {
+        "text": "Chalk is to writing as paint is to:",
+        "optionA": "Coloring",
+        "optionB": "Drawing",
+        "optionC": "Painting",
+        "optionD": "Sketching",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Chalk is used for writing, paint is used for painting."
+    },
+    {
+        "text": "If all vehicles move and some machines are vehicles, then:",
+        "optionA": "All machines move",
+        "optionB": "Some machines move",
+        "optionC": "No machines move",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some machines (vehicles) must move."
+    },
+    {
+        "text": "Next in series: 2, 7, 13, 20, ____",
+        "optionA": "28",
+        "optionB": "29",
+        "optionC": "30",
+        "optionD": "31",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 5, 6, 7, so the next is 8: 20 + 8 = 28."
+    },
+    {
+        "text": "Odd one out: Whale, Dolphin, Shark, Seal",
+        "optionA": "Whale",
+        "optionB": "Dolphin",
+        "optionC": "Shark",
+        "optionD": "Seal",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Shark is a fish, while the others are mammals."
+    },
+    {
+        "text": "If P is Q’s mother, Q is R’s daughter, R is P’s:",
+        "optionA": "Son",
+        "optionB": "Husband",
+        "optionC": "Daughter",
+        "optionD": "Father",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "P is the mother, Q is her daughter, so R is P’s husband."
+    },
+    {
+        "text": "All doctors heal. Some professionals are doctors. So some professionals heal.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all doctors heal and some professionals are doctors, those professionals heal."
+    },
+    {
+        "text": "Electric charge : Coulombs :: Time :",
+        "optionA": "Seconds",
+        "optionB": "Meters",
+        "optionC": "Kilograms",
+        "optionD": "Liters",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Electric charge is measured in coulombs, time is measured in seconds."
+    },
+    {
+        "text": "If 1=6, 2=14, 3=24, 4=?",
+        "optionA": "34",
+        "optionB": "35",
+        "optionC": "36",
+        "optionD": "37",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n + 3, so 4^2 + 2*4 + 3 = 16 + 8 + 3 = 27."
+    },
+    {
+        "text": "Identify assumption: To solve puzzles, one must think logically.",
+        "optionA": "Thinking logically guarantees solving puzzles",
+        "optionB": "Not thinking logically leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without logical thinking, solving puzzles is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing expenses: Q1 800, Q2 850, Q3 900. What is the average expense?",
+        "optionA": "840",
+        "optionB": "850",
+        "optionC": "860",
+        "optionD": "870",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(800 + 850 + 900) / 3 = 2550 / 3 = 850."
+    },
+    {
+        "text": "Scissors is to cutting as pen is to:",
+        "optionA": "Writing",
+        "optionB": "Drawing",
+        "optionC": "Erasing",
+        "optionD": "Pointing",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Scissors are used for cutting, a pen is used for writing."
+    },
+    {
+        "text": "If all houses have roofs and some buildings are houses, then:",
+        "optionA": "All buildings have roofs",
+        "optionB": "Some buildings have roofs",
+        "optionC": "No buildings have roofs",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some buildings (houses) must have roofs."
+    },
+    {
+        "text": "Next in series: 3, 9, 16, 24, ____",
+        "optionA": "32",
+        "optionB": "33",
+        "optionC": "34",
+        "optionD": "35",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 6, 7, 8, so the next is 9: 24 + 9 = 33."
+    },
+    {
+        "text": "Odd one out: Apple, Orange, Banana, Potato",
+        "optionA": "Apple",
+        "optionB": "Orange",
+        "optionC": "Banana",
+        "optionD": "Potato",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Potato is a vegetable, while the others are fruits."
+    },
+    {
+        "text": "If S is T’s father, T is U’s daughter, U is S’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "S is the father, T is his daughter, so U is S’s wife."
+    },
+    {
+        "text": "All musicians perform. Some people are musicians. So some people perform.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all musicians perform and some people are musicians, those people perform."
+    },
+    {
+        "text": "Force : Newtons :: Energy :",
+        "optionA": "Joules",
+        "optionB": "Watts",
+        "optionC": "Amperes",
+        "optionD": "Pascals",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Force is measured in newtons, energy is measured in joules."
+    },
+    {
+        "text": "If 2=9, 3=18, 4=29, 5=?",
+        "optionA": "42",
+        "optionB": "43",
+        "optionC": "44",
+        "optionD": "45",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 3n + 4, so 5^2 + 3*5 + 4 = 25 + 15 + 4 = 44."
+    },
+    {
+        "text": "Identify assumption: To excel in sports, one must practice daily.",
+        "optionA": "Practicing daily guarantees excelling",
+        "optionB": "Not practicing daily leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without daily practice, excelling is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing revenue: Q1 900, Q2 950, Q3 1000. What is the average revenue?",
+        "optionA": "940",
+        "optionB": "950",
+        "optionC": "960",
+        "optionD": "970",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(900 + 950 + 1000) / 3 = 2850 / 3 = 950."
+    },
+    {
+        "text": "Hammer is to pounding as saw is to:",
+        "optionA": "Cutting",
+        "optionB": "Nailing",
+        "optionC": "Sanding",
+        "optionD": "Drilling",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A hammer is used for pounding, a saw is used for cutting."
+    },
+    {
+        "text": "If all flowers bloom and some plants are flowers, then:",
+        "optionA": "All plants bloom",
+        "optionB": "Some plants bloom",
+        "optionC": "No plants bloom",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some plants (flowers) must bloom."
+    },
+    {
+        "text": "Next in series: 4, 11, 19, 28, ____",
+        "optionA": "36",
+        "optionB": "37",
+        "optionC": "38",
+        "optionD": "39",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 7, 8, 9, so the next is 10: 28 + 10 = 38."
+    },
+    {
+        "text": "Odd one out: Chair, Table, Sofa, Lamp",
+        "optionA": "Chair",
+        "optionB": "Table",
+        "optionC": "Sofa",
+        "optionD": "Lamp",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Lamp provides light, while the others are seating or surface furniture."
+    },
+    {
+        "text": "If V is W’s father, W is X’s daughter, X is V’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "V is the father, W is his daughter, so X is V’s wife."
+    },
+    {
+        "text": "All scientists research. Some people are scientists. So some people research.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all scientists research and some people are scientists, those people research."
+    },
+    {
+        "text": "Current : Amperes :: Resistance :",
+        "optionA": "Ohms",
+        "optionB": "Volts",
+        "optionC": "Watts",
+        "optionD": "Joules",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Current is measured in amperes, resistance is measured in ohms."
+    },
+    {
+        "text": "If 3=14, 4=23, 5=34, 6=?",
+        "optionA": "46",
+        "optionB": "47",
+        "optionC": "48",
+        "optionD": "49",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n + 6, so 6^2 + 2*6 + 6 = 36 + 12 + 6 = 54."
+    },
+    {
+        "text": "Identify assumption: To create art, one must have imagination.",
+        "optionA": "Having imagination guarantees art creation",
+        "optionB": "Not having imagination leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without imagination, creating art is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing scores: Test 1 90, Test 2 95, Test 3 100. What is the average score?",
+        "optionA": "93",
+        "optionB": "95",
+        "optionC": "97",
+        "optionD": "99",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(90 + 95 + 100) / 3 = 285 / 3 = 95."
+    },
+    {
+        "text": "Wheel is to rolling as propeller is to:",
+        "optionA": "Spinning",
+        "optionB": "Flying",
+        "optionC": "Steering",
+        "optionD": "Pushing",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A wheel rolls, a propeller spins."
+    },
+    {
+        "text": "If all trees grow and some plants are trees, then:",
+        "optionA": "All plants grow",
+        "optionB": "Some plants grow",
+        "optionC": "No plants grow",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some plants (trees) must grow."
+    },
+    {
+        "text": "Next in series: 6, 13, 21, 30, ____",
+        "optionA": "38",
+        "optionB": "39",
+        "optionC": "40",
+        "optionD": "41",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 7, 8, 9, so the next is 10: 30 + 10 = 40."
+    },
+    {
+        "text": "Odd one out: Pen, Pencil, Marker, Eraser",
+        "optionA": "Pen",
+        "optionB": "Pencil",
+        "optionC": "Marker",
+        "optionD": "Eraser",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Eraser removes marks, while the others create marks."
+    },
+    {
+        "text": "If Y is Z’s father, Z is A’s daughter, A is Y’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Y is the father, Z is his daughter, so A is Y’s wife."
+    },
+    {
+        "text": "All programmers code. Some people are programmers. So some people code.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all programmers code and some people are programmers, those people code."
+    },
+    {
+        "text": "Voltage : Volts :: Power :",
+        "optionA": "Watts",
+        "optionB": "Joules",
+        "optionC": "Amperes",
+        "optionD": "Ohms",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Voltage is measured in volts, power is measured in watts."
+    },
+    {
+        "text": "If 2=7, 3=14, 4=23, 5=?",
+        "optionA": "32",
+        "optionB": "33",
+        "optionC": "34",
+        "optionD": "35",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + n + 4, so 5^2 + 5 + 4 = 25 + 5 + 4 = 34."
+    },
+    {
+        "text": "Identify assumption: To win a debate, one must prepare arguments.",
+        "optionA": "Preparing arguments guarantees winning",
+        "optionB": "Not preparing arguments leads to losing",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without preparing arguments, winning is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing temperatures: Mon 15, Tue 20, Wed 25. What is the average temperature?",
+        "optionA": "18",
+        "optionB": "20",
+        "optionC": "22",
+        "optionD": "24",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(15 + 20 + 25) / 3 = 60 / 3 = 20."
+    },
+    {
+        "text": "Ruler is to length as scale is to:",
+        "optionA": "Weight",
+        "optionB": "Height",
+        "optionC": "Volume",
+        "optionD": "Area",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A ruler measures length, a scale measures weight."
+    },
+    {
+        "text": "If all animals breathe and some creatures are animals, then:",
+        "optionA": "All creatures breathe",
+        "optionB": "Some creatures breathe",
+        "optionC": "No creatures breathe",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some creatures (animals) must breathe."
+    },
+    {
+        "text": "Next in series: 5, 12, 20, 29, ____",
+        "optionA": "38",
+        "optionB": "39",
+        "optionC": "40",
+        "optionD": "41",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 7, 8, 9, so the next is 10: 29 + 10 = 39."
+    },
+    {
+        "text": "Odd one out: Sun, Moon, Star, Planet",
+        "optionA": "Sun",
+        "optionB": "Moon",
+        "optionC": "Star",
+        "optionD": "Planet",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Moon is a satellite, while the others are celestial bodies with distinct roles."
+    },
+    {
+        "text": "If B is C’s father, C is D’s daughter, D is B’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "B is the father, C is his daughter, so D is B’s wife."
+    },
+    {
+        "text": "All lawyers argue. Some professionals are lawyers. So some professionals argue.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all lawyers argue and some professionals are lawyers, those professionals argue."
+    },
+    {
+        "text": "Resistance : Ohms :: Power :",
+        "optionA": "Watts",
+        "optionB": "Joules",
+        "optionC": "Volts",
+        "optionD": "Amperes",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Resistance is measured in ohms, power is measured in watts."
+    },
+    {
+        "text": "If 2=8, 3=17, 4=28, 5=?",
+        "optionA": "40",
+        "optionB": "41",
+        "optionC": "42",
+        "optionD": "43",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n + 4, so 5^2 + 2*5 + 4 = 25 + 10 + 4 = 39."
+    },
+    {
+        "text": "Identify assumption: To play the piano, one must practice.",
+        "optionA": "Practicing guarantees piano skills",
+        "optionB": "Not practicing leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without practice, playing the piano is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing sales: Week 1 300, Week 2 350, Week 3 400. What is the average sales?",
+        "optionA": "340",
+        "optionB": "350",
+        "optionC": "360",
+        "optionD": "370",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(300 + 350 + 400) / 3 = 1050 / 3 = 350."
+    },
+    {
+        "text": "Brush is to painting as chisel is to:",
+        "optionA": "Carving",
+        "optionB": "Cutting",
+        "optionC": "Sanding",
+        "optionD": "Shaping",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A brush is used for painting, a chisel is used for carving."
+    },
+    {
+        "text": "If all insects have legs and some creatures are insects, then:",
+        "optionA": "All creatures have legs",
+        "optionB": "Some creatures have legs",
+        "optionC": "No creatures have legs",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some creatures (insects) must have legs."
+    },
+    {
+        "text": "Odd one out: Fork, Spoon, Knife, Plate",
+        "optionA": "Fork",
+        "optionB": "Spoon",
+        "optionC": "Knife",
+        "optionD": "Plate",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Plate is used for serving, while the others are utensils for eating."
+    },
+    {
+        "text": "If E is F’s father, F is G’s daughter, G is E’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "E is the father, F is his daughter, so G is E’s wife."
+    },
+    {
+        "text": "All writers create stories. Some people are writers. So some people create stories.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all writers create stories and some people are writers, those people create stories."
+    },
+    {
+        "text": "Mass : Kilograms :: Time :",
+        "optionA": "Seconds",
+        "optionB": "Meters",
+        "optionC": "Liters",
+        "optionD": "Newtons",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Mass is measured in kilograms, time is measured in seconds."
+    },
+    {
+        "text": "If 2=10, 3=19, 4=30, 5=?",
+        "optionA": "42",
+        "optionB": "43",
+        "optionC": "44",
+        "optionD": "45",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 3n + 4, so 5^2 + 35 + 4 = 25 + 15 + 4 = 44."
+    },
+    {
+        "text": "Identify assumption: To succeed in math, one must practice problems.",
+        "optionA": "Practicing problems guarantees success",
+        "optionB": "Not practicing problems leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without practicing problems, success in math is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing visitors: Day 1 150, Day 2 200, Day 3 250. What is the average number of visitors?",
+        "optionA": "190",
+        "optionB": "200",
+        "optionC": "210",
+        "optionD": "220",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(150 + 200 + 250) / 3 = 600 / 3 = 200."
+    },
+    {
+        "text": "Calculator is to computing as telescope is to:",
+        "optionA": "Observing",
+        "optionB": "Measuring",
+        "optionC": "Recording",
+        "optionD": "Navigating",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A calculator is used for computing, a telescope is used for observing."
+    },
+    {
+        "text": "If all mammals have fur and some animals are mammals, then:",
+        "optionA": "All animals have fur",
+        "optionB": "Some animals have fur",
+        "optionC": "No animals have fur",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some animals (mammals) must have fur."
+    },
+    {
+        "text": "Next in series: 8, 15, 23, 32, ____",
+        "optionA": "40",
+        "optionB": "41",
+        "optionC": "42",
+        "optionD": "43",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 7, 8, 9, so the next is 10: 32 + 10 = 42."
+    },
+    {
+        "text": "Odd one out: Oak, Pine, Maple, Rose",
+        "optionA": "Oak",
+        "optionB": "Pine",
+        "optionC": "Maple",
+        "optionD": "Rose",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Rose is a flower, while the others are trees."
+    },
+    {
+        "text": "If I is J’s father, J is K’s daughter, K is I’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "I is the father, J is his daughter, so K is I’s wife."
+    },
+    {
+        "text": "All chefs cook. Some people are chefs. So some people cook.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all chefs cook and some people are chefs, those people cook."
+    },
+    {
+        "text": "Energy : Joules :: Force :",
+        "optionA": "Newtons",
+        "optionB": "Watts",
+        "optionC": "Volts",
+        "optionD": "Amperes",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Energy is measured in joules, force is measured in newtons."
+    },
+    {
+        "text": "If 2=11, 3=20, 4=31, 5=?",
+        "optionA": "44",
+        "optionB": "45",
+        "optionC": "46",
+        "optionD": "47",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 3n + 5, so 5^2 + 35 + 5 = 25 + 15 + 5 = 45."
+    },
+    {
+        "text": "Identify assumption: To excel in painting, one must practice techniques.",
+        "optionA": "Practicing techniques guarantees excellence",
+        "optionB": "Not practicing techniques leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without practicing techniques, excelling in painting is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing profits: Q1 500, Q2 600, Q3 700. What is the average profit?",
+        "optionA": "590",
+        "optionB": "600",
+        "optionC": "610",
+        "optionD": "620",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(500 + 600 + 700) / 3 = 1800 / 3 = 600."
+    },
+    {
+        "text": "Compass is to navigating as ruler is to:",
+        "optionA": "Measuring",
+        "optionB": "Drawing",
+        "optionC": "Cutting",
+        "optionD": "Aligning",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A compass is used for navigating, a ruler is used for measuring."
+    },
+    {
+        "text": "If all vehicles have engines and some machines are vehicles, then:",
+        "optionA": "All machines have engines",
+        "optionB": "Some machines have engines",
+        "optionC": "No machines have engines",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some machines (vehicles) must have engines."
+    },
+    {
+        "text": "Next in series: 9, 16, 24, 33, ____",
+        "optionA": "42",
+        "optionB": "43",
+        "optionC": "44",
+        "optionD": "45",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 7, 8, 9, so the next is 10: 33 + 10 = 43."
+    },
+    {
+        "text": "Odd one out: Tiger, Lion, Bear, Cheetah",
+        "optionA": "Tiger",
+        "optionB": "Lion",
+        "optionC": "Bear",
+        "optionD": "Cheetah",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Bear is not a big cat, while the others are."
+    },
+    {
+        "text": "If L is M’s father, M is N’s daughter, N is L’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "L is the father, M is his daughter, so N is L’s wife."
+    },
+    {
+        "text": "All dancers perform. Some people are dancers. So some people perform.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all dancers perform and some people are dancers, those people perform."
+    },
+    {
+        "text": "Power : Watts :: Current :",
+        "optionA": "Amperes",
+        "optionB": "Volts",
+        "optionC": "Ohms",
+        "optionD": "Joules",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Power is measured in watts, current is measured in amperes."
+    },
+    {
+        "text": "If 3=16, 4=25, 5=36, 6=?",
+        "optionA": "48",
+        "optionB": "49",
+        "optionC": "50",
+        "optionD": "51",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 2n + 7, so 6^2 + 26 + 7 = 36 + 12 + 7 = 55."
+    },
+    {
+        "text": "Identify assumption: To win a competition, one must prepare.",
+        "optionA": "Preparing guarantees winning",
+        "optionB": "Not preparing leads to losing",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without preparation, winning is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing temperatures: Day 1 10, Day 2 15, Day 3 20. What is the average temperature?",
+        "optionA": "13",
+        "optionB": "15",
+        "optionC": "17",
+        "optionD": "19",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(10 + 15 + 20) / 3 = 45 / 3 = 15."
+    },
+    {
+        "text": "Pen is to ink as brush is to:",
+        "optionA": "Paint",
+        "optionB": "Canvas",
+        "optionC": "Paper",
+        "optionD": "Wood",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A pen uses ink to write, a brush uses paint to paint."
+    },
+    {
+        "text": "If all planets have orbits and some celestial bodies are planets, then:",
+        "optionA": "All celestial bodies have orbits",
+        "optionB": "Some celestial bodies have orbits",
+        "optionC": "No celestial bodies have orbits",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some celestial bodies (planets) must have orbits."
+    },
+    {
+        "text": "Next in series: 10, 17, 25, 34, ____",
+        "optionA": "42",
+        "optionB": "43",
+        "optionC": "44",
+        "optionD": "45",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 7, 8, 9, so the next is 10: 34 + 10 = 44."
+    },
+    {
+        "text": "Odd one out: Book, Magazine, Newspaper, Pen",
+        "optionA": "Book",
+        "optionB": "Magazine",
+        "optionC": "Newspaper",
+        "optionD": "Pen",
+        "correctAnswer": "D",
+        "category": "Analytical Ability",
+        "explanation": "Pen is a writing tool, while the others are reading materials."
+    },
+    {
+        "text": "If O is P’s father, P is Q’s daughter, Q is O’s:",
+        "optionA": "Son",
+        "optionB": "Wife",
+        "optionC": "Daughter",
+        "optionD": "Mother",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "O is the father, P is his daughter, so Q is O’s wife."
+    },
+    {
+        "text": "All architects design. Some professionals are architects. So some professionals design.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all architects design and some professionals are architects, those professionals design."
+    },
+    {
+        "text": "Volume : Cubic meters :: Mass :",
+        "optionA": "Kilograms",
+        "optionB": "Meters",
+        "optionC": "Seconds",
+        "optionD": "Liters",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Volume is measured in cubic meters, mass is measured in kilograms."
+    },
+    {
+        "text": "If 2=12, 3=22, 4=34, 5=?",
+        "optionA": "48",
+        "optionB": "49",
+        "optionC": "50",
+        "optionD": "51",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 4n + 6, so 5^2 + 45 + 6 = 25 + 20 + 6 = 51."
+    },
+    {
+        "text": "Identify assumption: To succeed in science, one must experiment.",
+        "optionA": "Experimenting guarantees success",
+        "optionB": "Not experimenting leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without experimenting, success in science is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing sales: Week 1 600, Week 2 650, Week 3 700. What is the average sales?",
+        "optionA": "640",
+        "optionB": "650",
+        "optionC": "660",
+        "optionD": "670",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(600 + 650 + 700) / 3 = 1950 / 3 = 650."
+    },
+    {
+        "text": "Knife is to slicing as hammer is to:",
+        "optionA": "Pounding",
+        "optionB": "Cutting",
+        "optionC": "Shaping",
+        "optionD": "Drilling",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "A knife is used for slicing, a hammer is used for pounding."
+    },
+    {
+        "text": "If all clouds produce rain and some weather patterns are clouds, then:",
+        "optionA": "All weather patterns produce rain",
+        "optionB": "Some weather patterns produce rain",
+        "optionC": "No weather patterns produce rain",
+        "optionD": "Cannot determine",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "Some weather patterns (clouds) must produce rain."
+    },
+    {
+        "text": "Next in series: 11, 18, 26, 35, ____",
+        "optionA": "44",
+        "optionB": "45",
+        "optionC": "46",
+        "optionD": "47",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The differences are 7, 8, 9, so the next is 10: 35 + 10 = 45."
+    },
+    {
+        "text": "Odd one out: Violin, Guitar, Flute, Harp",
+        "optionA": "Violin",
+        "optionB": "Guitar",
+        "optionC": "Flute",
+        "optionD": "Harp",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Flute is a wind instrument, while the others are string instruments."
+    },
+    {
+        "text": "All pilots fly. Some people are pilots. So some people fly.",
+        "optionA": "Valid",
+        "optionB": "Invalid",
+        "optionC": "True",
+        "optionD": "False",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Since all pilots fly and some people are pilots, those people fly."
+    },
+    {
+        "text": "Resistance : Ohms :: Voltage :",
+        "optionA": "Volts",
+        "optionB": "Amperes",
+        "optionC": "Watts",
+        "optionD": "Joules",
+        "correctAnswer": "A",
+        "category": "Analytical Ability",
+        "explanation": "Resistance is measured in ohms, voltage is measured in volts."
+    },
+    {
+        "text": "If 2=13, 3=24, 4=37, 5=?",
+        "optionA": "50",
+        "optionB": "51",
+        "optionC": "52",
+        "optionD": "53",
+        "correctAnswer": "C",
+        "category": "Analytical Ability",
+        "explanation": "Pattern: n^2 + 4n + 7, so 5^2 + 4*5 + 7 = 25 + 20 + 7 = 52."
+    },
+    {
+        "text": "Identify assumption: To master a language, one must practice speaking.",
+        "optionA": "Practicing speaking guarantees mastery",
+        "optionB": "Not practicing speaking leads to failure",
+        "optionC": "Both",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "The statement assumes that without practicing speaking, mastering a language is unlikely."
+    },
+    {
+        "text": "In a data interpretation graph showing expenses: Q1 400, Q2 450, Q3 500. What is the average expense?",
+        "optionA": "440",
+        "optionB": "450",
+        "optionC": "460",
+        "optionD": "470",
+        "correctAnswer": "B",
+        "category": "Analytical Ability",
+        "explanation": "(400 + 450 + 500) / 3 = 1350 / 3 = 450."
+    }
+]

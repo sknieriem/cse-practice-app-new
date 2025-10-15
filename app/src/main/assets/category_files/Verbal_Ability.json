@@ -1,0 +1,2002 @@
+[
+    {
+        "text": "Identify the synonym of 'eloquent'.",
+        "optionA": "Silent",
+        "optionB": "Articulate",
+        "optionC": "Confused",
+        "optionD": "Angry",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Eloquent means expressing oneself readily, clearly, and effectively, which is synonymous with articulate, while the other options do not match this meaning."
+    },
+    {
+        "text": "Would you like coffee __________ tea?",
+        "optionA": "so",
+        "optionB": "or",
+        "optionC": "but",
+        "optionD": "and",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The word 'or' is used to present alternatives, making it the correct choice for offering a choice between coffee and tea."
+    },
+    {
+        "text": "I like swimming, ______ my sister likes dancing.",
+        "optionA": "and",
+        "optionB": "or",
+        "optionC": "because",
+        "optionD": "but",
+        "correctAnswer": "D",
+        "category": "Verbal Ability",
+        "explanation": "The word 'but' is used to show contrast between the speaker's preference and their sister's preference."
+    },
+    {
+        "text": "The antonym of 'happy' is:",
+        "optionA": "Joyful",
+        "optionB": "Sad",
+        "optionC": "Excited",
+        "optionD": "Content",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Happy means feeling or showing pleasure, and its opposite is sad, meaning unhappy or sorrowful."
+    },
+    {
+        "text": "Choose the correct spelling: ",
+        "optionA": "Recieve",
+        "optionB": "Receive",
+        "optionC": "Recive",
+        "optionD": "Receve",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'receive', following the rule 'i before e except after c'."
+    },
+    {
+        "text": "Complete the analogy: Book is to reading as fork is to:",
+        "optionA": "Drawing",
+        "optionB": "Eating",
+        "optionC": "Writing",
+        "optionD": "Cooking",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "A book is a tool for reading, just as a fork is a tool for eating."
+    },
+    {
+        "text": "Which sentence is grammatically correct?",
+        "optionA": "He go to school.",
+        "optionB": "He goes to school.",
+        "optionC": "He going to school.",
+        "optionD": "He went to school.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'He goes to school' is correct in present tense with subject-verb agreement for third-person singular."
+    },
+    {
+        "text": "The word 'fast' can mean:",
+        "optionA": "Quick",
+        "optionB": "Not eating",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Fast' can mean quick in speed or abstaining from food, showing it is a homonym with multiple meanings."
+    },
+    {
+        "text": "Rearrange: The / quick / brown / fox",
+        "optionA": "The brown quick fox",
+        "optionB": "The quick brown fox",
+        "optionC": "Quick the brown fox",
+        "optionD": "Brown the quick fox",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard English order is article-adjective-adjective-noun, forming 'The quick brown fox'."
+    },
+    {
+        "text": "What is the main idea of the passage? (Assume a passage)",
+        "optionA": "Option A",
+        "optionB": "Option B",
+        "optionC": "Option C",
+        "optionD": "Option D",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The main idea is the central point of the passage, which is Option B based on the assumed content."
+    },
+    {
+        "text": "Which of the following sentences contains an error in subject-verb agreement?",
+        "optionA": "The team of players are practicing hard.",
+        "optionB": "Each of the students has submitted their assignment.",
+        "optionC": "Neither the manager nor the employees is happy with the decision.",
+        "optionD": "No error.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Each' is singular, so it should be 'has submitted his or her assignment'; 'their' is incorrect for singular subject."
+    },
+    {
+        "text": "Choose the correct synonym for 'append.'",
+        "optionA": "Remove",
+        "optionB": "Add",
+        "optionC": "Ignore",
+        "optionD": "Divide",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Append means to add something as an attachment, so 'add' is the synonym."
+    },
+    {
+        "text": "In the sentence 'The chef cooked the meal quick,' identify the error.",
+        "optionA": "The",
+        "optionB": "cooked",
+        "optionC": "quick",
+        "optionD": "No error.",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Quick' is an adjective; it should be 'quickly' as an adverb to modify 'cooked'."
+    },
+    {
+        "text": "Rearrange the following sentences to form a coherent paragraph: (1) However, it requires dedication. (2) Studying for exams is essential. (3) In summary, consistent effort pays off. (4) First, create a schedule.",
+        "optionA": "2-4-1-3",
+        "optionB": "4-2-1-3",
+        "optionC": "2-1-4-3",
+        "optionD": "1-3-2-4",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The logical order is introduction (2), step (4), challenge (1), conclusion (3)."
+    },
+    {
+        "text": "What is the antonym of 'opaque'?",
+        "optionA": "Cloudy",
+        "optionB": "Clear",
+        "optionC": "Thick",
+        "optionD": "Dense",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Opaque means not transparent, so the opposite is clear or transparent."
+    },
+    {
+        "text": "Identify the misspelled word in the sentence: 'The committee will accomodate all requests.'",
+        "optionA": "committee",
+        "optionB": "will",
+        "optionC": "accomodate",
+        "optionD": "requests",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'accommodate', with double 'm' and 'd'."
+    },
+    {
+        "text": "Choose the correct word usage: 'The effect of the new policy _____ immediate.'",
+        "optionA": "were",
+        "optionB": "was",
+        "optionC": "are",
+        "optionD": "is being",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Effect' is singular, so it takes 'was' in past tense for subject-verb agreement."
+    },
+    {
+        "text": "In reading comprehension, if a passage states 'The economy is improving, but unemployment remains high,' what is the implied conclusion?",
+        "optionA": "Unemployment will decrease soon.",
+        "optionB": "Improvement does not solve all issues.",
+        "optionC": "The economy is worsening.",
+        "optionD": "No conclusion can be drawn.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The passage implies that economic improvement doesn't address all problems like unemployment."
+    },
+    {
+        "text": "Which sentence demonstrates parallelism?",
+        "optionA": "She likes to swim, running, and to hike.",
+        "optionB": "She likes swimming, running, and hiking.",
+        "optionC": "She likes swim, run, and hiking.",
+        "optionD": "She likes to swim, run, and hiking.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Parallelism requires consistent grammatical structure, here all gerunds: swimming, running, hiking."
+    },
+    {
+        "text": "What is the contextual meaning of 'query' in 'Please query the database for updates'?",
+        "optionA": "Question",
+        "optionB": "Delete",
+        "optionC": "Save",
+        "optionD": "Ignore",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "In computing, 'query' means to request or question the database for information."
+    },
+    {
+        "text": "Every Christian's path is beset by peril.",
+        "optionA": "bested",
+        "optionB": "frightened",
+        "optionC": "surrounded",
+        "optionD": "chased",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Beset' means surrounded or attacked from all sides, so 'surrounded' is the synonym."
+    },
+    {
+        "text": "The power failure at 8 P.M. caused consternation among the barangay's residents.",
+        "optionA": "dismay",
+        "optionB": "deliberation",
+        "optionC": "disability",
+        "optionD": "distaste",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "'Consternation' means amazement or dismay that hinders or throws into confusion."
+    },
+    {
+        "text": "The consensus among the congressmen was that the bill would not be passed.",
+        "optionA": "divided",
+        "optionB": "controversy",
+        "optionC": "gathering",
+        "optionD": "agreement",
+        "correctAnswer": "D",
+        "category": "Verbal Ability",
+        "explanation": "'Consensus' means general agreement or collective opinion."
+    },
+    {
+        "text": "Tempestuous times preceded the EDSA People Power Revolution.",
+        "optionA": "emotionally charged",
+        "optionB": "temperate",
+        "optionC": "trying",
+        "optionD": "peaceful",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "'Tempestuous' means stormy or turbulent, implying emotionally charged."
+    },
+    {
+        "text": "Imelda Marcos was known for her ostentatious extravagance.",
+        "optionA": "oscillating",
+        "optionB": "loud",
+        "optionC": "wealthy",
+        "optionD": "showy",
+        "correctAnswer": "D",
+        "category": "Verbal Ability",
+        "explanation": "'Ostentatious' means characterized by vulgar or pretentious display, so 'showy' is the synonym."
+    },
+    {
+        "text": "Some believe that the treatment for modern-day depression is complete abstinence from social media use.",
+        "optionA": "absence",
+        "optionB": "avoidance",
+        "optionC": "sickness",
+        "optionD": "prescription",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Abstinence' means the practice of abstaining or avoiding something."
+    },
+    {
+        "text": "Mary Grace Cafe is a favorite rendezvous for all the titas of Manila.",
+        "optionA": "hidden retreat",
+        "optionB": "hiding place",
+        "optionC": "meeting place",
+        "optionD": "dining room",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Rendezvous' means a place appointed for assembling or meeting."
+    },
+    {
+        "text": "Lola Mona Lisa is so old that her health has regressed to the point that she may die any time soon.",
+        "optionA": "remembered",
+        "optionB": "alluded",
+        "optionC": "deteriorated",
+        "optionD": "progressed",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Regressed' means returned to a former or less developed state, so 'deteriorated' fits."
+    },
+    {
+        "text": "The garrulous taxi driver annoyed most of his passengers especially the introverted ones.",
+        "optionA": "talkative",
+        "optionB": "gracious",
+        "optionC": "sickly",
+        "optionD": "grey",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "'Garrulous' means excessively talkative, especially on trivial matters."
+    },
+    {
+        "text": "A less scrupulous plumber could easily have unnecessarily replaced the drainpipes and run up the cost.",
+        "optionA": "afraid",
+        "optionB": "employed",
+        "optionC": "careful",
+        "optionD": "infamous",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Scrupulous' means diligent, thorough, and extremely attentive to details, so 'careful' is the synonym."
+    },
+    {
+        "text": "What is the main topic of the passage? (Mental health awareness)",
+        "optionA": "Mental Health Awareness Efforts",
+        "optionB": "Government Initiatives in the Philippines",
+        "optionC": "Challenges in Mental Health Support",
+        "optionD": "Importance of Mental Health",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The main topic is efforts to raise mental health awareness, based on the assumed passage."
+    },
+    {
+        "text": "Which legislation is mentioned in the passage?",
+        "optionA": "Healthcare Act",
+        "optionB": "Education Act",
+        "optionC": "Mental Health Act",
+        "optionD": "Social Services Act",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "The passage mentions the Mental Health Act as key legislation."
+    },
+    {
+        "text": "What is the main topic of the passage? (Climate change)",
+        "optionA": "Environmental Challenges",
+        "optionB": "Government Policies",
+        "optionC": "Climate Change",
+        "optionD": "Renewable Energy",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "The main topic is climate change, based on the assumed passage."
+    },
+    {
+        "text": "Identify the synonym of 'meticulous'.",
+        "optionA": "Careless",
+        "optionB": "Precise",
+        "optionC": "Hasty",
+        "optionD": "Sloppy",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Meticulous means showing great attention to detail, which is synonymous with precise."
+    },
+    {
+        "text": "The antonym of 'benevolent' is:",
+        "optionA": "Kind",
+        "optionB": "Malicious",
+        "optionC": "Generous",
+        "optionD": "Friendly",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Benevolent means well-meaning and kind, so the opposite is malicious or harmful."
+    },
+    {
+        "text": "Fill in the blank: He is afraid _____ flying.",
+        "optionA": "of",
+        "optionB": "for",
+        "optionC": "to",
+        "optionD": "with",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The preposition 'of' is used with 'afraid' to indicate the object of fear."
+    },
+    {
+        "text": "Which sentence is in passive voice?",
+        "optionA": "The dog chased the cat.",
+        "optionB": "The cat was chased by the dog.",
+        "optionC": "The cat chases the dog.",
+        "optionD": "The dog is chasing the cat.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Passive voice is when the subject receives the action, as in 'was chased'."
+    },
+    {
+        "text": "Identify the error: 'She don't like apples.'",
+        "optionA": "She",
+        "optionB": "don't",
+        "optionC": "like",
+        "optionD": "apples",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Don't' should be 'doesn't' for third-person singular subject-verb agreement."
+    },
+    {
+        "text": "Complete the analogy: Doctor is to hospital as teacher is to:",
+        "optionA": "Book",
+        "optionB": "School",
+        "optionC": "Student",
+        "optionD": "Pencil",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "A doctor works in a hospital, just as a teacher works in a school."
+    },
+    {
+        "text": "Choose the correct spelling:",
+        "optionA": "Occurence",
+        "optionB": "Occurrance",
+        "optionC": "Occurrence",
+        "optionD": "Ocurence",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'occurrence', with double 'c' and 'r'."
+    },
+    {
+        "text": "The word 'bank' can mean:",
+        "optionA": "River side",
+        "optionB": "Financial institution",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Bank' is a homonym with multiple meanings: edge of a river or a place for money."
+    },
+    {
+        "text": "Rearrange: Is / the / sky / blue",
+        "optionA": "The blue is sky",
+        "optionB": "The sky is blue",
+        "optionC": "Blue is the sky",
+        "optionD": "Sky the is blue",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard English order is subject-verb-complement."
+    },
+    {
+        "text": "Which sentence is correct?",
+        "optionA": "They was going to the market.",
+        "optionB": "They were going to the market.",
+        "optionC": "They is going to the market.",
+        "optionD": "They are going to the market.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'They were' is correct for past continuous tense with plural subject."
+    },
+    {
+        "text": "Choose the synonym for 'diligent'.",
+        "optionA": "Lazy",
+        "optionB": "Hardworking",
+        "optionC": "Careless",
+        "optionD": "Idle",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Diligent means having or showing care and conscientiousness in one's work, synonymous with hardworking."
+    },
+    {
+        "text": "In the sentence 'He ran quick to the store,' the error is:",
+        "optionA": "He",
+        "optionB": "ran",
+        "optionC": "quick",
+        "optionD": "to the store",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Quick' should be 'quickly' as an adverb modifying 'ran'."
+    },
+    {
+        "text": "Rearrange the sentences: (1) The dog barked. (2) The thief ran away. (3) The noise woke the owner. (4) The thief entered the house.",
+        "optionA": "4-1-3-2",
+        "optionB": "4-3-1-2",
+        "optionC": "1-3-4-2",
+        "optionD": "3-1-4-2",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The logical sequence is entry, bark, wake, run away."
+    },
+    {
+        "text": "The antonym of 'abundant' is:",
+        "optionA": "Plentiful",
+        "optionB": "Scarce",
+        "optionC": "Ample",
+        "optionD": "Bountiful",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Abundant means present in great quantity, so the opposite is scarce or rare."
+    },
+    {
+        "text": "Identify the misspelled word: 'The doctor will perscribe medication.'",
+        "optionA": "doctor",
+        "optionB": "will",
+        "optionC": "perscribe",
+        "optionD": "medication",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'prescribe', with 'e' after 'r'."
+    },
+    {
+        "text": "The effect of the drug _____ not known.",
+        "optionA": "are",
+        "optionB": "is",
+        "optionC": "were",
+        "optionD": "have",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Effect' is singular, so it takes 'is' in present tense."
+    },
+    {
+        "text": "Implied in 'The movie was exciting, but the ending was predictable.' is:",
+        "optionA": "The movie was bad.",
+        "optionB": "The excitement didn't last.",
+        "optionC": "The ending was surprising.",
+        "optionD": "No implication.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The contrast suggests the excitement was diminished by the predictable ending."
+    },
+    {
+        "text": "Which sentence has parallelism?",
+        "optionA": "He likes to eat, sleep, and watching TV.",
+        "optionB": "He likes eating, sleeping, and watching TV.",
+        "optionC": "He likes eat, sleep, and watch TV.",
+        "optionD": "He likes to eat, to sleep, watch TV.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "All gerunds maintain parallel structure."
+    },
+    {
+        "text": "Contextual meaning of 'bank' in 'I deposited money in the bank':",
+        "optionA": "River edge",
+        "optionB": "Financial institution",
+        "optionC": "Aircraft maneuver",
+        "optionD": "Group of fish",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "In this context, 'bank' refers to a financial institution for money transactions."
+    },
+    {
+        "text": "President Ronald Drump's efforts to rescind the law were useless.",
+        "optionA": "revive",
+        "optionB": "change",
+        "optionC": "repeal",
+        "optionD": "rescue",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Rescind' means to revoke or repeal a law."
+    },
+    {
+        "text": "The governor has a vindictive attitude toward his ex-wife who cheated on him.",
+        "optionA": "vindicated",
+        "optionB": "troublesome",
+        "optionC": "weak",
+        "optionD": "vengeful",
+        "correctAnswer": "D",
+        "category": "Verbal Ability",
+        "explanation": "'Vindictive' means having or showing a strong desire for revenge."
+    },
+    {
+        "text": "The Spanish colonizers subjugated the native population of the Philippines in order to introduce Christianity.",
+        "optionA": "liberated",
+        "optionB": "subdued",
+        "optionC": "frightened",
+        "optionD": "digressed",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Subjugated' means brought under domination or control."
+    },
+    {
+        "text": "Paulo wanted to become a doctor because of his desire to mitigate misery in the world.",
+        "optionA": "aggravate",
+        "optionB": "intensify",
+        "optionC": "finish",
+        "optionD": "alleviate",
+        "correctAnswer": "D",
+        "category": "Verbal Ability",
+        "explanation": "'Mitigate' means to make less severe or painful, synonymous with alleviate."
+    },
+    {
+        "text": "Identify the synonym of 'ubiquitous'.",
+        "optionA": "Rare",
+        "optionB": "Omnipresent",
+        "optionC": "Unique",
+        "optionD": "Obscure",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Ubiquitous means present everywhere, synonymous with omnipresent."
+    },
+    {
+        "text": "The antonym of 'ephemeral' is:",
+        "optionA": "Transient",
+        "optionB": "Permanent",
+        "optionC": "Fleeting",
+        "optionD": "Short-lived",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Ephemeral means lasting for a short time, so the opposite is permanent."
+    },
+    {
+        "text": "Fill in the blank: She is allergic _____ nuts.",
+        "optionA": "to",
+        "optionB": "with",
+        "optionC": "of",
+        "optionD": "for",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The preposition 'to' is used with 'allergic' to indicate the allergen."
+    },
+    {
+        "text": "Which sentence is in active voice?",
+        "optionA": "The book was read by the student.",
+        "optionB": "The student read the book.",
+        "optionC": "The book is being read by the student.",
+        "optionD": "The book has been read by the student.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Active voice is when the subject performs the action, as in 'student read'."
+    },
+    {
+        "text": "Identify the error: 'The boys plays football.'",
+        "optionA": "The",
+        "optionB": "boys",
+        "optionC": "plays",
+        "optionD": "football",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Boys' is plural, so it should be 'play' for subject-verb agreement."
+    },
+    {
+        "text": "Complete the analogy: Pen is to write as knife is to:",
+        "optionA": "Cut",
+        "optionB": "Eat",
+        "optionC": "Sharpen",
+        "optionD": "Cook",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "A pen is used to write, just as a knife is used to cut."
+    },
+    {
+        "text": "The word 'lead' can mean:",
+        "optionA": "Metal",
+        "optionB": "Guide",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Lead' is a homonym meaning a heavy metal or to guide someone."
+    },
+    {
+        "text": "Rearrange: My / dog / is / black",
+        "optionA": "My black is dog",
+        "optionB": "My dog is black",
+        "optionC": "Black is my dog",
+        "optionD": "Dog my is black",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard order is possessive-subject-verb-adjective."
+    },
+    {
+        "text": "Choose the synonym for 'resilient'.",
+        "optionA": "Fragile",
+        "optionB": "Tough",
+        "optionC": "Weak",
+        "optionD": "Brittle",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Resilient means able to withstand or recover quickly from difficult conditions, synonymous with tough."
+    },
+    {
+        "text": "The antonym of 'ascend' is:",
+        "optionA": "Rise",
+        "optionB": "Descend",
+        "optionC": "Climb",
+        "optionD": "Soar",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Ascend means to go up, so the opposite is descend or go down."
+    },
+    {
+        "text": "Fill in the blank: The book belongs _____ her.",
+        "optionA": "to",
+        "optionB": "with",
+        "optionC": "for",
+        "optionD": "of",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The preposition 'to' is used to indicate ownership with 'belongs'."
+    },
+    {
+        "text": "Which sentence is in future tense?",
+        "optionA": "She eats.",
+        "optionB": "She ate.",
+        "optionC": "She will eat.",
+        "optionD": "She is eating.",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Will eat' indicates future action."
+    },
+    {
+        "text": "Identify the error: 'The childrens are playing.'",
+        "optionA": "The",
+        "optionB": "childrens",
+        "optionC": "are",
+        "optionD": "playing",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Childrens' is incorrect; the plural is 'children'."
+    },
+    {
+        "text": "Complete the analogy: Ocean is to water as desert is to:",
+        "optionA": "Sand",
+        "optionB": "Heat",
+        "optionC": "Cactus",
+        "optionD": "Camel",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Ocean is composed of water, desert is composed of sand."
+    },
+    {
+        "text": "The word 'fair' can mean:",
+        "optionA": "Just",
+        "optionB": "Carnival",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Fair' is a homonym meaning equitable or a festival."
+    },
+    {
+        "text": "Rearrange: Cat / the / is / sleeping",
+        "optionA": "The sleeping is cat",
+        "optionB": "The cat is sleeping",
+        "optionC": "Sleeping is the cat",
+        "optionD": "Cat the is sleeping",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard order is article-subject-verb-gerund."
+    },
+    {
+        "text": "Choose the synonym for 'eloquent'.",
+        "optionA": "Mute",
+        "optionB": "Fluent",
+        "optionC": "Stutter",
+        "optionD": "Quiet",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Eloquent means fluent or persuasive in speaking or writing."
+    },
+    {
+        "text": "In the sentence 'She sings beautiful,' the error is:",
+        "optionA": "She",
+        "optionB": "sings",
+        "optionC": "beautiful",
+        "optionD": "No error",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Beautiful' should be 'beautifully' as an adverb modifying 'sings'."
+    },
+    {
+        "text": "Rearrange the sentences: (1) It started raining. (2) We went inside. (3) We were playing outside. (4) The game stopped.",
+        "optionA": "3-1-4-2",
+        "optionB": "3-1-2-4",
+        "optionC": "1-3-2-4",
+        "optionD": "2-1-3-4",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The logical sequence is playing, raining, inside, stopped."
+    },
+    {
+        "text": "The antonym of 'generous' is:",
+        "optionA": "Kind",
+        "optionB": "Stingy",
+        "optionC": "Giving",
+        "optionD": "Charitable",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Generous means liberal in giving, so the opposite is stingy or miserly."
+    },
+    {
+        "text": "Identify the misspelled word: 'The patient is concious.'",
+        "optionA": "patient",
+        "optionB": "is",
+        "optionC": "concious",
+        "optionD": "The",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'conscious', with 's' before 'c'."
+    },
+    {
+        "text": "The impact of the decision _____ significant.",
+        "optionA": "were",
+        "optionB": "was",
+        "optionC": "are",
+        "optionD": "have",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Impact' is singular, so it takes 'was'."
+    },
+    {
+        "text": "Implied in 'The team won, but they made many errors.' is:",
+        "optionA": "The win was easy.",
+        "optionB": "The win was despite errors.",
+        "optionC": "The team lost.",
+        "optionD": "No implication.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The contrast suggests the win happened in spite of errors."
+    },
+    {
+        "text": "Contextual meaning of 'light' in 'The light is on':",
+        "optionA": "Weight",
+        "optionB": "Illumination",
+        "optionC": "Color",
+        "optionD": "Heavy",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "In this context, 'light' refers to illumination from a source."
+    },
+    {
+        "text": "The company's policy is very stringent.",
+        "optionA": "Lenient",
+        "optionB": "Strict",
+        "optionC": "Flexible",
+        "optionD": "Loose",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Stringent' means strict or precise."
+    },
+    {
+        "text": "The novel's plot was intricate.",
+        "optionA": "Simple",
+        "optionB": "Complicated",
+        "optionC": "Straightforward",
+        "optionD": "Basic",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Intricate' means very complicated or detailed."
+    },
+    {
+        "text": "She has a propensity for music.",
+        "optionA": "Dislike",
+        "optionB": "Tendency",
+        "optionC": "Fear",
+        "optionD": "Aversion",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Propensity' means an inclination or natural tendency."
+    },
+    {
+        "text": "The decision was arbitrary.",
+        "optionA": "Reasoned",
+        "optionB": "Random",
+        "optionC": "Planned",
+        "optionD": "Thoughtful",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Arbitrary' means based on random choice or personal whim."
+    },
+    {
+        "text": "He is known for his candor.",
+        "optionA": "Dishonesty",
+        "optionB": "Honesty",
+        "optionC": "Deceit",
+        "optionD": "Secrecy",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Candor' means the quality of being open and honest."
+    },
+    {
+        "text": "The task was daunting.",
+        "optionA": "Easy",
+        "optionB": "Intimidating",
+        "optionC": "Simple",
+        "optionD": "Straightforward",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Daunting' means seeming difficult to deal with in anticipation, intimidating."
+    },
+    {
+        "text": "Her explanation was lucid.",
+        "optionA": "Confusing",
+        "optionB": "Clear",
+        "optionC": "Vague",
+        "optionD": "Obscure",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Lucid' means expressed clearly, easy to understand."
+    },
+    {
+        "text": "The rumor was baseless.",
+        "optionA": "Founded",
+        "optionB": "Unfounded",
+        "optionC": "True",
+        "optionD": "Verified",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Baseless' means without foundation in fact."
+    },
+    {
+        "text": "He is an astute businessman.",
+        "optionA": "Foolish",
+        "optionB": "Shrewd",
+        "optionC": "Naive",
+        "optionD": "Ignorant",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Astute' means having or showing an ability to accurately assess situations or people."
+    },
+    {
+        "text": "The plan was feasible.",
+        "optionA": "Impossible",
+        "optionB": "Possible",
+        "optionC": "Unworkable",
+        "optionD": "Impractical",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Feasible' means possible to do easily or conveniently."
+    },
+    {
+        "text": "Identify the synonym of 'prolific'.",
+        "optionA": "Barren",
+        "optionB": "Productive",
+        "optionC": "Scarce",
+        "optionD": "Sparse",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Prolific means producing much fruit or foliage or many offspring, synonymous with productive."
+    },
+    {
+        "text": "The antonym of 'meager' is:",
+        "optionA": "Scanty",
+        "optionB": "Abundant",
+        "optionC": "Insufficient",
+        "optionD": "Sparse",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Meager means lacking in quantity or quality, so the opposite is abundant."
+    },
+    {
+        "text": "Fill in the blank: They are interested _____ learning French.",
+        "optionA": "in",
+        "optionB": "on",
+        "optionC": "at",
+        "optionD": "for",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The preposition 'in' is used with 'interested' to indicate the subject of interest."
+    },
+    {
+        "text": "Which sentence is in past perfect tense?",
+        "optionA": "She eats.",
+        "optionB": "She had eaten.",
+        "optionC": "She will eat.",
+        "optionD": "She is eating.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Had eaten' indicates an action completed before another past action."
+    },
+    {
+        "text": "Identify the error: 'The news are good.'",
+        "optionA": "The",
+        "optionB": "news",
+        "optionC": "are",
+        "optionD": "good",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'News' is singular, so it should be 'is'."
+    },
+    {
+        "text": "Complete the analogy: Bird is to fly as fish is to:",
+        "optionA": "Swim",
+        "optionB": "Walk",
+        "optionC": "Run",
+        "optionD": "Jump",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Birds typically fly, fish typically swim."
+    },
+    {
+        "text": "The word 'bark' can mean:",
+        "optionA": "Tree covering",
+        "optionB": "Dog sound",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Bark' is a homonym meaning outer covering of tree or a dog's sound."
+    },
+    {
+        "text": "Rearrange: House / the / is / big",
+        "optionA": "The big is house",
+        "optionB": "The house is big",
+        "optionC": "Big is the house",
+        "optionD": "House the is big",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard order is article-subject-verb-adjective."
+    },
+    {
+        "text": "Choose the synonym for 'vivacious'.",
+        "optionA": "Dull",
+        "optionB": "Lively",
+        "optionC": "Boring",
+        "optionD": "Lethargic",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Vivacious means attractively lively and animated."
+    },
+    {
+        "text": "In the sentence 'He drives careful,' the error is:",
+        "optionA": "He",
+        "optionB": "drives",
+        "optionC": "careful",
+        "optionD": "No error",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Careful' should be 'carefully' as an adverb."
+    },
+    {
+        "text": "Rearrange the sentences: (1) The bell rang. (2) The class ended. (3) Students left. (4) Teacher dismissed.",
+        "optionA": "4-1-2-3",
+        "optionB": "1-4-2-3",
+        "optionC": "4-2-1-3",
+        "optionD": "2-1-4-3",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Logical order: dismissed, rang, ended, left."
+    },
+    {
+        "text": "The antonym of 'hostile' is:",
+        "optionA": "Friendly",
+        "optionB": "Aggressive",
+        "optionC": "Antagonistic",
+        "optionD": "Belligerent",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Hostile means unfriendly, so opposite is friendly."
+    },
+    {
+        "text": "Identify the misspelled word: 'The arguement was heated.'",
+        "optionA": "The",
+        "optionB": "arguement",
+        "optionC": "was",
+        "optionD": "heated",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'argument', without 'e' after 'u'."
+    },
+    {
+        "text": "The results of the experiment _____ surprising.",
+        "optionA": "was",
+        "optionB": "were",
+        "optionC": "is",
+        "optionD": "has",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Results' is plural, so it takes 'were'."
+    },
+    {
+        "text": "Implied in 'She studied hard, yet she failed.' is:",
+        "optionA": "Studying guarantees success.",
+        "optionB": "Failure despite effort.",
+        "optionC": "She didn't study.",
+        "optionD": "No implication.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The contrast implies failure occurred despite hard study."
+    },
+    {
+        "text": "Contextual meaning of 'bat' in 'He hit the ball with a bat':",
+        "optionA": "Animal",
+        "optionB": "Baseball equipment",
+        "optionC": "Eyelid movement",
+        "optionD": "None",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "In this context, 'bat' refers to a club used in baseball."
+    },
+    {
+        "text": "The artist's work was eclectic.",
+        "optionA": "Uniform",
+        "optionB": "Varied",
+        "optionC": "Consistent",
+        "optionD": "Monotonous",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Eclectic' means deriving ideas from a broad and diverse range of sources."
+    },
+    {
+        "text": "The policy was draconian.",
+        "optionA": "Lenient",
+        "optionB": "Harsh",
+        "optionC": "Fair",
+        "optionD": "Just",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Draconian' means excessively harsh and severe."
+    },
+    {
+        "text": "She has an affinity for art.",
+        "optionA": "Dislike",
+        "optionB": "Natural liking",
+        "optionC": "Fear",
+        "optionD": "Aversion",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Affinity' means a spontaneous or natural liking or sympathy for someone or something."
+    },
+    {
+        "text": "The statement was ambiguous.",
+        "optionA": "Clear",
+        "optionB": "Unclear",
+        "optionC": "Precise",
+        "optionD": "Explicit",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Ambiguous' means open to more than one interpretation."
+    },
+    {
+        "text": "He is pragmatic.",
+        "optionA": "Idealistic",
+        "optionB": "Practical",
+        "optionC": "Dreamy",
+        "optionD": "Theoretical",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Pragmatic' means dealing with things sensibly and realistically."
+    },
+    {
+        "text": "The event was fortuitous.",
+        "optionA": "Planned",
+        "optionB": "Lucky",
+        "optionC": "Unfortunate",
+        "optionD": "Deliberate",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Fortuitous' means happening by accident or chance rather than design, often lucky."
+    },
+    {
+        "text": "Her response was terse.",
+        "optionA": "Verbose",
+        "optionB": "Concise",
+        "optionC": "Lengthy",
+        "optionD": "Wordy",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Terse' means sparing in the use of words; abrupt."
+    },
+    {
+        "text": "The theory is tenable.",
+        "optionA": "Indefensible",
+        "optionB": "Defensible",
+        "optionC": "Unsound",
+        "optionD": "Invalid",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Tenable' means able to be maintained or defended against attack or objection."
+    },
+    {
+        "text": "He is loquacious.",
+        "optionA": "Taciturn",
+        "optionB": "Talkative",
+        "optionC": "Quiet",
+        "optionD": "Reserved",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Loquacious' means tending to talk a great deal."
+    },
+    {
+        "text": "The landscape was barren.",
+        "optionA": "Fertile",
+        "optionB": "Empty",
+        "optionC": "Lush",
+        "optionD": "Verdant",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Barren' means too poor to produce much or any vegetation."
+    },
+    {
+        "text": "Identify the synonym of 'zealous'.",
+        "optionA": "Apathetic",
+        "optionB": "Enthusiastic",
+        "optionC": "Indifferent",
+        "optionD": "Lethargic",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Zealous means having or showing zeal, enthusiastic."
+    },
+    {
+        "text": "The antonym of 'venerable' is:",
+        "optionA": "Respected",
+        "optionB": "Disreputable",
+        "optionC": "Honorable",
+        "optionD": "Esteemed",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Venerable means accorded a great deal of respect, so opposite is disreputable."
+    },
+    {
+        "text": "Fill in the blank: We are committed _____ excellence.",
+        "optionA": "to",
+        "optionB": "with",
+        "optionC": "for",
+        "optionD": "of",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The preposition 'to' is used with 'committed' to indicate dedication."
+    },
+    {
+        "text": "Which sentence is in present perfect tense?",
+        "optionA": "She eats.",
+        "optionB": "She has eaten.",
+        "optionC": "She will eat.",
+        "optionD": "She ate.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Has eaten' indicates an action completed in the present."
+    },
+    {
+        "text": "Identify the error: 'A herd of cattles.'",
+        "optionA": "A",
+        "optionB": "herd",
+        "optionC": "of",
+        "optionD": "cattles",
+        "correctAnswer": "D",
+        "category": "Verbal Ability",
+        "explanation": "'Cattle' is already plural; no 's' needed."
+    },
+    {
+        "text": "Complete the analogy: Hot is to cold as light is to:",
+        "optionA": "Dark",
+        "optionB": "Bright",
+        "optionC": "Heavy",
+        "optionD": "Day",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Hot and cold are opposites, light and dark are opposites."
+    },
+    {
+        "text": "The word 'right' can mean:",
+        "optionA": "Correct",
+        "optionB": "Direction",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Right' is a homonym meaning correct or opposite of left."
+    },
+    {
+        "text": "Rearrange: Birds / the / are / flying",
+        "optionA": "The flying are birds",
+        "optionB": "The birds are flying",
+        "optionC": "Flying are the birds",
+        "optionD": "Birds the are flying",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard order is article-subject-verb-gerund."
+    },
+    {
+        "text": "Choose the synonym for 'quintessential'.",
+        "optionA": "Atypical",
+        "optionB": "Typical",
+        "optionC": "Unusual",
+        "optionD": "Aberrant",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Quintessential means representing the most perfect or typical example."
+    },
+    {
+        "text": "In the sentence 'The team play well,' the error is:",
+        "optionA": "The",
+        "optionB": "team",
+        "optionC": "play",
+        "optionD": "well",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Team' is singular collective, so 'plays'."
+    },
+    {
+        "text": "Rearrange the sentences: (1) He opened the door. (2) The alarm sounded. (3) He entered the room. (4) He saw the safe.",
+        "optionA": "1-3-2-4",
+        "optionB": "1-3-4-2",
+        "optionC": "3-1-2-4",
+        "optionD": "2-1-3-4",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Logical order: opened, entered, alarm, saw."
+    },
+    {
+        "text": "The antonym of 'profound' is:",
+        "optionA": "Deep",
+        "optionB": "Superficial",
+        "optionC": "Intense",
+        "optionD": "Significant",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Profound means very great or intense, opposite is superficial."
+    },
+    {
+        "text": "Identify the misspelled word: 'The calender is on the wall.'",
+        "optionA": "The",
+        "optionB": "calender",
+        "optionC": "is",
+        "optionD": "wall",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'calendar'."
+    },
+    {
+        "text": "The number of books _____ ten.",
+        "optionA": "is",
+        "optionB": "are",
+        "optionC": "was",
+        "optionD": "have",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "'Number' is singular, so 'is'."
+    },
+    {
+        "text": "Implied in 'He is rich, but unhappy.' is:",
+        "optionA": "Richness brings happiness.",
+        "optionB": "Richness does not guarantee happiness.",
+        "optionC": "He is poor.",
+        "optionD": "No implication.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The contrast implies money doesn't ensure happiness."
+    },
+    {
+        "text": "Contextual meaning of 'ring' in 'The phone ring is loud':",
+        "optionA": "Jewelry",
+        "optionB": "Sound",
+        "optionC": "Circle",
+        "optionD": "Arena",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "In this context, 'ring' refers to the sound of the phone."
+    },
+    {
+        "text": "The movie was banal.",
+        "optionA": "Original",
+        "optionB": "Trite",
+        "optionC": "Innovative",
+        "optionD": "Creative",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Banal' means so lacking in originality as to be obvious and boring."
+    },
+    {
+        "text": "His behavior was eccentric.",
+        "optionA": "Normal",
+        "optionB": "Unconventional",
+        "optionC": "Conventional",
+        "optionD": "Standard",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Eccentric' means unconventional and slightly strange."
+    },
+    {
+        "text": "The idea is plausible.",
+        "optionA": "Unbelievable",
+        "optionB": "Believable",
+        "optionC": "Absurd",
+        "optionD": "Ridiculous",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Plausible' means seeming reasonable or probable."
+    },
+    {
+        "text": "She is meticulous in her work.",
+        "optionA": "Careless",
+        "optionB": "Careful",
+        "optionC": "Hasty",
+        "optionD": "Sloppy",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Meticulous' means showing great attention to detail."
+    },
+    {
+        "text": "The speech was eloquent.",
+        "optionA": "Inarticulate",
+        "optionB": "Persuasive",
+        "optionC": "Confused",
+        "optionD": "Mumbled",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Eloquent' means fluent or persuasive in speaking or writing."
+    },
+    {
+        "text": "The plan was futile.",
+        "optionA": "Useful",
+        "optionB": "Useless",
+        "optionC": "Effective",
+        "optionD": "Productive",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Futile' means incapable of producing any useful result."
+    },
+    {
+        "text": "The main idea of the passage? (Assume a passage)",
+        "optionA": "Option A",
+        "optionB": "Option B",
+        "optionC": "Option C",
+        "optionD": "Option D",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The main idea is the central point of the passage, which is Option B based on the assumed content."
+    },
+    {
+        "text": "He is gregarious.",
+        "optionA": "Solitary",
+        "optionB": "Sociable",
+        "optionC": "Introverted",
+        "optionD": "Reclusive",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Gregarious' means fond of company; sociable."
+    },
+    {
+        "text": "The error was inadvertent.",
+        "optionA": "Intentional",
+        "optionB": "Unintentional",
+        "optionC": "Deliberate",
+        "optionD": "Planned",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Inadvertent' means not resulting from or achieved through deliberate planning."
+    },
+    {
+        "text": "The story is apocryphal.",
+        "optionA": "Authentic",
+        "optionB": "Doubtful authenticity",
+        "optionC": "True",
+        "optionD": "Verified",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Apocryphal' means of doubtful authenticity, although widely circulated as being true."
+    },
+    {
+        "text": "She is laconic.",
+        "optionA": "Verbose",
+        "optionB": "Concise",
+        "optionC": "Talkative",
+        "optionD": "Loquacious",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Laconic' means using very few words."
+    },
+    {
+        "text": "The antonym of 'opulent' is:",
+        "optionA": "Wealthy",
+        "optionB": "Poor",
+        "optionC": "Lavish",
+        "optionD": "Affluent",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Opulent means ostentatiously rich and luxurious, opposite is poor."
+    },
+    {
+        "text": "Fill in the blank: The cat jumped _____ the table.",
+        "optionA": "on",
+        "optionB": "over",
+        "optionC": "in",
+        "optionD": "at",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Over' indicates movement from one side to the other."
+    },
+    {
+        "text": "Which sentence is in conditional tense?",
+        "optionA": "She eats.",
+        "optionB": "She would eat.",
+        "optionC": "She ate.",
+        "optionD": "She is eating.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Would eat' indicates a conditional action."
+    },
+    {
+        "text": "Identify the error: 'The furnitures are new.'",
+        "optionA": "The",
+        "optionB": "furnitures",
+        "optionC": "are",
+        "optionD": "new",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Furniture' is uncountable; no 's'."
+    },
+    {
+        "text": "Complete the analogy: Day is to night as sun is to:",
+        "optionA": "Moon",
+        "optionB": "Star",
+        "optionC": "Light",
+        "optionD": "Sky",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Day and night are opposites, sun and moon are associated opposites."
+    },
+    {
+        "text": "The word 'desert' can mean:",
+        "optionA": "Abandon",
+        "optionB": "Arid land",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Desert' is a homonym meaning to abandon or a dry area."
+    },
+    {
+        "text": "Rearrange: Flowers / the / are / beautiful",
+        "optionA": "The beautiful are flowers",
+        "optionB": "The flowers are beautiful",
+        "optionC": "Beautiful are the flowers",
+        "optionD": "Flowers the are beautiful",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard order is article-subject-verb-adjective."
+    },
+    {
+        "text": "Choose the synonym for 'tenacious'.",
+        "optionA": "Weak",
+        "optionB": "Persistent",
+        "optionC": "Giving up",
+        "optionD": "Feeble",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Tenacious means tending to keep a firm hold of something; persistent."
+    },
+    {
+        "text": "In the sentence 'The children sings songs,' the error is:",
+        "optionA": "The",
+        "optionB": "children",
+        "optionC": "sings",
+        "optionD": "songs",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Children' is plural, so 'sing'."
+    },
+    {
+        "text": "Rearrange the sentences: (1) The cake baked. (2) Ingredients mixed. (3) Oven preheated. (4) Cake served.",
+        "optionA": "3-2-1-4",
+        "optionB": "2-3-1-4",
+        "optionC": "1-2-3-4",
+        "optionD": "4-3-2-1",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Logical order: preheat, mix, bake, serve."
+    },
+    {
+        "text": "The antonym of 'diligent' is:",
+        "optionA": "Hardworking",
+        "optionB": "Lazy",
+        "optionC": "Assiduous",
+        "optionD": "Industrious",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Diligent means careful and conscientious, opposite is lazy."
+    },
+    {
+        "text": "Identify the misspelled word: 'The restuarant is open.'",
+        "optionA": "The",
+        "optionB": "restuarant",
+        "optionC": "is",
+        "optionD": "open",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'restaurant'."
+    },
+    {
+        "text": "The group of students _____ arriving.",
+        "optionA": "is",
+        "optionB": "are",
+        "optionC": "was",
+        "optionD": "have",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "'Group' is singular collective, so 'is'."
+    },
+    {
+        "text": "Implied in 'It was cold, so she wore a jacket.' is:",
+        "optionA": "Cold causes jacket wearing.",
+        "optionB": "Jacket for warmth.",
+        "optionC": "No implication.",
+        "optionD": "She likes cold.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The connection implies the jacket is for warmth in cold."
+    },
+    {
+        "text": "Contextual meaning of 'bear' in 'I can't bear the pain':",
+        "optionA": "Animal",
+        "optionB": "Endure",
+        "optionC": "Carry",
+        "optionD": "Fruit",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "In this context, 'bear' means to endure or tolerate."
+    },
+    {
+        "text": "The leader was charismatic.",
+        "optionA": "Dull",
+        "optionB": "Charming",
+        "optionC": "Boring",
+        "optionD": "Uninspiring",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Charismatic' means exercising a compelling charm that inspires devotion in others."
+    },
+    {
+        "text": "The solution was ingenious.",
+        "optionA": "Stupid",
+        "optionB": "Clever",
+        "optionC": "Foolish",
+        "optionD": "Silly",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Ingenious' means clever, original, and inventive."
+    },
+    {
+        "text": "He is meticulous about cleanliness.",
+        "optionA": "Careless",
+        "optionB": "Fastidious",
+        "optionC": "Sloppy",
+        "optionD": "Negligent",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Meticulous' means showing great attention to detail; very careful and precise."
+    },
+    {
+        "text": "The rumor spread rapidly.",
+        "optionA": "Slowly",
+        "optionB": "Quickly",
+        "optionC": "Gradually",
+        "optionD": "Steadily",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Rapidly' means very quickly."
+    },
+    {
+        "text": "The task is arduous.",
+        "optionA": "Easy",
+        "optionB": "Difficult",
+        "optionC": "Simple",
+        "optionD": "Effortless",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Arduous' means involving or requiring strenuous effort; difficult and tiring."
+    },
+    {
+        "text": "She is benevolent.",
+        "optionA": "Malevolent",
+        "optionB": "Kind-hearted",
+        "optionC": "Cruel",
+        "optionD": "Selfish",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Benevolent' means well meaning and kindly."
+    },
+    {
+        "text": "The painting is exquisite.",
+        "optionA": "Ugly",
+        "optionB": "Beautiful",
+        "optionC": "Plain",
+        "optionD": "Ordinary",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Exquisite' means extremely beautiful and delicate."
+    },
+    {
+        "text": "His argument was fallacious.",
+        "optionA": "Logical",
+        "optionB": "Misleading",
+        "optionC": "Sound",
+        "optionD": "Valid",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Fallacious' means based on a mistaken belief."
+    },
+    {
+        "text": "The weather is inclement.",
+        "optionA": "Pleasant",
+        "optionB": "Stormy",
+        "optionC": "Mild",
+        "optionD": "Calm",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Inclement' means (of the weather) unpleasantly cold or wet."
+    },
+    {
+        "text": "She is indomitable.",
+        "optionA": "Weak",
+        "optionB": "Unconquerable",
+        "optionC": "Timid",
+        "optionD": "Fearful",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Indomitable' means impossible to subdue or defeat."
+    },
+    {
+        "text": "Identify the synonym of 'nefarious'.",
+        "optionA": "Virtuous",
+        "optionB": "Wicked",
+        "optionC": "Good",
+        "optionD": "Moral",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Nefarious means wicked or criminal."
+    },
+    {
+        "text": "The antonym of 'lucid' is:",
+        "optionA": "Clear",
+        "optionB": "Confusing",
+        "optionC": "Understandable",
+        "optionD": "Coherent",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Lucid means clear and easy to understand, opposite is confusing."
+    },
+    {
+        "text": "Fill in the blank: He is proficient _____ mathematics.",
+        "optionA": "in",
+        "optionB": "on",
+        "optionC": "at",
+        "optionD": "with",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "The preposition 'in' is used with 'proficient' for subjects."
+    },
+    {
+        "text": "Which sentence is in imperative mood?",
+        "optionA": "She eats.",
+        "optionB": "Eat your food.",
+        "optionC": "She ate.",
+        "optionD": "She is eating.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Imperative mood gives commands, like 'Eat'."
+    },
+    {
+        "text": "Identify the error: 'The scissors is sharp.'",
+        "optionA": "The",
+        "optionB": "scissors",
+        "optionC": "is",
+        "optionD": "sharp",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Scissors' is plural, so 'are'."
+    },
+    {
+        "text": "Complete the analogy: Lock is to key as code is to:",
+        "optionA": "Password",
+        "optionB": "Door",
+        "optionC": "Computer",
+        "optionD": "Book",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "A lock is opened by a key, a code by a password."
+    },
+    {
+        "text": "The word 'minute' can mean:",
+        "optionA": "Small",
+        "optionB": "Time unit",
+        "optionC": "Both A and B",
+        "optionD": "None",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Minute' is a homonym meaning very small or 60 seconds."
+    },
+    {
+        "text": "Rearrange: Stars / the / are / shining",
+        "optionA": "The shining are stars",
+        "optionB": "The stars are shining",
+        "optionC": "Shining are the stars",
+        "optionD": "Stars the are shining",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The standard order is article-subject-verb-gerund."
+    },
+    {
+        "text": "Choose the synonym for 'sporadic'.",
+        "optionA": "Continuous",
+        "optionB": "Occasional",
+        "optionC": "Constant",
+        "optionD": "Regular",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Sporadic means occurring at irregular intervals or only in a few places; scattered or isolated."
+    },
+    {
+        "text": "In the sentence 'The jury have decided,' the error is:",
+        "optionA": "The",
+        "optionB": "jury",
+        "optionC": "have",
+        "optionD": "decided",
+        "correctAnswer": "C",
+        "category": "Verbal Ability",
+        "explanation": "'Jury' is singular collective, so 'has'."
+    },
+    {
+        "text": "Rearrange the sentences: (1) The letter mailed. (2) Envelope sealed. (3) Stamp affixed. (4) Address written.",
+        "optionA": "4-3-2-1",
+        "optionB": "4-2-3-1",
+        "optionC": "1-2-3-4",
+        "optionD": "3-4-2-1",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "Logical order: address, stamp, seal, mail."
+    },
+    {
+        "text": "The antonym of 'exuberant' is:",
+        "optionA": "Energetic",
+        "optionB": "Subdued",
+        "optionC": "Vibrant",
+        "optionD": "Lively",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "Exuberant means filled with or characterized by a lively energy and excitement, opposite is subdued."
+    },
+    {
+        "text": "Identify the misspelled word: 'The commitee met.'",
+        "optionA": "The",
+        "optionB": "commitee",
+        "optionC": "met",
+        "optionD": "No error",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The correct spelling is 'committee'."
+    },
+    {
+        "text": "The flock of birds _____ flying south.",
+        "optionA": "is",
+        "optionB": "are",
+        "optionC": "was",
+        "optionD": "have",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "'Flock' is singular collective, so 'is'."
+    },
+    {
+        "text": "Implied in 'The road was long, but they persevered.' is:",
+        "optionA": "They gave up.",
+        "optionB": "They continued despite difficulty.",
+        "optionC": "The road was short.",
+        "optionD": "No implication.",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "The contrast implies perseverance in face of length."
+    },
+    {
+        "text": "Contextual meaning of 'date' in 'We have a date tonight':",
+        "optionA": "Fruit",
+        "optionB": "Romantic appointment",
+        "optionC": "Calendar day",
+        "optionD": "Tree",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "In this context, 'date' means a social or romantic appointment."
+    },
+    {
+        "text": "The concept is abstract.",
+        "optionA": "Concrete",
+        "optionB": "Theoretical",
+        "optionC": "Tangible",
+        "optionD": "Physical",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Abstract' means existing in thought or as an idea but not having a physical or concrete existence."
+    },
+    {
+        "text": "His attitude is cavalier.",
+        "optionA": "Serious",
+        "optionB": "Dismissive",
+        "optionC": "Concerned",
+        "optionD": "Attentive",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Cavalier' means showing a lack of proper concern; offhand."
+    },
+    {
+        "text": "The evidence is circumstantial.",
+        "optionA": "Direct",
+        "optionB": "Indirect",
+        "optionC": "Conclusive",
+        "optionD": "Definitive",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Circumstantial' means pointing indirectly toward someone's guilt but not conclusively proving it."
+    },
+    {
+        "text": "She is demure.",
+        "optionA": "Bold",
+        "optionB": "Modest",
+        "optionC": "Brash",
+        "optionD": "Outspoken",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Demure' means reserved, modest, and shy."
+    },
+    {
+        "text": "The action was egregious.",
+        "optionA": "Admirable",
+        "optionB": "Outrageous",
+        "optionC": "Praiseworthy",
+        "optionD": "Commendable",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Egregious' means outstandingly bad; shocking."
+    },
+    {
+        "text": "The theory is esoteric.",
+        "optionA": "Common",
+        "optionB": "Obscure",
+        "optionC": "Known",
+        "optionD": "Popular",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Esoteric' means intended for or likely to be understood by only a small number of people with a specialized knowledge or interest."
+    },
+    {
+        "text": "He is fastidious.",
+        "optionA": "Sloppy",
+        "optionB": "Very attentive to detail",
+        "optionC": "Careless",
+        "optionD": "Negligent",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Fastidious' means very attentive to and concerned about accuracy and detail."
+    },
+    {
+        "text": "The remark was facetious.",
+        "optionA": "Serious",
+        "optionB": "Flippant",
+        "optionC": "Earnest",
+        "optionD": "Sincere",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Facetious' means treating serious issues with deliberately inappropriate humor; flippant."
+    },
+    {
+        "text": "The plan is grandiose.",
+        "optionA": "Modest",
+        "optionB": "Impressive",
+        "optionC": "Simple",
+        "optionD": "Humble",
+        "correctAnswer": "B",
+        "category": "Verbal Ability",
+        "explanation": "'Grandiose' means impressive or magnificent in appearance or style, especially pretentiously so."
+    },
+    {
+        "text": "She is heuristic.",
+        "optionA": "Trial-and-error",
+        "optionB": "Systematic",
+        "optionC": "Methodical",
+        "optionD": "Organized",
+        "correctAnswer": "A",
+        "category": "Verbal Ability",
+        "explanation": "'Heuristic' means enabling someone to discover or learn something for themselves."
+    },
+	  {
+	    "text": "Choose the word most similar in meaning to 'benevolent'.",
+	    "optionA": "Harsh",
+	    "optionB": "Kind",
+	    "optionC": "Distant",
+	    "optionD": "Cautious",
+	    "correctAnswer": "B",
+	    "category": "Verbal Ability",
+	    "explanation": "Benevolent means showing kindness or goodwill, which is synonymous with kind."
+	  },
+	  {
+	    "text": "Which word is an antonym of 'obscure'?",
+	    "optionA": "Hidden",
+	    "optionB": "Clear",
+	    "optionC": "Vague",
+	    "optionD": "Secretive",
+	    "correctAnswer": "B",
+	    "category": "Verbal Ability",
+	    "explanation": "Obscure means unclear or hidden, so its antonym is clear."
+	  },
+	  {
+	    "text": "Complete the sentence: Her speech was so _______ that the audience was captivated.",
+	    "optionA": "monotonous",
+	    "optionB": "eloquent",
+	    "optionC": "vague",
+	    "optionD": "abrupt",
+	    "correctAnswer": "B",
+	    "category": "Verbal Ability",
+	    "explanation": "Eloquent means fluent and persuasive in speech, fitting the context of captivating an audience."
+	  },
+	  {
+	    "text": "Select the word that best completes the analogy: Big is to small as tall is to ______.",
+	    "optionA": "large",
+	    "optionB": "short",
+	    "optionC": "wide",
+	    "optionD": "high",
+	    "correctAnswer": "B",
+	    "category": "Verbal Ability",
+	    "explanation": "Big and small are opposites, so tall (a measure of height) has the opposite short."
+	  },
+	  {
+	    "text": "Choose the word that means the opposite of 'frugal'.",
+	    "optionA": "Thrifty",
+	    "optionB": "Wasteful",
+	    "optionC": "Cautious",
+	    "optionD": "Modest",
+	    "correctAnswer": "B",
+	    "category": "Verbal Ability",
+	    "explanation": "Frugal means economical or avoiding waste, so its antonym is wasteful."
+	  },
+	  {
+	    "text": "Which word best fits in the blank? The novel’s plot was so _______ that readers couldn’t predict the ending.",
+	    "optionA": "intricate",
+	    "optionB": "simple",
+	    "optionC": "boring",
+	    "optionD": "familiar",
+	    "correctAnswer": "A",
+	    "category": "Verbal Ability",
+	    "explanation": "Intricate means complex and detailed, which aligns with a plot that is unpredictable."
+	  }
+  ]
