@@ -42,17 +42,24 @@ interface QuestionDao {
     @Query("DELETE FROM practice_sessions")
     suspend fun clearAllSessions()
 
+    // ---- Per-category results ----
+
+    @Insert
+    suspend fun insertCategoryResults(results: List<SessionCategoryResult>)
+
     /**
-     * Average score across all sessions whose categories list contains [category].
-     * NOTE: this is approximate when sessions mix multiple categories — the session's
-     * overall score is attributed to each category it touched. For an exact per-category
-     * average, store per-category breakdowns per session (left as a follow-up).
+     * Exact per-category average: sum of correct answers across all sessions
+     * divided by sum of questions asked in that category, expressed as a percentage.
+     * Returns null if the category has never been practiced.
      */
     @Query(
         """
-        SELECT AVG(score) FROM practice_sessions
-        WHERE categories LIKE '%' || :category || '%'
+        SELECT CASE WHEN SUM(totalCount) = 0 THEN NULL
+                    ELSE (SUM(correctCount) * 100.0) / SUM(totalCount)
+               END
+        FROM session_category_results
+        WHERE category = :category
         """
     )
-    fun getAvgByCategory(category: String): Flow<Double?>
+    fun getExactAvgByCategory(category: String): Flow<Double?>
 }

@@ -144,7 +144,8 @@ class PracticeViewModel(application: Application) : AndroidViewModel(application
         if (_currentIndex.value > 0) _currentIndex.value -= 1
     }
 
-    /** Tallies correct answers, persists a [PracticeSession], and transitions to Finished. */
+    /** Tallies correct answers, persists a [PracticeSession] with per-category breakdown,
+     *  and transitions to Finished. */
     fun calculateScore() {
         val total = _questions.value.size
         if (total == 0) return
@@ -158,15 +159,21 @@ class PracticeViewModel(application: Application) : AndroidViewModel(application
         val scorePct = (correct * 100) / total
         val timeTaken = System.currentTimeMillis() - startTime
 
+        // Exact per-category breakdown: walk the actual questions in this session.
+        val breakdown: Map<String, Pair<Int, Int>> = results
+            .groupBy { it.question.category }
+            .mapValues { (_, qrs) -> qrs.count { it.isCorrect } to qrs.size }
+
         viewModelScope.launch {
-            repository.insertSession(
-                PracticeSession(
+            repository.insertSessionWithResults(
+                session = PracticeSession(
                     score = scorePct,
                     correctCount = correct,
                     totalQuestions = total,
                     categories = _selectedCategories.value.joinToString(","),
                     timeTaken = timeTaken
-                )
+                ),
+                breakdown = breakdown
             )
             // Stash the review list so the user can transition Finished -> Review.
             pendingReview = results

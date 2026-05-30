@@ -5,6 +5,7 @@ import android.util.Log
 import com.example.csepractice.data.AppDatabase
 import com.example.csepractice.data.PracticeSession
 import com.example.csepractice.data.Question
+import com.example.csepractice.data.SessionCategoryResult
 import com.example.csepractice.ui.theme.PreferencesDataStore
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
@@ -41,8 +42,32 @@ class QuestionRepository(private val context: Context) {
 
     // ---- Sessions ----
 
-    suspend fun insertSession(session: PracticeSession): Long =
-        withContext(Dispatchers.IO) { dao.insertSession(session) }
+    /**
+     * Persist a session plus its per-category breakdown atomically.
+     *
+     * Note: this isn't wrapped in a Room `@Transaction` because the DAO methods
+     * are simple inserts; if the second insert ever fails, the session row alone
+     * is still consistent (averages will just exclude that session).
+     */
+    suspend fun insertSessionWithResults(
+        session: PracticeSession,
+        breakdown: Map<String, Pair<Int, Int>>
+    ): Long = withContext(Dispatchers.IO) {
+        val sessionId = dao.insertSession(session).toInt()
+        if (breakdown.isNotEmpty()) {
+            dao.insertCategoryResults(
+                breakdown.map { (category, counts) ->
+                    SessionCategoryResult(
+                        sessionId = sessionId,
+                        category = category,
+                        correctCount = counts.first,
+                        totalCount = counts.second
+                    )
+                }
+            )
+        }
+        sessionId.toLong()
+    }
 
     fun getAllSessions(): Flow<List<PracticeSession>> = dao.getAllSessions()
 
@@ -52,8 +77,9 @@ class QuestionRepository(private val context: Context) {
     suspend fun clearAllQuestions() =
         withContext(Dispatchers.IO) { dao.clearAllQuestions() }
 
+    /** Exact per-category average — counts correct/total across every session that touched it. */
     fun getAverageForCategory(category: String): Flow<Double?> =
-        dao.getAvgByCategory(category)
+        dao.getExactAvgByCategory(category)
 
     // ---- Seeding ----
 
