@@ -1,15 +1,24 @@
+# Gradle / build
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
+.gradle/
+build/
 /build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+
+# IDE / OS noise
+.idea/
+.kotlin/
+.DS_Store
+Thumbs.db
+
+# Dev-time export artifacts (not part of the project)
+flat_project_files/
+shared_project_files/
+shared_project_files.zip
+all_project_files.txt
+filelist.txt
+tracked.txt
+copy_project_files.py

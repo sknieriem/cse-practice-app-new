@@ -1,3 +1,86 @@
 <resources>
-    <string name="app_name">CSEPracticeApp</string>
+    <string name="app_name">CSE Practice</string>
+
+    <!-- Splash -->
+    <string name="splash_welcome">Welcome to CSE Practice</string>
+    <string name="splash_credit">Inspired by Pearl Jynne Celestino\nBy PJC Inc</string>
+    <string name="splash_tips_title">Quick Tips</string>
+    <string name="splash_tip_1">Practice daily for best results.</string>
+    <string name="splash_tip_2">Use \"Practice Weak Areas\" to focus on weak categories.</string>
+    <string name="splash_tip_3">Always review explanations after a session.</string>
+    <string name="splash_tip_4">Aim for 80%+ to comfortably pass the CSE.</string>
+
+    <!-- Main screen -->
+    <string name="title_practice">CSE Practice</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_back">Back</string>
+    <string name="select_categories">Select Categories</string>
+    <string name="num_questions">Number of Questions</string>
+    <string name="start_practice">Start Practice</string>
+    <string name="view_scores_and_chart">View Scores &amp; Chart</string>
+    <string name="loading_categories">Loading categories…</string>
+    <string name="loading">Loading…</string>
+    <string name="question_progress">Question %1$d / %2$d</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="select_at_least_one_category">Select at least one category to begin.</string>
+
+    <!-- Review -->
+    <string name="review_title">Review Your Answers</string>
+    <string name="answer_correct">Your answer: Correct</string>
+    <string name="answer_incorrect">Your answer: Incorrect</string>
+    <string name="explanation_label">Explanation: %1$s</string>
+    <string name="done_back_to_start">Done — Back to Start</string>
+
+    <!-- Result screen -->
+    <string name="your_score">Your score: %1$d%%</string>
+    <string name="your_score_detail">%1$d of %2$d correct</string>
+    <string name="start_new_practice">Start New Practice</string>
+    <string name="practice_weak_areas">Practice Weak Areas</string>
+
+    <!-- History -->
+    <string name="progress_history">Progress History</string>
+    <string name="col_date">Date</string>
+    <string name="col_score">Score</string>
+    <string name="col_time">Time</string>
+    <string name="average_score">Average Score: %1$d%%</string>
+    <string name="category_averages">Category Averages</string>
+    <string name="category_average_row">%1$s: %2$d%%</string>
+    <string name="view_progress_chart">View Progress Chart</string>
+    <string name="back_to_selector">Back to Selector</string>
+    <string name="no_history">No sessions yet — finish a practice to see your history here.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="color_scheme">Color Scheme</string>
+    <string name="color_default">Default</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_green">Green</string>
+    <string name="instant_feedback_title">Instant Feedback</string>
+    <string name="instant_feedback_subtitle">Show whether each answer was correct as soon as you tap it, instead of waiting for Submit.</string>
+    <string name="reset_data_title">Reset Practice Data</string>
+    <string name="reset_data">Clear all sessions</string>
+    <string name="reset_data_confirm">Cleared all practice sessions.</string>
+
+    <!-- In-quiz controls -->
+    <string name="elapsed_time">Time: %1$s</string>
+    <string name="mark_for_review">Mark for review</string>
+    <string name="marked_for_review">Marked for review</string>
+    <string name="answer_correct_short">Correct</string>
+    <string name="answer_incorrect_short">Incorrect — correct answer below</string>
+
+    <!-- Review badges -->
+    <string name="badge_marked">Marked</string>
+
+    <!-- Chart -->
+    <string name="chart_title">Progress Chart</string>
+
+    <!-- Errors -->
+    <string name="err_no_questions_for_categories">No questions in selected categories. Try another category.</string>
+    <string name="err_load_failed">Failed to load questions. Please try again.</string>
+    <string name="err_init_failed">Failed to initialize data. Restart the app.</string>
+    <string name="err_no_weak_areas">No weak areas — all averages are at or above %1$d%%.</string>
+    <string name="retry">Retry</string>
 </resources>
