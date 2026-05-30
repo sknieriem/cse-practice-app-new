@@ -2,7 +2,6 @@ package com.example.csepractice.ui.theme
 
 import android.app.Activity
 import android.os.Build
-import android.util.Log
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
@@ -10,11 +9,11 @@ import androidx.compose.material3.dynamicDarkColorScheme
 import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.SideEffect
 import androidx.compose.runtime.collectAsState
+import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
-import androidx.compose.runtime.SideEffect
-import androidx.compose.ui.graphics.toArgb
 import androidx.core.view.WindowCompat
 
 private val DarkColorScheme = darkColorScheme(
@@ -53,23 +52,30 @@ private val GreenDarkScheme = darkColorScheme(
     tertiary = Green40
 )
 
+/**
+ * App theme. Reads dark-mode and color-scheme preferences from DataStore so changes
+ * in [SettingsActivity] propagate immediately wherever this theme is used.
+ *
+ * @param dynamicColor when true and on Android 12+, falls back to Material You dynamic colors
+ *   unless the user has explicitly chosen a named color scheme (Blue/Green).
+ */
 @Composable
 fun CSEPracticeAppTheme(
     dynamicColor: Boolean = true,
     content: @Composable () -> Unit
 ) {
     val context = LocalContext.current
-    val darkThemeState = PreferencesDataStore.darkModeFlow(context).collectAsState(initial = isSystemInDarkTheme())
-    val schemeState = PreferencesDataStore.colorSchemeFlow(context).collectAsState(initial = "Default")
+    val darkTheme by PreferencesDataStore
+        .darkModeFlow(context)
+        .collectAsState(initial = isSystemInDarkTheme())
+    val scheme by PreferencesDataStore
+        .colorSchemeFlow(context)
+        .collectAsState(initial = "Default")
 
-    val darkTheme = darkThemeState.value
-    val scheme = schemeState.value
-
-    // Log to debug
-    Log.d("ThemeDebug", "Current scheme: $scheme, darkTheme: $darkTheme")
-
+    val isDefaultScheme = scheme == "Default"
     val colorScheme = when {
-        dynamicColor && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
+        // Only use dynamic colors when the user hasn't explicitly chosen a named scheme.
+        isDefaultScheme && dynamicColor && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
             if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
         }
         scheme == "Blue" -> if (darkTheme) BlueDarkScheme else BlueLightScheme
@@ -77,18 +83,18 @@ fun CSEPracticeAppTheme(
         darkTheme -> DarkColorScheme
         else -> LightColorScheme
     }
+
     val view = LocalView.current
     if (!view.isInEditMode) {
         SideEffect {
             val window = (view.context as Activity).window
             window.statusBarColor = colorScheme.primary.toArgb()
-            WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = darkTheme
+            WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = !darkTheme
         }
     }
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = androidx.compose.material3.Typography(),
         content = content
     )
 }

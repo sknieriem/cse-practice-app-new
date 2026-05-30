@@ -1,8 +1,10 @@
 package com.example.csepractice.viewmodel
 
 import android.app.Application
+import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.csepractice.R
 import com.example.csepractice.data.PracticeSession
 import com.example.csepractice.data.Question
 import com.example.csepractice.repository.QuestionRepository
@@ -11,19 +13,28 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.firstOrNull
+import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
-import android.util.Log
 
+/**
+ * UI state for the practice screen. Mutually exclusive: only one branch is ever rendered.
+ *
+ * Note: [Finished] replaces the previous "if (score > 0) { … }" sibling-block hack so
+ * the results view can't render alongside [InProgress].
+ */
 sealed class UiState {
-    object Initial : UiState()
-    object Loading : UiState()
-    data class Success(val questions: List<Question>) : UiState()
+    data object Initial : UiState()
+    data object Loading : UiState()
+    data class InProgress(val questions: List<Question>) : UiState()
+    data class Finished(val score: Int, val correct: Int, val total: Int) : UiState()
+    data class Review(val items: List<QuestionResult>) : UiState()
     data class Error(val message: String) : UiState()
-    data class Review(val correctAnswers: List<Pair<Question, Boolean>>) : UiState()
 }
 
+data class QuestionResult(val question: Question, val isCorrect: Boolean)
+
 class PracticeViewModel(application: Application) : AndroidViewModel(application) {
+
     private val repository = QuestionRepository(application)
 
     private val _uiState = MutableStateFlow<UiState>(UiState.Initial)
@@ -38,191 +49,150 @@ class PracticeViewModel(application: Application) : AndroidViewModel(application
     private val _selectedAnswers = MutableStateFlow<Map<Int, Int>>(emptyMap())
     val selectedAnswers: StateFlow<Map<Int, Int>> = _selectedAnswers.asStateFlow()
 
-    private val _score = MutableStateFlow(0)
-    val score: StateFlow<Int> = _score.asStateFlow()
-
     private val _selectedCategories = MutableStateFlow<List<String>>(emptyList())
     val selectedCategories: StateFlow<List<String>> = _selectedCategories.asStateFlow()
 
     private var startTime = 0L
 
     val sessions: Flow<List<PracticeSession>> = repository.getAllSessions()
-
     val categories: Flow<List<String>> = repository.getCategories()
 
     init {
         viewModelScope.launch {
             try {
-                // Expect Flow<Int> and collect within coroutine
-                val totalQuestionsFlow: Flow<Int> = repository.getTotalQuestionCount()
-                val totalQuestions: Int? = withContext(viewModelScope.coroutineContext) {
-                    totalQuestionsFlow.firstOrNull()
-                }
-                val total = totalQuestions ?: 0
-                Log.d("VM", "Total questions in DB: $total")
-                if (total == 0) {
-                    repository.seedQuestionsIfEmpty()
-                } else {
-                    Log.d("VM", "DB has $total questions, checking categories")
-                    val allCats = categories.firstOrNull() ?: emptyList()
-                    allCats.forEach { cat ->
-                        val countFlow: Flow<Int> = repository.getQuestionCountByCategory(cat)
-                        val count: Int? = withContext(viewModelScope.coroutineContext) {
-                            countFlow.firstOrNull()
-                        }
-                        val countValue = count ?: 0
-                        Log.d("VM", "Category '$cat' has $countValue questions")
-                        if (cat == "General Information" && countValue == 0) {
-                            Log.w("VM", "No questions in General Information - reseeding")
-                            repository.clearAllQuestions()
-                            repository.seedQuestionsIfEmpty()
-                        }
-                    }
-                }
+                repository.seedIfNeeded()
                 _uiState.value = UiState.Initial
             } catch (e: Exception) {
-                Log.e("VM", "Init failed: ${e.message}")
-                _uiState.value = UiState.Error("Failed to initialize data. Restart app.")
+                Log.e(TAG, "Init failed", e)
+                _uiState.value = UiState.Error(message = getApplication<Application>().getString(R.string.err_init_failed))
             }
         }
     }
 
     fun toggleCategory(category: String) {
-        val current = _selectedCategories.value.toMutableList()
-        if (current.contains(category)) {
-            current.remove(category)
-        } else {
-            current.add(category)
+        _selectedCategories.update { current ->
+            if (current.contains(category)) current - category else current + category
         }
-        _selectedCategories.value = current
     }
 
+    /** Starts a new practice session with [numQuestions] drawn from [selectedCategories]. */
     fun startPractice(numQuestions: Int) {
+        val cats = _selectedCategories.value
+        if (cats.isEmpty()) {
+            // Caller should prevent this via the UI; guard here as a defensive measure.
+            _uiState.value = UiState.Error(
+                fallback = getApplication<Application>().getString(R.string.select_at_least_one_category)
+            )
+            return
+        }
         _uiState.value = UiState.Loading
         startTime = System.currentTimeMillis()
-        val categories = _selectedCategories.value
-        Log.d("VM", "Starting practice for categories: $categories, num: $numQuestions")
-        if (categories.isEmpty()) {
-            loadAllQuestions(numQuestions)
-        } else {
-            loadQuestionsForCategories(categories, numQuestions)
+        viewModelScope.launch {
+            try {
+                val loaded = repository.getRandomQuestionsByCategories(cats, numQuestions)
+                if (loaded.isEmpty()) {
+                    _uiState.value = UiState.Error(
+                        fallback = getApplication<Application>().getString(R.string.err_no_questions_for_categories)
+                    )
+                } else {
+                    _questions.value = loaded
+                    _currentIndex.value = 0
+                    _selectedAnswers.value = emptyMap()
+                    _uiState.value = UiState.InProgress(loaded)
+                }
+            } catch (e: Exception) {
+                Log.e(TAG, "Load failed", e)
+                _uiState.value = UiState.Error(
+                    fallback = getApplication<Application>().getString(R.string.err_load_failed)
+                )
+            }
         }
     }
 
     fun practiceWeakAreas(numQuestions: Int = 10, threshold: Double = 70.0) {
         viewModelScope.launch {
-            val allCats = categories.firstOrNull() ?: emptyList()
-            if (allCats.isEmpty()) {
-                _uiState.value = UiState.Error("No categories available")
-                return@launch
+            val allCats = categories.firstOrNull().orEmpty()
+            val weak = allCats.filter { cat ->
+                val avg = getAverageForCategory(cat).firstOrNull() ?: 0.0
+                avg < threshold
             }
-            val weak = mutableListOf<String>()
-            for (cat in allCats) {
-                val avgFlow: Flow<Double> = getAverageForCategory(cat)
-                val avg: Double? = withContext(viewModelScope.coroutineContext) {
-                    avgFlow.firstOrNull()
-                }
-                val average = avg ?: 0.0
-                if (average < threshold) {
-                    weak.add(cat)
-                }
-            }
-            _selectedCategories.value = weak
-            if (weak.isNotEmpty()) {
+            if (weak.isEmpty()) {
+                _uiState.value = UiState.Error(
+                    fallback = getApplication<Application>().getString(
+                        R.string.err_no_weak_areas, threshold.toInt()
+                    )
+                )
+            } else {
+                _selectedCategories.value = weak
                 startPractice(numQuestions)
-            } else {
-                _uiState.value = UiState.Error("No weak areas (all averages >= $threshold%)")
             }
         }
     }
 
-    private fun loadQuestionsForCategories(categories: List<String>, count: Int) {
-        viewModelScope.launch {
-            try {
-                val loadedQuestions = repository.getRandomQuestionsByCategories(categories, count)
-                Log.d("VM", "Loaded ${loadedQuestions.size} questions for $categories")
-                if (loadedQuestions.isEmpty()) {
-                    Log.e("VM", "No questions loaded for categories: $categories")
-                    _uiState.value = UiState.Error("No questions available in selected categories. Try another or reset data.")
-                } else {
-                    _questions.value = loadedQuestions
-                    _uiState.value = UiState.Success(loadedQuestions)
-                }
-            } catch (e: Exception) {
-                Log.e("VM", "Load failed: ${e.message}")
-                _uiState.value = UiState.Error("Failed to load questions.")
-            }
-        }
-    }
-
-    private fun loadAllQuestions(count: Int) {
-        viewModelScope.launch {
-            val questionsFlow = repository.getRandomQuestions(count)
-            val loadedQuestions = questionsFlow.firstOrNull()
-            Log.d("VM", "Loaded ${loadedQuestions?.size ?: 0} questions overall")
-            if (loadedQuestions == null || loadedQuestions.isEmpty()) {
-                Log.e("VM", "No questions loaded overall")
-                _uiState.value = UiState.Error("No questions available. Check app data or reset.")
-            } else {
-                _questions.value = loadedQuestions
-                _uiState.value = UiState.Success(loadedQuestions)
-            }
-        }
-    }
-
-    fun getAverageForCategory(category: String): Flow<Double> = repository.getAverageForCategory(category)
+    fun getAverageForCategory(category: String): Flow<Double?> =
+        repository.getAverageForCategory(category)
 
     fun selectAnswer(questionIndex: Int, optionIndex: Int) {
-        _selectedAnswers.value = _selectedAnswers.value.toMutableMap().apply {
-            this[questionIndex] = optionIndex
-        }
+        _selectedAnswers.update { it + (questionIndex to optionIndex) }
     }
 
     fun nextQuestion() {
-        if (_currentIndex.value < _questions.value.size - 1) {
-            _currentIndex.value += 1
-        }
+        if (_currentIndex.value < _questions.value.size - 1) _currentIndex.value += 1
     }
 
     fun previousQuestion() {
-        if (_currentIndex.value > 0) {
-            _currentIndex.value -= 1
-        }
+        if (_currentIndex.value > 0) _currentIndex.value -= 1
     }
 
+    /** Tallies correct answers, persists a [PracticeSession], and transitions to Finished. */
     fun calculateScore() {
         val total = _questions.value.size
-        val correctAnswers = mutableListOf<Pair<Question, Boolean>>()
-        var correct = 0
-        _questions.value.forEachIndexed { index, question ->
+        if (total == 0) return
+
+        val results = _questions.value.mapIndexed { index, q ->
             val selected = _selectedAnswers.value[index]
-            val correctIndex = "ABCD".indexOf(question.correctAnswer)
-            val isCorrect = selected == correctIndex
-            if (isCorrect) correct++
-            correctAnswers.add(question to isCorrect)
+            val correctIndex = CORRECT_KEY.indexOf(q.correctAnswer)
+            QuestionResult(question = q, isCorrect = selected == correctIndex)
         }
-        _score.value = if (total > 0) (correct * 100) / total else 0
+        val correct = results.count { it.isCorrect }
+        val scorePct = (correct * 100) / total
         val timeTaken = System.currentTimeMillis() - startTime
+
         viewModelScope.launch {
             repository.insertSession(
                 PracticeSession(
-                    score = _score.value,
+                    score = scorePct,
                     correctCount = correct,
                     totalQuestions = total,
                     categories = _selectedCategories.value.joinToString(","),
                     timeTaken = timeTaken
                 )
             )
-            _uiState.value = UiState.Review(correctAnswers)
+            // Stash the review list so the user can transition Finished -> Review.
+            pendingReview = results
+            _uiState.value = UiState.Finished(scorePct, correct, total)
         }
     }
 
+    private var pendingReview: List<QuestionResult> = emptyList()
+
+    /** Move from the finished screen into the per-question review. */
+    fun showReview() {
+        if (pendingReview.isNotEmpty()) _uiState.value = UiState.Review(pendingReview)
+    }
+
+    /** Return to the category selector. */
     fun resetForNewSession() {
         _questions.value = emptyList()
         _currentIndex.value = 0
         _selectedAnswers.value = emptyMap()
-        _score.value = 0
         _selectedCategories.value = emptyList()
+        pendingReview = emptyList()
         _uiState.value = UiState.Initial
+    }
+
+    companion object {
+        private const val TAG = "PracticeViewModel"
+        private const val CORRECT_KEY = "ABCD"
     }
 }
