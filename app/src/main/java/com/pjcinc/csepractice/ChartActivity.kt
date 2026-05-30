@@ -30,8 +30,6 @@ import com.patrykandpatrick.vico.compose.cartesian.axis.rememberBottom
 import com.patrykandpatrick.vico.compose.cartesian.axis.rememberStart
 import com.patrykandpatrick.vico.compose.cartesian.layer.rememberLineCartesianLayer
 import com.patrykandpatrick.vico.compose.cartesian.rememberCartesianChart
-import com.patrykandpatrick.vico.compose.m3.common.ProvideVicoTheme
-import com.patrykandpatrick.vico.compose.m3.common.rememberM3VicoTheme
 import com.patrykandpatrick.vico.core.cartesian.axis.HorizontalAxis
 import com.patrykandpatrick.vico.core.cartesian.axis.VerticalAxis
 import com.patrykandpatrick.vico.core.cartesian.data.CartesianChartModelProducer
@@ -41,6 +39,16 @@ import com.pjcinc.csepractice.repository.QuestionRepository
 import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
 import kotlinx.coroutines.flow.Flow
 
+/**
+ * Score-over-time chart, rendered with Vico 2.x's Compose-native API.
+ *
+ * The implementation deliberately sticks to Vico's documented starter shape
+ * (model producer + remember-based factory functions) and lets the library use
+ * its own defaults for colors and typography. If you want tighter Material 3
+ * integration, add the `compose-m3` artifact and wrap the chart in
+ * `ProvideVicoTheme(rememberM3VicoTheme())` from
+ * `com.patrykandpatrick.vico.compose.m3.common.*`.
+ */
 class ChartActivity : ComponentActivity() {
     private val repository by lazy { QuestionRepository(applicationContext) }
 
@@ -78,12 +86,6 @@ class ChartActivity : ComponentActivity() {
     }
 }
 
-/**
- * Score-over-time line chart, powered by Vico's Compose-native API.
- *
- * `ProvideVicoTheme` + `rememberM3VicoTheme()` makes Vico's defaults follow
- * MaterialTheme colors, so the chart respects light/dark mode automatically.
- */
 @Composable
 fun ScoreChartScreen(
     modifier: Modifier = Modifier,
@@ -113,15 +115,13 @@ fun ScoreChartScreen(
         }
     }
 
-    ProvideVicoTheme(theme = rememberM3VicoTheme()) {
-        CartesianChartHost(
-            chart = rememberCartesianChart(
-                rememberLineCartesianLayer(),
-                startAxis = VerticalAxis.rememberStart(),
-                bottomAxis = HorizontalAxis.rememberBottom()
-            ),
-            modelProducer = modelProducer,
-            modifier = modifier.padding(16.dp)
-        )
-    }
+    CartesianChartHost(
+        chart = rememberCartesianChart(
+            rememberLineCartesianLayer(),
+            startAxis = VerticalAxis.rememberStart(),
+            bottomAxis = HorizontalAxis.rememberBottom()
+        ),
+        modelProducer = modelProducer,
+        modifier = modifier.padding(16.dp)
+    )
 }

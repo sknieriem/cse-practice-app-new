@@ -82,8 +82,9 @@ dependencies {
     // Charts — Vico 2.x (Compose-native, Android-targeted). Vico 3.x requires
     // Compose Multiplatform; staying on 2.x keeps the dep footprint smaller.
     // Bug fixes for 2.x are committed through July 31, 2026 per upstream.
+    // For tighter Material 3 integration, also pull in:
+    //   implementation("com.patrykandpatrick.vico:compose-m3:2.4.3")
     implementation("com.patrykandpatrick.vico:compose:2.4.3")
-    implementation("com.patrykandpatrick.vico:compose-m3:2.4.3")
 
     // JSON
     implementation("com.google.code.gson:gson:2.11.0")
