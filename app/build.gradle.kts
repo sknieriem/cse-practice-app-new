@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.pjcinc.csepractice"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         // Placeholder — change to your real reverse-DNS before any Play Store upload.
@@ -43,11 +43,11 @@ android {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
-    kotlinOptions {
-        jvmTarget = "17"
-    }
     buildFeatures {
         compose = true
+    }
+    kotlin {
+        jvmToolchain(17)
     }
     packaging {
         resources {
@@ -58,6 +58,7 @@ android {
 
 dependencies {
     // AndroidX core / lifecycle / activity
+    // Pinned to 1.13.1 — core-ktx 1.15+ requires compileSdk 36 + AGP 8.9.1.
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.6")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.6")
@@ -75,9 +76,9 @@ dependencies {
     implementation("androidx.datastore:datastore-preferences:1.1.1")
 
     // Room
-    implementation("androidx.room:room-runtime:2.6.1")
-    implementation("androidx.room:room-ktx:2.6.1")
-    ksp("androidx.room:room-compiler:2.6.1")
+    implementation("androidx.room:room-runtime:2.8.4")
+    implementation("androidx.room:room-ktx:2.8.4")
+    ksp("androidx.room:room-compiler:2.8.4")
 
     // Charts — Vico 2.x (Compose-native, Android-targeted). Vico 3.x requires
     // Compose Multiplatform; staying on 2.x keeps the dep footprint smaller.
