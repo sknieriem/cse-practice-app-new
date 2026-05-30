@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
@@ -16,20 +17,28 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.toArgb
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.viewinterop.AndroidView
+import androidx.compose.ui.unit.dp
+import com.patrykandpatrick.vico.compose.cartesian.CartesianChartHost
+import com.patrykandpatrick.vico.compose.cartesian.axis.rememberBottom
+import com.patrykandpatrick.vico.compose.cartesian.axis.rememberStart
+import com.patrykandpatrick.vico.compose.cartesian.layer.rememberLineCartesianLayer
+import com.patrykandpatrick.vico.compose.cartesian.rememberCartesianChart
+import com.patrykandpatrick.vico.compose.m3.common.ProvideVicoTheme
+import com.patrykandpatrick.vico.compose.m3.common.rememberM3VicoTheme
+import com.patrykandpatrick.vico.core.cartesian.axis.HorizontalAxis
+import com.patrykandpatrick.vico.core.cartesian.axis.VerticalAxis
+import com.patrykandpatrick.vico.core.cartesian.data.CartesianChartModelProducer
+import com.patrykandpatrick.vico.core.cartesian.data.lineSeries
 import com.pjcinc.csepractice.data.PracticeSession
 import com.pjcinc.csepractice.repository.QuestionRepository
 import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
-import com.github.mikephil.charting.charts.LineChart
-import com.github.mikephil.charting.data.Entry
-import com.github.mikephil.charting.data.LineData
-import com.github.mikephil.charting.data.LineDataSet
 import kotlinx.coroutines.flow.Flow
 
 class ChartActivity : ComponentActivity() {
@@ -58,7 +67,9 @@ class ChartActivity : ComponentActivity() {
                     }
                 ) { innerPadding ->
                     ScoreChartScreen(
-                        modifier = Modifier.padding(innerPadding),
+                        modifier = Modifier
+                            .padding(innerPadding)
+                            .fillMaxSize(),
                         sessions = repository.getAllSessions()
                     )
                 }
@@ -67,49 +78,50 @@ class ChartActivity : ComponentActivity() {
     }
 }
 
+/**
+ * Score-over-time line chart, powered by Vico's Compose-native API.
+ *
+ * `ProvideVicoTheme` + `rememberM3VicoTheme()` makes Vico's defaults follow
+ * MaterialTheme colors, so the chart respects light/dark mode automatically.
+ */
 @Composable
 fun ScoreChartScreen(
     modifier: Modifier = Modifier,
     sessions: Flow<List<PracticeSession>>
 ) {
     val sessionList by sessions.collectAsState(emptyList())
-    val description = stringResource(R.string.chart_description)
-    val datasetLabel = stringResource(R.string.chart_dataset_label)
 
-    // Pull theme colors so the chart respects light/dark mode.
-    val primaryColor = MaterialTheme.colorScheme.primary.toArgb()
-    val onSurfaceColor = MaterialTheme.colorScheme.onSurface.toArgb()
-
-    AndroidView(
-        modifier = modifier.fillMaxSize(),
-        factory = { ctx ->
-            LineChart(ctx).apply {
-                this.description.text = description
-                this.description.textColor = onSurfaceColor
-                setTouchEnabled(true)
-                setDragEnabled(true)
-                setScaleEnabled(true)
-                setPinchZoom(true)
-                legend.textColor = onSurfaceColor
-                xAxis.textColor = onSurfaceColor
-                axisLeft.textColor = onSurfaceColor
-                axisRight.isEnabled = false
-            }
-        },
-        update = { chart ->
-            // Oldest -> newest left-to-right (sessions come in DESC order from DAO).
-            val entries = sessionList.reversed().mapIndexed { index, session ->
-                Entry(index.toFloat(), session.score.toFloat())
-            }
-            val dataSet = LineDataSet(entries, datasetLabel).apply {
-                color = primaryColor
-                valueTextColor = onSurfaceColor
-                lineWidth = 2f
-                circleRadius = 4f
-                setCircleColor(primaryColor)
-            }
-            chart.data = if (entries.isEmpty()) null else LineData(dataSet)
-            chart.invalidate()
+    if (sessionList.isEmpty()) {
+        Box(modifier = modifier, contentAlignment = Alignment.Center) {
+            Text(
+                text = stringResource(R.string.no_history),
+                style = MaterialTheme.typography.bodyMedium
+            )
         }
-    )
+        return
+    }
+
+    // Sessions arrive newest-first; reverse for left-to-right chronological order.
+    val scores = remember(sessionList) {
+        sessionList.reversed().map { it.score }
+    }
+
+    val modelProducer = remember { CartesianChartModelProducer() }
+    LaunchedEffect(scores) {
+        modelProducer.runTransaction {
+            lineSeries { series(scores) }
+        }
+    }
+
+    ProvideVicoTheme(theme = rememberM3VicoTheme()) {
+        CartesianChartHost(
+            chart = rememberCartesianChart(
+                rememberLineCartesianLayer(),
+                startAxis = VerticalAxis.rememberStart(),
+                bottomAxis = HorizontalAxis.rememberBottom()
+            ),
+            modelProducer = modelProducer,
+            modifier = modifier.padding(16.dp)
+        )
+    }
 }
