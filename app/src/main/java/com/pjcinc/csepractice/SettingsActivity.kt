@@ -1,4 +1,4 @@
-package com.example.csepractice
+package com.pjcinc.csepractice
 
 import android.os.Bundle
 import android.widget.Toast
@@ -36,9 +36,9 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.example.csepractice.repository.QuestionRepository
-import com.example.csepractice.ui.theme.CSEPracticeAppTheme
-import com.example.csepractice.ui.theme.PreferencesDataStore
+import com.pjcinc.csepractice.repository.QuestionRepository
+import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
+import com.pjcinc.csepractice.ui.theme.PreferencesDataStore
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 

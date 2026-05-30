@@ -1,5 +1,5 @@
-// app/src/main/java/com/example/csepractice/data/PracticeSession.kt
-package com.example.csepractice.data
+// app/src/main/java/com/pjcinc/csepractice/data/PracticeSession.kt
+package com.pjcinc.csepractice.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

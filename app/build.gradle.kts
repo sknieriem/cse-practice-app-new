@@ -6,11 +6,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.csepractice"
+    namespace = "com.pjcinc.csepractice"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.csepractice"
+        // Placeholder — change to your real reverse-DNS before any Play Store upload.
+        // Whatever this is at the time of first publish becomes permanent for that listing.
+        applicationId = "com.pjcinc.csepractice"
         minSdk = 26
         targetSdk = 35
         versionCode = 2
@@ -23,9 +25,14 @@ android {
     }
 
     buildTypes {
-        release {
-            // TODO: enable minify + add ProGuard rules for Room, Gson, MPAndroidChart, Compose
+        debug {
+            // Friendlier obfuscated package name in logs.
+            applicationIdSuffix = ".debug"
             isMinifyEnabled = false
+        }
+        release {
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
@@ -64,7 +71,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     implementation("androidx.compose.material:material-icons-extended")
 
-    // DataStore (single declaration)
+    // DataStore
     implementation("androidx.datastore:datastore-preferences:1.1.1")
 
     // Room
@@ -72,8 +79,11 @@ dependencies {
     implementation("androidx.room:room-ktx:2.6.1")
     ksp("androidx.room:room-compiler:2.6.1")
 
-    // Charts
-    implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
+    // Charts — Vico 2.x (Compose-native, Android-targeted). Vico 3.x requires
+    // Compose Multiplatform; staying on 2.x keeps the dep footprint smaller.
+    // Bug fixes for 2.x are committed through July 31, 2026 per upstream.
+    implementation("com.patrykandpatrick.vico:compose:2.4.3")
+    implementation("com.patrykandpatrick.vico:compose-m3:2.4.3")
 
     // JSON
     implementation("com.google.code.gson:gson:2.11.0")

@@ -1,4 +1,4 @@
-package com.example.csepractice.data
+package com.pjcinc.csepractice.data
 
 import android.content.Context
 import androidx.room.Database

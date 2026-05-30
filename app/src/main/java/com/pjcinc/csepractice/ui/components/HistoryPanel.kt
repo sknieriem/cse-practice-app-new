@@ -1,4 +1,4 @@
-package com.example.csepractice.ui.components
+package com.pjcinc.csepractice.ui.components
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -19,9 +19,9 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.example.csepractice.R
-import com.example.csepractice.data.PracticeSession
-import com.example.csepractice.viewmodel.PracticeViewModel
+import com.pjcinc.csepractice.R
+import com.pjcinc.csepractice.data.PracticeSession
+import com.pjcinc.csepractice.viewmodel.PracticeViewModel
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale

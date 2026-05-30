@@ -1,4 +1,4 @@
-package com.example.csepractice.ui.theme
+package com.pjcinc.csepractice.ui.theme
 
 import android.app.Activity
 import android.os.Build

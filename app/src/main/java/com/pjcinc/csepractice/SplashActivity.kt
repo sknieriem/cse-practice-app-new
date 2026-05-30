@@ -1,4 +1,4 @@
-package com.example.csepractice
+package com.pjcinc.csepractice
 
 import android.content.Intent
 import android.os.Bundle
@@ -23,7 +23,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.example.csepractice.ui.theme.CSEPracticeAppTheme
+import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
 import kotlinx.coroutines.delay
 
 class SplashActivity : ComponentActivity() {

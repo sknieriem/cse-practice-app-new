@@ -1,4 +1,4 @@
-package com.example.csepractice.data
+package com.pjcinc.csepractice.data
 
 import androidx.room.Entity
 import androidx.room.ForeignKey

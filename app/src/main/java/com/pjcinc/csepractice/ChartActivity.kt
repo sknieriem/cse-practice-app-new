@@ -1,4 +1,4 @@
-package com.example.csepractice
+package com.pjcinc.csepractice
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -23,9 +23,9 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.viewinterop.AndroidView
-import com.example.csepractice.data.PracticeSession
-import com.example.csepractice.repository.QuestionRepository
-import com.example.csepractice.ui.theme.CSEPracticeAppTheme
+import com.pjcinc.csepractice.data.PracticeSession
+import com.pjcinc.csepractice.repository.QuestionRepository
+import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
 import com.github.mikephil.charting.charts.LineChart
 import com.github.mikephil.charting.data.Entry
 import com.github.mikephil.charting.data.LineData

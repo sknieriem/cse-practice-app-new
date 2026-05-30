@@ -1,4 +1,4 @@
-package com.example.csepractice
+package com.pjcinc.csepractice
 
 import android.content.Intent
 import android.os.Bundle
@@ -56,10 +56,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.csepractice.ui.components.HistoryPanel
-import com.example.csepractice.ui.theme.CSEPracticeAppTheme
-import com.example.csepractice.viewmodel.PracticeViewModel
-import com.example.csepractice.viewmodel.UiState
+import com.pjcinc.csepractice.ui.components.HistoryPanel
+import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
+import com.pjcinc.csepractice.viewmodel.PracticeViewModel
+import com.pjcinc.csepractice.viewmodel.UiState
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -461,7 +461,7 @@ private fun FinishedView(
 
 @Composable
 private fun ReviewView(
-    items: List<com.example.csepractice.viewmodel.QuestionResult>,
+    items: List<com.pjcinc.csepractice.viewmodel.QuestionResult>,
     viewModel: PracticeViewModel,
     modifier: Modifier = Modifier
 ) {

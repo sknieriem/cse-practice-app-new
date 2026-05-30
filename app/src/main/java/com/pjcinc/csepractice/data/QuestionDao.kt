@@ -1,4 +1,4 @@
-package com.example.csepractice.data
+package com.pjcinc.csepractice.data
 
 import androidx.room.Dao
 import androidx.room.Insert

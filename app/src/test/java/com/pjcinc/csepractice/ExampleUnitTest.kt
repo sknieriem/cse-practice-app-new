@@ -1,4 +1,4 @@
-package com.example.csepractice
+package com.pjcinc.csepractice
 
 import org.junit.Test
 
