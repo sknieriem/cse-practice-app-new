@@ -25,6 +25,7 @@ object PreferencesDataStore {
     private val DARK_MODE_KEY = booleanPreferencesKey("dark_mode")
     private val COLOR_SCHEME_KEY = stringPreferencesKey("color_scheme")
     private val QUESTIONS_VERSION_KEY = intPreferencesKey("questions_version")
+    private val INSTANT_FEEDBACK_KEY = booleanPreferencesKey("instant_feedback")
 
     fun darkModeFlow(context: Context): Flow<Boolean> =
         context.dataStore.data.map { prefs ->
@@ -41,6 +42,11 @@ object PreferencesDataStore {
             prefs[QUESTIONS_VERSION_KEY] ?: 0
         }
 
+    fun instantFeedbackFlow(context: Context): Flow<Boolean> =
+        context.dataStore.data.map { prefs ->
+            prefs[INSTANT_FEEDBACK_KEY] ?: false
+        }
+
     suspend fun setDarkMode(context: Context, isDark: Boolean) {
         context.dataStore.edit { prefs -> prefs[DARK_MODE_KEY] = isDark }
     }
@@ -51,6 +57,10 @@ object PreferencesDataStore {
 
     suspend fun setQuestionsVersion(context: Context, version: Int) {
         context.dataStore.edit { prefs -> prefs[QUESTIONS_VERSION_KEY] = version }
+    }
+
+    suspend fun setInstantFeedback(context: Context, enabled: Boolean) {
+        context.dataStore.edit { prefs -> prefs[INSTANT_FEEDBACK_KEY] = enabled }
     }
 
     private fun isSystemInDarkTheme(context: Context): Boolean {

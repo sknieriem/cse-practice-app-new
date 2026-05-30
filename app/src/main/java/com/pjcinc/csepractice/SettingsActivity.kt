@@ -83,6 +83,9 @@ fun SettingsScreen(modifier: Modifier = Modifier) {
 
     val isDarkMode by PreferencesDataStore.darkModeFlow(context).collectAsState(initial = false)
     val colorScheme by PreferencesDataStore.colorSchemeFlow(context).collectAsState(initial = "Default")
+    val instantFeedback by PreferencesDataStore
+        .instantFeedbackFlow(context)
+        .collectAsState(initial = false)
 
     Column(modifier = modifier.padding(16.dp)) {
         // Dark mode toggle (label on left, switch on right)
@@ -141,6 +144,38 @@ fun SettingsScreen(modifier: Modifier = Modifier) {
             ) {
                 coroutineScope.launch { PreferencesDataStore.setColorScheme(context, "Green") }
             }
+        }
+
+        Spacer(Modifier.height(24.dp))
+        HorizontalDivider()
+        Spacer(Modifier.height(16.dp))
+
+        // Instant feedback toggle
+        Row(
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.SpaceBetween,
+            modifier = Modifier.fillMaxWidth()
+        ) {
+            Column(modifier = Modifier.weight(1f).padding(end = 8.dp)) {
+                Text(
+                    text = stringResource(R.string.instant_feedback_title),
+                    style = MaterialTheme.typography.titleMedium
+                )
+                Spacer(Modifier.height(2.dp))
+                Text(
+                    text = stringResource(R.string.instant_feedback_subtitle),
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+            }
+            Switch(
+                checked = instantFeedback,
+                onCheckedChange = { newValue ->
+                    coroutineScope.launch {
+                        PreferencesDataStore.setInstantFeedback(context, newValue)
+                    }
+                }
+            )
         }
 
         Spacer(Modifier.height(32.dp))

@@ -58,14 +58,24 @@
     <string name="color_default">Default</string>
     <string name="color_blue">Blue</string>
     <string name="color_green">Green</string>
+    <string name="instant_feedback_title">Instant Feedback</string>
+    <string name="instant_feedback_subtitle">Show whether each answer was correct as soon as you tap it, instead of waiting for Submit.</string>
     <string name="reset_data_title">Reset Practice Data</string>
     <string name="reset_data">Clear all sessions</string>
     <string name="reset_data_confirm">Cleared all practice sessions.</string>
 
+    <!-- In-quiz controls -->
+    <string name="elapsed_time">Time: %1$s</string>
+    <string name="mark_for_review">Mark for review</string>
+    <string name="marked_for_review">Marked for review</string>
+    <string name="answer_correct_short">Correct</string>
+    <string name="answer_incorrect_short">Incorrect — correct answer below</string>
+
+    <!-- Review badges -->
+    <string name="badge_marked">Marked</string>
+
     <!-- Chart -->
     <string name="chart_title">Progress Chart</string>
-    <string name="chart_description">Scores over time</string>
-    <string name="chart_dataset_label">Scores</string>
 
     <!-- Errors -->
     <string name="err_no_questions_for_categories">No questions in selected categories. Try another category.</string>

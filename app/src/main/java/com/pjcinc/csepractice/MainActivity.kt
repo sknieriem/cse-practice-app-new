@@ -23,9 +23,11 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
+import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material.icons.outlined.BookmarkBorder
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
@@ -281,17 +283,31 @@ private fun InProgressView(viewModel: PracticeViewModel, modifier: Modifier = Mo
     val questions by viewModel.questions.collectAsState()
     val currentIndex by viewModel.currentIndex.collectAsState()
     val selectedAnswers by viewModel.selectedAnswers.collectAsState()
+    val marked by viewModel.markedForReview.collectAsState()
+    val elapsed by viewModel.elapsedSeconds.collectAsState()
+    val instantFeedback by viewModel.instantFeedback.collectAsState(initial = false)
 
     if (questions.isEmpty()) return
 
     val isCurrentAnswered = selectedAnswers.containsKey(currentIndex)
+    val isCurrentMarked = marked.contains(currentIndex)
 
     Column(modifier = modifier.fillMaxSize().padding(16.dp)) {
-        Text(
-            stringResource(R.string.question_progress, currentIndex + 1, questions.size),
+        // Header row: progress text + elapsed timer
+        Row(
             modifier = Modifier.fillMaxWidth(),
-            textAlign = TextAlign.Center
-        )
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(
+                text = stringResource(R.string.question_progress, currentIndex + 1, questions.size)
+            )
+            Text(
+                text = stringResource(R.string.elapsed_time, formatElapsed(elapsed)),
+                style = MaterialTheme.typography.bodyMedium,
+                color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+        }
         Spacer(Modifier.height(4.dp))
         LinearProgressIndicator(
             progress = { (currentIndex + 1f) / questions.size },
@@ -310,7 +326,7 @@ private fun InProgressView(viewModel: PracticeViewModel, modifier: Modifier = Mo
             },
             label = "questionAnimation"
         ) { index ->
-            val question = questions.getOrNull(index) ?: return@AnimatedContent
+            val rq = questions.getOrNull(index) ?: return@AnimatedContent
             Card(
                 modifier = Modifier.fillMaxWidth(),
                 elevation = CardDefaults.cardElevation(4.dp),
@@ -319,17 +335,33 @@ private fun InProgressView(viewModel: PracticeViewModel, modifier: Modifier = Mo
                 )
             ) {
                 Column(modifier = Modifier.padding(16.dp)) {
-                    Text(
-                        question.text,
-                        style = MaterialTheme.typography.titleMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant
-                    )
+                    // Question text + bookmark
+                    Row(verticalAlignment = Alignment.Top) {
+                        Text(
+                            rq.source.text,
+                            style = MaterialTheme.typography.titleMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            modifier = Modifier.weight(1f)
+                        )
+                        IconButton(onClick = { viewModel.toggleMarkedForReview(index) }) {
+                            Icon(
+                                imageVector = if (isCurrentMarked)
+                                    Icons.Filled.Bookmark
+                                else
+                                    Icons.Outlined.BookmarkBorder,
+                                contentDescription = stringResource(
+                                    if (isCurrentMarked) R.string.marked_for_review
+                                    else R.string.mark_for_review
+                                ),
+                                tint = if (isCurrentMarked)
+                                    MaterialTheme.colorScheme.primary
+                                else
+                                    MaterialTheme.colorScheme.onSurfaceVariant
+                            )
+                        }
+                    }
                     Spacer(Modifier.height(12.dp))
-                    val options = listOf(
-                        question.optionA, question.optionB,
-                        question.optionC, question.optionD
-                    )
-                    options.forEachIndexed { optIndex, option ->
+                    rq.displayOptions.forEachIndexed { optIndex, option ->
                         Row(
                             verticalAlignment = Alignment.CenterVertically,
                             modifier = Modifier
@@ -342,6 +374,37 @@ private fun InProgressView(viewModel: PracticeViewModel, modifier: Modifier = Mo
                             )
                             Text(option, modifier = Modifier.padding(start = 4.dp))
                         }
+                    }
+
+                    // Instant feedback panel — only when enabled AND user has answered.
+                    if (instantFeedback && selectedAnswers.containsKey(index)) {
+                        Spacer(Modifier.height(12.dp))
+                        val chosen = selectedAnswers[index]
+                        val correct = chosen == rq.correctDisplayIndex
+                        Text(
+                            text = if (correct)
+                                stringResource(R.string.answer_correct_short)
+                            else
+                                stringResource(R.string.answer_incorrect_short),
+                            color = if (correct)
+                                MaterialTheme.colorScheme.primary
+                            else
+                                MaterialTheme.colorScheme.error,
+                            fontWeight = FontWeight.SemiBold
+                        )
+                        if (!correct) {
+                            Spacer(Modifier.height(4.dp))
+                            Text(
+                                text = "✔ ${rq.displayOptions[rq.correctDisplayIndex]}",
+                                color = MaterialTheme.colorScheme.primary
+                            )
+                        }
+                        Spacer(Modifier.height(4.dp))
+                        Text(
+                            text = stringResource(R.string.explanation_label, rq.source.explanation),
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
                     }
                 }
             }
@@ -393,6 +456,12 @@ private fun InProgressView(viewModel: PracticeViewModel, modifier: Modifier = Mo
             }
         }
     }
+}
+
+private fun formatElapsed(totalSeconds: Int): String {
+    val minutes = totalSeconds / 60
+    val seconds = totalSeconds % 60
+    return "%d:%02d".format(minutes, seconds)
 }
 
 @Composable
@@ -465,6 +534,10 @@ private fun ReviewView(
     viewModel: PracticeViewModel,
     modifier: Modifier = Modifier
 ) {
+    // Marked items first, then everything else, each group preserving original order.
+    val ordered = remember(items) {
+        items.partition { it.wasMarked }.let { (marked, rest) -> marked + rest }
+    }
     Column(modifier = modifier.fillMaxSize().padding(16.dp)) {
         Text(
             stringResource(R.string.review_title),
@@ -476,7 +549,7 @@ private fun ReviewView(
             modifier = Modifier.weight(1f),
             verticalArrangement = Arrangement.spacedBy(8.dp)
         ) {
-            androidx.compose.foundation.lazy.items(items) { item ->
+            androidx.compose.foundation.lazy.items(ordered) { item ->
                 Card(
                     modifier = Modifier.fillMaxWidth(),
                     colors = CardDefaults.cardColors(
@@ -484,6 +557,22 @@ private fun ReviewView(
                     )
                 ) {
                     Column(modifier = Modifier.padding(16.dp)) {
+                        if (item.wasMarked) {
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                Icon(
+                                    Icons.Filled.Bookmark,
+                                    contentDescription = null,
+                                    tint = MaterialTheme.colorScheme.primary,
+                                    modifier = Modifier.padding(end = 4.dp)
+                                )
+                                Text(
+                                    stringResource(R.string.badge_marked),
+                                    style = MaterialTheme.typography.labelMedium,
+                                    color = MaterialTheme.colorScheme.primary
+                                )
+                            }
+                            Spacer(Modifier.height(4.dp))
+                        }
                         Text(
                             item.question.text,
                             style = MaterialTheme.typography.bodyLarge,
