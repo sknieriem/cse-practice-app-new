@@ -1,5 +1,8 @@
 package com.pjcinc.csepractice.ui.screens
 
+import com.pjcinc.csepractice.ui.components.ChoiceSegments
+import com.pjcinc.csepractice.ui.components.ChoiceList
+import com.pjcinc.csepractice.ui.components.Choice
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -18,9 +21,7 @@ import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
-import androidx.compose.material3.FilterChip
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -80,26 +81,26 @@ fun OnboardingScreen(vm: AppViewModel) {
         Card(colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface)) {
             Column(Modifier.fillMaxWidth().padding(18.dp)) {
                 Text("1. Which exam are you taking?", style = MaterialTheme.typography.titleMedium)
-                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    listOf("Professional", "Subprofessional").forEach { l ->
-                        FilterChip(selected = level == l, onClick = { level = l }, label = { Text(l) })
-                    }
-                }
+                Spacer(Modifier.height(8.dp))
+                ChoiceList(EXAM_LEVELS, level) { level = it }
                 Spacer(Modifier.height(16.dp))
                 Text("2. When is your exam?", style = MaterialTheme.typography.titleMedium)
-                Row(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
-                    OutlinedButton(onClick = { pickDate = true }) {
-                        Text(if (examDay < 0) "Pick a date" else LocalDate.ofEpochDay(examDay).format(DateTimeFormatter.ofPattern("MMM d, yyyy")))
-                    }
-                    FilterChip(selected = examDay < 0, onClick = { examDay = -1 }, label = { Text("Not sure yet") })
-                }
+                Spacer(Modifier.height(8.dp))
+                ChoiceList(
+                    listOf(
+                        Choice(
+                            "date",
+                            if (examDay < 0) "📅 Pick a date" else "📅 " + LocalDate.ofEpochDay(examDay).format(DateTimeFormatter.ofPattern("MMMM d, yyyy")),
+                            if (examDay < 0) null else "Tap to change"
+                        ),
+                        Choice("unsure", "Not sure yet", "You can set it later in Settings")
+                    ),
+                    if (examDay < 0) "unsure" else "date"
+                ) { if (it == "date") pickDate = true else examDay = -1 }
                 Spacer(Modifier.height(16.dp))
                 Text("3. Daily goal (questions)", style = MaterialTheme.typography.titleMedium)
-                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    listOf(10, 20, 40, 60).forEach { g ->
-                        FilterChip(selected = goal == g, onClick = { goal = g }, label = { Text("$g") })
-                    }
-                }
+                Spacer(Modifier.height(8.dp))
+                ChoiceSegments(GOALS, goal.toString()) { goal = it.toInt() }
                 Text(
                     "About ${goal / 2}–$goal minutes a day. You can change all of this later in Settings.",
                     style = MaterialTheme.typography.labelSmall,
@@ -117,3 +118,10 @@ fun OnboardingScreen(vm: AppViewModel) {
 
     if (pickDate) ExamDateDialog(examDay, onDismiss = { pickDate = false }) { examDay = it; pickDate = false }
 }
+
+/** Shared by onboarding and Settings. */
+val EXAM_LEVELS = listOf(
+    Choice("Professional", "Professional"),
+    Choice("Subprofessional", "Subprofessional")
+)
+val GOALS = listOf(10, 20, 40, 60).map { Choice(it.toString(), it.toString()) }

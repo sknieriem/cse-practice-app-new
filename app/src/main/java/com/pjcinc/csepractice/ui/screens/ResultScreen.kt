@@ -1,5 +1,7 @@
 package com.pjcinc.csepractice.ui.screens
 
+import com.pjcinc.csepractice.ui.components.NoWrapChip
+import com.pjcinc.csepractice.ui.components.ChipFlow
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.background
@@ -243,11 +245,10 @@ fun ReviewScreen(vm: AppViewModel, r: SessionResult, onlyWrongInitially: Boolean
             IconButton(onClick = { vm.onBack() }) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back to results") }
             Text("Review answers", style = MaterialTheme.typography.titleLarge)
         }
-        Row(Modifier.padding(horizontal = 16.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            FilterChip(selected = onlyWrong, onClick = { onlyWrong = true }, label = { Text("Mistakes") })
-            FilterChip(selected = !onlyWrong, onClick = { onlyWrong = false }, label = { Text("All") })
-            Spacer(Modifier.weight(1f))
-            FilterChip(selected = tl, onClick = { tl = !tl; vm.setLanguage(if (tl) "tl" else "en") }, label = { Text("Taglish") })
+        ChipFlow(Modifier.padding(horizontal = 16.dp)) {
+            NoWrapChip("Mistakes", onlyWrong) { onlyWrong = true }
+            NoWrapChip("All", !onlyWrong) { onlyWrong = false }
+            NoWrapChip("Taglish", tl) { tl = !tl; vm.setLanguage(if (tl) "tl" else "en") }
         }
         LazyColumn(Modifier.fillMaxSize().padding(horizontal = 16.dp)) {
             if (items.isEmpty()) item {

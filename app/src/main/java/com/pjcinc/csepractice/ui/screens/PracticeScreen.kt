@@ -1,5 +1,8 @@
 package com.pjcinc.csepractice.ui.screens
 
+import com.pjcinc.csepractice.ui.components.FitText
+import com.pjcinc.csepractice.ui.components.ChoiceSegments
+import com.pjcinc.csepractice.ui.components.Choice
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -129,17 +132,14 @@ private fun PracticeHub(vm: AppViewModel) {
                         FilterChip(
                             selected = on,
                             onClick = { picked = if (on) picked - cat else picked + cat },
-                            label = { Text(subjectStyle(cat).short) }
+                            label = { Text(subjectStyle(cat).short, maxLines = 1, softWrap = false) }
                         )
                     }
                 }
                 Spacer(Modifier.height(8.dp))
                 Text("How many", style = MaterialTheme.typography.labelLarge)
-                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    listOf(10, 25, 50, 100).forEach { n ->
-                        FilterChip(selected = count == n, onClick = { count = n }, label = { Text("$n") })
-                    }
-                }
+                Spacer(Modifier.height(6.dp))
+                ChoiceSegments(listOf(10, 25, 50, 100).map { Choice("$it", "$it") }, count.toString()) { count = it.toInt() }
                 Spacer(Modifier.height(8.dp))
                 Button(
                     onClick = { vm.start(QuizMode.CUSTOM, count, categories = picked) },
@@ -167,7 +167,7 @@ private fun SubjectCard(category: String, readiness: Int, questions: Int, modifi
         Column(Modifier.padding(14.dp)) {
             IconBubble(st.icon, st.color)
             Spacer(Modifier.height(10.dp))
-            Text(st.short, style = MaterialTheme.typography.titleMedium)
+            FitText(st.short, style = MaterialTheme.typography.titleMedium, maxLines = 1)
             Text("$questions questions", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
             Spacer(Modifier.height(8.dp))
             Bar(readiness / 100f, st.color)

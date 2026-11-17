@@ -1,5 +1,9 @@
 package com.pjcinc.csepractice.ui.screens
 
+import com.pjcinc.csepractice.ui.components.LANGS
+import com.pjcinc.csepractice.ui.components.ChoiceSegments
+import com.pjcinc.csepractice.ui.components.ChoiceList
+import com.pjcinc.csepractice.ui.components.Choice
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -75,18 +79,12 @@ fun SettingsScreen(vm: AppViewModel) {
             }
             HorizontalDivider(Modifier.padding(vertical = 10.dp))
             Text("Level", style = MaterialTheme.typography.titleMedium)
-            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                listOf("Professional", "Subprofessional").forEach { l ->
-                    FilterChip(selected = user.examLevel == l, onClick = { vm.setExamLevel(l) }, label = { Text(l) })
-                }
-            }
+            Spacer(Modifier.height(8.dp))
+            ChoiceList(EXAM_LEVELS, user.examLevel) { vm.setExamLevel(it) }
             HorizontalDivider(Modifier.padding(vertical = 10.dp))
             Text("Daily goal", style = MaterialTheme.typography.titleMedium)
-            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                listOf(10, 20, 40, 60).forEach { g ->
-                    FilterChip(selected = user.dailyGoal == g, onClick = { vm.setDailyGoal(g) }, label = { Text("$g") })
-                }
-            }
+            Spacer(Modifier.height(8.dp))
+            ChoiceSegments(GOALS, user.dailyGoal.toString()) { vm.setDailyGoal(it.toInt()) }
         }
 
         SectionTitle(Encourage.t(user.language, "Me", "Ako"))
@@ -101,10 +99,8 @@ fun SettingsScreen(vm: AppViewModel) {
             ) { vm.setInstant(it) }
             HorizontalDivider(Modifier.padding(vertical = 10.dp))
             Text("Explanations", style = MaterialTheme.typography.titleMedium)
-            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                FilterChip(selected = user.language == "en", onClick = { vm.setLanguage("en") }, label = { Text("English") })
-                FilterChip(selected = user.language == "tl", onClick = { vm.setLanguage("tl") }, label = { Text("Taglish") })
-            }
+            Spacer(Modifier.height(8.dp))
+            ChoiceSegments(LANGS, user.language) { vm.setLanguage(it) }
             Text(
                 "You can also switch on any question.",
                 style = MaterialTheme.typography.labelSmall,
@@ -115,11 +111,11 @@ fun SettingsScreen(vm: AppViewModel) {
         SectionTitle("Look")
         SettingCard {
             Text("Theme", style = MaterialTheme.typography.titleMedium)
-            FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                listOf("system" to "Same as phone", "light" to "Light", "dark" to "Dark").forEach { (k, label) ->
-                    FilterChip(selected = user.themeMode == k, onClick = { vm.setTheme(k) }, label = { Text(label) })
-                }
-            }
+            Spacer(Modifier.height(8.dp))
+            ChoiceList(
+                listOf(Choice("system", "Same as phone"), Choice("light", "Light"), Choice("dark", "Dark")),
+                user.themeMode
+            ) { vm.setTheme(it) }
         }
 
         SectionTitle("About")

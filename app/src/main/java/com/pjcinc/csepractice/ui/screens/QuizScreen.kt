@@ -1,5 +1,7 @@
 package com.pjcinc.csepractice.ui.screens
 
+import com.pjcinc.csepractice.ui.components.LANGS
+import com.pjcinc.csepractice.ui.components.ChoiceSegments
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
@@ -397,10 +399,7 @@ private fun FeedbackPanel(vm: AppViewModel, q: Question, state: QuizState, lang:
                 Pill("+$xp XP", if (right) fb.good else MaterialTheme.colorScheme.onSurfaceVariant)
             }
             Spacer(Modifier.height(8.dp))
-            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                FilterChip(selected = !tl, onClick = { onLang("en") }, label = { Text("English") })
-                FilterChip(selected = tl, onClick = { onLang("tl") }, label = { Text("Taglish") })
-            }
+            ChoiceSegments(LANGS, if (tl) "tl" else "en") { onLang(it) }
             ExplanationBody(vm, q, chosen, tl)
             if (BuildConfig.TUTOR_ENABLED) {
                 OutlinedButton(onClick = { /* online tutor: see TutorClient */ }, modifier = Modifier.padding(top = 8.dp)) {

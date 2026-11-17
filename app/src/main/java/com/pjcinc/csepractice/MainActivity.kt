@@ -45,6 +45,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import com.pjcinc.csepractice.ui.components.NavLabel
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
 import com.pjcinc.csepractice.ui.screens.HomeScreen
@@ -135,7 +136,7 @@ private fun TabsScaffold(vm: AppViewModel, tab: Tab, snackbar: SnackbarHostState
                         selected = selected,
                         onClick = { vm.selectTab(t) },
                         icon = { Icon(if (selected) t.iconFilled() else t.iconOutlined(), contentDescription = null) },
-                        label = { Text(t.label) }
+                        label = { NavLabel(t.label) }
                     )
                 }
             }

@@ -56,7 +56,7 @@ object Game {
         Badge("daily_1", "📅", "Daily Challenger", "Finish a daily challenge"),
         Badge("daily_7", "🗓️", "Challenge Week", "Finish 7 daily challenges"),
         Badge("exam_pass", "🎯", "Passer", "Score 80% or more in Exam mode"),
-        Badge("review_10", "🔁", "Comeback", "Get 10 previously-missed questions right"),
+        Badge("review_10", "🔁", "Comeback", "Get 10 past mistakes right on a retry"),
         Badge("master_num", "🧮", "Numerical Master", "80%+ on 50+ Numerical answers"),
         Badge("master_verb", "📖", "Verbal Master", "80%+ on 50+ Verbal answers"),
         Badge("master_ana", "🧩", "Analytical Master", "80%+ on 50+ Analytical answers"),

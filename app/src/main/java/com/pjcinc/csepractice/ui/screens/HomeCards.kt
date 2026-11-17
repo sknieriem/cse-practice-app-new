@@ -121,13 +121,11 @@ fun PostExamCard(vm: AppViewModel, user: UserState) {
             Button(onClick = { vm.reportExam(passed = true) }, modifier = Modifier.fillMaxWidth()) {
                 Text(Encourage.t(lang, "I passed! 🎉", "Pumasa ako! 🎉"))
             }
-            Row(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.padding(top = 6.dp)) {
-                OutlinedButton(onClick = { notPassed = true }, modifier = Modifier.weight(1f)) {
-                    Text(Encourage.t(lang, "Not this time", "Hindi pa ngayon"))
-                }
-                TextButton(onClick = { vm.snoozeExamQuestion() }, modifier = Modifier.weight(1f)) {
-                    Text(Encourage.t(lang, "Still waiting", "Hinihintay pa"))
-                }
+            OutlinedButton(onClick = { notPassed = true }, modifier = Modifier.fillMaxWidth().padding(top = 6.dp)) {
+                Text(Encourage.t(lang, "Not this time", "Hindi pa ngayon"))
+            }
+            TextButton(onClick = { vm.snoozeExamQuestion() }, modifier = Modifier.fillMaxWidth()) {
+                Text(Encourage.t(lang, "Still waiting for results", "Hinihintay pa ang resulta"))
             }
         }
     }

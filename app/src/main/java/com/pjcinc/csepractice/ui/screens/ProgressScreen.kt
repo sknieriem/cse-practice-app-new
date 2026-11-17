@@ -1,5 +1,6 @@
 package com.pjcinc.csepractice.ui.screens
 
+import com.pjcinc.csepractice.ui.components.FitText
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -165,7 +166,7 @@ fun ProgressScreen(vm: AppViewModel) {
                 verticalAlignment = Alignment.CenterVertically,
                 modifier = Modifier.fillMaxWidth().clickable { vm.openCategory(cat) }.padding(vertical = 6.dp)
             ) {
-                Text(st.short, modifier = Modifier.width(96.dp))
+                FitText(st.short, modifier = Modifier.width(96.dp), maxLines = 1)
                 Bar(r / 100f, st.color, Modifier.weight(1f), height = 12.dp)
                 Text(if (r < 0) "—" else "$r%", modifier = Modifier.width(48.dp), textAlign = TextAlign.End)
             }
@@ -217,9 +218,9 @@ fun ProgressScreen(vm: AppViewModel) {
                     ) {
                         Column(Modifier.fillMaxWidth().padding(10.dp), horizontalAlignment = Alignment.CenterHorizontally) {
                             Text(if (earned) b.emoji else "🔒", fontSize = 26.sp)
-                            Text(b.title, style = MaterialTheme.typography.labelMedium, textAlign = TextAlign.Center, maxLines = 2)
-                            Text(b.description, style = MaterialTheme.typography.labelSmall, textAlign = TextAlign.Center,
-                                color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 3)
+                            FitText(b.title, style = MaterialTheme.typography.labelMedium, textAlign = TextAlign.Center, maxLines = 2)
+                            FitText(b.description, style = MaterialTheme.typography.labelSmall, textAlign = TextAlign.Center,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 4)
                         }
                     }
                 }
