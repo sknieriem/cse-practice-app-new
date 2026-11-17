@@ -15,13 +15,15 @@ android {
         applicationId = "com.pjcinc.csepractice"
         minSdk = 26
         targetSdk = 35
-        versionCode = 2
-        versionName = "1.1"
+        versionCode = 3
+        versionName = "2.0-beta"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
             useSupportLibrary = true
         }
+        // Online "Ask the tutor" (needs Steve's server + INTERNET permission). Off = fully offline app.
+        buildConfigField("boolean", "TUTOR_ENABLED", "false")
     }
 
     buildTypes {
@@ -38,6 +40,16 @@ android {
                 "proguard-rules.pro"
             )
         }
+        // Small, optimized APK for testers (Pearl etc.), installable side-by-side with debug.
+        // Signed with the local DEBUG key on purpose: no Play Store key is created yet.
+        // Never upload this one to the Play Store.
+        create("beta") {
+            initWith(getByName("release"))
+            applicationIdSuffix = ".beta"
+            versionNameSuffix = "-tester"
+            signingConfig = signingConfigs.getByName("debug")
+            matchingFallbacks += listOf("release")
+        }
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
@@ -45,9 +57,20 @@ android {
     }
     buildFeatures {
         compose = true
+        buildConfig = true
     }
     kotlin {
         jvmToolchain(17)
+    }
+    testOptions {
+        unitTests {
+            // Robolectric runs the real app on the JVM; Roborazzi saves screenshots to app/build/outputs/roborazzi
+            isIncludeAndroidResources = true
+            all {
+                it.systemProperty("roborazzi.test.record", "true")
+                it.forkEvery = 1 // fresh JVM per test class: DataStore + Room are process singletons
+            }
+        }
     }
     packaging {
         resources {
@@ -95,6 +118,13 @@ dependencies {
 
     // Tests
     testImplementation("junit:junit:4.13.2")
+    testImplementation("org.robolectric:robolectric:4.14.1")
+    testImplementation("androidx.test:core-ktx:1.6.1")
+    testImplementation(platform("androidx.compose:compose-bom:2024.09.03"))
+    testImplementation("androidx.compose.ui:ui-test-junit4")
+    testImplementation("io.github.takahirom.roborazzi:roborazzi:1.26.0")
+    testImplementation("io.github.takahirom.roborazzi:roborazzi-compose:1.26.0")
+    testImplementation("io.github.takahirom.roborazzi:roborazzi-junit-rule:1.26.0")
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
     androidTestImplementation(platform("androidx.compose:compose-bom:2024.09.03"))

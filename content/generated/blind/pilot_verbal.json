@@ -1,0 +1,278 @@
+[
+ {
+  "uid": "pilot_verbal-01",
+  "category": "Verbal Ability",
+  "text": "The mayor's speech was so VERBOSE that many residents left the covered court before it ended. VERBOSE most nearly means:",
+  "optionA": "brief",
+  "optionB": "wordy",
+  "optionC": "inspiring",
+  "optionD": "offensive"
+ },
+ {
+  "uid": "pilot_verbal-02",
+  "category": "Verbal Ability",
+  "text": "The barangay captain remained IMPARTIAL while settling the dispute between the two neighbors. IMPARTIAL most nearly means:",
+  "optionA": "unconcerned",
+  "optionB": "strict",
+  "optionC": "fair and unbiased",
+  "optionD": "hesitant"
+ },
+ {
+  "uid": "pilot_verbal-03",
+  "category": "Verbal Ability",
+  "text": "The new records clerk was so METICULOUS that the auditors found no missing receipts. METICULOUS most nearly means:",
+  "optionA": "careless",
+  "optionB": "hurried",
+  "optionC": "colorful",
+  "optionD": "very careful and precise"
+ },
+ {
+  "uid": "pilot_verbal-04",
+  "category": "Verbal Ability",
+  "text": "The committee gave the proposal only a PERFUNCTORY review, so serious errors in the budget went unnoticed. PERFUNCTORY most nearly means:",
+  "optionA": "done as a routine, with little care",
+  "optionB": "thorough and detailed",
+  "optionC": "hostile and critical",
+  "optionD": "delayed for a long time"
+ },
+ {
+  "uid": "pilot_verbal-05",
+  "category": "Verbal Ability",
+  "text": "The OSTENSIBLE purpose of the official's trip to Boracay was a three-day seminar, but he skipped every session. OSTENSIBLE most nearly means:",
+  "optionA": "hidden",
+  "optionB": "legitimate",
+  "optionC": "apparent or outwardly stated",
+  "optionD": "urgent"
+ },
+ {
+  "uid": "pilot_verbal-06",
+  "category": "Verbal Ability",
+  "text": "Choose the word OPPOSITE in meaning to FRUGAL.",
+  "optionA": "thrifty",
+  "optionB": "careful",
+  "optionC": "poor",
+  "optionD": "wasteful"
+ },
+ {
+  "uid": "pilot_verbal-07",
+  "category": "Verbal Ability",
+  "text": "Choose the word OPPOSITE in meaning to EPHEMERAL.",
+  "optionA": "fleeting",
+  "optionB": "enduring",
+  "optionC": "fragile",
+  "optionD": "brilliant"
+ },
+ {
+  "uid": "pilot_verbal-08",
+  "category": "Verbal Ability",
+  "text": "Choose the word OPPOSITE in meaning to EXACERBATE.",
+  "optionA": "alleviate",
+  "optionB": "worsen",
+  "optionC": "ignore",
+  "optionD": "provoke"
+ },
+ {
+  "uid": "pilot_verbal-09",
+  "category": "Verbal Ability",
+  "text": "Neither the teacher nor the students ___ aware of the change in the exam schedule.",
+  "optionA": "was",
+  "optionB": "is",
+  "optionC": "were",
+  "optionD": "has been"
+ },
+ {
+  "uid": "pilot_verbal-10",
+  "category": "Verbal Ability",
+  "text": "Each of the applicants ___ required to submit a PSA-issued birth certificate.",
+  "optionA": "are",
+  "optionB": "were",
+  "optionC": "have been",
+  "optionD": "is"
+ },
+ {
+  "uid": "pilot_verbal-11",
+  "category": "Verbal Ability",
+  "text": "Between you and ___, the report was submitted two days late.",
+  "optionA": "I",
+  "optionB": "me",
+  "optionC": "myself",
+  "optionD": "mine"
+ },
+ {
+  "uid": "pilot_verbal-12",
+  "category": "Verbal Ability",
+  "text": "Which part of the sentence contains an error?\n(A) Since the agency / (B) began accepting online forms, / (C) the number of applicants / (D) have increased sharply.",
+  "optionA": "Since the agency",
+  "optionB": "began accepting online forms",
+  "optionC": "the number of applicants",
+  "optionD": "have increased sharply"
+ },
+ {
+  "uid": "pilot_verbal-13",
+  "category": "Verbal Ability",
+  "text": "By the time the inspector arrived, the workers ___ the construction site.",
+  "optionA": "cleaned",
+  "optionB": "have cleaned",
+  "optionC": "had cleaned",
+  "optionD": "will have cleaned"
+ },
+ {
+  "uid": "pilot_verbal-14",
+  "category": "Verbal Ability",
+  "text": "Which sentence is correct?",
+  "optionA": "Walking along Roxas Boulevard, we found the sunset beautiful.",
+  "optionB": "Walking along Roxas Boulevard, the sunset looked beautiful.",
+  "optionC": "While walking along Roxas Boulevard, the sunset was beautiful to us.",
+  "optionD": "Walking along Roxas Boulevard, the sunset was admired by us."
+ },
+ {
+  "uid": "pilot_verbal-15",
+  "category": "Verbal Ability",
+  "text": "Which word is spelled correctly?",
+  "optionA": "accomodate",
+  "optionB": "accommodate",
+  "optionC": "acommodate",
+  "optionD": "acomodate"
+ },
+ {
+  "uid": "pilot_verbal-16",
+  "category": "Verbal Ability",
+  "text": "Which word is MISSPELLED?",
+  "optionA": "maintainance",
+  "optionB": "necessary",
+  "optionC": "embarrass",
+  "optionD": "conscientious"
+ },
+ {
+  "uid": "pilot_verbal-17",
+  "category": "Verbal Ability",
+  "text": "Arrange the sentences to form a logical paragraph.\n1. As a result, many families now separate their waste at home.\n2. The barangay launched a campaign on proper waste segregation last year.\n3. Officials visited every purok to explain the difference between biodegradable and non-biodegradable waste.\n4. Today, the barangay's collection trucks carry far less mixed garbage.",
+  "optionA": "3-2-1-4",
+  "optionB": "2-1-3-4",
+  "optionC": "1-2-3-4",
+  "optionD": "2-3-1-4"
+ },
+ {
+  "uid": "pilot_verbal-18",
+  "category": "Verbal Ability",
+  "text": "Arrange the sentences to form a logical paragraph.\n1. Yet it may be the skill that matters most in a teacher's first year.\n2. For this reason, some schools now pair new teachers with experienced mentors.\n3. Classroom management is often overlooked in teacher training.\n4. Without it, even a well-prepared teacher struggles to hold a class's attention.",
+  "optionA": "3-4-1-2",
+  "optionB": "3-1-2-4",
+  "optionC": "3-1-4-2",
+  "optionD": "1-3-4-2"
+ },
+ {
+  "uid": "pilot_verbal-19",
+  "category": "Verbal Ability",
+  "text": "Arrange the sentences to form a logical paragraph.\n1. Others, however, worry that the seedlings chosen are often not native to the area.\n2. Tree-planting drives have become a popular activity for offices and schools.\n3. Non-native species can crowd out local plants and offer little food to local wildlife.\n4. Supporters say these events build environmental awareness among participants.\n5. Planting the right species, then, matters as much as planting many trees.",
+  "optionA": "2-4-1-3-5",
+  "optionB": "2-1-4-3-5",
+  "optionC": "4-2-1-3-5",
+  "optionD": "2-4-3-1-5"
+ },
+ {
+  "uid": "pilot_verbal-20",
+  "category": "Verbal Ability",
+  "text": "DOCTOR : HOSPITAL :: TEACHER : ___",
+  "optionA": "student",
+  "optionB": "school",
+  "optionC": "lesson",
+  "optionD": "blackboard"
+ },
+ {
+  "uid": "pilot_verbal-21",
+  "category": "Verbal Ability",
+  "text": "INSOMNIA : SLEEP :: AMNESIA : ___",
+  "optionA": "memory",
+  "optionB": "dream",
+  "optionC": "forgetfulness",
+  "optionD": "illness"
+ },
+ {
+  "uid": "pilot_verbal-22",
+  "category": "Verbal Ability",
+  "text": "PROLOGUE : NOVEL :: OVERTURE : ___",
+  "optionA": "conductor",
+  "optionB": "finale",
+  "optionC": "opera",
+  "optionD": "orchestra"
+ },
+ {
+  "uid": "pilot_verbal-23",
+  "category": "Verbal Ability",
+  "passage": "In many coastal barangays, mangroves were once cleared to make room for fishponds. For decades, this seemed like a fair trade: the ponds produced income, while the mangroves appeared to produce nothing. Recent storms have changed that view. Villages that kept their mangrove belts suffered noticeably less damage from storm surges than those that had removed them, because the dense roots slow incoming waves. Mangroves also serve as nurseries for young fish and crabs, so their loss eventually reduces the catch of the very fishers who once welcomed the ponds. Several local governments now pay residents to replant abandoned ponds. The work is slow, since seedlings take years to mature, but supporters argue that the cost is small compared with rebuilding after every typhoon.",
+  "text": "Which statement best expresses the main idea of the passage?",
+  "optionA": "Fishponds earn more for coastal villages than mangroves do.",
+  "optionB": "Mangroves, once seen as worthless, are now valued for storm protection and fisheries.",
+  "optionC": "Replanting mangroves is too slow to be worth the cost.",
+  "optionD": "Typhoons have become stronger in coastal barangays."
+ },
+ {
+  "uid": "pilot_verbal-24",
+  "category": "Verbal Ability",
+  "passage": "In many coastal barangays, mangroves were once cleared to make room for fishponds. For decades, this seemed like a fair trade: the ponds produced income, while the mangroves appeared to produce nothing. Recent storms have changed that view. Villages that kept their mangrove belts suffered noticeably less damage from storm surges than those that had removed them, because the dense roots slow incoming waves. Mangroves also serve as nurseries for young fish and crabs, so their loss eventually reduces the catch of the very fishers who once welcomed the ponds. Several local governments now pay residents to replant abandoned ponds. The work is slow, since seedlings take years to mature, but supporters argue that the cost is small compared with rebuilding after every typhoon.",
+  "text": "According to the passage, why did villages that kept their mangroves suffer less storm-surge damage?",
+  "optionA": "They earned income from fishponds to pay for repairs.",
+  "optionB": "They were located farther from the open sea.",
+  "optionC": "Their replanted seedlings had already matured.",
+  "optionD": "The dense mangrove roots slowed incoming waves."
+ },
+ {
+  "uid": "pilot_verbal-25",
+  "category": "Verbal Ability",
+  "passage": "In many coastal barangays, mangroves were once cleared to make room for fishponds. For decades, this seemed like a fair trade: the ponds produced income, while the mangroves appeared to produce nothing. Recent storms have changed that view. Villages that kept their mangrove belts suffered noticeably less damage from storm surges than those that had removed them, because the dense roots slow incoming waves. Mangroves also serve as nurseries for young fish and crabs, so their loss eventually reduces the catch of the very fishers who once welcomed the ponds. Several local governments now pay residents to replant abandoned ponds. The work is slow, since seedlings take years to mature, but supporters argue that the cost is small compared with rebuilding after every typhoon.",
+  "text": "The phrase 'the very fishers who once welcomed the ponds' suggests that:",
+  "optionA": "fishers now own most of the abandoned ponds.",
+  "optionB": "fishers opposed the fishponds from the start.",
+  "optionC": "the fishers' earlier support for the ponds later hurt their own livelihood.",
+  "optionD": "fishers caught more fish after the mangroves were cleared."
+ },
+ {
+  "uid": "pilot_verbal-26",
+  "category": "Verbal Ability",
+  "passage": "When a city hall first introduced online appointments for business permits, many employees expected the long lines to disappear overnight. They did not. Older applicants, who were less comfortable with smartphones, kept arriving without appointments, and the staff felt obliged to serve them. Within a month, the office was running two queues at once, and waiting times actually grew. The solution turned out to be less technological than expected. The office set up a small help desk at the entrance, where a clerk booked appointments for walk-in applicants on the spot and gave them a printed time slot. Lines shortened within weeks. The lesson, according to the office head, was that a new system succeeds only when it is designed around the people who will actually use it, not the people who build it.",
+  "text": "Why did waiting times grow after online appointments were introduced?",
+  "optionA": "Walk-in applicants kept coming, so the office ended up running two queues at once.",
+  "optionB": "The online appointment system kept crashing.",
+  "optionC": "Staff refused to serve applicants without appointments.",
+  "optionD": "The help desk at the entrance slowed down processing."
+ },
+ {
+  "uid": "pilot_verbal-27",
+  "category": "Verbal Ability",
+  "passage": "When a city hall first introduced online appointments for business permits, many employees expected the long lines to disappear overnight. They did not. Older applicants, who were less comfortable with smartphones, kept arriving without appointments, and the staff felt obliged to serve them. Within a month, the office was running two queues at once, and waiting times actually grew. The solution turned out to be less technological than expected. The office set up a small help desk at the entrance, where a clerk booked appointments for walk-in applicants on the spot and gave them a printed time slot. Lines shortened within weeks. The lesson, according to the office head, was that a new system succeeds only when it is designed around the people who will actually use it, not the people who build it.",
+  "text": "As used in the passage, the word 'obliged' most nearly means:",
+  "optionA": "grateful",
+  "optionB": "duty-bound",
+  "optionC": "reluctant",
+  "optionD": "permitted"
+ },
+ {
+  "uid": "pilot_verbal-28",
+  "category": "Verbal Ability",
+  "passage": "When a city hall first introduced online appointments for business permits, many employees expected the long lines to disappear overnight. They did not. Older applicants, who were less comfortable with smartphones, kept arriving without appointments, and the staff felt obliged to serve them. Within a month, the office was running two queues at once, and waiting times actually grew. The solution turned out to be less technological than expected. The office set up a small help desk at the entrance, where a clerk booked appointments for walk-in applicants on the spot and gave them a printed time slot. Lines shortened within weeks. The lesson, according to the office head, was that a new system succeeds only when it is designed around the people who will actually use it, not the people who build it.",
+  "text": "Which plan best applies the lesson stated by the office head?",
+  "optionA": "A school buys faster computers so that its online enrollment runs more smoothly.",
+  "optionB": "A municipality closes its walk-in counter to push all residents to apply online.",
+  "optionC": "An agency sends its IT staff to training so they can build more advanced apps.",
+  "optionD": "A hospital launching a text-message queue first checks how its patients actually contact it and keeps a front-desk option."
+ },
+ {
+  "uid": "pilot_verbal-29",
+  "category": "Verbal Ability",
+  "text": "Ano ang kahulugan ng salitang nasa malalaking titik? Ang kanyang MASIGASIG na paglilingkod sa bayan ay hinangaan ng lahat.",
+  "optionA": "mabagal",
+  "optionB": "matiyaga at masipag",
+  "optionC": "mahiyain",
+  "optionD": "mapagmataas"
+ },
+ {
+  "uid": "pilot_verbal-30",
+  "category": "Verbal Ability",
+  "text": "Alin sa mga sumusunod na pangungusap ang may wastong gamit ng 'ng' o 'nang'?",
+  "optionA": "Tumakbo siya ng mabilis papunta sa munisipyo.",
+  "optionB": "Kumain siya nang tinapay bago umalis.",
+  "optionC": "Nagsalita siya ng malakas sa pulong.",
+  "optionD": "Tumakbo siya nang mabilis papunta sa munisipyo."
+ }
+]

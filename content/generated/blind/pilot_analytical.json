@@ -1,0 +1,231 @@
+[
+ {
+  "uid": "pilot_analytical-01",
+  "category": "Analytical Ability",
+  "text": "In a certain code, PASIG is written as QBTJH. How is TAGUM written in the same code?",
+  "optionA": "SZFTL",
+  "optionB": "UBHVN",
+  "optionC": "UBIVN",
+  "optionD": "VCIWO"
+ },
+ {
+  "uid": "pilot_analytical-02",
+  "category": "Analytical Ability",
+  "text": "In a certain code, CEBU is written as XVYF. How is DAVAO written in the same code?",
+  "optionA": "XZEZL",
+  "optionB": "WZFZL",
+  "optionC": "WZEZL",
+  "optionD": "WZEZM"
+ },
+ {
+  "uid": "pilot_analytical-03",
+  "category": "Analytical Ability",
+  "text": "In a certain code, LIPA is written as 13-11-19-5. Following the same pattern, how is ILOG written?",
+  "optionA": "9-12-15-7",
+  "optionB": "10-13-16-8",
+  "optionC": "10-14-18-12",
+  "optionD": "10-14-18-11"
+ },
+ {
+  "uid": "pilot_analytical-04",
+  "category": "Analytical Ability",
+  "text": "What number comes next in the series? 3, 7, 15, 31, 63, ___",
+  "optionA": "125",
+  "optionB": "126",
+  "optionC": "127",
+  "optionD": "129"
+ },
+ {
+  "uid": "pilot_analytical-05",
+  "category": "Analytical Ability",
+  "text": "What letter comes next in the series? A, C, F, J, O, ___",
+  "optionA": "U",
+  "optionB": "T",
+  "optionC": "V",
+  "optionD": "S"
+ },
+ {
+  "uid": "pilot_analytical-06",
+  "category": "Analytical Ability",
+  "text": "What number comes next in the series? 2, 6, 3, 9, 6, 18, 15, ___",
+  "optionA": "12",
+  "optionB": "30",
+  "optionC": "54",
+  "optionD": "45"
+ },
+ {
+  "uid": "pilot_analytical-07",
+  "category": "Analytical Ability",
+  "passage": "Families served in a rice distribution drive\nBarangay | Families served\nSan Isidro | 120\nPoblacion | 185\nMabini | 95\nRizal | 150",
+  "text": "How many more families were served in Poblacion than in Mabini?",
+  "optionA": "80",
+  "optionB": "65",
+  "optionC": "35",
+  "optionD": "90"
+ },
+ {
+  "uid": "pilot_analytical-08",
+  "category": "Analytical Ability",
+  "passage": "Monthly sales of a sari-sari store\nMonth | Sales (₱)\nJanuary | 24,000\nFebruary | 20,000\nMarch | 30,000\nApril | 28,000",
+  "text": "By what percent did sales increase from February to March?",
+  "optionA": "50%",
+  "optionB": "33⅓%",
+  "optionC": "150%",
+  "optionD": "40%"
+ },
+ {
+  "uid": "pilot_analytical-09",
+  "category": "Analytical Ability",
+  "passage": "Results of a municipal qualifying exam\nYear | Examinees | Passers\n2021 | 400 | 60\n2022 | 500 | 90\n2023 | 600 | 96\n2024 | 450 | 72",
+  "text": "Which year had the highest passing rate?",
+  "optionA": "2021",
+  "optionB": "2022",
+  "optionC": "2023",
+  "optionD": "2024"
+ },
+ {
+  "uid": "pilot_analytical-10",
+  "category": "Analytical Ability",
+  "passage": "Budget of a municipality (total ₱50 million)\nSector | Share of budget\nHealth | 24%\nEducation | 30%\nInfrastructure | 26%\nAgriculture | 12%\nOthers | 8%",
+  "text": "The council cuts the Infrastructure budget by one-fourth and gives the entire amount cut to Agriculture. How much will Agriculture now receive?",
+  "optionA": "₱3.25 million",
+  "optionB": "₱6.5 million",
+  "optionC": "₱9.25 million",
+  "optionD": "₱7.5 million"
+ },
+ {
+  "uid": "pilot_analytical-11",
+  "category": "Analytical Ability",
+  "text": "Carpenter : Hammer :: Tailor : ___",
+  "optionA": "Needle",
+  "optionB": "Cloth",
+  "optionC": "Shop",
+  "optionD": "Dress"
+ },
+ {
+  "uid": "pilot_analytical-12",
+  "category": "Analytical Ability",
+  "text": "Drought : Water :: Famine : ___",
+  "optionA": "Hunger",
+  "optionB": "Crop",
+  "optionC": "Rain",
+  "optionD": "Food"
+ },
+ {
+  "uid": "pilot_analytical-13",
+  "category": "Analytical Ability",
+  "text": "4 : 64 :: 6 : ___",
+  "optionA": "36",
+  "optionB": "125",
+  "optionC": "216",
+  "optionD": "196"
+ },
+ {
+  "uid": "pilot_analytical-14",
+  "category": "Analytical Ability",
+  "text": "All employees of the municipal hall are residents of the town. Ana is an employee of the municipal hall. Which conclusion follows?",
+  "optionA": "Ana is a resident of the town.",
+  "optionB": "All residents of the town are employees of the municipal hall.",
+  "optionC": "Ana is not a resident of the town.",
+  "optionD": "Some residents of the town are not employees of the municipal hall."
+ },
+ {
+  "uid": "pilot_analytical-15",
+  "category": "Analytical Ability",
+  "text": "If it rains, the outdoor program is moved to the gym. The outdoor program was not moved to the gym. Which conclusion is valid?",
+  "optionA": "It rained.",
+  "optionB": "It did not rain.",
+  "optionC": "The program was cancelled.",
+  "optionD": "It may or may not have rained."
+ },
+ {
+  "uid": "pilot_analytical-16",
+  "category": "Analytical Ability",
+  "text": "Statements: All auditors are accountants. Some accountants are lawyers.\nConclusions: I. Some auditors are lawyers. II. Some lawyers are accountants.\nWhich conclusion(s) follow?",
+  "optionA": "Only conclusion I follows.",
+  "optionB": "Only conclusion II follows.",
+  "optionC": "Both conclusions follow.",
+  "optionD": "Neither conclusion follows."
+ },
+ {
+  "uid": "pilot_analytical-17",
+  "category": "Analytical Ability",
+  "text": "If Marco passes the exam, he will be hired. If he is hired, he will move to Cebu. Marco did not move to Cebu. Which of the following must be true?",
+  "optionA": "Marco was hired.",
+  "optionB": "Marco was not hired, but he may have passed the exam.",
+  "optionC": "Marco did not pass the exam.",
+  "optionD": "Marco passed the exam but was not hired."
+ },
+ {
+  "uid": "pilot_analytical-18",
+  "category": "Analytical Ability",
+  "text": "Liza is the daughter of Ramon. Ramon's only sister is Carmen. What is Carmen to Liza?",
+  "optionA": "Mother",
+  "optionB": "Sister",
+  "optionC": "Cousin",
+  "optionD": "Aunt"
+ },
+ {
+  "uid": "pilot_analytical-19",
+  "category": "Analytical Ability",
+  "text": "Pointing to a man in a photo, Jose said, \"His mother is the only daughter of my mother.\" Jose is a man. How is Jose related to the man in the photo?",
+  "optionA": "Father",
+  "optionB": "Brother",
+  "optionC": "Uncle",
+  "optionD": "Cousin"
+ },
+ {
+  "uid": "pilot_analytical-20",
+  "category": "Analytical Ability",
+  "text": "Statement: \"The barangay posted the vaccination schedule in Filipino and Cebuano so that all residents would know it.\" Which of the following is assumed in the statement?",
+  "optionA": "The residents can read Filipino or Cebuano.",
+  "optionB": "All residents want to be vaccinated.",
+  "optionC": "Posting notices is the only way to inform residents.",
+  "optionD": "The residents cannot read English."
+ },
+ {
+  "uid": "pilot_analytical-21",
+  "category": "Analytical Ability",
+  "text": "Statement: \"The city government will add more buses on the route to reduce commuters' waiting time.\" Which of the following is assumed in the statement?",
+  "optionA": "Commuters prefer buses to jeepneys.",
+  "optionB": "Adding buses will shorten the time commuters wait.",
+  "optionC": "This route has the most commuters in the city.",
+  "optionD": "Bus fares will go down."
+ },
+ {
+  "uid": "pilot_analytical-22",
+  "category": "Analytical Ability",
+  "text": "Statement: \"To speed up processing, the agency will now require applicants to submit their documents online.\" Which of the following is assumed in the statement?",
+  "optionA": "Online submissions can be processed faster than paper submissions.",
+  "optionB": "Every applicant owns a personal computer.",
+  "optionC": "Many paper documents submitted to the agency are fake.",
+  "optionD": "Slow processing is the agency's only problem."
+ },
+ {
+  "uid": "pilot_analytical-23",
+  "category": "Analytical Ability",
+  "text": "Which does not belong to the group?",
+  "optionA": "April",
+  "optionB": "June",
+  "optionC": "September",
+  "optionD": "October"
+ },
+ {
+  "uid": "pilot_analytical-24",
+  "category": "Analytical Ability",
+  "text": "Which number does not belong to the group?",
+  "optionA": "17",
+  "optionB": "51",
+  "optionC": "29",
+  "optionD": "41"
+ },
+ {
+  "uid": "pilot_analytical-25",
+  "category": "Analytical Ability",
+  "text": "Which letter group does not belong?",
+  "optionA": "BDG",
+  "optionB": "FHK",
+  "optionC": "PRV",
+  "optionD": "LNQ"
+ }
+]

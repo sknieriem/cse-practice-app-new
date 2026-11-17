@@ -1,0 +1,182 @@
+[
+ {
+  "uid": "pilot_geninfo-01",
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, a Senator must be at least how many years old on the day of the election?",
+  "optionA": "25",
+  "optionB": "30",
+  "optionC": "35",
+  "optionD": "40"
+ },
+ {
+  "uid": "pilot_geninfo-02",
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, the President is elected for a term of six years. Which rule on reelection applies to the President?",
+  "optionA": "The President may be reelected for one more consecutive term.",
+  "optionB": "The President is not eligible for any reelection.",
+  "optionC": "The President may be reelected once if Congress approves by a two-thirds vote.",
+  "optionD": "The President may be reelected as long as total service does not exceed ten years."
+ },
+ {
+  "uid": "pilot_geninfo-03",
+  "category": "General Information",
+  "text": "The principle 'Public office is a public trust' is expressly stated in which Article of the 1987 Constitution?",
+  "optionA": "Article II - Declaration of Principles and State Policies",
+  "optionB": "Article III - Bill of Rights",
+  "optionC": "Article IX - Constitutional Commissions",
+  "optionD": "Article XI - Accountability of Public Officers"
+ },
+ {
+  "uid": "pilot_geninfo-04",
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, the civil service covers government-owned or controlled corporations (GOCCs) that:",
+  "optionA": "have original charters",
+  "optionB": "were organized under the general corporation law",
+  "optionC": "are wholly owned by the government, whatever their charter",
+  "optionD": "earn income from their own operations"
+ },
+ {
+  "uid": "pilot_geninfo-05",
+  "category": "General Information",
+  "text": "Mario, a permanent clerk in a municipal treasurer's office, plans to campaign for a mayoral candidate after office hours. Under the 1987 Constitution, which statement is correct?",
+  "optionA": "He may campaign as long as he does it outside office hours.",
+  "optionB": "He may not engage, directly or indirectly, in any partisan political campaign.",
+  "optionC": "He may campaign if he first files a leave of absence.",
+  "optionD": "He may campaign only for candidates outside his own municipality."
+ },
+ {
+  "uid": "pilot_geninfo-06",
+  "category": "General Information",
+  "text": "Ana ran for city councilor and lost. Under the 1987 Constitution, she may not be appointed to any office in the Government or in any GOCC or its subsidiaries within what period?",
+  "optionA": "Six months after the election",
+  "optionB": "Until the term she ran for has ended",
+  "optionC": "Two years after the election",
+  "optionD": "One year after the election"
+ },
+ {
+  "uid": "pilot_geninfo-07",
+  "category": "General Information",
+  "text": "In impeachment proceedings, what vote of all the Members of the House of Representatives is needed to affirm a favorable resolution with the Articles of Impeachment?",
+  "optionA": "At least one-third",
+  "optionB": "A majority",
+  "optionC": "At least two-thirds",
+  "optionD": "At least three-fourths"
+ },
+ {
+  "uid": "pilot_geninfo-08",
+  "category": "General Information",
+  "text": "Which of the following is NOT one of the norms of conduct listed in Section 4 of RA 6713?",
+  "optionA": "Professionalism",
+  "optionB": "Political neutrality",
+  "optionC": "Loyalty to the appointing authority",
+  "optionD": "Simple living"
+ },
+ {
+  "uid": "pilot_geninfo-09",
+  "category": "General Information",
+  "text": "A municipal engineer and her family avoid flashy cars and lavish parties and live within their means. Which norm of conduct under RA 6713 does this reflect?",
+  "optionA": "Professionalism",
+  "optionB": "Simple living",
+  "optionC": "Responsiveness to the public",
+  "optionD": "Nationalism and patriotism"
+ },
+ {
+  "uid": "pilot_geninfo-10",
+  "category": "General Information",
+  "text": "A resident sends a letter to a city office asking about her request. Under Section 5 of RA 6713, the office must respond to her letter within how many working days from receipt?",
+  "optionA": "3",
+  "optionB": "7",
+  "optionC": "10",
+  "optionD": "15"
+ },
+ {
+  "uid": "pilot_geninfo-11",
+  "category": "General Information",
+  "text": "Liza processes business permits at the municipal hall. An applicant whose permit is still pending gives her a new cellphone 'as thanks in advance.' She did not ask for it. Under RA 6713, which is correct?",
+  "optionA": "She may not accept it, because it comes from a person whose transaction may be affected by her office.",
+  "optionB": "She may keep it, because she did not solicit it.",
+  "optionC": "She may keep it, provided she declares it in her SALN.",
+  "optionD": "She may keep it once the permit has been released."
+ },
+ {
+  "uid": "pilot_geninfo-12",
+  "category": "General Information",
+  "text": "Carlo assumed office as an administrative aide on March 1. Under RA 6713, when must he file his first Statement of Assets, Liabilities and Net Worth (SALN)?",
+  "optionA": "On or before April 30 of the following year",
+  "optionB": "Within 15 days after assumption of office",
+  "optionC": "Within 30 days after assumption of office",
+  "optionD": "Within 60 days after assumption of office"
+ },
+ {
+  "uid": "pilot_geninfo-13",
+  "category": "General Information",
+  "text": "Jun resigned from a government regulatory office. A private firm licensed by that office offers him a job as consultant. Under RA 6713, for how long after his resignation does the prohibition on such employment still apply to him?",
+  "optionA": "Six months",
+  "optionB": "One year",
+  "optionC": "Two years",
+  "optionD": "Five years"
+ },
+ {
+  "uid": "pilot_geninfo-14",
+  "category": "General Information",
+  "text": "The Bill of Rights is found in which Article of the 1987 Constitution?",
+  "optionA": "Article III",
+  "optionB": "Article II",
+  "optionC": "Article VI",
+  "optionD": "Article XIII"
+ },
+ {
+  "uid": "pilot_geninfo-15",
+  "category": "General Information",
+  "text": "Human Rights Day is observed every December 10 because on that date in 1948 the United Nations General Assembly adopted the:",
+  "optionA": "Charter of the United Nations",
+  "optionB": "Geneva Conventions",
+  "optionC": "Universal Declaration of Human Rights",
+  "optionD": "International Covenant on Civil and Political Rights"
+ },
+ {
+  "uid": "pilot_geninfo-16",
+  "category": "General Information",
+  "text": "During custodial investigation, a suspect tells the police he no longer wants a lawyer. Under Art. III, Sec. 12 of the 1987 Constitution, his waiver of the right to counsel is valid only if it is:",
+  "optionA": "made orally and recorded on video",
+  "optionB": "made in writing before the investigating officer",
+  "optionC": "signed before a notary public",
+  "optionD": "made in writing and in the presence of counsel"
+ },
+ {
+  "uid": "pilot_geninfo-17",
+  "category": "General Information",
+  "text": "Under Article XIII, Section 18 of the 1987 Constitution, the Commission on Human Rights may investigate, on its own or on complaint by any party, all forms of human rights violations involving:",
+  "optionA": "economic, social and cultural rights only",
+  "optionB": "civil and political rights",
+  "optionC": "all crimes, with power to try and convict the offenders",
+  "optionD": "administrative offenses of all civil servants"
+ },
+ {
+  "uid": "pilot_geninfo-18",
+  "category": "General Information",
+  "text": "Under RA 9003 (Ecological Solid Waste Management Act of 2000), a Materials Recovery Facility (MRF) shall be established in every:",
+  "optionA": "province",
+  "optionB": "city or municipality only",
+  "optionC": "household",
+  "optionD": "barangay or cluster of barangays"
+ },
+ {
+  "uid": "pilot_geninfo-19",
+  "category": "General Information",
+  "text": "In Barangay Malinis, residents segregate their garbage at the source. Under RA 9003, who is responsible for collecting the non-recyclable materials and special wastes?",
+  "optionA": "The barangay",
+  "optionB": "The provincial government",
+  "optionC": "The municipality or city",
+  "optionD": "The Department of Environment and Natural Resources"
+ },
+ {
+  "uid": "pilot_geninfo-20",
+  "category": "General Information",
+  "text": "Republic Act No. 9275 is known as the:",
+  "optionA": "Philippine Clean Water Act of 2004",
+  "optionB": "Philippine Clean Air Act of 1999",
+  "optionC": "Ecological Solid Waste Management Act of 2000",
+  "optionD": "Toxic Substances and Hazardous and Nuclear Wastes Control Act of 1990"
+ }
+]

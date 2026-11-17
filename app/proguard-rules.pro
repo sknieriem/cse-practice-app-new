@@ -19,9 +19,8 @@
 # Question is deserialized from questions.json on first launch.
 # PracticeSession + SessionCategoryResult are Room entities; rules below cover them too,
 # but explicit keeps make the intent obvious if someone wires up Gson for them later.
--keep class com.example.csepractice.data.Question { *; }
--keep class com.example.csepractice.data.PracticeSession { *; }
--keep class com.example.csepractice.data.SessionCategoryResult { *; }
+-keep class com.pjcinc.csepractice.data.** { *; }
+-keep class com.pjcinc.csepractice.domain.** { *; }
 
 # Generic rule: any field annotated with @SerializedName must keep its original name.
 -keepclassmembers,allowobfuscation class * {

@@ -1,0 +1,22 @@
+[
+ {"uid": "pilot_geninfo-01", "answer": "C", "confidence": "sure", "ambiguous": false, "note": "Art. VI Sec. 3"},
+ {"uid": "pilot_geninfo-02", "answer": "B", "confidence": "sure", "ambiguous": false, "note": "Art. VII Sec. 4"},
+ {"uid": "pilot_geninfo-03", "answer": "D", "confidence": "sure", "ambiguous": false, "note": "Art. XI Sec. 1"},
+ {"uid": "pilot_geninfo-04", "answer": "A", "confidence": "sure", "ambiguous": false, "note": "Art. IX-B Sec. 2(1)"},
+ {"uid": "pilot_geninfo-05", "answer": "B", "confidence": "sure", "ambiguous": false, "note": "Art. IX-B Sec. 2(4)"},
+ {"uid": "pilot_geninfo-06", "answer": "D", "confidence": "sure", "ambiguous": false, "note": "Art. IX-B Sec. 6"},
+ {"uid": "pilot_geninfo-07", "answer": "A", "confidence": "sure", "ambiguous": false, "note": "Art. XI Sec. 3(3)"},
+ {"uid": "pilot_geninfo-08", "answer": "C", "confidence": "sure", "ambiguous": false, "note": "RA 6713 Sec. 4"},
+ {"uid": "pilot_geninfo-09", "answer": "B", "confidence": "sure", "ambiguous": false, "note": "RA 6713 Sec. 4(h)"},
+ {"uid": "pilot_geninfo-10", "answer": "D", "confidence": "sure", "ambiguous": false, "note": "RA 6713 Sec. 5(a)"},
+ {"uid": "pilot_geninfo-11", "answer": "A", "confidence": "sure", "ambiguous": false, "note": "RA 6713 Sec. 7(d)"},
+ {"uid": "pilot_geninfo-12", "answer": "C", "confidence": "sure", "ambiguous": false, "note": "RA 6713 Sec. 8"},
+ {"uid": "pilot_geninfo-13", "answer": "B", "confidence": "sure", "ambiguous": false, "note": "RA 6713 Sec. 7(b)"},
+ {"uid": "pilot_geninfo-14", "answer": "A", "confidence": "sure", "ambiguous": false, "note": ""},
+ {"uid": "pilot_geninfo-15", "answer": "C", "confidence": "sure", "ambiguous": false, "note": ""},
+ {"uid": "pilot_geninfo-16", "answer": "D", "confidence": "sure", "ambiguous": false, "note": "Art. III Sec. 12(1)"},
+ {"uid": "pilot_geninfo-17", "answer": "B", "confidence": "sure", "ambiguous": false, "note": "Art. XIII Sec. 18(1)"},
+ {"uid": "pilot_geninfo-18", "answer": "D", "confidence": "sure", "ambiguous": false, "note": "RA 9003 Sec. 32"},
+ {"uid": "pilot_geninfo-19", "answer": "C", "confidence": "sure", "ambiguous": false, "note": "RA 9003 Sec. 10"},
+ {"uid": "pilot_geninfo-20", "answer": "A", "confidence": "sure", "ambiguous": false, "note": ""}
+]
