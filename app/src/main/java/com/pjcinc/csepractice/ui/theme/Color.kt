@@ -2,21 +2,26 @@ package com.pjcinc.csepractice.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Brand: a deep "civil service" blue with sun-yellow accents (nods to the PH flag).
+val Navy = Color(0xFF13306B)
+val Blue = Color(0xFF1F57C3)
+val BlueLight = Color(0xFFB4C8FF)
+val Sun = Color(0xFFFFC928)
+val SunDeep = Color(0xFFB98900)
+val Coral = Color(0xFFE5484D)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Success = Color(0xFF1E9E5A)
+val SuccessContainer = Color(0xFFD7F5E3)
+val SuccessDark = Color(0xFF7BE3A6)
+val SuccessContainerDark = Color(0xFF0F3D25)
+val Danger = Color(0xFFD93A3F)
+val DangerContainer = Color(0xFFFFE0DF)
+val DangerDark = Color(0xFFFF9B97)
+val DangerContainerDark = Color(0xFF4A1416)
+val Flame = Color(0xFFFF7A1A)
 
-// New for schemes
-val Blue80 = Color(0xFF80D8FF)
-val BlueGrey80 = Color(0xFFB3E5FC)
-val Blue40 = Color(0xFF0277BD)
-val BlueGrey40 = Color(0xFF81D4FA)
-
-val Green80 = Color(0xFFCCFF90)
-val GreenGrey80 = Color(0xFFE0F2F1)
-val Green40 = Color(0xFF558B2F)
-val GreenGrey40 = Color(0xFFA5D6A7)
+// Subject colours (used on cards, bars and chips)
+val NumColor = Color(0xFF2E7DF6)
+val VerbColor = Color(0xFF8B5CF6)
+val AnaColor = Color(0xFF14A38B)
+val GiColor = Color(0xFFE8890C)

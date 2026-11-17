@@ -1,101 +1,111 @@
 package com.pjcinc.csepractice.ui.theme
 
-import android.app.Activity
-import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Shapes
+import androidx.compose.material3.Typography
 import androidx.compose.material3.darkColorScheme
-import androidx.compose.material3.dynamicDarkColorScheme
-import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.SideEffect
-import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.getValue
-import androidx.compose.ui.graphics.toArgb
-import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.platform.LocalView
-import androidx.core.view.WindowCompat
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.Immutable
+import androidx.compose.runtime.staticCompositionLocalOf
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 
-private val DarkColorScheme = darkColorScheme(
-    primary = Purple80,
-    secondary = PurpleGrey80,
-    tertiary = Pink80
+private val LightColors = lightColorScheme(
+    primary = Blue,
+    onPrimary = Color.White,
+    primaryContainer = Color(0xFFDCE5FF),
+    onPrimaryContainer = Navy,
+    secondary = SunDeep,
+    onSecondary = Color.White,
+    secondaryContainer = Color(0xFFFFF0C2),
+    onSecondaryContainer = Color(0xFF3D2E00),
+    tertiary = Coral,
+    background = Color(0xFFF6F7FB),
+    onBackground = Color(0xFF151A25),
+    surface = Color.White,
+    onSurface = Color(0xFF151A25),
+    surfaceVariant = Color(0xFFEDF0F7),
+    onSurfaceVariant = Color(0xFF4A5263),
+    outline = Color(0xFFC5CBD8),
+    outlineVariant = Color(0xFFE1E5EE),
+    surfaceContainerLowest = Color.White,
+    surfaceContainerLow = Color(0xFFF9FAFD),
+    surfaceContainer = Color(0xFFF1F3F9),
+    surfaceContainerHigh = Color(0xFFEBEEF5),
+    surfaceContainerHighest = Color(0xFFE4E8F1)
 )
 
-private val LightColorScheme = lightColorScheme(
-    primary = Purple40,
-    secondary = PurpleGrey40,
-    tertiary = Pink40
+private val DarkColors = darkColorScheme(
+    primary = BlueLight,
+    onPrimary = Navy,
+    primaryContainer = Color(0xFF243E80),
+    onPrimaryContainer = Color(0xFFDCE5FF),
+    secondary = Sun,
+    onSecondary = Color(0xFF3D2E00),
+    secondaryContainer = Color(0xFF5A4500),
+    onSecondaryContainer = Color(0xFFFFF0C2),
+    tertiary = Color(0xFFFF8A8D),
+    background = Color(0xFF0E1320),
+    onBackground = Color(0xFFE4E8F2),
+    surface = Color(0xFF161C2B),
+    onSurface = Color(0xFFE4E8F2),
+    surfaceVariant = Color(0xFF222A3C),
+    onSurfaceVariant = Color(0xFFB7BFD0),
+    outline = Color(0xFF475069),
+    outlineVariant = Color(0xFF2C3447),
+    surfaceContainerLowest = Color(0xFF0B0F1A),
+    surfaceContainerLow = Color(0xFF131927),
+    surfaceContainer = Color(0xFF182033),
+    surfaceContainerHigh = Color(0xFF1E263A),
+    surfaceContainerHighest = Color(0xFF252E44)
 )
 
-private val BlueLightScheme = lightColorScheme(
-    primary = Blue40,
-    secondary = BlueGrey40,
-    tertiary = Blue80
-)
+/** Colours Material doesn't have a slot for (right / wrong feedback). */
+@Immutable
+data class Feedback(val good: Color, val goodBg: Color, val bad: Color, val badBg: Color)
 
-private val BlueDarkScheme = darkColorScheme(
-    primary = Blue80,
-    secondary = BlueGrey80,
-    tertiary = Blue40
-)
+val LocalFeedback = staticCompositionLocalOf { Feedback(Success, SuccessContainer, Danger, DangerContainer) }
 
-private val GreenLightScheme = lightColorScheme(
-    primary = Green40,
-    secondary = GreenGrey40,
-    tertiary = Green80
-)
-
-private val GreenDarkScheme = darkColorScheme(
-    primary = Green80,
-    secondary = GreenGrey80,
-    tertiary = Green40
-)
-
-/**
- * App theme. Reads dark-mode and color-scheme preferences from DataStore so changes
- * in [SettingsActivity] propagate immediately wherever this theme is used.
- *
- * @param dynamicColor when true and on Android 12+, falls back to Material You dynamic colors
- *   unless the user has explicitly chosen a named color scheme (Blue/Green).
- */
-@Composable
-fun CSEPracticeAppTheme(
-    dynamicColor: Boolean = true,
-    content: @Composable () -> Unit
-) {
-    val context = LocalContext.current
-    val darkTheme by PreferencesDataStore
-        .darkModeFlow(context)
-        .collectAsState(initial = isSystemInDarkTheme())
-    val scheme by PreferencesDataStore
-        .colorSchemeFlow(context)
-        .collectAsState(initial = "Default")
-
-    val isDefaultScheme = scheme == "Default"
-    val colorScheme = when {
-        // Only use dynamic colors when the user hasn't explicitly chosen a named scheme.
-        isDefaultScheme && dynamicColor && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
-            if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
-        }
-        scheme == "Blue" -> if (darkTheme) BlueDarkScheme else BlueLightScheme
-        scheme == "Green" -> if (darkTheme) GreenDarkScheme else GreenLightScheme
-        darkTheme -> DarkColorScheme
-        else -> LightColorScheme
-    }
-
-    val view = LocalView.current
-    if (!view.isInEditMode) {
-        SideEffect {
-            val window = (view.context as Activity).window
-            window.statusBarColor = colorScheme.primary.toArgb()
-            WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = !darkTheme
-        }
-    }
-
-    MaterialTheme(
-        colorScheme = colorScheme,
-        content = content
+private val AppTypography = Typography().let { t ->
+    t.copy(
+        headlineLarge = t.headlineLarge.copy(fontWeight = FontWeight.ExtraBold),
+        headlineMedium = t.headlineMedium.copy(fontWeight = FontWeight.ExtraBold),
+        headlineSmall = t.headlineSmall.copy(fontWeight = FontWeight.Bold),
+        titleLarge = t.titleLarge.copy(fontWeight = FontWeight.Bold),
+        titleMedium = t.titleMedium.copy(fontWeight = FontWeight.SemiBold),
+        bodyLarge = TextStyle(fontSize = 17.sp, lineHeight = 25.sp),
+        labelLarge = t.labelLarge.copy(fontWeight = FontWeight.Bold, fontSize = 15.sp)
     )
+}
+
+private val AppShapes = Shapes(
+    small = RoundedCornerShape(10.dp),
+    medium = RoundedCornerShape(16.dp),
+    large = RoundedCornerShape(24.dp)
+)
+
+@Composable
+fun CSEPracticeAppTheme(themeMode: String = "system", content: @Composable () -> Unit) {
+    val dark = when (themeMode) {
+        "dark" -> true
+        "light" -> false
+        else -> isSystemInDarkTheme()
+    }
+    val feedback = if (dark) Feedback(SuccessDark, SuccessContainerDark, DangerDark, DangerContainerDark)
+    else Feedback(Success, SuccessContainer, Danger, DangerContainer)
+    CompositionLocalProvider(LocalFeedback provides feedback) {
+        MaterialTheme(
+            colorScheme = if (dark) DarkColors else LightColors,
+            typography = AppTypography,
+            shapes = AppShapes,
+            content = content
+        )
+    }
 }

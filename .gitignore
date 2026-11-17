@@ -22,3 +22,8 @@ all_project_files.txt
 filelist.txt
 tracked.txt
 copy_project_files.py
+
+# Tester APKs (send over Messenger, don't commit) + local-only content files
+dist/
+content/ai_content.mock.json
+content/tutor_quota.json

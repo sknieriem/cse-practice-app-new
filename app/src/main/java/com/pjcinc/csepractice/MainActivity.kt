@@ -1,609 +1,172 @@
 package com.pjcinc.csepractice
 
-import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.activity.viewModels
 import androidx.compose.animation.AnimatedContent
-import androidx.compose.animation.slideInHorizontally
-import androidx.compose.animation.slideOutHorizontally
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
 import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
-import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material.icons.automirrored.filled.ArrowForward
-import androidx.compose.material.icons.filled.Bookmark
-import androidx.compose.material.icons.filled.Check
-import androidx.compose.material.icons.filled.Refresh
+import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.Insights
+import androidx.compose.material.icons.filled.School
 import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material.icons.outlined.BookmarkBorder
+import androidx.compose.material.icons.outlined.Home
+import androidx.compose.material.icons.outlined.Insights
+import androidx.compose.material.icons.outlined.School
+import androidx.compose.material.icons.outlined.Settings
 import androidx.compose.material3.Button
-import androidx.compose.material3.Card
-import androidx.compose.material3.CardDefaults
-import androidx.compose.material3.Checkbox
 import androidx.compose.material3.CircularProgressIndicator
-import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.RadioButton
+import androidx.compose.material3.NavigationBar
+import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.SnackbarHost
+import androidx.compose.material3.SnackbarHostState
 import androidx.compose.material3.Text
-import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableIntStateOf
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.saveable.rememberSaveable
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import androidx.lifecycle.viewmodel.compose.viewModel
-import com.pjcinc.csepractice.ui.components.HistoryPanel
+import androidx.lifecycle.DefaultLifecycleObserver
+import androidx.lifecycle.LifecycleOwner
+import com.pjcinc.csepractice.ui.screens.HomeScreen
+import com.pjcinc.csepractice.ui.screens.OnboardingScreen
+import com.pjcinc.csepractice.ui.screens.PracticeScreen
+import com.pjcinc.csepractice.ui.screens.ProgressScreen
+import com.pjcinc.csepractice.ui.screens.QuizScreen
+import com.pjcinc.csepractice.ui.screens.ResultScreen
+import com.pjcinc.csepractice.ui.screens.ReviewScreen
+import com.pjcinc.csepractice.ui.screens.SettingsScreen
 import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
-import com.pjcinc.csepractice.viewmodel.PracticeViewModel
-import com.pjcinc.csepractice.viewmodel.UiState
+import com.pjcinc.csepractice.viewmodel.AppViewModel
+import com.pjcinc.csepractice.viewmodel.Boot
+import com.pjcinc.csepractice.viewmodel.Overlay
+import com.pjcinc.csepractice.viewmodel.Tab
 
 class MainActivity : ComponentActivity() {
+
+    private val vm: AppViewModel by viewModels()
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        lifecycle.addObserver(object : DefaultLifecycleObserver {
+            override fun onStart(owner: LifecycleOwner) = vm.onAppStart()
+            override fun onStop(owner: LifecycleOwner) = vm.onAppStop()
+        })
         setContent {
-            CSEPracticeAppTheme {
-                Scaffold(
-                    modifier = Modifier.fillMaxSize(),
-                    topBar = {
-                        AppTopBar(onSettingsClick = {
-                            startActivity(Intent(this@MainActivity, SettingsActivity::class.java))
-                        })
-                    }
-                ) { innerPadding ->
-                    PracticeScreen(Modifier.padding(innerPadding))
-                }
+            val user by vm.user.collectAsState()
+            CSEPracticeAppTheme(themeMode = user?.themeMode ?: "system") {
+                AppRoot(vm, onExit = { finish() })
             }
         }
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
-private fun AppTopBar(onSettingsClick: () -> Unit) {
-    TopAppBar(
-        title = { Text(stringResource(R.string.title_practice)) },
-        actions = {
-            IconButton(onClick = onSettingsClick) {
-                Icon(Icons.Default.Settings, contentDescription = stringResource(R.string.cd_settings))
-            }
-        }
-    )
-}
+fun AppRoot(vm: AppViewModel, onExit: () -> Unit) {
+    val boot by vm.boot.collectAsState()
+    val overlay by vm.overlay.collectAsState()
+    val tab by vm.tab.collectAsState()
+    val practiceCategory by vm.practiceCategory.collectAsState()
+    val snackbar = remember { SnackbarHostState() }
 
-@Composable
-fun PracticeScreen(
-    modifier: Modifier = Modifier,
-    viewModel: PracticeViewModel = viewModel()
-) {
-    val uiState by viewModel.uiState.collectAsState()
-    val context = LocalContext.current
-    val categories by viewModel.categories.collectAsState(initial = emptyList())
+    LaunchedEffect(Unit) { vm.messages.collect { snackbar.showSnackbar(it) } }
 
-    // Whether the menu is currently showing the history panel instead of the selector.
-    var showHistory by rememberSaveable { mutableStateOf(false) }
+    // One Back rule for the whole app: overlay -> sub-page -> Home -> exit.
+    val canGoBack = overlay !is Overlay.None && overlay != Overlay.Onboarding && overlay != Overlay.Quiz ||
+        practiceCategory != null || tab != Tab.HOME
+    BackHandler(enabled = canGoBack) { if (!vm.onBack()) onExit() }
 
-    when (val state = uiState) {
-        UiState.Initial -> {
-            if (categories.isEmpty()) {
-                CenteredLoader(stringResource(R.string.loading_categories), modifier)
-            } else if (showHistory) {
-                HistoryView(
-                    viewModel = viewModel,
-                    onBack = { showHistory = false },
-                    onViewChart = {
-                        context.startActivity(Intent(context, ChartActivity::class.java))
-                    },
-                    modifier = modifier
-                )
-            } else {
-                CategorySelectorView(
-                    viewModel = viewModel,
-                    onShowHistory = { showHistory = true },
-                    modifier = modifier
-                )
-            }
-        }
-        UiState.Loading -> CenteredLoader(stringResource(R.string.loading), modifier)
-
-        is UiState.InProgress -> InProgressView(viewModel = viewModel, modifier = modifier)
-
-        is UiState.Finished -> FinishedView(
-            state = state,
-            viewModel = viewModel,
-            onViewChart = { context.startActivity(Intent(context, ChartActivity::class.java)) },
-            modifier = modifier
-        )
-
-        is UiState.Review -> ReviewView(items = state.items, viewModel = viewModel, modifier = modifier)
-
-        is UiState.Error -> ErrorView(
-            message = state.message,
-            onRetry = { viewModel.resetForNewSession() },
-            modifier = modifier
-        )
-    }
-}
-
-@Composable
-private fun CenteredLoader(text: String, modifier: Modifier) {
-    Column(
-        modifier = modifier.fillMaxSize(),
-        verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally
-    ) {
-        CircularProgressIndicator(color = MaterialTheme.colorScheme.primary)
-        Text(text, modifier = Modifier.padding(top = 16.dp))
-    }
-}
-
-@Composable
-private fun ErrorView(message: String, onRetry: () -> Unit, modifier: Modifier) {
-    Column(
-        modifier = modifier.fillMaxSize().padding(16.dp),
-        verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally
-    ) {
-        Text(message, color = MaterialTheme.colorScheme.error, textAlign = TextAlign.Center)
-        Spacer(Modifier.height(16.dp))
-        Button(onClick = onRetry) { Text(stringResource(R.string.retry)) }
-    }
-}
-
-@Composable
-private fun CategorySelectorView(
-    viewModel: PracticeViewModel,
-    onShowHistory: () -> Unit,
-    modifier: Modifier = Modifier
-) {
-    val categories by viewModel.categories.collectAsState(initial = emptyList())
-    val selectedCategories by viewModel.selectedCategories.collectAsState()
-    val numQuestions = remember { mutableIntStateOf(10) }
-
-    val canStart = selectedCategories.isNotEmpty()
-
-    Column(
-        modifier = modifier
-            .fillMaxSize()
-            .verticalScroll(rememberScrollState())
-            .padding(16.dp)
-    ) {
-        Text(
-            stringResource(R.string.select_categories),
-            style = MaterialTheme.typography.titleMedium,
-            fontWeight = FontWeight.SemiBold,
-            modifier = Modifier.padding(bottom = 8.dp)
-        )
-        categories.forEach { category ->
-            Row(
-                verticalAlignment = Alignment.CenterVertically,
-                modifier = Modifier.padding(vertical = 4.dp)
-            ) {
-                Checkbox(
-                    checked = selectedCategories.contains(category),
-                    onCheckedChange = { viewModel.toggleCategory(category) }
-                )
-                Spacer(Modifier.width(8.dp))
-                Text(category)
-            }
-        }
-
-        Spacer(Modifier.height(24.dp))
-        Text(
-            stringResource(R.string.num_questions),
-            style = MaterialTheme.typography.titleMedium,
-            fontWeight = FontWeight.SemiBold,
-            modifier = Modifier.padding(bottom = 8.dp)
-        )
-        Row(verticalAlignment = Alignment.CenterVertically) {
-            listOf(10, 25, 50, 100).forEach { num ->
-                RadioButton(
-                    selected = numQuestions.intValue == num,
-                    onClick = { numQuestions.intValue = num }
-                )
-                Text("$num", modifier = Modifier.padding(end = 16.dp))
-            }
-        }
-
-        Spacer(Modifier.height(24.dp))
-        if (!canStart) {
-            Text(
-                stringResource(R.string.select_at_least_one_category),
-                style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.error
-            )
-            Spacer(Modifier.height(8.dp))
-        }
-        Button(
-            onClick = { viewModel.startPractice(numQuestions.intValue) },
-            enabled = canStart,
-            modifier = Modifier.fillMaxWidth()
-        ) {
-            Text(stringResource(R.string.start_practice))
-        }
-        Spacer(Modifier.height(8.dp))
-        Button(
-            onClick = onShowHistory,
-            modifier = Modifier.fillMaxWidth()
-        ) {
-            Text(stringResource(R.string.view_scores_and_chart))
-        }
-    }
-}
-
-@Composable
-private fun HistoryView(
-    viewModel: PracticeViewModel,
-    onBack: () -> Unit,
-    onViewChart: () -> Unit,
-    modifier: Modifier = Modifier
-) {
-    Column(
-        modifier = modifier
-            .fillMaxSize()
-            .verticalScroll(rememberScrollState())
-            .padding(16.dp)
-    ) {
-        HistoryPanel(viewModel = viewModel, onViewChartClick = onViewChart)
-        Spacer(Modifier.height(16.dp))
-        Button(onClick = onBack, modifier = Modifier.fillMaxWidth()) {
-            Text(stringResource(R.string.back_to_selector))
-        }
-    }
-}
-
-@Composable
-private fun InProgressView(viewModel: PracticeViewModel, modifier: Modifier = Modifier) {
-    val questions by viewModel.questions.collectAsState()
-    val currentIndex by viewModel.currentIndex.collectAsState()
-    val selectedAnswers by viewModel.selectedAnswers.collectAsState()
-    val marked by viewModel.markedForReview.collectAsState()
-    val elapsed by viewModel.elapsedSeconds.collectAsState()
-    val instantFeedback by viewModel.instantFeedback.collectAsState(initial = false)
-
-    if (questions.isEmpty()) return
-
-    val isCurrentAnswered = selectedAnswers.containsKey(currentIndex)
-    val isCurrentMarked = marked.contains(currentIndex)
-
-    Column(modifier = modifier.fillMaxSize().padding(16.dp)) {
-        // Header row: progress text + elapsed timer
-        Row(
-            modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.SpaceBetween,
-            verticalAlignment = Alignment.CenterVertically
-        ) {
-            Text(
-                text = stringResource(R.string.question_progress, currentIndex + 1, questions.size)
-            )
-            Text(
-                text = stringResource(R.string.elapsed_time, formatElapsed(elapsed)),
-                style = MaterialTheme.typography.bodyMedium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-            )
-        }
-        Spacer(Modifier.height(4.dp))
-        LinearProgressIndicator(
-            progress = { (currentIndex + 1f) / questions.size },
-            modifier = Modifier.fillMaxWidth()
-        )
-        Spacer(Modifier.height(12.dp))
-
-        AnimatedContent(
-            targetState = currentIndex,
-            transitionSpec = {
-                if (targetState > initialState) {
-                    slideInHorizontally { it } togetherWith slideOutHorizontally { -it }
-                } else {
-                    slideInHorizontally { -it } togetherWith slideOutHorizontally { it }
-                }
-            },
-            label = "questionAnimation"
-        ) { index ->
-            val rq = questions.getOrNull(index) ?: return@AnimatedContent
-            Card(
-                modifier = Modifier.fillMaxWidth(),
-                elevation = CardDefaults.cardElevation(4.dp),
-                colors = CardDefaults.cardColors(
-                    containerColor = MaterialTheme.colorScheme.surfaceVariant
-                )
-            ) {
-                Column(modifier = Modifier.padding(16.dp)) {
-                    // Question text + bookmark
-                    Row(verticalAlignment = Alignment.Top) {
-                        Text(
-                            rq.source.text,
-                            style = MaterialTheme.typography.titleMedium,
-                            color = MaterialTheme.colorScheme.onSurfaceVariant,
-                            modifier = Modifier.weight(1f)
-                        )
-                        IconButton(onClick = { viewModel.toggleMarkedForReview(index) }) {
-                            Icon(
-                                imageVector = if (isCurrentMarked)
-                                    Icons.Filled.Bookmark
-                                else
-                                    Icons.Outlined.BookmarkBorder,
-                                contentDescription = stringResource(
-                                    if (isCurrentMarked) R.string.marked_for_review
-                                    else R.string.mark_for_review
-                                ),
-                                tint = if (isCurrentMarked)
-                                    MaterialTheme.colorScheme.primary
-                                else
-                                    MaterialTheme.colorScheme.onSurfaceVariant
-                            )
-                        }
-                    }
-                    Spacer(Modifier.height(12.dp))
-                    rq.displayOptions.forEachIndexed { optIndex, option ->
-                        Row(
-                            verticalAlignment = Alignment.CenterVertically,
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .padding(vertical = 2.dp)
-                        ) {
-                            RadioButton(
-                                selected = selectedAnswers[index] == optIndex,
-                                onClick = { viewModel.selectAnswer(index, optIndex) }
-                            )
-                            Text(option, modifier = Modifier.padding(start = 4.dp))
-                        }
-                    }
-
-                    // Instant feedback panel — only when enabled AND user has answered.
-                    if (instantFeedback && selectedAnswers.containsKey(index)) {
-                        Spacer(Modifier.height(12.dp))
-                        val chosen = selectedAnswers[index]
-                        val correct = chosen == rq.correctDisplayIndex
-                        Text(
-                            text = if (correct)
-                                stringResource(R.string.answer_correct_short)
-                            else
-                                stringResource(R.string.answer_incorrect_short),
-                            color = if (correct)
-                                MaterialTheme.colorScheme.primary
-                            else
-                                MaterialTheme.colorScheme.error,
-                            fontWeight = FontWeight.SemiBold
-                        )
-                        if (!correct) {
-                            Spacer(Modifier.height(4.dp))
-                            Text(
-                                text = "✔ ${rq.displayOptions[rq.correctDisplayIndex]}",
-                                color = MaterialTheme.colorScheme.primary
-                            )
-                        }
-                        Spacer(Modifier.height(4.dp))
-                        Text(
-                            text = stringResource(R.string.explanation_label, rq.source.explanation),
-                            style = MaterialTheme.typography.bodyMedium,
-                            color = MaterialTheme.colorScheme.onSurfaceVariant
-                        )
-                    }
-                }
-            }
-        }
-
-        Spacer(Modifier.height(24.dp))
-        Row(
-            modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.Center
-        ) {
-            Button(
-                onClick = { viewModel.previousQuestion() },
-                enabled = currentIndex > 0
-            ) {
-                Icon(
-                    Icons.AutoMirrored.Filled.ArrowBack,
-                    contentDescription = null,
-                    modifier = Modifier.padding(end = 8.dp)
-                )
-                Text(stringResource(R.string.previous))
-            }
-            Spacer(Modifier.width(16.dp))
-            Button(
-                onClick = { viewModel.nextQuestion() },
-                enabled = currentIndex < questions.size - 1 && isCurrentAnswered
-            ) {
-                Text(stringResource(R.string.next))
-                Icon(
-                    Icons.AutoMirrored.Filled.ArrowForward,
-                    contentDescription = null,
-                    modifier = Modifier.padding(start = 8.dp)
-                )
-            }
-        }
-
-        if (currentIndex == questions.size - 1) {
+    when (val b = boot) {
+        Boot.Loading -> Centered { CircularProgressIndicator(); Spacer(Modifier.height(16.dp)); Text("Loading questions…") }
+        is Boot.Failed -> Centered {
+            Text(b.message, textAlign = TextAlign.Center, color = MaterialTheme.colorScheme.error)
             Spacer(Modifier.height(16.dp))
-            Button(
-                onClick = { viewModel.calculateScore() },
-                enabled = isCurrentAnswered,
-                modifier = Modifier.fillMaxWidth()
-            ) {
-                Text(stringResource(R.string.submit))
-                Icon(
-                    Icons.Filled.Check,
-                    contentDescription = null,
-                    modifier = Modifier.padding(start = 8.dp)
-                )
+            Button(onClick = { vm.boot() }) { Text("Retry") }
+        }
+        Boot.Ready -> AnimatedContent(
+            targetState = overlay::class,
+            transitionSpec = { fadeIn() togetherWith fadeOut() },
+            label = "overlay"
+        ) { _ ->
+            when (val o = vm.overlay.collectAsState().value) {
+                Overlay.Onboarding -> OnboardingScreen(vm)
+                Overlay.Quiz -> QuizScreen(vm, snackbar)
+                is Overlay.Result -> ResultScreen(vm, o.result)
+                is Overlay.Review -> ReviewScreen(vm, o.result, o.onlyWrong)
+                Overlay.None -> TabsScaffold(vm, tab, snackbar)
             }
         }
     }
 }
 
-private fun formatElapsed(totalSeconds: Int): String {
-    val minutes = totalSeconds / 60
-    val seconds = totalSeconds % 60
-    return "%d:%02d".format(minutes, seconds)
+@Composable
+private fun TabsScaffold(vm: AppViewModel, tab: Tab, snackbar: SnackbarHostState) {
+    Scaffold(
+        snackbarHost = { SnackbarHost(snackbar) },
+        bottomBar = {
+            NavigationBar {
+                Tab.entries.forEach { t ->
+                    val selected = t == tab
+                    NavigationBarItem(
+                        selected = selected,
+                        onClick = { vm.selectTab(t) },
+                        icon = { Icon(if (selected) t.iconFilled() else t.iconOutlined(), contentDescription = null) },
+                        label = { Text(t.label) }
+                    )
+                }
+            }
+        }
+    ) { padding ->
+        Box(Modifier.padding(padding).fillMaxSize()) {
+            when (tab) {
+                Tab.HOME -> HomeScreen(vm)
+                Tab.PRACTICE -> PracticeScreen(vm)
+                Tab.PROGRESS -> ProgressScreen(vm)
+                Tab.SETTINGS -> SettingsScreen(vm)
+            }
+        }
+    }
+}
+
+private fun Tab.iconFilled() = when (this) {
+    Tab.HOME -> Icons.Filled.Home
+    Tab.PRACTICE -> Icons.Filled.School
+    Tab.PROGRESS -> Icons.Filled.Insights
+    Tab.SETTINGS -> Icons.Filled.Settings
+}
+
+private fun Tab.iconOutlined() = when (this) {
+    Tab.HOME -> Icons.Outlined.Home
+    Tab.PRACTICE -> Icons.Outlined.School
+    Tab.PROGRESS -> Icons.Outlined.Insights
+    Tab.SETTINGS -> Icons.Outlined.Settings
 }
 
 @Composable
-private fun FinishedView(
-    state: UiState.Finished,
-    viewModel: PracticeViewModel,
-    onViewChart: () -> Unit,
-    modifier: Modifier = Modifier
-) {
+private fun Centered(content: @Composable () -> Unit) {
     Column(
-        modifier = modifier
-            .fillMaxSize()
-            .verticalScroll(rememberScrollState())
-            .padding(16.dp)
-    ) {
-        Card(
-            modifier = Modifier.fillMaxWidth(),
-            elevation = CardDefaults.cardElevation(4.dp),
-            colors = CardDefaults.cardColors(
-                containerColor = MaterialTheme.colorScheme.surfaceVariant
-            )
-        ) {
-            Column(
-                modifier = Modifier.padding(20.dp).fillMaxWidth(),
-                horizontalAlignment = Alignment.CenterHorizontally
-            ) {
-                Text(
-                    stringResource(R.string.your_score, state.score),
-                    style = MaterialTheme.typography.headlineMedium,
-                    color = MaterialTheme.colorScheme.primary
-                )
-                Spacer(Modifier.height(4.dp))
-                Text(
-                    stringResource(R.string.your_score_detail, state.correct, state.total),
-                    style = MaterialTheme.typography.bodyMedium
-                )
-                Spacer(Modifier.height(16.dp))
-                Button(onClick = { viewModel.showReview() }, modifier = Modifier.fillMaxWidth()) {
-                    Text(stringResource(R.string.review_title))
-                }
-                Spacer(Modifier.height(8.dp))
-                Button(
-                    onClick = { viewModel.resetForNewSession() },
-                    modifier = Modifier.fillMaxWidth()
-                ) {
-                    Icon(
-                        Icons.Default.Refresh,
-                        contentDescription = null,
-                        modifier = Modifier.padding(end = 8.dp)
-                    )
-                    Text(stringResource(R.string.start_new_practice))
-                }
-                Spacer(Modifier.height(8.dp))
-                Button(
-                    onClick = { viewModel.practiceWeakAreas() },
-                    modifier = Modifier.fillMaxWidth()
-                ) {
-                    Text(stringResource(R.string.practice_weak_areas))
-                }
-            }
-        }
-        Spacer(Modifier.height(24.dp))
-        HistoryPanel(viewModel = viewModel, onViewChartClick = onViewChart)
-    }
-}
-
-@Composable
-private fun ReviewView(
-    items: List<com.pjcinc.csepractice.viewmodel.QuestionResult>,
-    viewModel: PracticeViewModel,
-    modifier: Modifier = Modifier
-) {
-    // Marked items first, then everything else, each group preserving original order.
-    val ordered = remember(items) {
-        items.partition { it.wasMarked }.let { (marked, rest) -> marked + rest }
-    }
-    Column(modifier = modifier.fillMaxSize().padding(16.dp)) {
-        Text(
-            stringResource(R.string.review_title),
-            style = MaterialTheme.typography.headlineSmall,
-            fontWeight = FontWeight.SemiBold,
-            modifier = Modifier.padding(bottom = 8.dp)
-        )
-        LazyColumn(
-            modifier = Modifier.weight(1f),
-            verticalArrangement = Arrangement.spacedBy(8.dp)
-        ) {
-            items(ordered) { item ->
-                Card(
-                    modifier = Modifier.fillMaxWidth(),
-                    colors = CardDefaults.cardColors(
-                        containerColor = MaterialTheme.colorScheme.surfaceVariant
-                    )
-                ) {
-                    Column(modifier = Modifier.padding(16.dp)) {
-                        if (item.wasMarked) {
-                            Row(verticalAlignment = Alignment.CenterVertically) {
-                                Icon(
-                                    Icons.Filled.Bookmark,
-                                    contentDescription = null,
-                                    tint = MaterialTheme.colorScheme.primary,
-                                    modifier = Modifier.padding(end = 4.dp)
-                                )
-                                Text(
-                                    stringResource(R.string.badge_marked),
-                                    style = MaterialTheme.typography.labelMedium,
-                                    color = MaterialTheme.colorScheme.primary
-                                )
-                            }
-                            Spacer(Modifier.height(4.dp))
-                        }
-                        Text(
-                            item.question.text,
-                            style = MaterialTheme.typography.bodyLarge,
-                            fontWeight = FontWeight.SemiBold
-                        )
-                        Spacer(Modifier.height(4.dp))
-                        Text(
-                            text = stringResource(
-                                if (item.isCorrect) R.string.answer_correct
-                                else R.string.answer_incorrect
-                            ),
-                            color = if (item.isCorrect)
-                                MaterialTheme.colorScheme.primary
-                            else
-                                MaterialTheme.colorScheme.error,
-                            fontWeight = FontWeight.SemiBold
-                        )
-                        Spacer(Modifier.height(4.dp))
-                        Text(stringResource(R.string.explanation_label, item.question.explanation))
-                    }
-                }
-            }
-        }
-        Spacer(Modifier.height(16.dp))
-        Button(
-            onClick = { viewModel.resetForNewSession() },
-            modifier = Modifier.fillMaxWidth()
-        ) {
-            Text(stringResource(R.string.done_back_to_start))
-        }
-    }
+        Modifier.fillMaxSize().padding(24.dp),
+        verticalArrangement = Arrangement.Center,
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) { content() }
 }
