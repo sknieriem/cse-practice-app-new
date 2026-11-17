@@ -1,0 +1,17 @@
+[
+ {"id": 40703556, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "obscure vs clear"},
+ {"id": 97539312, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "opaque vs clear/transparent"},
+ {"id": 2091737583, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "frugal vs wasteful"},
+ {"id": 138672814, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "was chased by"},
+ {"id": 265326331, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "quick -> quickly; stem garbled with stray 'most nearly means' line"},
+ {"id": 348171601, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "had + past participle"},
+ {"id": 407036540, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "subject is effect (singular)"},
+ {"id": 524610546, "answer": "A", "confidence": "unsure", "ambiguous": true, "note": "is and was both grammatical; are acceptable in BrE"},
+ {"id": 575430692, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "has + past participle"},
+ {"id": 869906807, "answer": "A", "confidence": "unsure", "ambiguous": true, "note": "proficient in standard; 'at' also used"},
+ {"id": 285853436, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "C inversion is poetic but grammatical"},
+ {"id": 369006591, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "meticulous = precise"},
+ {"id": 567036490, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "candor = honesty"},
+ {"id": 1199739628, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "eclectic = varied"},
+ {"id": 2112260607, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "futile = useless"}
+]

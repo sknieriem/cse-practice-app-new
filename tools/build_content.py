@@ -28,6 +28,11 @@ TOPICS_SRC = ROOT / "content" / "topics.json"
 OUT_QUESTIONS = ROOT / "app" / "src" / "main" / "assets" / "questions.json"
 OUT_TOPICS = ROOT / "app" / "src" / "main" / "assets" / "topics.json"
 SHOW_EXAMPLES = 0  # print N generated examples per rule, for eyeballing
+REVIEW_DIR = ROOT / "content" / "review"
+REVIEW_OVERRIDES = json.loads((REVIEW_DIR / "overrides.json").read_text(encoding="utf-8")) \
+    if (REVIEW_DIR / "overrides.json").exists() else {}
+REVIEW_EXCLUDED = set(json.loads((REVIEW_DIR / "excluded.json").read_text(encoding="utf-8"))) \
+    if (REVIEW_DIR / "excluded.json").exists() else set()
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -451,7 +456,7 @@ def main():
     topics = json.loads(TOPICS_SRC.read_text(encoding="utf-8"))
     topic_ids = {t["id"] for t in topics}
     out, seen = [], set()
-    dropped = 0
+    dropped = review_excluded = review_fixed = 0
     for raw in src:
         q = dict(raw)
         if any(q["text"].startswith(p) for p in DROP_IF_TEXT_STARTS):
@@ -474,8 +479,17 @@ def main():
         q["source"] = "original"
         if q["category"] in ("Numerical Ability", "Analytical Ability"):
             enrich_rule_based(q)
+        # reviewed originals (tools/review_originals.py): fixes keep the id; disputed items stay out until cleared
+        if q["id"] in REVIEW_EXCLUDED:
+            review_excluded += 1
+            continue
+        if str(q["id"]) in REVIEW_OVERRIDES:
+            q.update(REVIEW_OVERRIDES[str(q["id"])])
+            q.pop("why" + q["correctAnswer"], None)  # a rule-written why-wrong for the new key would be wrong
+            review_fixed += 1
         out.append(q)
 
+    print(f"  review pass: {review_fixed} originals updated, {review_excluded} held out for Pearl")
     authored = json.loads(AUTHORED.read_text(encoding="utf-8")) if AUTHORED.exists() else []
     for a in authored:
         a = dict(a)

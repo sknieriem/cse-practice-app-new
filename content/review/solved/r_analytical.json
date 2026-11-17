@@ -1,0 +1,22 @@
+[
+{"id":597306044,"answer":"A","confidence":"sure","ambiguous":false,"note":"tool:product; chisel makes carving"},
+{"id":1234356618,"answer":"A","confidence":"sure","ambiguous":false,"note":"SI unit of resistance = ohm"},
+{"id":1968245072,"answer":"A","confidence":"sure","ambiguous":false,"note":"SI unit of force = newton"},
+{"id":2118779469,"answer":"A","confidence":"sure","ambiguous":false,"note":"clothing:body part it covers"},
+{"id":1503535450,"answer":"B","confidence":"unsure","ambiguous":true,"note":"weak item; Both/None options; neither A nor B is a clean assumption"},
+{"id":208137246,"answer":"B","confidence":"sure","ambiguous":false,"note":"n^2+n+1 -> 21"},
+{"id":706306464,"answer":"A","confidence":"sure","ambiguous":false,"note":"n(n+2) -> 48"},
+{"id":511436158,"answer":"B","confidence":"sure","ambiguous":false,"note":"1950/3=650"},
+{"id":768367767,"answer":"B","confidence":"sure","ambiguous":false,"note":"180/3=60"},
+{"id":890192414,"answer":"B","confidence":"sure","ambiguous":false,"note":"285/3=95"},
+{"id":1585774411,"answer":"B","confidence":"sure","ambiguous":false,"note":"1800/3=600"},
+{"id":83863444,"answer":"B","confidence":"unsure","ambiguous":true,"note":"Z is Y's other parent; Z's gender not stated"},
+{"id":87388746,"answer":"B","confidence":"unsure","ambiguous":true,"note":"A is Z's other parent; A's gender not stated"},
+{"id":14692262,"answer":"B","confidence":"sure","ambiguous":true,"note":"invalid; but 'False' also defensible (conclusion factually false)"},
+{"id":269609167,"answer":"D","confidence":"sure","ambiguous":false,"note":"undistributed middle"},
+{"id":904082392,"answer":"C","confidence":"unsure","ambiguous":true,"note":"green secondary in RYB; yellow odd in RGB"},
+{"id":1902311237,"answer":"D","confidence":"unsure","ambiguous":true,"note":"Jupiter gas giant; Earth only one not named after a god"},
+{"id":2012019668,"answer":"C","confidence":"unsure","ambiguous":true,"note":"bronze alloy; iron not precious/not a medal"},
+{"id":799514571,"answer":"A","confidence":"sure","ambiguous":false,"note":"diffs 5,6,7,8 -> 28"},
+{"id":1888209390,"answer":"A","confidence":"sure","ambiguous":false,"note":"skip one letter -> J"}
+]

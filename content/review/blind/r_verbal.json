@@ -1,0 +1,152 @@
+[
+ {
+  "id": 40703556,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "Which word is an antonym of 'obscure'?",
+  "optionA": "Hidden",
+  "optionB": "Clear",
+  "optionC": "Vague",
+  "optionD": "Secretive"
+ },
+ {
+  "id": 97539312,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "What is the antonym of 'opaque'?",
+  "optionA": "Cloudy",
+  "optionB": "Clear",
+  "optionC": "Thick",
+  "optionD": "Dense"
+ },
+ {
+  "id": 2091737583,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "Choose the word that means the opposite of 'frugal'.",
+  "optionA": "Thrifty",
+  "optionB": "Wasteful",
+  "optionC": "Cautious",
+  "optionD": "Modest"
+ },
+ {
+  "id": 138672814,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which sentence is in passive voice?",
+  "optionA": "The dog chased the cat.",
+  "optionB": "The cat was chased by the dog.",
+  "optionC": "The cat chases the dog.",
+  "optionD": "The dog is chasing the cat."
+ },
+ {
+  "id": 265326331,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "In the sentence 'The chef cooked the meal quick,' identify the error.\n\nIn this sentence, 'quick' most nearly means:",
+  "optionA": "The",
+  "optionB": "cooked",
+  "optionC": "quick",
+  "optionD": "No error."
+ },
+ {
+  "id": 348171601,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which sentence is in past perfect tense?",
+  "optionA": "She eats.",
+  "optionB": "She had eaten.",
+  "optionC": "She will eat.",
+  "optionD": "She is eating."
+ },
+ {
+  "id": 407036540,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "The effect of the drug _____ not known.",
+  "optionA": "are",
+  "optionB": "is",
+  "optionC": "were",
+  "optionD": "have"
+ },
+ {
+  "id": 524610546,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "The group of students _____ arriving.",
+  "optionA": "is",
+  "optionB": "are",
+  "optionC": "was",
+  "optionD": "have"
+ },
+ {
+  "id": 575430692,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which sentence is in present perfect tense?",
+  "optionA": "She eats.",
+  "optionB": "She has eaten.",
+  "optionC": "She will eat.",
+  "optionD": "She ate."
+ },
+ {
+  "id": 869906807,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Fill in the blank: He is proficient _____ mathematics.",
+  "optionA": "in",
+  "optionB": "on",
+  "optionC": "at",
+  "optionD": "with"
+ },
+ {
+  "id": 285853436,
+  "category": "Verbal Ability",
+  "subtopic": "verb_ordering",
+  "text": "Rearrange: House / the / is / big",
+  "optionA": "The big is house",
+  "optionB": "The house is big",
+  "optionC": "Big is the house",
+  "optionD": "House the is big"
+ },
+ {
+  "id": 369006591,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Identify the synonym of 'meticulous'.",
+  "optionA": "Careless",
+  "optionB": "Precise",
+  "optionC": "Hasty",
+  "optionD": "Sloppy"
+ },
+ {
+  "id": 567036490,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "He is known for his candor.\n\nIn this sentence, 'candor' most nearly means:",
+  "optionA": "Dishonesty",
+  "optionB": "Honesty",
+  "optionC": "Deceit",
+  "optionD": "Secrecy"
+ },
+ {
+  "id": 1199739628,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The artist's work was eclectic.\n\nIn this sentence, 'eclectic' most nearly means:",
+  "optionA": "Uniform",
+  "optionB": "Varied",
+  "optionC": "Consistent",
+  "optionD": "Monotonous"
+ },
+ {
+  "id": 2112260607,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The plan was futile.\n\nIn this sentence, 'futile' most nearly means:",
+  "optionA": "Useful",
+  "optionB": "Useless",
+  "optionC": "Effective",
+  "optionD": "Productive"
+ }
+]
