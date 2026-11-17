@@ -487,6 +487,26 @@ def main():
         seen.add(a["id"])
         out.append(a)
 
+    # new Opus-written questions: only those that passed the blind re-solve gate (tools/question_gate.py)
+    gen_dir = ROOT / "content" / "generated"
+    approved = set(json.loads((gen_dir / "approved.json").read_text(encoding="utf-8"))) if (gen_dir / "approved.json").exists() else set()
+    generated = 0
+    for p in sorted((gen_dir / "batches").glob("*.json")) if approved else []:
+        for g in json.loads(p.read_text(encoding="utf-8-sig")):
+            if g.get("uid") not in approved:
+                continue
+            g = dict(g)
+            g["id"] = qid(g)
+            g["source"] = "generated"
+            g.setdefault("timeSensitive", False)
+            if g["id"] in seen:
+                print(f"  duplicate generated item skipped: {g['uid']}")
+                continue
+            seen.add(g["id"])
+            out.append(g)
+            generated += 1
+    print(f"  merged {generated} gate-approved generated questions")
+
     ai = json.loads(AI_CONTENT.read_text(encoding="utf-8")) if AI_CONTENT.exists() else {}
     ai_used = 0
     for q in out:

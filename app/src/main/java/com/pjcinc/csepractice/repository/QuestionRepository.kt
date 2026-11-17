@@ -317,7 +317,7 @@ class QuestionRepository(private val context: Context) {
         private const val QUESTIONS_ASSET = "questions.json"
         private const val TOPICS_ASSET = "topics.json"
         /** Bump when shipping a new questions.json so installed apps re-seed. */
-        const val QUESTIONS_VERSION = 3
+        const val QUESTIONS_VERSION = 4
         /** Exam mode allows about one minute per item. */
         const val EXAM_SECONDS_PER_ITEM = 60
     }

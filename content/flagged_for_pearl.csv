@@ -1,0 +1,2 @@
+﻿uid,category,subtopic,question,A,B,C,D,key,why_flagged,solver_note,explanation
+pilot_analytical-23,Analytical Ability,ana_oddone,Which does not belong to the group?,April,June,September,October,D,solver: ambiguous / two defensible answers; solver not sure,"Intended rule: October has 31 days, others 30; but September is the only odd-numbered month (9 vs 4, 6, 10), so C is also defensible.","April, June and September each have 30 days. October has 31 days."
