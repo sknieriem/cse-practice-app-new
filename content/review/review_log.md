@@ -1,4 +1,4 @@
-# Review of original questions (401 reviewed)
+# Review of original questions (501 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
@@ -6,6 +6,7 @@
 | r2 | 15 | 43 | 4 | 38 | 0 |
 | r3 | 38 | 38 | 3 | 21 | 0 |
 | r4 | 20 | 58 | 2 | 21 | 0 |
+| r5 | 41 | 36 | 0 | 23 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -410,3 +411,103 @@
 | r4 | 162904311 | Verbal Ability | unchanged | Key correct; added teaching fields. |
 | r4 | 706599274 | Verbal Ability | unchanged | Key correct; added teaching fields. |
 | r4 | 1266564199 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r5 | 1018734067 | Analytical Ability | rewritten | Two defensible answers (switch is to turning / lighting); replaced with a clean instrument : what-it-measures analogy. |
+| r5 | 158090092 | Analytical Ability | rewritten | Banned Both/None options; replaced with a clean implicit-assumption item. |
+| r5 | 1225007026 | Analytical Ability | rewritten | Banned Both/None options; replaced with a clean implicit-assumption item. |
+| r5 | 1782159761 | Analytical Ability | rewritten | Banned Both/None options; replaced with a clean implicit-assumption item. |
+| r5 | 569702049 | Analytical Ability | rewritten | Near-duplicate of the V/W/X template; rewritten as a grandparent item with genders stated. |
+| r5 | 1463237028 | Analytical Ability | rewritten | Near-duplicate template; rewritten as a niece item with the speaker's gender stated. |
+| r5 | 1465531209 | Analytical Ability | rewritten | Near-duplicate template; rewritten as an aunt-by-marriage item with genders stated. |
+| r5 | 1157269015 | Analytical Ability | rewritten | Banned Valid/Invalid/True/False option set; now asks which conclusion follows. |
+| r5 | 1784454199 | Analytical Ability | rewritten | Banned Valid/Invalid/True/False option set; now asks which conclusion follows. |
+| r5 | 372154534 | Analytical Ability | rewritten | Second valid answer: Table is also not a seat; replaced with a tight seating set. |
+| r5 | 2121246797 | Analytical Ability | rewritten | False fact in explanation (diamond is a mineral too) and Emerald was also defensible (ruby and sapphire are both corundum); set replaced. |
+| r5 | 38171782 | Analytical Ability | rewritten | Series 5, 8, 12, 18 (gaps 3, 4, 6) has no unique rule; keyed 26 was arbitrary. Replaced with a clean growing-gap series. |
+| r5 | 1048203394 | General Information | rewritten | Time-sensitive: moon counts change as new moons are found (lead has switched between Jupiter and Saturn); explanation's 'over 80' is outdated; rewritten to largest planet. |
+| r5 | 671251794 | General Information | rewritten | US national bird is off-topic for gi_ph; rewritten to the Philippine national bird. |
+| r5 | 2089982896 | General Information | rewritten | Options C and D were the same color set reordered; options and stem rebuilt with RA 8491 citation. |
+| r5 | 214482552 | Numerical Ability | rewritten | Trivia ("sides of a pentagon") rewritten into a polygon interior-angle problem. |
+| r5 | 2014274984 | Numerical Ability | rewritten | Trivia ("degrees in a right angle") rewritten into a complementary-angle problem. |
+| r5 | 979404327 | Numerical Ability | rewritten | Near-duplicate of 594870162 (same 60 km/h, same options); rewritten with mixed time units. |
+| r5 | 739563139 | Numerical Ability | rewritten | Duplicate of 635494380 (5, 10, 20, 40); rewritten to a x5 series. |
+| r5 | 1714130055 | Numerical Ability | rewritten | Duplicate of 731738207 (Fibonacci, same answer 13); rewritten as an alternating-operation series. |
+| r5 | 1883912155 | Numerical Ability | rewritten | Trivia ("faces on a cube") rewritten into a surface-area word problem with units. |
+| r5 | 510189778 | Verbal Ability | rewritten | Original had two defensible orders (alarm could sound before or after seeing the safe; key 1-3-2-4 vs 1-3-4-2); sentences now carry clear sequence cues. |
+| r5 | 524391834 | Verbal Ability | rewritten | Capital 'Is' pointed to the question 'Is the sky blue?' (not offered) and 'Blue is the sky' is a valid inverted sentence; new lowercase word set with exactly one standard sentence. |
+| r5 | 677896642 | Analytical Ability | minor edit | False fact: the candela is the unit of luminous intensity, not luminosity; stem corrected. |
+| r5 | 1998396672 | Analytical Ability | minor edit | Weak stem: a compass is also for navigation; now clock : time. |
+| r5 | 1215025046 | Analytical Ability | minor edit | Explanation computed 35 while key is 30; fixed to n × (n + 1) = 30. |
+| r5 | 18433771 | Analytical Ability | minor edit | Stem was awkward and unitless; reworded with pesos. |
+| r5 | 219392053 | Analytical Ability | minor edit | Key correct; fixed garbled apostrophes and added teaching fields. |
+| r5 | 910056686 | Analytical Ability | minor edit | Key correct; fixed garbled apostrophes and added teaching fields. |
+| r5 | 16125592 | Analytical Ability | minor edit | Key correct, but option C 'No cats are dogs' is true in real life and pulls learners off the logic; dogs changed to pets. |
+| r5 | 1115443207 | Analytical Ability | minor edit | Eagle and Hawk (birds of prey) vs Sparrow gave a second grouping; set changed so Penguin is the only odd one. |
+| r5 | 429142034 | General Information | minor edit | 'Discovered' is loose (people already lived there); reworded to 'reached'. |
+| r5 | 513842938 | General Information | minor edit | Correct; very easy, difficulty set to 1; teaching fields added. |
+| r5 | 517677660 | General Information | minor edit | Correct; very easy, difficulty set to 1; teaching fields added. |
+| r5 | 558872458 | General Information | minor edit | Correct; very easy, difficulty set to 1; teaching fields added. |
+| r5 | 717302546 | General Information | minor edit | Correct; very easy, difficulty set to 1; teaching fields added. |
+| r5 | 975101370 | General Information | minor edit | Stem implied a single gas causes the greenhouse effect; reworded to 'a major greenhouse gas'. |
+| r5 | 1671404955 | General Information | minor edit | Correct; very easy, difficulty set to 1; teaching fields added. |
+| r5 | 1878722021 | General Information | minor edit | Correct; very easy, difficulty set to 1; teaching fields added. |
+| r5 | 2032403342 | General Information | minor edit | Correct; very easy, difficulty set to 1; teaching fields added. |
+| r5 | 442602100 | General Information | minor edit | No law names a 'national costume'; reworded to traditional national dress. |
+| r5 | 550547854 | Numerical Ability | minor edit | Explanation lost the × sign ("w = 27 = 14"); fixed, added whys/Tl, difficulty 1. |
+| r5 | 1897532915 | Numerical Ability | minor edit | Explanation lost the × sign ("k = 63 = 18"); fixed, added whys/Tl, difficulty 1. |
+| r5 | 1977283872 | Numerical Ability | minor edit | Distractor "3/3" matched no real mistake; replaced C/D with 3/9 and 3/18 (real fraction-adding mistakes) and fixed whys. |
+| r5 | 1361543959 | Numerical Ability | minor edit | Explanation lost × signs ("23.147 = 43.96"); fixed, added units, steps, whys, Tl; difficulty 1. |
+| r5 | 615371833 | Numerical Ability | minor edit | Explanation lost the × sign ("82 = 16"); fixed, added whys/Tl; difficulty 1. |
+| r5 | 948635286 | Numerical Ability | minor edit | Key correct; steps said "worker/job" for printers/pages and hintTl talked about people; fixed, added whys/Tl. |
+| r5 | 290743702 | Verbal Ability | minor edit | Key correct; easy tool-to-use analogy, difficulty set to 1; teaching fields added. |
+| r5 | 93969981 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; explanation polished, teaching fields added. |
+| r5 | 85500978 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; teaching fields added. |
+| r5 | 903072945 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; teaching fields added. |
+| r5 | 2025743626 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; teaching fields added. |
+| r5 | 223388593 | Verbal Ability | minor edit | Key correct; stem reworded, 'Richness' fixed to 'Wealth', weak 'No implication.' replaced with a plausible over-reading distractor. |
+| r5 | 514134333 | Verbal Ability | minor edit | Key correct; stem reworded, options made grammatical and 'No implication.' replaced with a plausible distractor. |
+| r5 | 361889005 | Verbal Ability | minor edit | Key correct; explanation's spelling rule was muddled ('e after r'), rewritten; teaching fields added. |
+| r5 | 105143504 | Verbal Ability | minor edit | Key correct; option B sharpened from 'Impressive' to 'Overly ambitious' to match the word's pretentious sense. |
+| r5 | 713067393 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; teaching fields added. |
+| r5 | 1076284037 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; teaching fields added. |
+| r5 | 2143986813 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; teaching fields added. |
+| r5 | 649036977 | Analytical Ability | unchanged | Key correct; added teaching fields. |
+| r5 | 1213810395 | Analytical Ability | unchanged | Key correct; added teaching fields. |
+| r5 | 1237200357 | Analytical Ability | unchanged | Key correct; added teaching fields. |
+| r5 | 1995638920 | Analytical Ability | unchanged | Key correct; added teaching fields. |
+| r5 | 893075554 | Analytical Ability | unchanged | Key correct; added steps and teaching fields. |
+| r5 | 46598300 | Analytical Ability | unchanged | Key correct; added steps and teaching fields. |
+| r5 | 266396685 | Analytical Ability | unchanged | Key correct; added steps and teaching fields. |
+| r5 | 1009060685 | Analytical Ability | unchanged | Key correct; added steps and teaching fields. |
+| r5 | 2101150493 | Analytical Ability | unchanged | Key correct (undistributed middle); added teaching fields. |
+| r5 | 1721506700 | Analytical Ability | unchanged | Key correct; fixed garbled dash in steps and added missing fields. |
+| r5 | 1304367326 | General Information | unchanged | Correct; teaching fields added. |
+| r5 | 1435999401 | General Information | unchanged | Correct; teaching fields added. |
+| r5 | 1447469303 | General Information | unchanged | Correct; teaching fields added. |
+| r5 | 1743030021 | General Information | unchanged | Correct; teaching fields added. |
+| r5 | 2026268569 | General Information | unchanged | Correct; teaching fields added. |
+| r5 | 2102303779 | General Information | unchanged | Correct; teaching fields added. |
+| r5 | 1256408167 | General Information | unchanged | Correct; explanation sharpened; teaching fields added. |
+| r5 | 1667203475 | General Information | unchanged | Correct; teaching fields added. |
+| r5 | 212938757 | Numerical Ability | unchanged | Key correct; added numbered steps, whys, explanationTl; difficulty set to 1. |
+| r5 | 565779120 | Numerical Ability | unchanged | Key correct; added numbered steps, whys, explanationTl; difficulty 1. |
+| r5 | 1607782894 | Numerical Ability | unchanged | Key correct; added explanationTl, fixed incomplete stepsTl; difficulty 1. |
+| r5 | 125490034 | Numerical Ability | unchanged | Key correct; replaced bare whys with specific mistakes, added explanationTl; difficulty 1. |
+| r5 | 803120193 | Numerical Ability | unchanged | Key correct; added steps, hint, whys, Tl fields; difficulty 1. |
+| r5 | 1075598058 | Numerical Ability | unchanged | Key correct; added steps, hint, whys, Tl fields; difficulty 1. |
+| r5 | 1707738848 | Numerical Ability | unchanged | Key correct; replaced value-only whys with the actual mistakes, improved Tl; difficulty 1. |
+| r5 | 319950636 | Numerical Ability | unchanged | Key correct; added explanationTl; difficulty 1. |
+| r5 | 802962433 | Numerical Ability | unchanged | Key correct; replaced odd whys (55.5556%) with specific mistakes, added explanationTl; difficulty 1. |
+| r5 | 1200805775 | Numerical Ability | unchanged | Key correct; added explanationTl; difficulty 1. |
+| r5 | 594870162 | Numerical Ability | unchanged | Key correct; added numbered steps, whys, explanationTl; difficulty 1. |
+| r5 | 242390811 | Numerical Ability | unchanged | Key correct; added whys, explanationTl; difficulty 1. |
+| r5 | 529375607 | Numerical Ability | unchanged | Key correct; explanation reworded, added whys, explanationTl; difficulty 1. |
+| r5 | 731738207 | Numerical Ability | unchanged | Key correct; added steps, hint, whys, Tl fields; difficulty 1. |
+| r5 | 1025929619 | Numerical Ability | unchanged | Key correct; added whys, explanationTl; difficulty 1. |
+| r5 | 1400138561 | Numerical Ability | unchanged | Key correct; fixed awkward stepsTl ("dagdag (-5)"), added whys, explanationTl; difficulty 1. |
+| r5 | 1528202890 | Numerical Ability | unchanged | Key correct; added steps, hint, whys, Tl fields; difficulty 2. |
+| r5 | 1638286610 | Numerical Ability | unchanged | Key correct; added whys, explanationTl; difficulty 2. |
+| r5 | 603584656 | Numerical Ability | unchanged | Key correct; added whys, explanationTl, numbered steps; difficulty 1. |
+| r5 | 1648390157 | Verbal Ability | unchanged | Key correct; other three are synonyms; teaching fields added. |
+| r5 | 27637960 | Verbal Ability | unchanged | Key correct; teaching fields added. |
+| r5 | 356158836 | Verbal Ability | unchanged | Key correct; teaching fields added. |
+| r5 | 1940339355 | Verbal Ability | unchanged | Key correct; teaching fields added. |

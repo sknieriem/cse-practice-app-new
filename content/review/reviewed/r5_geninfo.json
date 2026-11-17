@@ -1,0 +1,329 @@
+[
+ {
+  "id": 429142034,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "'Discovered' is loose (people already lived there); reworded to 'reached'.",
+  "fields": {
+   "text": "Which explorer reached the Americas in 1492, opening the way for European exploration of the New World?",
+   "explanation": "Christopher Columbus, sailing for Spain, reached the Caribbean islands of the Americas in 1492. His voyages began lasting European contact with the New World.",
+   "hint": "He sailed for the King and Queen of Spain with three ships.",
+   "whyA": "Magellan led the first voyage around the world and reached the Philippines in 1521, not the Americas in 1492.",
+   "whyC": "Vasco da Gama found the sea route from Europe to India around Africa (1498).",
+   "whyD": "Marco Polo travelled overland to China in the 1200s, long before 1492.",
+   "explanationTl": "Si Christopher Columbus, na naglayag para sa Spain, ang nakarating sa Americas noong 1492. Dito nagsimula ang tuloy-tuloy na contact ng Europe sa New World.",
+   "hintTl": "Naglayag siya para sa Hari at Reyna ng Spain gamit ang tatlong barko."
+  }
+ },
+ {
+  "id": 513842938,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Think of the planet whose soil is full of rust.",
+   "whyA": "Venus looks bright yellowish-white because of its thick clouds.",
+   "whyC": "Jupiter is the largest planet and is known for its Great Red Spot, not as the Red Planet.",
+   "whyD": "Mercury is the planet closest to the Sun and looks grey.",
+   "explanationTl": "Mars ang tinatawag na Red Planet kasi mapula ang itsura niya dahil sa iron oxide (kalawang) sa lupa niya.",
+   "hintTl": "Isipin ang planetang puno ng kalawang ang lupa."
+  }
+ },
+ {
+  "id": 517677660,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Ancient Egypt grew up along the banks of this river.",
+   "whyA": "The Amazon flows through South America, mainly Brazil.",
+   "whyC": "The Mississippi flows through the United States.",
+   "whyD": "The Yangtze flows through China.",
+   "explanationTl": "Ang Nile River ang dumadaloy sa Egypt. Dito umasa ang agriculture at kabihasnan ng sinaunang Egypt.",
+   "hintTl": "Sa tabi ng ilog na ito umusbong ang sinaunang Egypt."
+  }
+ },
+ {
+  "id": 558872458,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Water is made of hydrogen and oxygen.",
+   "whyA": "CO2 is carbon dioxide, the gas we breathe out.",
+   "whyC": "O2 is oxygen gas, not water.",
+   "whyD": "N2 is nitrogen gas, the main gas in air.",
+   "explanationTl": "H2O ang chemical formula ng tubig: dalawang hydrogen atoms at isang oxygen atom.",
+   "hintTl": "Hydrogen at oxygen ang laman ng tubig."
+  }
+ },
+ {
+  "id": 717302546,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "This ocean lies between the Americas and Europe/Africa.",
+   "whyA": "The Pacific borders the WEST coast of the United States.",
+   "whyC": "The Indian Ocean lies between Africa, Asia and Australia.",
+   "whyD": "The Arctic Ocean is at the North Pole, north of Alaska.",
+   "explanationTl": "Atlantic Ocean ang nasa eastern coast ng United States. Pacific naman ang nasa west coast.",
+   "hintTl": "Ito ang karagatan sa pagitan ng Americas at ng Europe/Africa."
+  }
+ },
+ {
+  "id": 975101370,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Stem implied a single gas causes the greenhouse effect; reworded to 'a major greenhouse gas'.",
+  "fields": {
+   "text": "Which of the following is a major greenhouse gas that traps heat in Earth's atmosphere?",
+   "explanation": "Carbon dioxide absorbs heat radiated by the Earth and traps it in the atmosphere, making it a major greenhouse gas. Oxygen, nitrogen and helium do not trap heat this way.",
+   "hint": "It is released when fuels like gasoline and coal are burned.",
+   "whyA": "Oxygen makes up about a fifth of air but does not trap heat.",
+   "whyB": "Nitrogen is the most plentiful gas in air but is not a greenhouse gas.",
+   "whyD": "Helium is a light, inert gas that does not trap heat.",
+   "explanationTl": "Ang carbon dioxide ay sumisipsip at nagtatrap ng init sa atmosphere, kaya major greenhouse gas siya. Ang oxygen, nitrogen at helium ay hindi nagtatrap ng init nang ganito.",
+   "hintTl": "Lumalabas ito kapag nagsusunog ng gasolina o uling."
+  }
+ },
+ {
+  "id": 1048203394,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Time-sensitive: moon counts change as new moons are found (lead has switched between Jupiter and Saturn); explanation's 'over 80' is outdated; rewritten to largest planet.",
+  "fields": {
+   "text": "Which planet is the largest in the solar system?",
+   "correctAnswer": "A",
+   "explanation": "Jupiter is the largest planet in the solar system; its diameter is about 11 times Earth's. It is a gas giant made mostly of hydrogen and helium.",
+   "hint": "It is a gas giant famous for its Great Red Spot.",
+   "whyB": "Saturn is the second-largest planet, best known for its rings.",
+   "whyC": "Uranus is an ice giant, much smaller than Jupiter.",
+   "whyD": "Neptune is the farthest planet from the Sun, not the largest.",
+   "explanationTl": "Jupiter ang pinakamalaking planeta sa solar system; mga 11 beses ng Earth ang diameter niya. Gas giant siya na halos hydrogen at helium.",
+   "hintTl": "Gas giant ito na sikat sa Great Red Spot niya.",
+   "timeSensitive": false
+  }
+ },
+ {
+  "id": 1304367326,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; teaching fields added.",
+  "fields": {
+   "hint": "It is a planned city built inland in the 1950s to replace the old coastal capital.",
+   "whyA": "Rio de Janeiro was the capital until 1960 and is still Brazil's most famous city.",
+   "whyC": "Sao Paulo is Brazil's largest city, not its capital.",
+   "whyD": "Salvador was Brazil's first colonial capital, not the present one.",
+   "explanationTl": "Brasilia ang capital ng Brazil. Planned city ito na ginawang capital noong 1960, kapalit ng Rio de Janeiro.",
+   "hintTl": "Planned city ito sa loob ng bansa na pumalit sa dating capital sa baybayin."
+  }
+ },
+ {
+  "id": 1435999401,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; teaching fields added.",
+  "fields": {
+   "hint": "The symbol comes from the element's Latin name, kalium.",
+   "whyA": "P is phosphorus.",
+   "whyC": "Po is polonium.",
+   "whyD": "Pt is platinum.",
+   "explanationTl": "K ang chemical symbol ng potassium, galing sa Latin name nitong kalium.",
+   "hintTl": "Galing sa Latin name na kalium ang symbol."
+  }
+ },
+ {
+  "id": 1447469303,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Correct; teaching fields added.",
+  "fields": {
+   "explanation": "Nicolaus Copernicus proposed the heliocentric model, in which the Earth and planets revolve around the Sun, in his 1543 book 'On the Revolutions of the Heavenly Spheres'.",
+   "hint": "He was a Polish astronomer whose book came out in 1543.",
+   "whyA": "Ptolemy taught the opposite: the geocentric (Earth-centered) model.",
+   "whyB": "Galileo supported the heliocentric model with his telescope, but did not first propose it.",
+   "whyD": "Kepler improved the model with elliptical orbits, after Copernicus.",
+   "explanationTl": "Si Nicolaus Copernicus ang nag-propose ng heliocentric model, kung saan umiikot ang Earth at mga planeta sa Sun. Nailathala ito noong 1543.",
+   "hintTl": "Polish astronomer siya at lumabas ang libro niya noong 1543."
+  }
+ },
+ {
+  "id": 1671404955,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "It is the first element on the periodic table and has a one-letter symbol.",
+   "whyB": "Hy is not a chemical symbol of any element.",
+   "whyC": "Hg is mercury (from the Latin hydrargyrum).",
+   "whyD": "He is helium.",
+   "explanationTl": "H ang chemical symbol ng hydrogen, ang unang element sa periodic table.",
+   "hintTl": "Unang element ito sa periodic table at isang letra lang ang symbol."
+  }
+ },
+ {
+  "id": 1743030021,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; teaching fields added.",
+  "fields": {
+   "hint": "This English novelist also wrote 'Sense and Sensibility' and 'Emma'.",
+   "whyA": "Charlotte Bronte wrote 'Jane Eyre'.",
+   "whyC": "Emily Dickinson was an American poet, not a novelist.",
+   "whyD": "Virginia Woolf wrote 'Mrs Dalloway', about a century later.",
+   "explanationTl": "Si Jane Austen ang sumulat ng 'Pride and Prejudice', na nailathala noong 1813.",
+   "hintTl": "Siya rin ang sumulat ng 'Sense and Sensibility' at 'Emma'."
+  }
+ },
+ {
+  "id": 1878722021,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "It was built by the ancient Romans.",
+   "whyA": "Greece is known for the Parthenon in Athens.",
+   "whyC": "Turkey is known for the Hagia Sophia in Istanbul.",
+   "whyD": "Egypt is known for the pyramids of Giza.",
+   "explanationTl": "Nasa Rome, Italy ang Colosseum, isang sinaunang amphitheater ng mga Romano.",
+   "hintTl": "Mga sinaunang Romano ang gumawa nito."
+  }
+ },
+ {
+  "id": 2026268569,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; teaching fields added.",
+  "fields": {
+   "hint": "This Nordic country's capital is Helsinki.",
+   "whyA": "Sweden has many lakes too but is not known by this nickname.",
+   "whyC": "Norway is known as the 'Land of the Midnight Sun'.",
+   "whyD": "Canada has a great many lakes but is not called by this nickname.",
+   "explanationTl": "Finland ang tinatawag na 'Land of a Thousand Lakes' dahil sa dami ng lawa nito.",
+   "hintTl": "Helsinki ang capital ng Nordic country na ito."
+  }
+ },
+ {
+  "id": 2032403342,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Its neighbor, the United States, uses a currency with the same name.",
+   "whyB": "The pound is used by the United Kingdom.",
+   "whyC": "The euro is used by many European Union countries.",
+   "whyD": "The franc is used by Switzerland (and was France's before the euro).",
+   "explanationTl": "Canadian dollar ang official currency ng Canada.",
+   "hintTl": "Kapareho ng pangalan ng currency ng kapitbahay nitong United States."
+  }
+ },
+ {
+  "id": 2102303779,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct; teaching fields added.",
+  "fields": {
+   "hint": "The symbol comes from the Latin name argentum.",
+   "whyB": "Au is gold (from aurum).",
+   "whyC": "Si is silicon.",
+   "whyD": "Sr is strontium.",
+   "explanationTl": "Ag ang chemical symbol ng silver, galing sa Latin name nitong argentum.",
+   "hintTl": "Galing sa Latin na argentum ang symbol."
+  }
+ },
+ {
+  "id": 442602100,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "No law names a 'national costume'; reworded to traditional national dress.",
+  "fields": {
+   "text": "Which is the traditional national dress of Filipino women?",
+   "explanation": "The baro't saya, a blouse (baro) worn with a long skirt (saya), is the traditional national dress of Filipino women; the Maria Clara and terno are its later forms.",
+   "hint": "Its name joins the Filipino words for blouse and skirt.",
+   "whyA": "The kimono is the traditional dress of Japan.",
+   "whyC": "The ao dai is the traditional dress of Vietnam.",
+   "whyD": "The cheongsam is a traditional Chinese dress.",
+   "explanationTl": "Ang baro't saya, blouse (baro) na may mahabang palda (saya), ang traditional national dress ng mga Pilipina. Ang Maria Clara at terno ay mga mas bagong anyo nito.",
+   "hintTl": "Pinagsamang salitang Filipino para sa blouse at palda ang pangalan nito."
+  }
+ },
+ {
+  "id": 671251794,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "US national bird is off-topic for gi_ph; rewritten to the Philippine national bird.",
+  "fields": {
+   "text": "What is the national bird of the Philippines?",
+   "optionA": "Philippine Eagle",
+   "optionB": "Maya",
+   "optionC": "Kalaw (Rufous Hornbill)",
+   "optionD": "Philippine Cockatoo",
+   "correctAnswer": "A",
+   "explanation": "The Philippine Eagle was declared the national bird by Proclamation No. 615 (1995), replacing the maya. It is found only in the Philippines and is critically endangered.",
+   "hint": "It is the large, endangered bird of prey found only in the Philippines.",
+   "whyB": "The maya was the former national bird before the 1995 proclamation.",
+   "whyC": "The kalaw is a native hornbill, not the national bird.",
+   "whyD": "The Philippine cockatoo is a native endangered parrot, not the national bird.",
+   "explanationTl": "Ang Philippine Eagle ang idineklarang national bird sa Proclamation No. 615 (1995), pumalit sa maya. Sa Pilipinas lang ito makikita at critically endangered.",
+   "hintTl": "Malaking ibon na mandaragit, endangered, at sa Pilipinas lang matatagpuan."
+  }
+ },
+ {
+  "id": 1256408167,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; explanation sharpened; teaching fields added.",
+  "fields": {
+   "explanation": "Andres Bonifacio is called the 'Great Plebeian' because he came from the masses (plebeians); he founded the Katipunan and led the 1896 Revolution.",
+   "hint": "He founded the Katipunan and came from a poor family in Tondo.",
+   "whyA": "Jose Rizal is the national hero, called the 'Pride of the Malay Race'.",
+   "whyC": "Emilio Aguinaldo was the first President of the Philippine Republic.",
+   "whyD": "Apolinario Mabini is the 'Sublime Paralytic' and 'Brains of the Revolution'.",
+   "explanationTl": "Si Andres Bonifacio ang 'Great Plebeian' kasi galing siya sa masa (plebeians). Siya ang nagtatag ng Katipunan at nanguna sa Rebolusyon ng 1896.",
+   "hintTl": "Siya ang nagtatag ng Katipunan at galing sa mahirap na pamilya sa Tondo."
+  }
+ },
+ {
+  "id": 1667203475,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct; teaching fields added.",
+  "fields": {
+   "explanation": "The narra was declared the national tree by Proclamation No. 652 (1934). Its hard, durable wood stands for the strength of the Filipino.",
+   "hint": "Its hard reddish wood is prized for furniture.",
+   "whyB": "The coconut is the 'tree of life' but is not the national tree.",
+   "whyC": "The mango (carabao mango) is the national fruit, not the tree.",
+   "whyD": "The acacia is a common shade tree that came from abroad.",
+   "explanationTl": "Ang narra ang idineklarang national tree sa Proclamation No. 652 (1934). Simbolo ng tibay ng Pilipino ang matigas at matibay niyang kahoy.",
+   "hintTl": "Matigas at mapulang kahoy nito ang paborito sa muwebles."
+  }
+ },
+ {
+  "id": 2089982896,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Options C and D were the same color set reordered; options and stem rebuilt with RA 8491 citation.",
+  "fields": {
+   "text": "Which set of colors appears on the Philippine flag?",
+   "optionA": "Blue, red, white and golden yellow",
+   "optionB": "Blue, red, white and green",
+   "optionC": "Red, white, green and golden yellow",
+   "optionD": "Blue, white, black and golden yellow",
+   "explanation": "Under RA 8491, Sec. 4, the flag is blue, white and red, with an eight-rayed golden-yellow sun and three five-pointed golden-yellow stars in the white triangle.",
+   "hint": "Picture the sun and the three stars inside the white triangle.",
+   "whyB": "There is no green on the flag; the sun and stars are golden yellow.",
+   "whyC": "This drops the blue stripe and adds green, which is not on the flag.",
+   "whyD": "The lower stripe is red, not black.",
+   "explanationTl": "Sa RA 8491, Sec. 4, blue, white at red ang flag, may eight-rayed golden-yellow sun at tatlong five-pointed golden-yellow stars sa white triangle.",
+   "hintTl": "Isipin ang araw at tatlong bituin sa loob ng white triangle."
+  }
+ }
+]

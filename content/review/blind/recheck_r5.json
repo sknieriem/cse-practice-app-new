@@ -1,0 +1,335 @@
+[
+ {
+  "id": 677896642,
+  "category": "Analytical Ability",
+  "text": "Luminous intensity : Candela :: Mass :",
+  "optionA": "Kilograms",
+  "optionB": "Meters",
+  "optionC": "Seconds",
+  "optionD": "Liters"
+ },
+ {
+  "id": 1018734067,
+  "category": "Analytical Ability",
+  "text": "Thermometer is to temperature as barometer is to:",
+  "optionA": "Humidity",
+  "optionB": "Air pressure",
+  "optionC": "Wind speed",
+  "optionD": "Rainfall"
+ },
+ {
+  "id": 1998396672,
+  "category": "Analytical Ability",
+  "text": "Clock is to time as compass is to:",
+  "optionA": "Direction",
+  "optionB": "Travel",
+  "optionC": "Distance",
+  "optionD": "Location"
+ },
+ {
+  "id": 158090092,
+  "category": "Analytical Ability",
+  "text": "Statement: \"Join our weekend chess clinic and sharpen your game,\" says a barangay sports flyer. Which is an assumption implicit in the statement?",
+  "optionA": "Players can improve their chess through training.",
+  "optionB": "Everyone in the barangay already plays chess.",
+  "optionC": "Only clinic graduates win chess tournaments.",
+  "optionD": "Chess is the most popular game in the barangay."
+ },
+ {
+  "id": 1225007026,
+  "category": "Analytical Ability",
+  "text": "Statement: \"Hikers must pass a basic fitness test before climbing Mt. Apo,\" the park office announced. Which is an assumption implicit in the statement?",
+  "optionA": "Fit hikers never get injured on the trail.",
+  "optionB": "The park office wants fewer visitors.",
+  "optionC": "The climb demands a level of fitness that some hikers may lack.",
+  "optionD": "Mt. Apo is closed to first-time hikers."
+ },
+ {
+  "id": 1782159761,
+  "category": "Analytical Ability",
+  "text": "Statement: \"Train every day if you want to make the provincial track team,\" the coach told the runners. Which is an assumption implicit in the statement?",
+  "optionA": "Daily training guarantees a spot on the team.",
+  "optionB": "Runners who skip a single day will be cut.",
+  "optionC": "The coach once made the provincial team himself.",
+  "optionD": "Daily training improves a runner's chances of being selected."
+ },
+ {
+  "id": 18433771,
+  "category": "Analytical Ability",
+  "text": "A sari-sari store's electricity bills were ₱300 in January, ₱350 in February and ₱400 in March. What was the average monthly bill?",
+  "optionA": "₱340",
+  "optionB": "₱350",
+  "optionC": "₱360",
+  "optionD": "₱370"
+ },
+ {
+  "id": 219392053,
+  "category": "Analytical Ability",
+  "text": "If V is W's father and W is X's daughter, X is V's:",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 569702049,
+  "category": "Analytical Ability",
+  "text": "Ana is the only daughter of Mr. Cruz. Ben is Ana's son. How is Mr. Cruz related to Ben?",
+  "optionA": "Father",
+  "optionB": "Uncle",
+  "optionC": "Grandfather",
+  "optionD": "Father-in-law"
+ },
+ {
+  "id": 910056686,
+  "category": "Analytical Ability",
+  "text": "If X is Y's mother and Y is Z's daughter, Z is X's:",
+  "optionA": "Son",
+  "optionB": "Husband",
+  "optionC": "Daughter",
+  "optionD": "Father"
+ },
+ {
+  "id": 1463237028,
+  "category": "Analytical Ability",
+  "text": "Pointing to a young woman, Leo said, \"Her mother is my mother's only daughter.\" How is the young woman related to Leo (a man)?",
+  "optionA": "Sister",
+  "optionB": "Daughter",
+  "optionC": "Cousin",
+  "optionD": "Niece"
+ },
+ {
+  "id": 1465531209,
+  "category": "Analytical Ability",
+  "text": "Carlo is Dina's brother. Dina is Eric's mother. Fe is Carlo's wife. How is Fe related to Eric?",
+  "optionA": "Mother",
+  "optionB": "Aunt",
+  "optionC": "Grandmother",
+  "optionD": "Cousin"
+ },
+ {
+  "id": 16125592,
+  "category": "Analytical Ability",
+  "text": "If all cats are animals and some animals are pets, then:",
+  "optionA": "All cats are pets",
+  "optionB": "Some cats are pets",
+  "optionC": "No cats are pets",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1157269015,
+  "category": "Analytical Ability",
+  "text": "All writers create stories. Some people are writers. Which conclusion necessarily follows?",
+  "optionA": "All people create stories.",
+  "optionB": "Some people create stories.",
+  "optionC": "Anyone who creates stories is a writer.",
+  "optionD": "Some people do not create stories."
+ },
+ {
+  "id": 1784454199,
+  "category": "Analytical Ability",
+  "text": "All athletes train. Some people are athletes. Which conclusion necessarily follows?",
+  "optionA": "All people train.",
+  "optionB": "Some people do not train.",
+  "optionC": "Everyone who trains is an athlete.",
+  "optionD": "Some people train."
+ },
+ {
+  "id": 372154534,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Armchair, Lamp, Sofa, Recliner",
+  "optionA": "Armchair",
+  "optionB": "Lamp",
+  "optionC": "Sofa",
+  "optionD": "Recliner"
+ },
+ {
+  "id": 1115443207,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Sparrow, Pigeon, Penguin, Swallow",
+  "optionA": "Sparrow",
+  "optionB": "Pigeon",
+  "optionC": "Penguin",
+  "optionD": "Swallow"
+ },
+ {
+  "id": 2121246797,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Ruby, Sapphire, Marble, Emerald",
+  "optionA": "Ruby",
+  "optionB": "Sapphire",
+  "optionC": "Marble",
+  "optionD": "Emerald"
+ },
+ {
+  "id": 38171782,
+  "category": "Analytical Ability",
+  "text": "Next in series: 5, 8, 12, 17, 23, ____",
+  "optionA": "29",
+  "optionB": "30",
+  "optionC": "31",
+  "optionD": "32"
+ },
+ {
+  "id": 429142034,
+  "category": "General Information",
+  "text": "Which explorer reached the Americas in 1492, opening the way for European exploration of the New World?",
+  "optionA": "Ferdinand Magellan",
+  "optionB": "Christopher Columbus",
+  "optionC": "Vasco da Gama",
+  "optionD": "Marco Polo"
+ },
+ {
+  "id": 975101370,
+  "category": "General Information",
+  "text": "Which of the following is a major greenhouse gas that traps heat in Earth's atmosphere?",
+  "optionA": "Oxygen",
+  "optionB": "Nitrogen",
+  "optionC": "Carbon Dioxide",
+  "optionD": "Helium"
+ },
+ {
+  "id": 1048203394,
+  "category": "General Information",
+  "text": "Which planet is the largest in the solar system?",
+  "optionA": "Jupiter",
+  "optionB": "Saturn",
+  "optionC": "Uranus",
+  "optionD": "Neptune"
+ },
+ {
+  "id": 442602100,
+  "category": "General Information",
+  "text": "Which is the traditional national dress of Filipino women?",
+  "optionA": "Kimono",
+  "optionB": "Baro’t Saya",
+  "optionC": "Ao Dai",
+  "optionD": "Cheongsam"
+ },
+ {
+  "id": 671251794,
+  "category": "General Information",
+  "text": "What is the national bird of the Philippines?",
+  "optionA": "Philippine Eagle",
+  "optionB": "Maya",
+  "optionC": "Kalaw (Rufous Hornbill)",
+  "optionD": "Philippine Cockatoo"
+ },
+ {
+  "id": 2089982896,
+  "category": "General Information",
+  "text": "Which set of colors appears on the Philippine flag?",
+  "optionA": "Blue, red, white and golden yellow",
+  "optionB": "Blue, red, white and green",
+  "optionC": "Red, white, green and golden yellow",
+  "optionD": "Blue, white, black and golden yellow"
+ },
+ {
+  "id": 1977283872,
+  "category": "Numerical Ability",
+  "text": "2/3 + 1/6 = ?",
+  "optionA": "5/6",
+  "optionB": "1/2",
+  "optionC": "3/9",
+  "optionD": "3/18"
+ },
+ {
+  "id": 214482552,
+  "category": "Numerical Ability",
+  "text": "What is the sum of the interior angles of a pentagon?",
+  "optionA": "540°",
+  "optionB": "360°",
+  "optionC": "720°",
+  "optionD": "900°"
+ },
+ {
+  "id": 1361543959,
+  "category": "Numerical Ability",
+  "text": "What is the circumference of a circle with radius 7 cm? (Use π = 3.14.)",
+  "optionA": "43.96 cm",
+  "optionB": "44 cm",
+  "optionC": "21.98 cm",
+  "optionD": "49 cm"
+ },
+ {
+  "id": 2014274984,
+  "category": "Numerical Ability",
+  "text": "Two angles are complementary. If one angle measures 35°, what is the measure of the other angle?",
+  "optionA": "55°",
+  "optionB": "145°",
+  "optionC": "325°",
+  "optionD": "45°"
+ },
+ {
+  "id": 979404327,
+  "category": "Numerical Ability",
+  "text": "A jeepney travels 45 km in 1 hour and 30 minutes. What is its average speed in km/h?",
+  "optionA": "30",
+  "optionB": "45",
+  "optionC": "90",
+  "optionD": "67.5"
+ },
+ {
+  "id": 1714130055,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 3, 6, 5, 10, 9, 18, ?",
+  "optionA": "17",
+  "optionB": "36",
+  "optionC": "19",
+  "optionD": "27"
+ },
+ {
+  "id": 1883912155,
+  "category": "Numerical Ability",
+  "text": "A cube-shaped gift box has edges 10 cm long. How many square centimeters of paper are needed to cover all its faces with no overlap?",
+  "optionA": "600 cm²",
+  "optionB": "1,000 cm²",
+  "optionC": "400 cm²",
+  "optionD": "100 cm²"
+ },
+ {
+  "id": 510189778,
+  "category": "Verbal Ability",
+  "text": "Arrange the sentences in logical order: (1) He opened the door. (2) The alarm sounded the moment he touched its dial. (3) He entered the room. (4) He saw a safe in the corner.",
+  "optionA": "1-3-4-2",
+  "optionB": "1-3-2-4",
+  "optionC": "3-1-4-2",
+  "optionD": "4-1-3-2"
+ },
+ {
+  "id": 524391834,
+  "category": "Verbal Ability",
+  "text": "Arrange the words to form a correct sentence: ripe / mangoes / are / the",
+  "optionA": "The ripe are mangoes.",
+  "optionB": "The mangoes are ripe.",
+  "optionC": "Mangoes the are ripe.",
+  "optionD": "The are mangoes ripe."
+ },
+ {
+  "id": 223388593,
+  "category": "Verbal Ability",
+  "text": "What is implied by the sentence 'He is rich, but unhappy.'?",
+  "optionA": "Wealth always brings happiness.",
+  "optionB": "Wealth does not guarantee happiness.",
+  "optionC": "He is actually poor.",
+  "optionD": "His wealth is the cause of his unhappiness."
+ },
+ {
+  "id": 514134333,
+  "category": "Verbal Ability",
+  "text": "What is implied by the sentence 'The team won, but they made many errors.'?",
+  "optionA": "The win was easy.",
+  "optionB": "The team won in spite of its errors.",
+  "optionC": "The team lost the game.",
+  "optionD": "The team played its best game."
+ },
+ {
+  "id": 105143504,
+  "category": "Verbal Ability",
+  "text": "The plan is grandiose.\n\nIn this sentence, 'grandiose' most nearly means:",
+  "optionA": "Modest",
+  "optionB": "Overly ambitious",
+  "optionC": "Simple",
+  "optionD": "Humble"
+ }
+]

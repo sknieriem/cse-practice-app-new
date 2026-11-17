@@ -1,0 +1,540 @@
+[
+ {
+  "id": 212938757,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added numbered steps, whys, explanationTl; difficulty set to 1.",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Substitute x = 12 and y = 8: w = 12 + 8.\n2. Add: w = 20.",
+   "stepsTl": "1. Ilagay ang x = 12 at y = 8: w = 12 + 8.\n2. I-add: w = 20.",
+   "whyB": "12 − 8 = 4: this subtracts instead of adding.",
+   "whyC": "24 is 12 × 2; y = 8 was not used.",
+   "whyD": "10 is half of 20; nothing in w = x + y halves the sum.",
+   "explanationTl": "Ilagay lang ang values: w = 12 + 8 = 20."
+  }
+ },
+ {
+  "id": 550547854,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Explanation lost the × sign (\"w = 27 = 14\"); fixed, added whys/Tl, difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "w = 2 × 7 = 14.",
+   "steps": "1. 2v means 2 × v.\n2. Substitute v = 7: w = 2 × 7 = 14.",
+   "stepsTl": "1. Ang 2v ay 2 × v.\n2. Ilagay ang v = 7: w = 2 × 7 = 14.",
+   "whyB": "9 = 2 + 7: 2v means 2 times v, not 2 plus v.",
+   "whyC": "5 = 7 − 2: 2v means 2 times v, not v minus 2.",
+   "whyD": "21 = 3 × 7: the coefficient is 2, not 3.",
+   "explanationTl": "Ang 2v ay 2 × v, kaya w = 2 × 7 = 14."
+  }
+ },
+ {
+  "id": 565779120,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added numbered steps, whys, explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "z = 3 × 5 − 2 = 15 − 2 = 13.",
+   "steps": "1. Substitute y = 5: z = 3 × 5 − 2.\n2. Multiply first: 3 × 5 = 15.\n3. Subtract: 15 − 2 = 13.",
+   "stepsTl": "1. Ilagay ang y = 5: z = 3 × 5 − 2.\n2. Multiply muna: 3 × 5 = 15.\n3. I-subtract: 15 − 2 = 13.",
+   "whyB": "15 is 3 × 5; the − 2 was forgotten.",
+   "whyC": "17 adds 2 instead of subtracting it.",
+   "whyD": "11 subtracts 2 twice (15 − 4).",
+   "explanationTl": "Multiply muna bago mag-subtract: 3 × 5 = 15, tapos 15 − 2 = 13."
+  }
+ },
+ {
+  "id": 1607782894,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added explanationTl, fixed incomplete stepsTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "stepsTl": "1. Idagdag ang 5 sa magkabilang side: 5x = 25.\n2. Hatiin sa 5: x = 25 ÷ 5 = 5.\nCheck: 5(5) − 5 = 20 ✓",
+   "explanationTl": "Idagdag ang 5 sa both sides para maging 5x = 25, tapos hatiin sa 5: x = 5."
+  }
+ },
+ {
+  "id": 1897532915,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Explanation lost the × sign (\"k = 63 = 18\"); fixed, added whys/Tl, difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "k = 6 × 3 = 18.",
+   "steps": "1. Substitute l = 6 and m = 3: k = 6 × 3.\n2. Multiply: k = 18.",
+   "stepsTl": "1. Ilagay ang l = 6 at m = 3: k = 6 × 3.\n2. I-multiply: k = 18.",
+   "whyB": "9 = 6 + 3: this adds instead of multiplying.",
+   "whyC": "3 = 6 − 3: this subtracts instead of multiplying.",
+   "whyD": "2 = 6 ÷ 3: this divides instead of multiplying.",
+   "explanationTl": "Ang * ay multiplication, kaya k = 6 × 3 = 18."
+  }
+ },
+ {
+  "id": 125490034,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced bare whys with specific mistakes, added explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "0.04 is 4/100: the decimal point moved two places instead of one.",
+   "whyC": "4.0 is 4 ÷ 1: the denominator 10 was ignored.",
+   "whyD": "0.5 is 5/10 (one half), not 4/10.",
+   "explanationTl": "Ang 4/10 ay 4 ÷ 10 = 0.4 (isang decimal place kasi 10 ang denominator)."
+  }
+ },
+ {
+  "id": 803120193,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps, hint, whys, Tl fields; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "0.9 is nine tenths, so 0.9 = 9/10.",
+   "steps": "1. One digit after the point means tenths.\n2. 0.9 = 9/10.",
+   "stepsTl": "1. Isang digit pagkatapos ng decimal point = tenths.\n2. 0.9 = 9/10.",
+   "hint": "Read the decimal aloud using place value.",
+   "hintTl": "Basahin ang decimal gamit ang place value.",
+   "whyB": "1/10 = 0.1, which is the part missing from 1, not 0.9.",
+   "whyC": "8/10 = 0.8, one tenth too small.",
+   "whyD": "10/9 is the reciprocal of 9/10 and is greater than 1.",
+   "explanationTl": "Ang 0.9 ay nine tenths, kaya 9/10."
+  }
+ },
+ {
+  "id": 1075598058,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps, hint, whys, Tl fields; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "2 ÷ 3 = 0.666..., with the 6 repeating forever.",
+   "steps": "1. Divide 2 by 3: 20 ÷ 3 = 6 remainder 2.\n2. The remainder is always 2, so the 6 repeats: 0.666...",
+   "stepsTl": "1. Hatiin ang 2 sa 3: 20 ÷ 3 = 6, remainder 2.\n2. Paulit-ulit ang remainder na 2, kaya paulit-ulit din ang 6: 0.666...",
+   "hint": "A fraction bar means “divided by”.",
+   "hintTl": "Ang fraction bar ay “divided by”.",
+   "whyB": "0.5 is 1/2; 2/3 is more than half.",
+   "whyC": "0.75 is 3/4, which is larger than 2/3.",
+   "whyD": "0.25 is 1/4, far smaller than 2/3.",
+   "explanationTl": "Ang 2 ÷ 3 ay 0.666..., paulit-ulit ang 6."
+  }
+ },
+ {
+  "id": 1707738848,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced value-only whys with the actual mistakes, improved Tl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "1/5 = 2/10, and 2/10 − 1/10 = 1/10.",
+   "steps": "1. Common denominator of 5 and 10 is 10.\n2. Rewrite 1/5 as 2/10.\n3. Subtract the tops: 2/10 − 1/10 = 1/10.",
+   "stepsTl": "1. Ang common denominator ng 5 at 10 ay 10.\n2. Gawing 2/10 ang 1/5.\n3. I-subtract ang numerators: 2/10 − 1/10 = 1/10.",
+   "whyB": "3/10 adds the fractions (2/10 + 1/10) instead of subtracting.",
+   "whyC": "1/5 is just the first fraction; nothing was subtracted.",
+   "whyD": "2/5 doubles 1/5 instead of subtracting 1/10.",
+   "hintTl": "Gawing pareho muna ang denominator, tapos i-subtract ang numerators.",
+   "explanationTl": "Ang 1/5 ay 2/10, kaya 2/10 − 1/10 = 1/10."
+  }
+ },
+ {
+  "id": 1977283872,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Distractor \"3/3\" matched no real mistake; replaced C/D with 3/9 and 3/18 (real fraction-adding mistakes) and fixed whys.",
+  "fields": {
+   "difficulty": 1,
+   "optionC": "3/9",
+   "optionD": "3/18",
+   "whyB": "1/2 = 3/6 comes from subtracting (4/6 − 1/6) instead of adding.",
+   "whyC": "3/9 adds the numerators AND the denominators; only the numerators are added once the denominators match.",
+   "whyD": "3/18 adds the tops but multiplies the bottoms (3 × 6) instead of rewriting 2/3 as 4/6.",
+   "hintTl": "Gawing pareho muna ang denominator, tapos i-add ang numerators.",
+   "explanationTl": "Ang 2/3 ay 4/6, kaya 4/6 + 1/6 = 5/6."
+  }
+ },
+ {
+  "id": 214482552,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia (\"sides of a pentagon\") rewritten into a polygon interior-angle problem.",
+  "fields": {
+   "difficulty": 2,
+   "text": "What is the sum of the interior angles of a pentagon?",
+   "optionA": "540°",
+   "optionB": "360°",
+   "optionC": "720°",
+   "optionD": "900°",
+   "correctAnswer": "A",
+   "explanation": "Sum of interior angles = (n − 2) × 180°. A pentagon has 5 sides, so (5 − 2) × 180° = 540°.",
+   "steps": "1. A pentagon has n = 5 sides.\n2. Sum = (n − 2) × 180°.\n3. (5 − 2) × 180° = 3 × 180° = 540°.",
+   "stepsTl": "1. Ang pentagon ay may n = 5 sides.\n2. Sum = (n − 2) × 180°.\n3. (5 − 2) × 180° = 3 × 180° = 540°.",
+   "hint": "Split the polygon into triangles from one corner; each triangle has 180°.",
+   "hintTl": "Hatiin ang polygon sa triangles mula sa isang corner; bawat triangle ay 180°.",
+   "whyB": "360° is the sum for a quadrilateral (4 sides).",
+   "whyC": "720° is the sum for a hexagon (6 sides).",
+   "whyD": "900° uses n × 180° instead of (n − 2) × 180°.",
+   "explanationTl": "Gamitin ang (n − 2) × 180°. Sa pentagon, n = 5, kaya 3 × 180° = 540°."
+  }
+ },
+ {
+  "id": 1361543959,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Explanation lost × signs (\"23.147 = 43.96\"); fixed, added units, steps, whys, Tl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "text": "What is the circumference of a circle with radius 7 cm? (Use π = 3.14.)",
+   "optionA": "43.96 cm",
+   "optionB": "44 cm",
+   "optionC": "21.98 cm",
+   "optionD": "49 cm",
+   "explanation": "C = 2πr = 2 × 3.14 × 7 = 43.96 cm.",
+   "steps": "1. C = 2 × π × r.\n2. 2 × 7 = 14.\n3. 14 × 3.14 = 43.96 cm.",
+   "stepsTl": "1. C = 2 × π × r.\n2. 2 × 7 = 14.\n3. 14 × 3.14 = 43.96 cm.",
+   "hint": "Circumference = 2 × π × radius.",
+   "hintTl": "Circumference = 2 × π × radius.",
+   "whyB": "44 cm uses π = 22/7, but the problem says to use 3.14.",
+   "whyC": "21.98 cm is π × r; the 2 was left out.",
+   "whyD": "49 is r × r = 7², not a circumference.",
+   "explanationTl": "C = 2πr = 2 × 3.14 × 7 = 43.96 cm."
+  }
+ },
+ {
+  "id": 2014274984,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia (\"degrees in a right angle\") rewritten into a complementary-angle problem.",
+  "fields": {
+   "difficulty": 1,
+   "text": "Two angles are complementary. If one angle measures 35°, what is the measure of the other angle?",
+   "optionA": "55°",
+   "optionB": "145°",
+   "optionC": "325°",
+   "optionD": "45°",
+   "correctAnswer": "A",
+   "explanation": "Complementary angles add up to 90°, so the other angle is 90° − 35° = 55°.",
+   "steps": "1. Complementary angles add up to 90°.\n2. Other angle = 90° − 35° = 55°.",
+   "stepsTl": "1. Ang complementary angles ay nag-a-add up sa 90°.\n2. Ang isa pa = 90° − 35° = 55°.",
+   "hint": "Complementary angles form a right angle together.",
+   "hintTl": "Pag pinagsama ang complementary angles, right angle ang nabubuo.",
+   "whyB": "145° = 180° − 35° is the supplement, not the complement.",
+   "whyC": "325° = 360° − 35° uses a full turn instead of 90°.",
+   "whyD": "45° is half of a right angle; it ignores the given 35°.",
+   "explanationTl": "Ang complementary angles ay 90° ang total, kaya 90° − 35° = 55°."
+  }
+ },
+ {
+  "id": 319950636,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Ang 10% ng ₱10,000 ay ₱1,000, kaya ₱10,000 − ₱1,000 = ₱9,000."
+  }
+ },
+ {
+  "id": 802962433,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced odd whys (55.5556%) with specific mistakes, added explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "50% = 0.5, and 0.5 × 90 = 45.",
+   "whyB": "50 just repeats the percent number; 50% of 90 is half of 90.",
+   "whyC": "40 is half of 80, not half of 90.",
+   "whyD": "55 is half of 110, not half of 90.",
+   "explanationTl": "Ang 50% ay kalahati, kaya kalahati ng 90 = 45."
+  }
+ },
+ {
+  "id": 1200805775,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "70% = 0.7, and 0.7 × 100 = 70.",
+   "explanationTl": "Ang 70% ng 100 ay 0.7 × 100 = 70."
+  }
+ },
+ {
+  "id": 594870162,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added numbered steps, whys, explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Speed = distance ÷ time = 240 km ÷ 4 h = 60 km/h.",
+   "steps": "1. Speed = distance ÷ time.\n2. 240 km ÷ 4 h = 60 km/h.",
+   "stepsTl": "1. Speed = distance ÷ time.\n2. 240 km ÷ 4 h = 60 km/h.",
+   "whyB": "50 km/h would cover only 200 km in 4 hours.",
+   "whyC": "70 km/h would cover 280 km in 4 hours.",
+   "whyD": "40 km/h would cover only 160 km in 4 hours.",
+   "hintTl": "Speed = distance ÷ time.",
+   "explanationTl": "Hatiin ang layo sa oras: 240 ÷ 4 = 60 km/h."
+  }
+ },
+ {
+  "id": 979404327,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 594870162 (same 60 km/h, same options); rewritten with mixed time units.",
+  "fields": {
+   "difficulty": 1,
+   "text": "A jeepney travels 45 km in 1 hour and 30 minutes. What is its average speed in km/h?",
+   "optionA": "30",
+   "optionB": "45",
+   "optionC": "90",
+   "optionD": "67.5",
+   "correctAnswer": "A",
+   "explanation": "1 hour 30 minutes = 1.5 hours, so speed = 45 km ÷ 1.5 h = 30 km/h.",
+   "steps": "1. Change the time to hours: 30 minutes = 0.5 h, so the time is 1.5 h.\n2. Speed = distance ÷ time = 45 ÷ 1.5.\n3. 45 ÷ 1.5 = 30 km/h.",
+   "stepsTl": "1. Gawing hours ang oras: 30 minutes = 0.5 h, kaya 1.5 h lahat.\n2. Speed = distance ÷ time = 45 ÷ 1.5.\n3. 45 ÷ 1.5 = 30 km/h.",
+   "hint": "Convert the minutes to hours before dividing.",
+   "hintTl": "I-convert muna sa hours ang minutes bago mag-divide.",
+   "whyB": "45 km/h ignores the extra 30 minutes (uses 1 hour only).",
+   "whyC": "90 km/h divides by 0.5 h, using only the 30 minutes.",
+   "whyD": "67.5 multiplies 45 × 1.5 instead of dividing.",
+   "explanationTl": "Ang 1 hour 30 minutes ay 1.5 hours, kaya 45 ÷ 1.5 = 30 km/h."
+  }
+ },
+ {
+  "id": 242390811,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added whys, explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Differences: 17 − 10 = 7, 24 − 17 = 7, 31 − 24 = 7.\n2. Next: 31 + 7 = 38.",
+   "stepsTl": "1. Pare-pareho ang dagdag: +7 bawat hakbang.\n2. Kaya ang susunod ay 31 + 7 = 38.",
+   "whyB": "35 adds only 4 to 31.",
+   "whyC": "40 adds 9 to 31; the pattern adds 7.",
+   "whyD": "33 adds only 2 to 31.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, subukan ang ratio o ang pagitan ng mga pagitan.",
+   "explanationTl": "Dagdag 7 bawat hakbang: 31 + 7 = 38."
+  }
+ },
+ {
+  "id": 529375607,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; explanation reworded, added whys, explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The gaps grow by 1 (+2, +3, +4, +5), so the next gap is +6: 15 + 6 = 21.",
+   "steps": "1. Gaps: 2, 3, 4, 5. They grow by 1 each time.\n2. Next gap: 6.\n3. Next: 15 + 6 = 21.",
+   "stepsTl": "1. Pagitan: 2, 3, 4, 5. Lumalaki ng 1.\n2. Ang susunod na pagitan ay 6.\n3. 15 + 6 = 21.",
+   "whyB": "20 repeats the last gap (+5) instead of growing it to +6.",
+   "whyC": "18 adds only 3.",
+   "whyD": "25 adds 10, skipping the +6 step.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, subukan ang ratio o ang pagitan ng mga pagitan.",
+   "explanationTl": "Lumalaki ng 1 ang pagitan (+2, +3, +4, +5), kaya +6 na: 15 + 6 = 21."
+  }
+ },
+ {
+  "id": 615371833,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Explanation lost the × sign (\"82 = 16\"); fixed, added whys/Tl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Each term is doubled: 8 × 2 = 16.",
+   "steps": "1. Ratios: 2 ÷ 1 = 2, 4 ÷ 2 = 2, 8 ÷ 4 = 2.\n2. Next: 8 × 2 = 16.",
+   "stepsTl": "1. Bawat term ay i-multiply sa 2.\n2. Kaya ang susunod ay 8 × 2 = 16.",
+   "whyB": "12 adds the last gap (+4) instead of doubling.",
+   "whyC": "10 adds only 2.",
+   "whyD": "14 adds 6, a pattern the series doesn't follow.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, subukan ang ratio o ang pagitan ng mga pagitan.",
+   "explanationTl": "Dino-double ang bawat term: 8 × 2 = 16."
+  }
+ },
+ {
+  "id": 731738207,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps, hint, whys, Tl fields; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Each term is the sum of the two before it: 5 + 8 = 13.",
+   "steps": "1. 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.\n2. Each term = sum of the two before it.\n3. Next: 5 + 8 = 13.",
+   "stepsTl": "1. 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.\n2. Bawat term = sum ng dalawang nauna.\n3. Susunod: 5 + 8 = 13.",
+   "hint": "Compare each term with the two terms just before it.",
+   "hintTl": "Ikumpara ang bawat term sa dalawang term bago nito.",
+   "whyA": "10 adds 2 to 8; the gaps are not constant.",
+   "whyB": "11 repeats the last gap (+3).",
+   "whyC": "12 adds 4; the rule adds the previous two terms.",
+   "explanationTl": "Bawat term ay sum ng dalawang nauna: 5 + 8 = 13."
+  }
+ },
+ {
+  "id": 739563139,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate of 635494380 (5, 10, 20, 40); rewritten to a x5 series.",
+  "fields": {
+   "text": "What is the next number in the sequence: 1, 5, 25, 125, ?",
+   "optionA": "625",
+   "optionB": "250",
+   "optionC": "500",
+   "optionD": "375",
+   "correctAnswer": "A",
+   "difficulty": 1,
+   "explanation": "Each term is multiplied by 5: 125 × 5 = 625.",
+   "steps": "1. Ratios: 5 ÷ 1 = 5, 25 ÷ 5 = 5, 125 ÷ 25 = 5.\n2. Next: 125 × 5 = 625.",
+   "hint": "The gaps grow fast. Try dividing each term by the one before it.",
+   "whyB": "250 doubles 125 instead of multiplying by 5.",
+   "whyC": "500 multiplies by 4 instead of 5.",
+   "whyD": "375 multiplies by 3 instead of 5.",
+   "explanationTl": "Bawat term ay mina-multiply sa 5: 125 × 5 = 625.",
+   "stepsTl": "1. I-divide ang bawat term sa nauna: 5 ÷ 1 = 5, 25 ÷ 5 = 5, 125 ÷ 25 = 5.\n2. Kaya ang susunod ay 125 × 5 = 625.",
+   "hintTl": "Mabilis lumaki ang mga numero. Subukang i-divide ang bawat term sa nauna."
+  }
+ },
+ {
+  "id": 1025929619,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added whys, explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "8 adds only 1; the series adds 2.",
+   "whyC": "10 adds 3; the series adds 2.",
+   "whyD": "6 goes backward; the series is increasing.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, subukan ang ratio o ang pagitan ng mga pagitan.",
+   "explanationTl": "Odd numbers ito, dagdag 2 bawat hakbang: 7 + 2 = 9."
+  }
+ },
+ {
+  "id": 1400138561,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; fixed awkward stepsTl (\"dagdag (-5)\"), added whys, explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "stepsTl": "1. Bawas 5 bawat hakbang.\n2. Kaya ang susunod ay 35 − 5 = 30.",
+   "whyB": "25 subtracts 10 instead of 5.",
+   "whyC": "35 repeats the last term; nothing was subtracted.",
+   "whyD": "40 goes back up; the series is decreasing.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, subukan ang ratio o ang pagitan ng mga pagitan.",
+   "explanationTl": "Bawas 5 bawat hakbang: 35 − 5 = 30."
+  }
+ },
+ {
+  "id": 1528202890,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps, hint, whys, Tl fields; difficulty 2.",
+  "fields": {
+   "difficulty": 2,
+   "explanation": "The terms are cubes: 1³, 2³, 3³, 4³, 5³. Next is 6³ = 216.",
+   "steps": "1. 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³, 125 = 5³.\n2. Next: 6³ = 6 × 6 × 6 = 216.",
+   "stepsTl": "1. 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³, 125 = 5³.\n2. Susunod: 6³ = 6 × 6 × 6 = 216.",
+   "hint": "Look for a power pattern: what number times itself (and again) gives each term?",
+   "hintTl": "Hanapin ang power pattern: anong numero ang i-multiply sa sarili niya (ulit pa) para makuha ang bawat term?",
+   "whyB": "150 adds only 25; the gaps keep growing (7, 19, 37, 61, then 91).",
+   "whyC": "100 is 10², a square, and smaller than 125.",
+   "whyD": "175 adds 50; the next gap is 91.",
+   "explanationTl": "Cubes ito: 1³, 2³, 3³, 4³, 5³. Kaya 6³ = 216."
+  }
+ },
+ {
+  "id": 1638286610,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added whys, explanationTl; difficulty 2.",
+  "fields": {
+   "difficulty": 2,
+   "explanation": "The gaps are consecutive odd numbers (+3, +5, +7, +9), so the next gap is +11: 26 + 11 = 37. (Each term is n² + 1.)",
+   "whyB": "35 adds 9 again instead of growing the gap to 11.",
+   "whyC": "40 adds 14; the gaps grow by 2, so the next is 11.",
+   "whyD": "30 adds only 4.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, subukan ang ratio o ang pagitan ng mga pagitan.",
+   "explanationTl": "Lumalaki ng 2 ang pagitan (3, 5, 7, 9), kaya 11 na: 26 + 11 = 37."
+  }
+ },
+ {
+  "id": 1714130055,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate of 731738207 (Fibonacci, same answer 13); rewritten as an alternating-operation series.",
+  "fields": {
+   "difficulty": 2,
+   "text": "What is the next number in the sequence: 3, 6, 5, 10, 9, 18, ?",
+   "optionA": "17",
+   "optionB": "36",
+   "optionC": "19",
+   "optionD": "27",
+   "correctAnswer": "A",
+   "explanation": "The rule alternates: ×2, then −1. After 18 comes −1, so 18 − 1 = 17.",
+   "steps": "1. 3 × 2 = 6, 6 − 1 = 5, 5 × 2 = 10, 10 − 1 = 9, 9 × 2 = 18.\n2. The pattern alternates ×2, −1.\n3. Next step is −1: 18 − 1 = 17.",
+   "stepsTl": "1. 3 × 2 = 6, 6 − 1 = 5, 5 × 2 = 10, 10 − 1 = 9, 9 × 2 = 18.\n2. Salitan ang pattern: ×2, tapos −1.\n3. −1 ang susunod: 18 − 1 = 17.",
+   "hint": "The rule may switch between two operations; check each step separately.",
+   "hintTl": "Baka salitan ang dalawang operation; i-check ang bawat hakbang.",
+   "whyB": "36 doubles again; after ×2 the next step is −1.",
+   "whyC": "19 adds 1 instead of subtracting 1.",
+   "whyD": "27 adds 9 (the previous term) instead of following the ×2, −1 pattern.",
+   "explanationTl": "Salitan ang ×2 at −1. Pagkatapos ng 18, −1 na: 17."
+  }
+ },
+ {
+  "id": 603584656,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added whys, explanationTl, numbered steps; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Add them: 2 + 4 + 6 + 8 = 20.\n2. Divide by how many (4): 20 ÷ 4 = 5.",
+   "stepsTl": "1. I-add lahat: 2 + 4 + 6 + 8 = 20.\n2. Hatiin sa bilang nila (4): 20 ÷ 4 = 5.",
+   "whyB": "6 is one of the values, not the average; the total 20 ÷ 4 is 5.",
+   "whyC": "4 divides 20 by 5 instead of by the 4 values.",
+   "whyD": "7 averages only the two biggest values (6 and 8), not all four.",
+   "explanationTl": "Total ay 20, apat ang numbers, kaya 20 ÷ 4 = 5."
+  }
+ },
+ {
+  "id": 1883912155,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia (\"faces on a cube\") rewritten into a surface-area word problem with units.",
+  "fields": {
+   "difficulty": 2,
+   "text": "A cube-shaped gift box has edges 10 cm long. How many square centimeters of paper are needed to cover all its faces with no overlap?",
+   "optionA": "600 cm²",
+   "optionB": "1,000 cm²",
+   "optionC": "400 cm²",
+   "optionD": "100 cm²",
+   "correctAnswer": "A",
+   "explanation": "A cube has 6 square faces, each 10 cm × 10 cm = 100 cm², so the surface area is 6 × 100 = 600 cm².",
+   "steps": "1. One face: 10 × 10 = 100 cm².\n2. A cube has 6 faces.\n3. Total: 6 × 100 = 600 cm².",
+   "stepsTl": "1. Isang face: 10 × 10 = 100 cm².\n2. May 6 faces ang cube.\n3. Total: 6 × 100 = 600 cm².",
+   "hint": "Find the area of one face, then count the faces.",
+   "hintTl": "Hanapin ang area ng isang face, tapos bilangin ang faces.",
+   "whyB": "1,000 cm³ is the volume (10 × 10 × 10), not the paper needed.",
+   "whyC": "400 cm² covers only 4 faces (the sides), leaving out the top and bottom.",
+   "whyD": "100 cm² is just one face.",
+   "explanationTl": "May 6 faces ang cube, bawat isa 10 × 10 = 100 cm², kaya 6 × 100 = 600 cm²."
+  }
+ },
+ {
+  "id": 948635286,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; steps said \"worker/job\" for printers/pages and hintTl talked about people; fixed, added whys/Tl.",
+  "fields": {
+   "difficulty": 2,
+   "explanation": "Each printer prints 1 page in 2 minutes. With 4 printers working at once, 4 pages also take 2 minutes.",
+   "steps": "1. 2 printers print 2 pages in 2 minutes, so 1 printer prints 1 page in 2 minutes.\n2. Each of the 4 printers prints 1 page at the same time.\n3. Time = 2 minutes.",
+   "stepsTl": "1. 2 printers, 2 pages, 2 minutes: kaya 1 printer, 1 page, 2 minutes.\n2. Sabay-sabay ang 4 printers, tig-1 page bawat isa.\n3. Time = 2 minutes.",
+   "hint": "Find how much ONE printer does in 2 minutes first.",
+   "hintTl": "Alamin muna kung ilan ang kaya ng ISANG printer sa 2 minutes.",
+   "whyB": "4 minutes doubles the time for double the pages, forgetting the printers also doubled.",
+   "whyC": "1 minute halves the time for double the printers, forgetting the pages also doubled.",
+   "whyD": "3 minutes follows no rate rule; work and printers grew by the same factor, so time stays 2.",
+   "explanationTl": "Ang isang printer ay 1 page kada 2 minutes. Apat na printer, apat na pages, sabay-sabay, kaya 2 minutes pa rin."
+  }
+ }
+]

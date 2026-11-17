@@ -1,0 +1,182 @@
+[
+ {
+  "id": 290743702,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Complete the analogy: Book is to reading as fork is to:",
+  "optionA": "Drawing",
+  "optionB": "Eating",
+  "optionC": "Writing",
+  "optionD": "Cooking"
+ },
+ {
+  "id": 93969981,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'hostile' is:",
+  "optionA": "Friendly",
+  "optionB": "Aggressive",
+  "optionC": "Antagonistic",
+  "optionD": "Belligerent"
+ },
+ {
+  "id": 1648390157,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'venerable' is:",
+  "optionA": "Respected",
+  "optionB": "Disreputable",
+  "optionC": "Honorable",
+  "optionD": "Esteemed"
+ },
+ {
+  "id": 85500978,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Identify the error: 'The furnitures are new.'",
+  "optionA": "The",
+  "optionB": "furnitures",
+  "optionC": "are",
+  "optionD": "new"
+ },
+ {
+  "id": 903072945,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which sentence is in active voice?",
+  "optionA": "The book was read by the student.",
+  "optionB": "The student read the book.",
+  "optionC": "The book is being read by the student.",
+  "optionD": "The book has been read by the student."
+ },
+ {
+  "id": 2025743626,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Identify the error: 'The childrens are playing.'",
+  "optionA": "The",
+  "optionB": "childrens",
+  "optionC": "are",
+  "optionD": "playing"
+ },
+ {
+  "id": 510189778,
+  "category": "Verbal Ability",
+  "subtopic": "verb_ordering",
+  "text": "Rearrange the sentences: (1) He opened the door. (2) The alarm sounded. (3) He entered the room. (4) He saw the safe.",
+  "optionA": "1-3-2-4",
+  "optionB": "1-3-4-2",
+  "optionC": "3-1-2-4",
+  "optionD": "2-1-3-4"
+ },
+ {
+  "id": 524391834,
+  "category": "Verbal Ability",
+  "subtopic": "verb_ordering",
+  "text": "Rearrange: Is / the / sky / blue",
+  "optionA": "The blue is sky",
+  "optionB": "The sky is blue",
+  "optionC": "Blue is the sky",
+  "optionD": "Sky the is blue"
+ },
+ {
+  "id": 223388593,
+  "category": "Verbal Ability",
+  "subtopic": "verb_reading",
+  "text": "Implied in 'He is rich, but unhappy.' is:",
+  "optionA": "Richness brings happiness.",
+  "optionB": "Richness does not guarantee happiness.",
+  "optionC": "He is poor.",
+  "optionD": "No implication."
+ },
+ {
+  "id": 514134333,
+  "category": "Verbal Ability",
+  "subtopic": "verb_reading",
+  "text": "Implied in 'The team won, but they made many errors.' is:",
+  "optionA": "The win was easy.",
+  "optionB": "The win was despite errors.",
+  "optionC": "The team lost.",
+  "optionD": "No implication."
+ },
+ {
+  "id": 361889005,
+  "category": "Verbal Ability",
+  "subtopic": "verb_spelling",
+  "text": "Identify the misspelled word: 'The doctor will perscribe medication.'",
+  "optionA": "doctor",
+  "optionB": "will",
+  "optionC": "perscribe",
+  "optionD": "medication"
+ },
+ {
+  "id": 27637960,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The weather is inclement.\n\nIn this sentence, 'inclement' most nearly means:",
+  "optionA": "Pleasant",
+  "optionB": "Stormy",
+  "optionC": "Mild",
+  "optionD": "Calm"
+ },
+ {
+  "id": 105143504,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The plan is grandiose.\n\nIn this sentence, 'grandiose' most nearly means:",
+  "optionA": "Modest",
+  "optionB": "Impressive",
+  "optionC": "Simple",
+  "optionD": "Humble"
+ },
+ {
+  "id": 356158836,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The policy was draconian.\n\nIn this sentence, 'draconian' most nearly means:",
+  "optionA": "Lenient",
+  "optionB": "Harsh",
+  "optionC": "Fair",
+  "optionD": "Just"
+ },
+ {
+  "id": 713067393,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Choose the correct synonym for 'append.'",
+  "optionA": "Remove",
+  "optionB": "Add",
+  "optionC": "Ignore",
+  "optionD": "Divide"
+ },
+ {
+  "id": 1076284037,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "She is meticulous in her work.\n\nIn this sentence, 'meticulous' most nearly means:",
+  "optionA": "Careless",
+  "optionB": "Careful",
+  "optionC": "Hasty",
+  "optionD": "Sloppy"
+ },
+ {
+  "id": 1940339355,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The theory is tenable.\n\nIn this sentence, 'tenable' most nearly means:",
+  "optionA": "Indefensible",
+  "optionB": "Defensible",
+  "optionC": "Unsound",
+  "optionD": "Invalid"
+ },
+ {
+  "id": 2143986813,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The statement was ambiguous.\n\nIn this sentence, 'ambiguous' most nearly means:",
+  "optionA": "Clear",
+  "optionB": "Unclear",
+  "optionC": "Precise",
+  "optionD": "Explicit"
+ }
+]

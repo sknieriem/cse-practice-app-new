@@ -1,0 +1,274 @@
+[
+ {
+  "id": 290743702, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy tool-to-use analogy, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The relationship is tool to its use: a book is used for reading, and a fork is used for eating.",
+   "hint": "Ask yourself: what do you mainly use the object for?",
+   "whyA": "Drawing is done with a pencil or pen, not a fork.",
+   "whyC": "Writing pairs with a pen; it is the use of a different tool.",
+   "whyD": "A fork is used mainly at the table to eat; cooking is the job of a pan or ladle.",
+   "explanationTl": "Ang relationship ay tool at ang gamit nito: ang book ay ginagamit sa reading, at ang fork naman ay ginagamit sa eating.",
+   "hintTl": "Tanungin mo sarili mo: para saan mo talaga ginagamit ang bagay na 'yan?"
+  }
+ },
+ {
+  "id": 93969981, "blind": "A", "verdict": "minor edit",
+  "reason": "Key correct; easy item, difficulty set to 1; explanation polished, teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Hostile' means unfriendly or openly opposed, so its opposite is 'friendly'. Aggressive, antagonistic and belligerent are all synonyms of hostile.",
+   "hint": "Three of the options mean nearly the same thing as 'hostile'.",
+   "whyB": "'Aggressive' is a synonym of hostile, not an antonym.",
+   "whyC": "'Antagonistic' means opposed or unfriendly, the same as hostile.",
+   "whyD": "'Belligerent' means eager to fight, which is close to hostile.",
+   "explanationTl": "Ang 'hostile' ay unfriendly o kontra, kaya ang opposite niya ay 'friendly'. Yung aggressive, antagonistic at belligerent ay mga synonym ng hostile.",
+   "hintTl": "Tatlo sa options ay halos pareho ang ibig sabihin ng 'hostile'."
+  }
+ },
+ {
+  "id": 1648390157, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; other three are synonyms; teaching fields added.",
+  "fields": {
+   "explanation": "'Venerable' means deserving great respect because of age, wisdom or character, so its opposite is 'disreputable' (having a bad reputation).",
+   "hint": "Find the only option that means the person is NOT respected.",
+   "whyA": "'Respected' is a synonym of venerable, not an antonym.",
+   "whyC": "'Honorable' means worthy of respect, the same idea as venerable.",
+   "whyD": "'Esteemed' means highly regarded, again a synonym of venerable.",
+   "explanationTl": "Ang 'venerable' ay taong karapat-dapat igalang dahil sa edad, karunungan o ugali, kaya ang opposite ay 'disreputable', ibig sabihin masama ang reputasyon.",
+   "hintTl": "Hanapin mo yung nag-iisang option na ang ibig sabihin ay HINDI ginagalang."
+  }
+ },
+ {
+  "id": 85500978, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy item, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Furniture' is an uncountable noun, so it never takes -s. The correct sentence is 'The furniture is new.'",
+   "hint": "Some nouns cannot be counted and have no plural form.",
+   "whyA": "'The' is a correct article here.",
+   "whyC": "'Are' only looks wrong because of 'furnitures'; the noun is the real error, and fixing it changes the verb to 'is'.",
+   "whyD": "'New' is a correct adjective.",
+   "explanationTl": "Ang 'furniture' ay uncountable noun, kaya hindi siya nilalagyan ng -s. Ang tama ay 'The furniture is new.'",
+   "hintTl": "May mga noun na hindi binibilang at walang plural form."
+  }
+ },
+ {
+  "id": 903072945, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy item, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "In active voice the subject does the action: in 'The student read the book,' the student does the reading. The other three use a form of 'be' + past participle + 'by', which is passive voice.",
+   "hint": "Look for the sentence where the doer of the action is the subject.",
+   "whyA": "'was read by' is simple past passive; the book receives the action.",
+   "whyC": "'is being read by' is present progressive passive.",
+   "whyD": "'has been read by' is present perfect passive.",
+   "explanationTl": "Sa active voice, ang subject ang gumagawa ng action: sa 'The student read the book,' ang student ang nagbasa. Yung tatlo pa ay may 'be' + past participle + 'by', kaya passive voice sila.",
+   "hintTl": "Hanapin mo yung sentence kung saan ang gumagawa ng action ang mismong subject."
+  }
+ },
+ {
+  "id": 2025743626, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy item, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Children' is already the plural of 'child', so adding -s ('childrens') is wrong. The correct sentence is 'The children are playing.'",
+   "hint": "Some nouns form their plural without adding -s.",
+   "whyA": "'The' is a correct article.",
+   "whyC": "'Are' correctly agrees with the plural subject 'children'.",
+   "whyD": "'Playing' correctly completes the present progressive 'are playing'.",
+   "explanationTl": "Ang 'children' ay plural na ng 'child', kaya mali na dagdagan pa ng -s ('childrens'). Ang tama ay 'The children are playing.'",
+   "hintTl": "May mga noun na nagiging plural nang hindi nilalagyan ng -s."
+  }
+ },
+ {
+  "id": 510189778, "blind": "B", "verdict": "rewritten",
+  "reason": "Original had two defensible orders (alarm could sound before or after seeing the safe; key 1-3-2-4 vs 1-3-4-2); sentences now carry clear sequence cues.",
+  "fields": {
+   "text": "Arrange the sentences in logical order: (1) He opened the door. (2) The alarm sounded the moment he touched its dial. (3) He entered the room. (4) He saw a safe in the corner.",
+   "optionA": "1-3-4-2",
+   "optionB": "1-3-2-4",
+   "optionC": "3-1-4-2",
+   "optionD": "4-1-3-2",
+   "correctAnswer": "A",
+   "difficulty": 1,
+   "explanation": "He must open the door before entering, enter before he can see what is in the room, and see the safe before he can touch its dial. So the order is 1-3-4-2.",
+   "steps": "1. Opening the door (1) must come before entering the room (3).\n2. He can only see the safe (4) after he is inside the room.\n3. 'Its dial' in (2) refers to the safe, so (2) must come after (4).\n4. Order: 1-3-4-2.",
+   "hint": "Watch the pronoun 'its' in sentence 2: what does it refer to?",
+   "whyB": "Puts the alarm (touching the dial) before he has even seen the safe.",
+   "whyC": "Has him entering the room before opening the door.",
+   "whyD": "Has him seeing the safe before he opens the door and enters.",
+   "explanationTl": "Kailangan munang buksan ang pinto bago pumasok, pumasok muna bago makita ang laman ng kwarto, at makita muna ang safe bago mahawakan ang dial nito. Kaya ang order ay 1-3-4-2.",
+   "hintTl": "Pansinin mo yung pronoun na 'its' sa sentence 2: ano ang tinutukoy nito?",
+   "stepsTl": "1. Ang pagbukas ng pinto (1) ay dapat mauna sa pagpasok sa kwarto (3).\n2. Makikita lang niya ang safe (4) kapag nasa loob na siya.\n3. Ang 'its dial' sa (2) ay tumutukoy sa safe, kaya ang (2) ay pagkatapos ng (4).\n4. Order: 1-3-4-2."
+  }
+ },
+ {
+  "id": 524391834, "blind": "B", "verdict": "rewritten",
+  "reason": "Capital 'Is' pointed to the question 'Is the sky blue?' (not offered) and 'Blue is the sky' is a valid inverted sentence; new lowercase word set with exactly one standard sentence.",
+  "fields": {
+   "text": "Arrange the words to form a correct sentence: ripe / mangoes / are / the",
+   "optionA": "The ripe are mangoes.",
+   "optionB": "The mangoes are ripe.",
+   "optionC": "Mangoes the are ripe.",
+   "optionD": "The are mangoes ripe.",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "A basic English statement follows subject + verb + complement: 'The mangoes' (subject) + 'are' (verb) + 'ripe' (complement).",
+   "steps": "1. Find the subject: 'the mangoes' (article + noun).\n2. Find the verb: 'are'.\n3. The adjective 'ripe' describes the subject, so it comes after the linking verb.\n4. Sentence: The mangoes are ripe.",
+   "hint": "Start with the article and the noun it goes with, then the verb.",
+   "whyA": "Separates 'the' from its noun and makes 'ripe' the subject, which makes no sense.",
+   "whyC": "The article 'the' must come before the noun 'mangoes', not after it.",
+   "whyD": "Places the verb 'are' between the article and its noun.",
+   "explanationTl": "Ang basic na English statement ay subject + verb + complement: 'The mangoes' (subject) + 'are' (verb) + 'ripe' (complement).",
+   "hintTl": "Unahin mo ang article at ang noun na kasama niya, tapos ang verb.",
+   "stepsTl": "1. Hanapin ang subject: 'the mangoes' (article + noun).\n2. Hanapin ang verb: 'are'.\n3. Ang adjective na 'ripe' ay naglalarawan sa subject, kaya sa dulo siya, pagkatapos ng linking verb.\n4. Sentence: The mangoes are ripe."
+  }
+ },
+ {
+  "id": 223388593, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; stem reworded, 'Richness' fixed to 'Wealth', weak 'No implication.' replaced with a plausible over-reading distractor.",
+  "fields": {
+   "text": "What is implied by the sentence 'He is rich, but unhappy.'?",
+   "optionA": "Wealth always brings happiness.",
+   "optionB": "Wealth does not guarantee happiness.",
+   "optionC": "He is actually poor.",
+   "optionD": "His wealth is the cause of his unhappiness.",
+   "explanation": "'But' sets up a contrast: one would expect a rich person to be happy, yet he is not. This implies that wealth does not guarantee happiness.",
+   "hint": "Focus on what the word 'but' contrasts.",
+   "whyA": "The sentence shows the opposite: he is rich yet not happy.",
+   "whyC": "The sentence states plainly that he is rich.",
+   "whyD": "Over-reads the sentence; it says the two exist together, not that one causes the other.",
+   "explanationTl": "Ang 'but' ay nagpapakita ng contrast: inaasahan natin na masaya ang mayaman, pero hindi siya masaya. Kaya ang implied ay hindi guarantee ng wealth ang happiness.",
+   "hintTl": "Tingnan mo kung ano ang pinagkokontra ng salitang 'but'."
+  }
+ },
+ {
+  "id": 514134333, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; stem reworded, options made grammatical and 'No implication.' replaced with a plausible distractor.",
+  "fields": {
+   "text": "What is implied by the sentence 'The team won, but they made many errors.'?",
+   "optionA": "The win was easy.",
+   "optionB": "The team won in spite of its errors.",
+   "optionC": "The team lost the game.",
+   "optionD": "The team played its best game.",
+   "explanation": "'But' contrasts the win with the many errors, implying the team won in spite of its mistakes.",
+   "hint": "Ask what 'but' tells you about how the win and the errors relate.",
+   "whyA": "Many errors suggest the win was not easy or clean.",
+   "whyC": "The sentence states plainly that the team won.",
+   "whyD": "A game with many errors is not described as the team's best performance.",
+   "explanationTl": "Ang 'but' ay nagko-contrast sa panalo at sa maraming errors, kaya ang implied ay nanalo ang team kahit marami silang pagkakamali.",
+   "hintTl": "Isipin mo kung ano ang sinasabi ng 'but' tungkol sa panalo at sa mga error."
+  }
+ },
+ {
+  "id": 361889005, "blind": "C", "verdict": "minor edit",
+  "reason": "Key correct; explanation's spelling rule was muddled ('e after r'), rewritten; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The correct spelling is 'prescribe' (pre- + scribe). 'Perscribe' swaps the r and the e in the prefix.",
+   "hint": "Think of the prefix meaning 'before', as in 'prepare' and 'predict'.",
+   "whyA": "'Doctor' is spelled correctly.",
+   "whyB": "'Will' is spelled correctly.",
+   "whyD": "'Medication' is spelled correctly.",
+   "explanationTl": "Ang tamang spelling ay 'prescribe' (pre- + scribe). Sa 'perscribe', nagkapalit ang r at e sa prefix.",
+   "hintTl": "Isipin mo yung prefix na ibig sabihin ay 'before', gaya ng 'prepare' at 'predict'."
+  }
+ },
+ {
+  "id": 27637960, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; teaching fields added.",
+  "fields": {
+   "explanation": "'Inclement' weather is harsh: cold, wet or stormy. 'Stormy' is the closest meaning; the other options describe good weather.",
+   "hint": "If a typhoon signal is raised, the weather is described this way.",
+   "whyA": "'Pleasant' is the opposite of inclement.",
+   "whyC": "'Mild' describes gentle weather, the opposite of inclement.",
+   "whyD": "'Calm' describes quiet weather with no storm.",
+   "explanationTl": "Kapag 'inclement' ang weather, masama ito: malamig, maulan o mabagyo. Kaya 'stormy' ang pinakamalapit; yung ibang options ay para sa magandang panahon.",
+   "hintTl": "Kapag may typhoon signal, ganito ang tawag sa panahon."
+  }
+ },
+ {
+  "id": 105143504, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; option B sharpened from 'Impressive' to 'Overly ambitious' to match the word's pretentious sense.",
+  "fields": {
+   "optionB": "Overly ambitious",
+   "explanation": "'Grandiose' describes something meant to seem grand and impressive, often more ambitious than is realistic. 'Overly ambitious' is the closest meaning.",
+   "hint": "The word comes from 'grand'.",
+   "whyA": "'Modest' is the opposite of grandiose.",
+   "whyC": "'Simple' is the opposite of grandiose.",
+   "whyD": "'Humble' is the opposite of grandiose.",
+   "explanationTl": "Ang 'grandiose' ay para sa bagay na ginawang sobrang grand at impressive, kadalasan mas ambitious kaysa realistic. Kaya 'overly ambitious' ang pinakamalapit.",
+   "hintTl": "Galing ang salitang ito sa 'grand'."
+  }
+ },
+ {
+  "id": 356158836, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; teaching fields added.",
+  "fields": {
+   "explanation": "'Draconian' means excessively harsh or severe, named after Draco, an ancient Athenian lawmaker known for very strict laws.",
+   "hint": "Think of a rule with extremely heavy punishments even for small offenses.",
+   "whyA": "'Lenient' means mild or tolerant, the opposite of draconian.",
+   "whyC": "'Fair' means reasonable; draconian policies are excessive.",
+   "whyD": "'Just' means morally right; draconian stresses severity, not justice.",
+   "explanationTl": "Ang 'draconian' ay sobrang harsh o mahigpit. Galing ito kay Draco, isang sinaunang lawmaker sa Athens na kilala sa napakahigpit na batas.",
+   "hintTl": "Isipin mo yung patakaran na sobrang bigat ng parusa kahit maliit na kasalanan."
+  }
+ },
+ {
+  "id": 713067393, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy item, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "To 'append' is to add something at the end, as in appending a note to a letter. So 'add' is the synonym.",
+   "hint": "Think of the 'appendix' at the end of a book.",
+   "whyA": "'Remove' is the opposite of append.",
+   "whyC": "'Ignore' means to pay no attention; nothing is added.",
+   "whyD": "'Divide' means to split, not to attach.",
+   "explanationTl": "Ang 'append' ay magdagdag ng isang bagay sa dulo, gaya ng pag-append ng note sa isang sulat. Kaya 'add' ang synonym.",
+   "hintTl": "Isipin mo ang 'appendix' sa dulo ng libro."
+  }
+ },
+ {
+  "id": 1076284037, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy item, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Meticulous' means showing great attention to detail, so 'careful' is the closest meaning.",
+   "hint": "A meticulous worker checks every detail.",
+   "whyA": "'Careless' is the opposite of meticulous.",
+   "whyC": "'Hasty' means rushed, which works against attention to detail.",
+   "whyD": "'Sloppy' means messy and careless, the opposite of meticulous.",
+   "explanationTl": "Ang 'meticulous' ay sobrang maingat sa bawat detalye, kaya 'careful' ang pinakamalapit na meaning.",
+   "hintTl": "Ang meticulous na worker ay chine-check ang bawat detalye."
+  }
+ },
+ {
+  "id": 1940339355, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; teaching fields added.",
+  "fields": {
+   "explanation": "'Tenable' means able to be maintained or defended against objection, so 'defensible' is the closest meaning.",
+   "hint": "It comes from a Latin root meaning 'to hold', as in a position you can hold.",
+   "whyA": "'Indefensible' is the opposite of tenable.",
+   "whyC": "'Unsound' means weak or faulty, the opposite of tenable.",
+   "whyD": "'Invalid' means not well-founded, again the opposite of tenable.",
+   "explanationTl": "Ang 'tenable' ay kaya mong panindigan o ipagtanggol laban sa objection, kaya 'defensible' ang pinakamalapit.",
+   "hintTl": "Galing ito sa Latin root na ibig sabihin ay 'to hold', parang posisyon na kaya mong panghawakan."
+  }
+ },
+ {
+  "id": 2143986813, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy item, difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Ambiguous' means open to more than one interpretation, so the statement is 'unclear'.",
+   "hint": "If people read the statement and understand it in different ways, it is this.",
+   "whyA": "'Clear' is the opposite of ambiguous.",
+   "whyC": "'Precise' means exact, the opposite of ambiguous.",
+   "whyD": "'Explicit' means stated plainly, the opposite of ambiguous.",
+   "explanationTl": "Ang 'ambiguous' ay pwedeng magkaroon ng higit sa isang interpretation, kaya 'unclear' ang statement.",
+   "hintTl": "Kung iba-iba ang intindi ng mga tao sa isang statement, ganito ang tawag dito."
+  }
+ }
+]

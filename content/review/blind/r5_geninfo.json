@@ -1,0 +1,212 @@
+[
+ {
+  "id": 429142034,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who discovered America in 1492?",
+  "optionA": "Ferdinand Magellan",
+  "optionB": "Christopher Columbus",
+  "optionC": "Vasco da Gama",
+  "optionD": "Marco Polo"
+ },
+ {
+  "id": 513842938,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which planet is known as the Red Planet?",
+  "optionA": "Venus",
+  "optionB": "Mars",
+  "optionC": "Jupiter",
+  "optionD": "Mercury"
+ },
+ {
+  "id": 517677660,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which river flows through Egypt?",
+  "optionA": "Amazon",
+  "optionB": "Nile",
+  "optionC": "Mississippi",
+  "optionD": "Yangtze"
+ },
+ {
+  "id": 558872458,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical formula for water?",
+  "optionA": "CO2",
+  "optionB": "H2O",
+  "optionC": "O2",
+  "optionD": "N2"
+ },
+ {
+  "id": 717302546,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which ocean borders the eastern coast of the United States?",
+  "optionA": "Pacific Ocean",
+  "optionB": "Atlantic Ocean",
+  "optionC": "Indian Ocean",
+  "optionD": "Arctic Ocean"
+ },
+ {
+  "id": 975101370,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas is responsible for the greenhouse effect?",
+  "optionA": "Oxygen",
+  "optionB": "Nitrogen",
+  "optionC": "Carbon Dioxide",
+  "optionD": "Helium"
+ },
+ {
+  "id": 1048203394,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which planet has the most moons?",
+  "optionA": "Jupiter",
+  "optionB": "Saturn",
+  "optionC": "Uranus",
+  "optionD": "Neptune"
+ },
+ {
+  "id": 1304367326,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the capital city of Brazil?",
+  "optionA": "Rio de Janeiro",
+  "optionB": "Brasilia",
+  "optionC": "Sao Paulo",
+  "optionD": "Salvador"
+ },
+ {
+  "id": 1435999401,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for potassium?",
+  "optionA": "P",
+  "optionB": "K",
+  "optionC": "Po",
+  "optionD": "Pt"
+ },
+ {
+  "id": 1447469303,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which scientist proposed the heliocentric model of the solar system?",
+  "optionA": "Ptolemy",
+  "optionB": "Galileo Galilei",
+  "optionC": "Nicolaus Copernicus",
+  "optionD": "Johannes Kepler"
+ },
+ {
+  "id": 1671404955,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for hydrogen?",
+  "optionA": "H",
+  "optionB": "Hy",
+  "optionC": "Hg",
+  "optionD": "He"
+ },
+ {
+  "id": 1743030021,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who wrote 'Pride and Prejudice'?",
+  "optionA": "Charlotte Bronte",
+  "optionB": "Jane Austen",
+  "optionC": "Emily Dickinson",
+  "optionD": "Virginia Woolf"
+ },
+ {
+  "id": 1878722021,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is known for the Colosseum?",
+  "optionA": "Greece",
+  "optionB": "Italy",
+  "optionC": "Turkey",
+  "optionD": "Egypt"
+ },
+ {
+  "id": 2026268569,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is known as the 'Land of a Thousand Lakes'?",
+  "optionA": "Sweden",
+  "optionB": "Finland",
+  "optionC": "Norway",
+  "optionD": "Canada"
+ },
+ {
+  "id": 2032403342,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the currency of Canada?",
+  "optionA": "Dollar",
+  "optionB": "Pound",
+  "optionC": "Euro",
+  "optionD": "Franc"
+ },
+ {
+  "id": 2102303779,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for silver?",
+  "optionA": "Ag",
+  "optionB": "Au",
+  "optionC": "Si",
+  "optionD": "Sr"
+ },
+ {
+  "id": 442602100,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national costume of the Philippines for women?",
+  "optionA": "Kimono",
+  "optionB": "Baro’t Saya",
+  "optionC": "Ao Dai",
+  "optionD": "Cheongsam"
+ },
+ {
+  "id": 671251794,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national bird of the United States?",
+  "optionA": "Bald Eagle",
+  "optionB": "Red Cardinal",
+  "optionC": "Blue Jay",
+  "optionD": "Turkey"
+ },
+ {
+  "id": 1256408167,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Which Philippine hero is known as the 'Great Plebeian'?",
+  "optionA": "Jose Rizal",
+  "optionB": "Andres Bonifacio",
+  "optionC": "Emilio Aguinaldo",
+  "optionD": "Apolinario Mabini"
+ },
+ {
+  "id": 1667203475,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national tree of the Philippines?",
+  "optionA": "Narra",
+  "optionB": "Coconut",
+  "optionC": "Mango",
+  "optionD": "Acacia"
+ },
+ {
+  "id": 2089982896,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "The Philippine flag has colors:",
+  "optionA": "Blue, Red, White, Yellow",
+  "optionB": "Green, White, Red",
+  "optionC": "Blue, White, Red",
+  "optionD": "Red, White, Blue"
+ }
+]

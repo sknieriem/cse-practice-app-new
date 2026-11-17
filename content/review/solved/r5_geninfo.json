@@ -1,0 +1,23 @@
+[
+{"id":429142034,"answer":"B","confidence":"sure","ambiguous":false,"note":"Columbus; 'discovered' wording is loose (people already lived there)"},
+{"id":513842938,"answer":"B","confidence":"sure","ambiguous":false,"note":"Mars"},
+{"id":517677660,"answer":"B","confidence":"sure","ambiguous":false,"note":"Nile"},
+{"id":558872458,"answer":"B","confidence":"sure","ambiguous":false,"note":"H2O"},
+{"id":717302546,"answer":"B","confidence":"sure","ambiguous":false,"note":"Atlantic"},
+{"id":975101370,"answer":"C","confidence":"sure","ambiguous":false,"note":"CO2; stem 'the gas responsible' overstates (water vapor, methane also)"},
+{"id":1048203394,"answer":"B","confidence":"unsure","ambiguous":true,"note":"time-sensitive: moon counts keep changing (Saturn leads now, Jupiter led before)"},
+{"id":1304367326,"answer":"B","confidence":"sure","ambiguous":false,"note":"Brasilia"},
+{"id":1435999401,"answer":"B","confidence":"sure","ambiguous":false,"note":"K, kalium"},
+{"id":1447469303,"answer":"C","confidence":"sure","ambiguous":false,"note":"Copernicus"},
+{"id":1671404955,"answer":"A","confidence":"sure","ambiguous":false,"note":"H"},
+{"id":1743030021,"answer":"B","confidence":"sure","ambiguous":false,"note":"Jane Austen"},
+{"id":1878722021,"answer":"B","confidence":"sure","ambiguous":false,"note":"Italy (Rome)"},
+{"id":2026268569,"answer":"B","confidence":"sure","ambiguous":false,"note":"Finland"},
+{"id":2032403342,"answer":"A","confidence":"sure","ambiguous":false,"note":"Canadian dollar"},
+{"id":2102303779,"answer":"A","confidence":"sure","ambiguous":false,"note":"Ag, argentum"},
+{"id":442602100,"answer":"B","confidence":"sure","ambiguous":false,"note":"Baro't saya; not set by law, traditional"},
+{"id":671251794,"answer":"A","confidence":"sure","ambiguous":false,"note":"Bald eagle; off-subtopic for gi_ph"},
+{"id":1256408167,"answer":"B","confidence":"sure","ambiguous":false,"note":"Bonifacio"},
+{"id":1667203475,"answer":"A","confidence":"sure","ambiguous":false,"note":"Narra"},
+{"id":2089982896,"answer":"A","confidence":"sure","ambiguous":false,"note":"C and D are the same color set reordered (near-duplicates)"}
+]
