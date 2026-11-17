@@ -91,4 +91,33 @@ interface QuestionDao {
 
     @Insert
     suspend fun insertCategoryResults(results: List<SessionCategoryResult>)
+
+    @Query("SELECT MAX(score) FROM practice_sessions WHERE totalQuestions >= 10")
+    suspend fun bestScore(): Int?
+
+    @Query("SELECT COALESCE(SUM(timeTaken), 0) FROM practice_sessions WHERE date >= :fromMillis")
+    suspend fun timeSince(fromMillis: Long): Long
+
+    // ---- Readiness history (phase-2 sync shape) ----
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun upsertSnapshot(s: ReadinessSnapshot)
+
+    @Query("SELECT * FROM readiness_snapshots ORDER BY day ASC")
+    fun snapshots(): Flow<List<ReadinessSnapshot>>
+
+    @Query("SELECT * FROM readiness_snapshots WHERE day = :day")
+    suspend fun snapshotOn(day: Long): ReadinessSnapshot?
+
+    @Query("SELECT * FROM readiness_snapshots WHERE day <= :day ORDER BY day DESC LIMIT 1")
+    suspend fun snapshotOnOrBefore(day: Long): ReadinessSnapshot?
+
+    @Query("DELETE FROM readiness_snapshots")
+    suspend fun clearSnapshots()
+
+    // ---- Real exam results ----
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertOutcome(o: ExamOutcome)
+
+    @Query("SELECT * FROM exam_outcomes ORDER BY reportedAt DESC")
+    fun outcomes(): Flow<List<ExamOutcome>>
 }

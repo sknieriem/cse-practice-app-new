@@ -48,7 +48,9 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import com.pjcinc.csepractice.domain.Encourage
 import com.pjcinc.csepractice.domain.Game
+import com.pjcinc.csepractice.ui.components.ReadinessMeter
 import com.pjcinc.csepractice.domain.Planner
 import com.pjcinc.csepractice.domain.QuizMode
 import com.pjcinc.csepractice.ui.components.ActionCard
@@ -74,6 +76,8 @@ fun HomeScreen(vm: AppViewModel) {
     val saved by vm.savedQuiz.collectAsState()
     val progress by vm.topicProgress.collectAsState()
     val busy by vm.busy.collectAsState()
+    val readiness by vm.readiness.collectAsState()
+    val weeklyGain by vm.weeklyGain.collectAsState()
     val today = LocalDate.now().toEpochDay()
     val streak = Game.liveStreak(user, today)
     val level = Game.progress(user.xp)
@@ -123,11 +127,56 @@ fun HomeScreen(vm: AppViewModel) {
                     recommended = unseen?.let { u -> if (user.examDay > today) Planner.recommendedPerDay(u, user.examDay - today) else null },
                     onSetDate = { vm.selectTab(Tab.SETTINGS) }
                 )
+                Spacer(Modifier.height(14.dp))
+                // ---- readiness vs the 80 passing rating ----
+                val lang = user.language
+                if (readiness.shown) {
+                    Text(
+                        Encourage.readinessLine(lang, readiness) { subjectStyle(it).short },
+                        color = Color.White, style = MaterialTheme.typography.titleSmall
+                    )
+                    Spacer(Modifier.height(6.dp))
+                    ReadinessMeter(
+                        readiness.overall, track = Color.White.copy(alpha = 0.2f), fill = Sun,
+                        passFill = Color(0xFF7BE3A6), markerColor = Color.White, labelColor = Color.White.copy(alpha = 0.8f)
+                    )
+                    weeklyGain?.takeIf { it > 0 }?.let {
+                        Text(
+                            Encourage.t(lang, "📈 +$it points since last week", "📈 +$it points mula last week"),
+                            color = Color(0xFF7BE3A6), style = MaterialTheme.typography.labelLarge
+                        )
+                    }
+                } else {
+                    val left = Planner.MIN_ANSWERS_FOR_READINESS - readiness.answered
+                    Text(
+                        Encourage.t(lang,
+                            "Answer $left more question${if (left == 1) "" else "s"} to see your estimated score vs. the ${Planner.PASS_MARK}% passing rating.",
+                            "Sagutin pa ang $left tanong para makita ang estimated score mo kumpara sa ${Planner.PASS_MARK}% na pasado."),
+                        color = Color.White.copy(alpha = 0.85f), style = MaterialTheme.typography.bodySmall
+                    )
+                }
             }
         }
 
         Column(Modifier.padding(horizontal = 16.dp)) {
             Spacer(Modifier.height(16.dp))
+            // ---- moments that matter: exam eve/day, after the exam, coming back ----
+            val away = Game.daysAway(user, today)
+            when {
+                user.examDay == today || user.examDay == today + 1 -> {
+                    ExamDayCard(vm, user, isToday = user.examDay == today)
+                    Spacer(Modifier.height(16.dp))
+                }
+                user.examDay in 0 until today && user.examDay.toString() !in user.outcomeAskedFor &&
+                    user.outcomeSnoozeDay <= today -> {
+                    PostExamCard(vm, user)
+                    Spacer(Modifier.height(16.dp))
+                }
+                away >= 2 -> {
+                    ComebackCard(user, away, streakKept = streak > 0 && away - 1 <= user.freezes)
+                    Spacer(Modifier.height(16.dp))
+                }
+            }
             // ---- the one big button ----
             Card(
                 modifier = Modifier
@@ -263,7 +312,9 @@ private fun TodayCard(
                     color = Color.White,
                     style = MaterialTheme.typography.titleMedium
                 )
-                if (examDay > today) {
+                if (examDay == today) {
+                    Text("🍀 Today is exam day — good luck!", color = Sun, style = MaterialTheme.typography.bodySmall)
+                } else if (examDay > today) {
                     val days = examDay - today
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Icon(Icons.Filled.Event, null, tint = Sun, modifier = Modifier.size(16.dp))

@@ -388,7 +388,8 @@ private fun FeedbackPanel(vm: AppViewModel, q: Question, state: QuizState, lang:
         Column(Modifier.padding(16.dp)) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Text(
-                    if (right) "Tama! ✅" else "Not quite — the answer is ${LETTERS[correctPos]}",
+                    if (right) com.pjcinc.csepractice.domain.Encourage.correctHeader(lang, q.id)
+                    else com.pjcinc.csepractice.domain.Encourage.wrongHeader(lang, q.id, LETTERS[correctPos]),
                     style = MaterialTheme.typography.titleMedium,
                     color = if (right) fb.good else fb.bad,
                     modifier = Modifier.weight(1f)

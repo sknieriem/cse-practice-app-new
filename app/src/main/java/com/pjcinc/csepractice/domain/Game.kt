@@ -88,7 +88,12 @@ object Game {
         val newState: UserState,
         val newBadges: List<Badge>,
         val leveledUp: Boolean,
-        val streakExtended: Boolean
+        val streakExtended: Boolean,
+        /** missed days covered by streak freezes this time (0 = none) */
+        val freezesUsed: Int = 0,
+        val freezeEarned: Boolean = false,
+        /** streak had lapsed and restarted today */
+        val streakRestarted: Boolean = false
     )
 
     fun reward(old: UserState, f: SessionFacts): Reward {
@@ -99,12 +104,25 @@ object Game {
         if (f.wrong > 0) lines += "${f.wrong} tried × $XP_WRONG" to f.wrong * XP_WRONG
         if (f.total > 0) lines += "Session finished" to XP_FINISH
 
-        // streak: counts once per calendar day
+        // streak: counts once per calendar day. Missed days are covered by freezes when available.
         var streak = old.streak
         var extended = false
+        var freezes = old.freezes
+        var freezesUsed = 0
+        var freezeEarned = false
+        var restarted = false
         if (old.lastActiveDay != f.today) {
-            streak = if (old.lastActiveDay == f.today - 1) old.streak + 1 else 1
+            val missed = if (old.lastActiveDay < 0) -1L else f.today - old.lastActiveDay - 1
+            streak = when {
+                missed < 0 -> 1
+                missed == 0L -> old.streak + 1
+                missed <= freezes -> {
+                    freezesUsed = missed.toInt(); freezes -= freezesUsed; old.streak + 1
+                }
+                else -> { restarted = old.streak > 0; 1 }
+            }
             extended = true
+            if (streak % 7 == 0 && freezes < MAX_FREEZES) { freezes++; freezeEarned = true }
             val bonus = 5 * streak.coerceAtMost(10)
             lines += "Streak day $streak bonus" to bonus
         }
@@ -159,7 +177,8 @@ object Game {
             dailyDoneDay = dailyDone,
             dailyCount = dailyCount,
             examsPassed = examsPassed,
-            reviewsCleared = reviews
+            reviewsCleared = reviews,
+            freezes = freezes
         )
         return Reward(
             xpGained = gained,
@@ -167,11 +186,22 @@ object Game {
             newState = newState,
             newBadges = BADGES.filter { it.id in newBadgeIds },
             leveledUp = levelFor(newXp) > levelFor(old.xp),
-            streakExtended = extended
+            streakExtended = extended,
+            freezesUsed = freezesUsed,
+            freezeEarned = freezeEarned,
+            streakRestarted = restarted
         )
     }
 
-    /** Streak shown on Home: it is broken if the user missed yesterday. */
-    fun liveStreak(s: UserState, today: Long): Int =
-        if (s.lastActiveDay == today || s.lastActiveDay == today - 1) s.streak else 0
+    const val MAX_FREEZES = 2
+
+    /** Streak shown on Home: still alive if missed days can be covered by freezes. */
+    fun liveStreak(s: UserState, today: Long): Int {
+        if (s.lastActiveDay < 0) return 0
+        val missed = today - s.lastActiveDay - 1
+        return if (missed <= s.freezes) s.streak else 0
+    }
+
+    /** Days since last practice (0 = practised today, -1 = never). */
+    fun daysAway(s: UserState, today: Long): Long = if (s.lastActiveDay < 0) -1 else today - s.lastActiveDay
 }

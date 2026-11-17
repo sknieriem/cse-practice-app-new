@@ -39,6 +39,10 @@ sealed class Overlay {
     data object Quiz : Overlay()
     data class Result(val result: SessionResult) : Overlay()
     data class Review(val result: SessionResult, val onlyWrong: Boolean) : Overlay()
+    /** First exam-mode score at the passing rating. Continue -> Result. */
+    data class Pasado(val result: SessionResult) : Overlay()
+    /** The user reported passing the REAL exam. */
+    data class PassedExam(val level: String) : Overlay()
 }
 
 sealed class Boot {
@@ -103,6 +107,18 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     val sessions: StateFlow<List<PracticeSession>> = dao.getAllSessions()
         .stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
 
+    /** Estimated exam score vs. the 80 passing rating. */
+    val readiness: StateFlow<Planner.Readiness> = topicProgress.map { Planner.estimate(it) }
+        .stateIn(viewModelScope, SharingStarted.Eagerly, Planner.estimate(emptyList()))
+
+    /** Points gained vs. the reading 7+ days ago (null if there is no reading that old). */
+    val weeklyGain: StateFlow<Int?> = combine(dao.snapshots(), todayFlow) { snaps, today ->
+        val now = snaps.lastOrNull() ?: return@combine null
+        val old = snaps.lastOrNull { it.day <= today - 7 } ?: return@combine null
+        if (old.answered < Planner.MIN_ANSWERS_FOR_READINESS || now.answered < Planner.MIN_ANSWERS_FOR_READINESS) null
+        else now.overall - old.overall
+    }.stateIn(viewModelScope, SharingStarted.Eagerly, null)
+
     /** A saved, unfinished session — shown as "Continue" on Home. */
     val savedQuiz: StateFlow<QuizState?> = repo.prefs.activeQuiz
         .map { repo.loadActive(it) }
@@ -151,6 +167,8 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         when (val o = _overlay.value) {
             Overlay.Quiz -> return true // the quiz screen shows its own exit dialog
             is Overlay.Review -> { _overlay.value = Overlay.Result(o.result); return true }
+            is Overlay.Pasado -> { _overlay.value = Overlay.Result(o.result); return true }
+            is Overlay.PassedExam -> { _overlay.value = Overlay.None; return true }
             is Overlay.Result -> { closeResult(); return true }
             Overlay.Onboarding -> return false
             Overlay.None -> Unit
@@ -173,6 +191,56 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     fun setExamDay(day: Long) = viewModelScope.launch { repo.prefs.setExamDay(day) }
     fun setExamLevel(level: String) = viewModelScope.launch { repo.prefs.setExamLevel(level) }
     fun setDailyGoal(goal: Int) = viewModelScope.launch { repo.prefs.setDailyGoal(goal) }
+    fun setFirstName(name: String) = viewModelScope.launch { repo.prefs.setFirstName(name.trim()) }
+    fun toggleChecklist(key: String) = viewModelScope.launch { repo.prefs.toggleChecklist(key) }
+
+    fun setInspirationLine(line: String) = viewModelScope.launch {
+        repo.prefs.setInspiration(line.trim(), user.value?.inspirationPhoto ?: "")
+    }
+
+    /** Copies (and shrinks) the picked photo into app storage; the original is never modified. */
+    fun setInspirationPhoto(uri: android.net.Uri?) = viewModelScope.launch {
+        val app = getApplication<Application>()
+        val path = if (uri == null) "" else kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.IO) {
+            try {
+                val opts = android.graphics.BitmapFactory.Options().apply { inJustDecodeBounds = true }
+                app.contentResolver.openInputStream(uri)?.use { android.graphics.BitmapFactory.decodeStream(it, null, opts) }
+                var sample = 1
+                while (opts.outWidth / sample > 1080 || opts.outHeight / sample > 1080) sample *= 2
+                val bmp = app.contentResolver.openInputStream(uri)?.use {
+                    android.graphics.BitmapFactory.decodeStream(it, null, android.graphics.BitmapFactory.Options().apply { inSampleSize = sample })
+                } ?: return@withContext ""
+                val f = java.io.File(app.filesDir, "inspiration.jpg")
+                f.outputStream().use { bmp.compress(android.graphics.Bitmap.CompressFormat.JPEG, 88, it) }
+                f.absolutePath + "?v=" + System.currentTimeMillis()
+            } catch (e: Exception) {
+                Log.w(TAG, "Could not read photo", e)
+                _messages.tryEmit("Couldn't open that photo.")
+                user.value?.inspirationPhoto ?: ""
+            }
+        }
+        if (uri == null) java.io.File(app.filesDir, "inspiration.jpg").delete()
+        repo.prefs.setInspiration(user.value?.inspirationLine ?: "", path)
+    }
+
+    // ---- exam day / real result ---------------------------------------------------------
+
+    fun reportExam(passed: Boolean) = viewModelScope.launch {
+        val u = repo.prefs.current()
+        repo.recordExamOutcome(passed, u.examDay, u.examLevel)
+        if (passed) _overlay.value = Overlay.PassedExam(u.examLevel)
+    }
+
+    fun snoozeExamQuestion() = viewModelScope.launch { repo.prefs.snoozeOutcome(repo.today() + 7) }
+
+    fun share(card: com.pjcinc.csepractice.ui.share.ShareCards.Card, name: String) {
+        try {
+            com.pjcinc.csepractice.ui.share.ShareCards.share(getApplication(), card, name)
+        } catch (e: Exception) {
+            Log.w(TAG, "Share failed", e)
+            _messages.tryEmit("Couldn't open sharing on this phone.")
+        }
+    }
 
     fun resetProgress() = viewModelScope.launch {
         repo.resetProgress()
@@ -281,7 +349,7 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
                 val result = repo.finish(s)
                 _quiz.value = null
                 refreshDay()
-                _overlay.value = Overlay.Result(result)
+                _overlay.value = if (result.pasado) Overlay.Pasado(result) else Overlay.Result(result)
             } catch (e: Exception) {
                 Log.e(TAG, "Scoring failed", e)
                 _messages.tryEmit("Could not save results: ${e.javaClass.simpleName}")

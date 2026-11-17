@@ -57,22 +57,52 @@ object Planner {
     fun weakest(progress: List<TopicProgress>): List<TopicProgress> =
         progress.filter { it.topic.syllabus }.sortedWith(compareBy({ it.skill }, { -it.questions }))
 
-    /**
-     * Readiness for a subject, 0..100: each syllabus topic contributes its accuracy, weighted by its
-     * share of the subject's questions — but only once it has been practised. Untried topics count
-     * as 0, so readiness grows with BOTH coverage and accuracy and never looks better than it is.
-     * A topic's evidence is capped at full weight after 10 answers.
-     */
-    fun readiness(progress: List<TopicProgress>, category: String): Int {
-        val ts = progress.filter { it.topic.category == category && it.topic.syllabus }
-        val w = ts.sumOf { it.questions }
-        if (w == 0) return 0
-        val score = ts.sumOf { t ->
-            if (t.answered == 0) 0.0
-            else (t.correct.toDouble() / t.answered) * (t.answered.coerceAtMost(10) / 10.0) * t.questions
-        }
-        return (100 * score / w).toInt()
+    const val PASS_MARK = 80
+    /** Readiness is only shown after this many answers — fewer is guesswork. */
+    const val MIN_ANSWERS_FOR_READINESS = 20
+
+    data class Readiness(
+        /** estimated % correct on a balanced exam, 0..100 */
+        val overall: Int,
+        /** category -> estimate, or -1 when the subject has not been tried */
+        val bySubject: Map<String, Int>,
+        val answered: Int,
+        val topicsPractised: Int,
+        val topicsTotal: Int,
+        val weakestSubject: String?
+    ) {
+        val shown: Boolean get() = answered >= MIN_ANSWERS_FOR_READINESS
+        val gapToPass: Int get() = (PASS_MARK - overall).coerceAtLeast(0)
     }
+
+    /**
+     * Estimated exam score from practice answers (syllabus topics only).
+     * Each topic's accuracy is shrunk toward the user's overall accuracy, so a topic with 1 answer
+     * can't swing the number; untried topics assume the overall level. Subjects weigh equally.
+     * Honest by construction: it is an estimate of % correct, the same scale as the 80 pass mark.
+     */
+    fun estimate(progress: List<TopicProgress>): Readiness {
+        val syl = progress.filter { it.topic.syllabus }
+        val n = syl.sumOf { it.answered }
+        val c = syl.sumOf { it.correct }
+        val g = (c + 3.0) / (n + 5.0)
+        val bySubject = CATEGORIES.associateWith { cat ->
+            val ts = syl.filter { it.topic.category == cat }
+            val w = ts.sumOf { it.questions }
+            if (w == 0 || ts.sumOf { it.answered } == 0) -1
+            else (100 * ts.sumOf { t -> (t.correct + 4 * g) / (t.answered + 4) * t.questions } / w).toInt()
+        }
+        val tried = bySubject.values.filter { it >= 0 }
+        // untried subjects count at the overall level, so trying a new subject can't "cost" points
+        val overall = if (n == 0) 0 else
+            ((tried.sum() + (CATEGORIES.size - tried.size) * 100 * g) / CATEGORIES.size).toInt()
+        val weakest = bySubject.filterValues { it >= 0 }.minByOrNull { it.value }?.key
+        return Readiness(overall, bySubject, n, syl.count { it.answered >= 3 }, syl.size, weakest)
+    }
+
+    /** Per-subject number for cards: the estimate, or -1 = not started / not enough answers yet. */
+    fun readiness(progress: List<TopicProgress>, category: String): Int =
+        estimate(progress).let { if (it.shown) it.bySubject[category] ?: -1 else -1 }
 
     /** Smart session: due reviews, then weakest topics, then unseen questions across subjects. */
     fun smart(

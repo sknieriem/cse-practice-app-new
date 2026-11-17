@@ -34,7 +34,22 @@ data class UserState(
     val dailyDoneDay: Long = -1,
     val dailyCount: Int = 0,
     val examsPassed: Int = 0,
-    val reviewsCleared: Int = 0
+    val reviewsCleared: Int = 0,
+    /** Streak freezes in the bank (earned 1 per 7-day streak, max 2). A missed day uses one. */
+    val freezes: Int = 0,
+    /** One-time celebrations already shown, e.g. "ready_70", "pasado", "strong_num_percent". */
+    val milestones: Set<String> = emptySet(),
+    /** Optional, local only: shown on share cards. */
+    val firstName: String = "",
+    /** "Who I'm doing this for" — shown on hard days. */
+    val inspirationLine: String = "",
+    val inspirationPhoto: String = "",
+    /** Post-exam question snoozed until this epoch day ("still waiting for results"). */
+    val outcomeSnoozeDay: Long = -1,
+    /** Exam days already answered in the post-exam question. */
+    val outcomeAskedFor: Set<String> = emptySet(),
+    /** Exam-day checklist ticks, "day:item". */
+    val checklist: Set<String> = emptySet()
 )
 
 private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "settings")
@@ -60,6 +75,14 @@ class Prefs(private val context: Context) {
         val REVIEWS = intPreferencesKey("reviews_cleared")
         val QVERSION = intPreferencesKey("questions_version_v3")
         val ACTIVE_QUIZ = stringPreferencesKey("active_quiz")
+        val FREEZES = intPreferencesKey("freezes")
+        val MILESTONES = stringSetPreferencesKey("milestones")
+        val FIRST_NAME = stringPreferencesKey("first_name")
+        val INSP_LINE = stringPreferencesKey("inspiration_line")
+        val INSP_PHOTO = stringPreferencesKey("inspiration_photo")
+        val SNOOZE = longPreferencesKey("outcome_snooze_day")
+        val ASKED = stringSetPreferencesKey("outcome_asked_for")
+        val CHECKLIST = stringSetPreferencesKey("exam_checklist")
     }
 
     val user: Flow<UserState> = context.dataStore.data.map { p ->
@@ -79,7 +102,15 @@ class Prefs(private val context: Context) {
             dailyDoneDay = p[K.DAILY_DONE] ?: -1,
             dailyCount = p[K.DAILY_COUNT] ?: 0,
             examsPassed = p[K.EXAMS_PASSED] ?: 0,
-            reviewsCleared = p[K.REVIEWS] ?: 0
+            reviewsCleared = p[K.REVIEWS] ?: 0,
+            freezes = p[K.FREEZES] ?: 0,
+            milestones = p[K.MILESTONES] ?: emptySet(),
+            firstName = p[K.FIRST_NAME] ?: "",
+            inspirationLine = p[K.INSP_LINE] ?: "",
+            inspirationPhoto = p[K.INSP_PHOTO] ?: "",
+            outcomeSnoozeDay = p[K.SNOOZE] ?: -1,
+            outcomeAskedFor = p[K.ASKED] ?: emptySet(),
+            checklist = p[K.CHECKLIST] ?: emptySet()
         )
     }
 
@@ -119,12 +150,31 @@ class Prefs(private val context: Context) {
         p[K.DAILY_COUNT] = s.dailyCount
         p[K.EXAMS_PASSED] = s.examsPassed
         p[K.REVIEWS] = s.reviewsCleared
+        p[K.FREEZES] = s.freezes
+        p[K.MILESTONES] = s.milestones
+    }
+
+    suspend fun addMilestones(ids: Set<String>) = context.dataStore.edit {
+        it[K.MILESTONES] = (it[K.MILESTONES] ?: emptySet()) + ids
+    }
+    suspend fun setFirstName(v: String) = context.dataStore.edit { it[K.FIRST_NAME] = v.take(30) }
+    suspend fun setInspiration(line: String, photo: String) = context.dataStore.edit {
+        it[K.INSP_LINE] = line.take(120); it[K.INSP_PHOTO] = photo
+    }
+    suspend fun snoozeOutcome(untilDay: Long) = context.dataStore.edit { it[K.SNOOZE] = untilDay }
+    suspend fun markOutcomeAsked(examDay: Long) = context.dataStore.edit {
+        it[K.ASKED] = (it[K.ASKED] ?: emptySet()) + examDay.toString()
+    }
+    suspend fun toggleChecklist(key: String) = context.dataStore.edit {
+        val cur = it[K.CHECKLIST] ?: emptySet()
+        it[K.CHECKLIST] = if (key in cur) cur - key else cur + key
     }
 
     suspend fun resetProgress() = context.dataStore.edit {
-        listOf(K.XP, K.STREAK, K.BEST, K.DAILY_COUNT, K.EXAMS_PASSED, K.REVIEWS).forEach { k -> it.remove(k) }
+        listOf(K.XP, K.STREAK, K.BEST, K.DAILY_COUNT, K.EXAMS_PASSED, K.REVIEWS, K.FREEZES).forEach { k -> it.remove(k) }
         listOf(K.LAST_DAY, K.DAILY_DONE).forEach { k -> it.remove(k) }
         it.remove(K.BADGES)
+        it.remove(K.MILESTONES)
         it.remove(K.ACTIVE_QUIZ)
     }
 }

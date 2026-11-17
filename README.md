@@ -16,6 +16,17 @@ An offline Android reviewer for the Philippine Civil Service Exam (CSE). The app
 - **Spaced repetition**: a missed question comes back the next day, then after 3, 7 and 14 days, until you have it.
 - **Gamification**: XP, levels ("Aplikante" up to "CSE Master"), a daily streak, 18 badges, a daily goal ring, and an exam-day countdown.
 - **Readiness per subject**: grows only when you cover a topic and also get it right. Topics you haven't tried count as zero.
+- **Encouragement that's honest**: every message is computed from what you actually did, never fake praise and never guilt. This covers:
+  - "What went well" lines, e.g. "Fractions: 4 of 5 right — up from 40% before".
+  - One-time milestones: estimated score passing 70, 75 and 80; a topic turning strong; a personal best; your first mock exam.
+  - Warm wording on wrong answers ("Not quite — and that's okay. Here's the trick").
+  - A "welcome back" message after days away.
+  - Streak freezes: you earn one per 7-day streak, and it covers a missed day.
+  - A "who I'm doing this for" photo and line, shown on hard days.
+  - All of this is available in English and Taglish.
+- **Readiness meter**: an estimated % correct, shown against the 80 passing rating ("You're at 68%. Passing is 80%. Your weakest area is Numerical."). It also shows "+N points since last week" and appears after 20 answers.
+- **Pasado moments**: a confetti celebration with a share card the first time an exam-mode score reaches 80. You can also share progress cards. Cards are drawn on the phone and sent through the normal share sheet (Messenger, Facebook).
+- **Exam eve/day**: a calm checklist and a good-luck message. **After the exam**: "Did you pass?" A yes gets a full celebration and a share card. A no gets compassion and help setting the next exam date.
 - **Resume**: Back, switching apps, or Android killing the app never loses a session. It shows up as "Continue" on Home.
 
 Navigation is 4 bottom tabs: **Home · Practice · Progress · Settings**. Back always works the same way: overlay, then sub-page, then Home, then exit. A session asks before you leave it.
@@ -47,6 +58,9 @@ After editing content, run `build_content.py` and bump `QUESTIONS_VERSION` in `Q
 ```
 
 Needs JDK 17+ (the Android Studio JBR works). Stack: Kotlin, Jetpack Compose (Material 3), Room, DataStore, Vico, Gson.
+
+## Phase 2 (online, opt-in) — designed, not built
+Study-buddy leagues ranked by most improved, never showing a bottom rank. A cohort hope line, shown only once real data exists. Pass-rate calibration from users' reported exam results. See [docs/PHASE2_COMMUNITY.md](docs/PHASE2_COMMUNITY.md). The local `readiness_snapshots` and `exam_outcomes` tables are already shaped for sync.
 
 ## Known limits
 

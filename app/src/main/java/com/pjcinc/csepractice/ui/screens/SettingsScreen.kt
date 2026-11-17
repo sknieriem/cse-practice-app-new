@@ -42,6 +42,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.pjcinc.csepractice.BuildConfig
 import com.pjcinc.csepractice.ui.components.SectionTitle
+import com.pjcinc.csepractice.domain.Encourage
 import com.pjcinc.csepractice.viewmodel.AppViewModel
 import java.time.Instant
 import java.time.LocalDate
@@ -87,6 +88,9 @@ fun SettingsScreen(vm: AppViewModel) {
                 }
             }
         }
+
+        SectionTitle(Encourage.t(user.language, "Me", "Ako"))
+        MeCard(vm, user)
 
         SectionTitle("Learning")
         SettingCard {

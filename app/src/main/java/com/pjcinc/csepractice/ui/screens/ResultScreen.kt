@@ -62,6 +62,10 @@ import com.pjcinc.csepractice.ui.theme.Flame
 import com.pjcinc.csepractice.ui.theme.LocalFeedback
 import com.pjcinc.csepractice.ui.theme.Navy
 import com.pjcinc.csepractice.ui.theme.Sun
+import com.pjcinc.csepractice.domain.Encourage
+import com.pjcinc.csepractice.ui.components.CelebrationCard
+import com.pjcinc.csepractice.ui.components.InspirationCard
+import com.pjcinc.csepractice.ui.share.ShareCards
 import com.pjcinc.csepractice.viewmodel.AppViewModel
 
 @Composable
@@ -69,6 +73,7 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
     val user by vm.user.collectAsState()
     val wrong = r.items.count { !it.isCorrect }
     val pass = r.percent >= Game.PASS_PERCENT
+    val lang = user?.language ?: "en"
     val anim = remember { Animatable(0f) }
     LaunchedEffect(r) { anim.animateTo(r.percent / 100f, tween(900)) }
 
@@ -97,7 +102,7 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                     }
                 }
                 Spacer(Modifier.height(12.dp))
-                Text(cheer(r.percent), color = Color.White, style = MaterialTheme.typography.titleLarge, textAlign = TextAlign.Center)
+                Text(Encourage.cheer(lang, r.percent), color = Color.White, style = MaterialTheme.typography.titleLarge, textAlign = TextAlign.Center)
                 Text(
                     "Time ${formatClock(r.timeMs / 1000)} · pass mark ${Game.PASS_PERCENT}%",
                     color = Color.White.copy(alpha = 0.75f),
@@ -133,6 +138,29 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                     Spacer(Modifier.height(6.dp))
                     Bar(lp.fraction, MaterialTheme.colorScheme.secondary)
                 }
+            }
+
+            // ---- what went well: specific and true ----
+            if (r.praise.isNotEmpty()) {
+                SectionTitle(Encourage.t(lang, "What went well", "Mga nagawa mong maganda"))
+                Card(Modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface)) {
+                    Column(Modifier.padding(14.dp)) {
+                        r.praise.forEach { line ->
+                            Row(Modifier.padding(vertical = 3.dp)) {
+                                Text("✓ ", color = LocalFeedback.current.good, fontWeight = FontWeight.Bold)
+                                Text(line, style = MaterialTheme.typography.bodyMedium)
+                            }
+                        }
+                    }
+                }
+            }
+            if (r.celebrations.isNotEmpty()) {
+                SectionTitle(Encourage.t(lang, "Milestones", "Mga milestone"))
+                r.celebrations.forEach { CelebrationCard(it, Modifier.padding(vertical = 4.dp)) }
+            }
+            // hard day? remind them who they're doing this for
+            if (r.percent < 60) {
+                user?.let { u -> InspirationCard(u.inspirationLine, u.inspirationPhoto, lang, Modifier.padding(top = 12.dp)) }
             }
 
             if (reward.newBadges.isNotEmpty()) {
@@ -177,6 +205,15 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
             OutlinedButton(onClick = { vm.openReview(r, onlyWrong = false) }, modifier = Modifier.fillMaxWidth()) {
                 Text("See all answers")
             }
+            OutlinedButton(
+                onClick = {
+                    val u = user ?: return@OutlinedButton
+                    val rd = r.readiness
+                    vm.share(ShareCards.progress(u.firstName, rd?.takeIf { it.shown }?.overall, r.weeklyGain,
+                        r.reward.newState.streak, Game.titleFor(Game.levelFor(r.reward.newState.xp)), rd?.answered ?: 0, lang), "progress")
+                },
+                modifier = Modifier.fillMaxWidth().padding(top = 8.dp)
+            ) { Text(Encourage.t(lang, "Share my progress 📤", "I-share ang progress ko 📤")) }
             TextButton(onClick = { vm.closeResult() }, modifier = Modifier.fillMaxWidth().navigationBarsPadding()) {
                 Text("Done")
             }

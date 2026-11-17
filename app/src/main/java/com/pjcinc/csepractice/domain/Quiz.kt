@@ -106,7 +106,15 @@ data class SessionResult(
     val timeMs: Long,
     val categories: List<CategoryScore>,
     val reward: Game.Reward,
-    val items: List<ReviewItem>
+    val items: List<ReviewItem>,
+    /** specific, true sentences about this session */
+    val praise: List<String> = emptyList(),
+    /** one-time milestones reached in this session */
+    val celebrations: List<Encourage.Celebration> = emptyList(),
+    /** first exam-mode score at the passing rating: big celebration + share card */
+    val pasado: Boolean = false,
+    val readiness: Planner.Readiness? = null,
+    val weeklyGain: Int? = null
 ) {
     val percent: Int get() = if (total == 0) 0 else correct * 100 / total
 }

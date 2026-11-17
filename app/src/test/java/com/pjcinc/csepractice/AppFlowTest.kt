@@ -114,7 +114,7 @@ class AppFlowTest {
         rule.onNodeWithContentDescription("Back to subjects").performClick()
 
         rule.onAllNodesWithText("Progress").onFirstNavLabel().performClick()
-        waitText("Exam readiness")
+        waitText("Your readiness")
         shot("11_progress")
 
         rule.onAllNodesWithText("Settings").onFirstNavLabel().performClick()

@@ -172,7 +172,7 @@ private fun SubjectCard(category: String, readiness: Int, questions: Int, modifi
             Spacer(Modifier.height(8.dp))
             Bar(readiness / 100f, st.color)
             Text(
-                if (readiness == 0) "Not started" else "Readiness $readiness%",
+                if (readiness < 0) "Score after ${Planner.MIN_ANSWERS_FOR_READINESS} answers" else "Est. score $readiness%",
                 style = MaterialTheme.typography.labelSmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 modifier = Modifier.padding(top = 4.dp)

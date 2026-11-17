@@ -48,6 +48,11 @@ import com.pjcinc.csepractice.ui.components.SectionTitle
 import com.pjcinc.csepractice.ui.components.StatBox
 import com.pjcinc.csepractice.ui.components.subjectStyle
 import com.pjcinc.csepractice.ui.theme.Flame
+import com.pjcinc.csepractice.ui.theme.LocalFeedback
+import com.pjcinc.csepractice.domain.Encourage
+import com.pjcinc.csepractice.ui.components.ReadinessMeter
+import com.pjcinc.csepractice.ui.share.ShareCards
+import androidx.compose.material3.OutlinedButton
 import com.pjcinc.csepractice.viewmodel.AppViewModel
 import java.text.SimpleDateFormat
 import java.time.LocalDate
@@ -69,6 +74,58 @@ fun ProgressScreen(vm: AppViewModel) {
         Modifier.fillMaxSize().statusBarsPadding().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)
     ) {
         Text("Progress", style = MaterialTheme.typography.headlineMedium, modifier = Modifier.padding(top = 16.dp))
+        val lang = user.language
+        val readiness by vm.readiness.collectAsState()
+        val weeklyGain by vm.weeklyGain.collectAsState()
+        Card(
+            modifier = Modifier.fillMaxWidth().padding(top = 12.dp),
+            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface)
+        ) {
+            Column(Modifier.padding(16.dp)) {
+                Text(Encourage.t(lang, "Your readiness", "Ang readiness mo"), style = MaterialTheme.typography.labelLarge,
+                    color = MaterialTheme.colorScheme.primary)
+                if (readiness.shown) {
+                    Text("${readiness.overall}%", style = MaterialTheme.typography.headlineLarge)
+                    Text(Encourage.readinessLine(lang, readiness) { subjectStyle(it).short }, style = MaterialTheme.typography.bodyMedium)
+                    Spacer(Modifier.height(10.dp))
+                    ReadinessMeter(readiness.overall)
+                    weeklyGain?.let { g ->
+                        Text(
+                            when {
+                                g > 0 -> Encourage.t(lang, "📈 +$g points since last week", "📈 +$g points mula last week")
+                                g == 0 -> Encourage.t(lang, "Holding steady vs. last week", "Steady mula last week")
+                                else -> Encourage.t(lang, "A dip this week is normal when you try harder topics. Keep going!",
+                                    "Normal lang bumaba kapag mas mahirap na topics ang pinag-aaralan. Tuloy lang!")
+                            },
+                            style = MaterialTheme.typography.labelLarge,
+                            color = if (g > 0) LocalFeedback.current.good else MaterialTheme.colorScheme.onSurfaceVariant,
+                            modifier = Modifier.padding(top = 6.dp)
+                        )
+                    }
+                    Text(
+                        Encourage.t(lang,
+                            "Estimated from ${readiness.answered} practice answers · ${readiness.topicsPractised} of ${readiness.topicsTotal} topics practised. Not an official prediction.",
+                            "Base sa ${readiness.answered} practice answers · ${readiness.topicsPractised} sa ${readiness.topicsTotal} topics. Hindi opisyal na prediction."),
+                        style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        modifier = Modifier.padding(top = 6.dp)
+                    )
+                } else {
+                    Text(
+                        Encourage.t(lang,
+                            "Answer ${Planner.MIN_ANSWERS_FOR_READINESS - readiness.answered} more questions to see your estimated score against the ${Planner.PASS_MARK}% passing rating.",
+                            "Sagutin pa ang ${Planner.MIN_ANSWERS_FOR_READINESS - readiness.answered} tanong para makita ang estimated score mo."),
+                        style = MaterialTheme.typography.bodyMedium
+                    )
+                }
+                OutlinedButton(
+                    onClick = {
+                        vm.share(ShareCards.progress(user.firstName, readiness.takeIf { it.shown }?.overall, weeklyGain,
+                            Game.liveStreak(user, today), Game.titleFor(Game.levelFor(user.xp)), readiness.answered, lang), "progress")
+                    },
+                    modifier = Modifier.padding(top = 8.dp)
+                ) { Text(Encourage.t(lang, "Share my progress 📤", "I-share ang progress ko 📤")) }
+            }
+        }
 
         Card(
             modifier = Modifier.fillMaxWidth().padding(top = 12.dp),
@@ -95,9 +152,9 @@ fun ProgressScreen(vm: AppViewModel) {
             StatBox("${user.bestStreak}", "best streak", Modifier.weight(1f), Flame)
         }
 
-        SectionTitle("Exam readiness")
+        SectionTitle(Encourage.t(user.language, "By subject (estimated score)", "Bawat subject (estimated score)"))
         Text(
-            "Grows as you cover each topic AND get it right. Untried topics count as zero. Aim for 80%.",
+            Encourage.t(user.language, "The line is the passing rating (80). Tap a subject to practise it.", "Ang linya ay ang pasado (80). I-tap ang subject para mag-practice."),
             style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant
         )
@@ -110,7 +167,7 @@ fun ProgressScreen(vm: AppViewModel) {
             ) {
                 Text(st.short, modifier = Modifier.width(96.dp))
                 Bar(r / 100f, st.color, Modifier.weight(1f), height = 12.dp)
-                Text(if (r == 0) "—" else "$r%", modifier = Modifier.width(48.dp), textAlign = TextAlign.End)
+                Text(if (r < 0) "—" else "$r%", modifier = Modifier.width(48.dp), textAlign = TextAlign.End)
             }
         }
 
@@ -130,6 +187,22 @@ fun ProgressScreen(vm: AppViewModel) {
                         Bar(tp.accuracyPercent / 100f, subjectStyle(tp.topic.category).color, Modifier.width(80.dp))
                     }
                 }
+            }
+        }
+
+        // ---- phase 2 (online, opt-in): shown so testers know it's coming; nothing is sent ----
+        Card(
+            modifier = Modifier.fillMaxWidth().padding(top = 16.dp),
+            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)
+        ) {
+            Column(Modifier.padding(14.dp)) {
+                Text(Encourage.t(user.language, "Study buddies — coming soon 🤝", "Study buddies — malapit na 🤝"), style = MaterialTheme.typography.titleMedium)
+                Text(
+                    Encourage.t(user.language,
+                        "Optional, with your permission: join a small group of reviewers at your level, nickname only. We'll celebrate the MOST IMPROVED — never rank anyone at the bottom.",
+                        "Opsyonal, may pahintulot mo: sumali sa maliit na grupo ng reviewers na kapareho mo ng level, nickname lang. Ang ipagdiriwang ay ang PINAKA-UMUNLAD — walang ilalagay sa huli."),
+                    style = MaterialTheme.typography.bodySmall
+                )
             }
         }
 

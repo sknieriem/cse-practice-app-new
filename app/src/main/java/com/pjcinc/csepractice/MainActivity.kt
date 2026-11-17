@@ -49,6 +49,8 @@ import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
 import com.pjcinc.csepractice.ui.screens.HomeScreen
 import com.pjcinc.csepractice.ui.screens.OnboardingScreen
+import com.pjcinc.csepractice.ui.screens.PasadoScreen
+import com.pjcinc.csepractice.ui.screens.PassedExamScreen
 import com.pjcinc.csepractice.ui.screens.PracticeScreen
 import com.pjcinc.csepractice.ui.screens.ProgressScreen
 import com.pjcinc.csepractice.ui.screens.QuizScreen
@@ -113,6 +115,8 @@ fun AppRoot(vm: AppViewModel, onExit: () -> Unit) {
                 Overlay.Quiz -> QuizScreen(vm, snackbar)
                 is Overlay.Result -> ResultScreen(vm, o.result)
                 is Overlay.Review -> ReviewScreen(vm, o.result, o.onlyWrong)
+                is Overlay.Pasado -> PasadoScreen(vm, o.result)
+                is Overlay.PassedExam -> PassedExamScreen(vm, o.level)
                 Overlay.None -> TabsScaffold(vm, tab, snackbar)
             }
         }

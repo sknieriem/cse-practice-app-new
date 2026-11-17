@@ -9,9 +9,13 @@ import com.pjcinc.csepractice.data.Attempt
 import com.pjcinc.csepractice.data.PracticeSession
 import com.pjcinc.csepractice.data.Prefs
 import com.pjcinc.csepractice.data.Question
+import com.pjcinc.csepractice.data.ExamOutcome
+import com.pjcinc.csepractice.data.ReadinessSnapshot
 import com.pjcinc.csepractice.data.ReviewCard
+import com.pjcinc.csepractice.data.TopicStat
 import com.pjcinc.csepractice.data.SessionCategoryResult
 import com.pjcinc.csepractice.domain.CategoryScore
+import com.pjcinc.csepractice.domain.Encourage
 import com.pjcinc.csepractice.domain.Game
 import com.pjcinc.csepractice.domain.Planner
 import com.pjcinc.csepractice.domain.QuizMode
@@ -23,6 +27,8 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.time.LocalDate
 import java.time.LocalTime
+import java.time.ZoneId
+import java.util.UUID
 
 /** Owns content seeding, session building, and scoring. Everything works offline. */
 class QuestionRepository(private val context: Context) {
@@ -91,7 +97,7 @@ class QuestionRepository(private val context: Context) {
             QuizMode.SMART -> {
                 val stats = dao.topicStatsNow()
                 val progress = Planner.topicProgress(topics(), index.groupBy { it.subtopic }
-                    .map { com.pjcinc.csepractice.data.TopicStat(it.key, it.value.size, 0) }, stats)
+                    .map { TopicStat(it.key, it.value.size, 0) }, stats)
                 val weak = Planner.weakest(progress).filter { it.answered > 0 }.map { it.topic.id }
                 val (picked, reviews) = Planner.smart(index, syllabus, seen, dao.dueCardIds(today), weak, count)
                 reviewIds = reviews
@@ -140,10 +146,22 @@ class QuestionRepository(private val context: Context) {
 
     // ---- scoring ------------------------------------------------------------------------
 
+    private suspend fun topicSizes(): List<TopicStat> =
+        dao.getIndex().groupBy { it.subtopic }.map { TopicStat(it.key, it.value.size, 0) }
+
+    suspend fun readinessNow(): Planner.Readiness = withContext(Dispatchers.IO) {
+        Planner.estimate(Planner.topicProgress(topics(), topicSizes(), dao.topicStatsNow()))
+    }
+
     suspend fun finish(state: QuizState): SessionResult = withContext(Dispatchers.IO) {
         val questions = questionsFor(state)
         val today = today()
         val items = questions.mapIndexed { i, q -> ReviewItem(q, state.canonicalChosen(i), state.marked[i]) }
+        val sizes = topicSizes()
+        val priorStats = dao.topicStatsNow()
+        val priorProgress = Planner.topicProgress(topics(), sizes, priorStats)
+        val readinessBefore = Planner.estimate(priorProgress)
+        val priorBest = dao.bestScore()
 
         dao.insertAttempts(items.mapIndexed { i, it ->
             Attempt(
@@ -211,13 +229,86 @@ class QuestionRepository(private val context: Context) {
         dao.insertCategoryResults(perCat.map { SessionCategoryResult(0, sessionId, it.category, it.correct, it.total) })
         prefs.setActiveQuiz(null)
 
-        SessionResult(state.mode, state.title, total, correct, state.elapsedMs, perCat, reward, items)
+        // ---- encouragement: computed only from what actually happened ----
+        val lang = old.language
+        val afterProgress = Planner.topicProgress(topics(), sizes, dao.topicStatsNow())
+        val readiness = Planner.estimate(afterProgress)
+        val startOfDay = LocalDate.ofEpochDay(today).atStartOfDay(ZoneId.systemDefault()).toInstant().toEpochMilli()
+        dao.upsertSnapshot(
+            ReadinessSnapshot(
+                day = today,
+                overall = readiness.overall,
+                numerical = readiness.bySubject["Numerical Ability"] ?: -1,
+                verbal = readiness.bySubject["Verbal Ability"] ?: -1,
+                analytical = readiness.bySubject["Analytical Ability"] ?: -1,
+                genInfo = readiness.bySubject["General Information"] ?: -1,
+                answered = readiness.answered,
+                minutesPractised = (dao.timeSince(startOfDay) / 60_000).toInt(),
+                uuid = dao.snapshotOn(today)?.uuid ?: UUID.randomUUID().toString()
+            )
+        )
+        val weekAgo = dao.snapshotOnOrBefore(today - 7)
+        val weeklyGain = if (weekAgo != null && weekAgo.answered >= Planner.MIN_ANSWERS_FOR_READINESS && readiness.shown)
+            readiness.overall - weekAgo.overall else null
+
+        val topicNames = topics().associate { it.id to it.name }
+        val priorById = priorStats.associateBy { it.subtopic }
+        val deltas = items.groupBy { it.question.subtopic }.map { (t, xs) ->
+            Encourage.TopicDelta(
+                topicNames[t] ?: t, xs.count { it.isCorrect }, xs.count { it.chosen >= 0 },
+                priorById[t]?.n ?: 0, priorById[t]?.correct ?: 0
+            )
+        }
+        val praise = Encourage.praise(
+            lang, deltas, reward.newState.streak, reward.streakExtended,
+            reward.freezesUsed, weeklyGain, total, correct
+        )
+
+        val seen = old.milestones
+        val celebrations = mutableListOf<Encourage.Celebration>()
+        if (readiness.answered >= 50) for (th in listOf(70, 75, Planner.PASS_MARK)) {
+            if (readinessBefore.overall < th && readiness.overall >= th && "ready_$th" !in seen) {
+                celebrations += Encourage.readinessCelebration(lang, th)
+            }
+        }
+        val priorTp = priorProgress.associateBy { it.topic.id }
+        afterProgress.filter { it.topic.syllabus && it.answered >= 8 && it.status == "Strong" }.forEach { tp ->
+            val before = priorTp[tp.topic.id]
+            if (before != null && before.status != "Strong" && before.answered >= 5 && "strong_${tp.topic.id}" !in seen) {
+                celebrations += Encourage.strongTopic(lang, tp.topic.id, tp.topic.name)
+            }
+        }
+        val percent = if (total == 0) 0 else correct * 100 / total
+        if (total >= 10 && priorBest != null && percent > priorBest) celebrations += Encourage.personalBest(lang, percent, priorBest)
+        if (state.mode == QuizMode.EXAM && "first_mock" !in seen) celebrations += Encourage.firstMock(lang)
+        if (reward.freezeEarned) celebrations += Encourage.freezeEarned(lang)
+        val pasado = state.mode == QuizMode.EXAM && total >= 20 && percent >= Planner.PASS_MARK && "pasado" !in seen
+        val oneTime = celebrations.map { it.id }.filter { it != "best" && it != "freeze" }.toSet() +
+            (if (pasado) setOf("pasado") else emptySet())
+        if (oneTime.isNotEmpty()) prefs.addMilestones(oneTime)
+
+        SessionResult(
+            state.mode, state.title, total, correct, state.elapsedMs, perCat, reward, items,
+            praise = praise, celebrations = celebrations, pasado = pasado, readiness = readiness, weeklyGain = weeklyGain
+        )
+    }
+
+    suspend fun recordExamOutcome(passed: Boolean, examDay: Long, level: String) = withContext(Dispatchers.IO) {
+        val r = Planner.estimate(Planner.topicProgress(topics(), topicSizes(), dao.topicStatsNow()))
+        dao.insertOutcome(
+            ExamOutcome(
+                examDay = examDay, level = level, outcome = if (passed) "PASSED" else "NOT_PASSED",
+                readinessAtExam = if (r.shown) r.overall else -1
+            )
+        )
+        prefs.markOutcomeAsked(examDay)
     }
 
     suspend fun resetProgress() = withContext(Dispatchers.IO) {
         dao.clearAttempts()
         dao.clearCards()
         dao.clearAllSessions()
+        dao.clearSnapshots()
         prefs.resetProgress()
     }
 
