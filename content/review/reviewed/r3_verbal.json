@@ -1,0 +1,176 @@
+[
+ {"id": 14256358, "blind": "B", "verdict": "unchanged", "reason": "Key correct, one answer; added teaching fields.", "fields": {
+  "hint": "Which kind of speech would make people listen closely and not want it to end?",
+  "whyA": "Monotonous means dull and in one flat tone; it would bore an audience, not captivate it.",
+  "whyC": "Vague means unclear; an unclear speech loses listeners instead of holding them.",
+  "whyD": "Abrupt means sudden or curt; it describes how a speech ends or its tone, not why it captivates.",
+  "explanationTl": "Ang 'eloquent' ay magaling at malinaw magsalita, kaya na-captivate ang audience. Yung ibang choices (monotonous, vague, abrupt) ay negative, kaya hindi sila tugma sa 'captivated'.",
+  "hintTl": "Anong klaseng speech ang gugustuhin mong pakinggan hanggang dulo?"}},
+
+ {"id": 637573758, "blind": "B", "verdict": "minor edit", "reason": "'The cat jumped on the table' is also standard; stem now forces 'over' (clearing without touching).", "fields": {
+  "text": "Fill in the blank: The horse jumped _____ the fence without touching it.",
+  "difficulty": 1,
+  "explanation": "'Over' shows movement from one side of something to the other, passing above it. 'Without touching it' rules out 'on', which means landing on the fence's surface.",
+  "hint": "The horse never touched the fence. Which preposition means passing above something to the other side?",
+  "whyA": "'On' means landing on the surface of the fence, which contradicts 'without touching it'.",
+  "whyC": "'In' means inside something; you cannot jump inside a fence.",
+  "whyD": "'At' shows direction toward a target (jumped at someone), not clearing an obstacle.",
+  "explanationTl": "Ang 'over' ay paglampas sa ibabaw papunta sa kabilang side. Dahil sabi 'without touching it', hindi pwede ang 'on' kasi ibig sabihin nun lumapag siya sa fence.",
+  "hintTl": "Hindi tinamaan ng kabayo ang fence. Anong preposition ang ibig sabihin ay lumampas sa ibabaw?"}},
+
+ {"id": 800041561, "blind": "C", "verdict": "unchanged", "reason": "Key correct; 'news' is always singular; added teaching fields.", "fields": {
+  "hint": "'News' ends in -s, but is it really plural?",
+  "whyA": "'The' is the correct article here; nothing is wrong with it.",
+  "whyB": "'News' is the correct noun; the problem is the verb that agrees with it.",
+  "whyD": "'Good' is a correct predicate adjective after a linking verb.",
+  "explanationTl": "Kahit may -s sa dulo, ang 'news' ay singular (uncountable noun). Kaya dapat 'The news is good', hindi 'are'.",
+  "hintTl": "May -s ang 'news', pero plural ba talaga siya?"}},
+
+ {"id": 838470859, "blind": "A", "verdict": "minor edit", "reason": "Key correct; set difficulty to 1 (basic preposition); added teaching fields.", "fields": {
+  "difficulty": 1,
+  "hint": "Ownership with 'belong' always uses the same preposition: belong ___ someone.",
+  "whyB": "'Belong with' means fitting in a group or place (that cup belongs with the set), not ownership.",
+  "whyC": "'For' is a common Filipino-English slip; 'belong for' is not standard English.",
+  "whyD": "'Of' shows possession in phrases like 'the book of John', but 'belong' does not take 'of'.",
+  "explanationTl": "Ang tamang idiom ay 'belong to' kapag pagmamay-ari. 'The book belongs to her' = kanya ang libro.",
+  "hintTl": "Pag ownership, laging 'belong ___ someone'. Anong preposition yun?"}},
+
+ {"id": 904422609, "blind": "C", "verdict": "rewritten", "reason": "'The team play well' is standard British usage (collective plural); replaced with an unambiguous agreement error.", "fields": {
+  "text": "Identify the error: 'Each of the players play well.'",
+  "optionA": "Each",
+  "optionB": "players",
+  "optionC": "play",
+  "optionD": "well",
+  "correctAnswer": "C",
+  "explanation": "The subject is 'Each', which is always singular; 'of the players' is only a prepositional phrase. The verb must be 'plays'.",
+  "hint": "Find the real subject first. Is it 'Each' or 'players'?",
+  "whyA": "'Each' is correct; it is the singular subject the verb must agree with.",
+  "whyB": "'Players' is correctly plural inside the phrase 'of the players'; it is not the subject.",
+  "whyD": "'Well' is the correct adverb for the verb 'play'; 'good' would be the mistake.",
+  "explanationTl": "Ang subject ay 'Each', at laging singular yan. Yung 'of the players' ay prepositional phrase lang, hindi siya ang subject. Kaya dapat 'Each of the players plays well.'",
+  "hintTl": "Hanapin muna ang totoong subject. 'Each' ba o 'players'?"}},
+
+ {"id": 986518591, "blind": "C", "verdict": "unchanged", "reason": "Key correct; 'scissors' is always plural; added teaching fields.", "fields": {
+  "hint": "Some nouns name one object but are always plural, like 'pants' and 'eyeglasses'.",
+  "whyA": "'The' is the correct article; nothing is wrong with it.",
+  "whyB": "'Scissors' is the correct form; 'scissor' as a noun for the tool is not standard.",
+  "whyD": "'Sharp' is a correct predicate adjective.",
+  "explanationTl": "Ang 'scissors' ay laging plural, tulad ng 'pants' at 'eyeglasses'. Kaya dapat 'The scissors are sharp.'",
+  "hintTl": "May mga noun na isang bagay lang pero laging plural, tulad ng 'pants'."}},
+
+ {"id": 1106854031, "blind": "C", "verdict": "minor edit", "reason": "Key correct; set difficulty to 1 (basic tense); added teaching fields.", "fields": {
+  "difficulty": 1,
+  "hint": "Look for the helping verb that points to something that has not happened yet.",
+  "whyA": "'She eats' is simple present, for habits or general facts.",
+  "whyB": "'She ate' is simple past; the action is already done.",
+  "whyD": "'She is eating' is present progressive, an action happening right now.",
+  "explanationTl": "Ang 'will + base verb' ay simple future tense. Ang 'will eat' ay kakain pa lang siya.",
+  "hintTl": "Hanapin ang helping verb na nagsasabing mangyayari pa lang."}},
+
+ {"id": 1365006955, "blind": "C", "verdict": "rewritten", "reason": "'The jury have decided' is standard British usage; replaced with an unambiguous agreement error.", "fields": {
+  "text": "Identify the error: 'Every member of the jury have voted.'",
+  "optionA": "Every",
+  "optionB": "member",
+  "optionC": "have",
+  "optionD": "voted",
+  "correctAnswer": "C",
+  "explanation": "The subject is 'member', made singular by 'Every'; 'of the jury' is only a prepositional phrase. The verb must be 'has voted'.",
+  "hint": "What is the head noun of the subject, and is it singular or plural?",
+  "whyA": "'Every' is correct; it is what makes the subject singular.",
+  "whyB": "'Member' is correctly singular after 'Every'; 'members' would be wrong.",
+  "whyD": "'Voted' is the correct past participle; only the helping verb is wrong.",
+  "explanationTl": "Ang subject ay 'member', at singular siya dahil sa 'Every'. Yung 'of the jury' ay phrase lang. Kaya dapat 'Every member of the jury has voted.'",
+  "hintTl": "Ano ang main noun ng subject? Singular ba o plural?"}},
+
+ {"id": 1444166743, "blind": "B", "verdict": "unchanged", "reason": "Key correct; one answer; added teaching fields.", "fields": {
+  "hint": "Ignore 'of the decision'. What is the real subject?",
+  "whyA": "'Were' is plural; the subject 'impact' is singular.",
+  "whyC": "'Are' is plural and also present tense; the subject 'impact' is singular.",
+  "whyD": "'Have significant' is ungrammatical; 'significant' is an adjective and needs a linking verb like 'was'.",
+  "explanationTl": "Ang subject ay 'impact' (singular), hindi 'decision'. Kaya singular verb: 'The impact of the decision was significant.'",
+  "hintTl": "Huwag pansinin ang 'of the decision'. Ano ang totoong subject?"}},
+
+ {"id": 1562931377, "blind": "B", "verdict": "unchanged", "reason": "Key correct; one answer; added teaching fields.", "fields": {
+  "hint": "Ignore 'of the experiment'. Is the real subject singular or plural?",
+  "whyA": "'Was' agrees with 'experiment', the noun closest to the blank, but the subject is 'results'.",
+  "whyC": "'Is' is singular; the subject 'results' is plural.",
+  "whyD": "'Has surprising' is ungrammatical; an adjective needs a linking verb, and 'has' is singular anyway.",
+  "explanationTl": "Ang subject ay 'results' (plural), hindi 'experiment'. Kaya plural verb: 'The results of the experiment were surprising.'",
+  "hintTl": "Huwag pansinin ang 'of the experiment'. Singular ba o plural ang totoong subject?"}},
+
+ {"id": 1142168602, "blind": "B", "verdict": "minor edit", "reason": "Option C 'Beautiful are the flowers' was a valid inversion and capital 'Flowers' misled; replaced C, lowercased the stem.", "fields": {
+  "text": "Rearrange: flowers / the / are / beautiful",
+  "optionC": "The are flowers beautiful",
+  "difficulty": 1,
+  "explanation": "A basic English sentence follows article + noun (subject), then the linking verb, then the adjective: 'The flowers are beautiful.'",
+  "hint": "Start with the subject (article + noun), then the verb.",
+  "whyA": "It puts the adjective 'beautiful' in the subject slot and the noun after the verb, so the sentence makes no sense.",
+  "whyC": "The verb 'are' splits the article 'The' from its noun 'flowers'.",
+  "whyD": "The article 'the' must come before its noun, not after it.",
+  "explanationTl": "Ang basic na ayos: article + noun (subject), tapos verb, tapos adjective. Kaya 'The flowers are beautiful.'",
+  "hintTl": "Unahin ang subject (article + noun), saka ang verb."}},
+
+ {"id": 1691343255, "blind": "B", "verdict": "minor edit", "reason": "Option C 'Sleeping is the cat' is an arguable inversion and capital 'Cat' misled; replaced C, lowercased the stem, fixed 'gerund' (it is a present participle).", "fields": {
+  "text": "Rearrange: cat / the / is / sleeping",
+  "optionC": "The is cat sleeping",
+  "difficulty": 1,
+  "explanation": "The subject 'the cat' comes first, then the progressive verb 'is sleeping' (helping verb + present participle): 'The cat is sleeping.'",
+  "hint": "Keep the article with its noun, and keep 'is' right before 'sleeping'.",
+  "whyA": "It puts 'sleeping' in the subject slot and leaves 'cat' at the end with no role.",
+  "whyC": "The verb 'is' splits the article 'The' from its noun 'cat'.",
+  "whyD": "The article 'the' must come before its noun, not after it.",
+  "explanationTl": "Una ang subject na 'the cat', tapos ang verb na 'is sleeping' (helping verb + -ing). Kaya 'The cat is sleeping.'",
+  "hintTl": "Dapat magkasama ang article at noun, at 'is' bago ang 'sleeping'."}},
+
+ {"id": 1965033272, "blind": "B", "verdict": "minor edit", "reason": "Stem was awkward, 'No implication' was a junk option and B was loosely worded; tightened B and D, same key.", "fields": {
+  "text": "What is implied by the sentence 'The movie was exciting, but the ending was predictable.'?",
+  "optionB": "The ending was less exciting than the rest of the movie.",
+  "optionD": "The whole movie was predictable.",
+  "explanation": "'But' sets up a contrast: the movie overall was exciting, while the ending, being predictable, did not keep up that excitement.",
+  "hint": "What does the word 'but' contrast the ending with?",
+  "whyA": "Too strong: the sentence calls the movie exciting, so it does not say the movie was bad.",
+  "whyC": "Contradicts the sentence: a predictable ending is the opposite of a surprising one.",
+  "whyD": "Overgeneralizes: only the ending is called predictable; the rest was exciting.",
+  "explanationTl": "Ang 'but' ay nagpapakita ng contrast: exciting ang movie, pero predictable ang ending, kaya hindi kasing-exciting ang ending kumpara sa iba.",
+  "hintTl": "Ano ang kinokontra ng 'but' sa ending?"}},
+
+ {"id": 83162521, "blind": "B", "verdict": "unchanged", "reason": "Key correct; distractors are all antonyms, no second synonym; added teaching fields.", "fields": {
+  "hint": "A businessman described this way would be hard to fool.",
+  "whyA": "Foolish is the opposite of astute.",
+  "whyC": "Naive means inexperienced and easily fooled, the opposite of astute.",
+  "whyD": "Ignorant means lacking knowledge, the opposite of astute.",
+  "explanationTl": "Ang 'astute' ay matalino at magaling bumasa ng sitwasyon, parang 'shrewd' o wais. Ang ibang choices ay kabaligtaran.",
+  "hintTl": "Ang ganitong businessman ay mahirap lokohin."}},
+
+ {"id": 200646296, "blind": "B", "verdict": "unchanged", "reason": "Key correct; one synonym; added teaching fields.", "fields": {
+  "hint": "Think of a long climb up a steep mountain.",
+  "whyA": "Easy is the opposite of arduous.",
+  "whyC": "Simple is the opposite of arduous.",
+  "whyD": "Effortless is the opposite of arduous, which means needing great effort.",
+  "explanationTl": "Ang 'arduous' ay mahirap at nakakapagod, kailangan ng matinding effort. Kaya 'difficult' ang sagot.",
+  "hintTl": "Isipin ang pag-akyat sa matarik na bundok."}},
+
+ {"id": 1464501749, "blind": "B", "verdict": "unchanged", "reason": "Key correct; one synonym; added teaching fields.", "fields": {
+  "hint": "How would you feel facing this task before you even start?",
+  "whyA": "Easy is the opposite; a daunting task looks hard.",
+  "whyC": "Simple is the opposite; a daunting task looks complicated.",
+  "whyD": "Straightforward is the opposite; a daunting task looks overwhelming.",
+  "explanationTl": "Ang 'daunting' ay nakakatakot o nakakapanghina ng loob dahil mukhang mahirap. Kaya 'intimidating' ang sagot.",
+  "hintTl": "Ano ang pakiramdam mo bago mo pa simulan ang ganitong task?"}},
+
+ {"id": 1697800269, "blind": "C", "verdict": "rewritten", "reason": "Banned 'Both A and B' / 'None' option set; rewritten as an in-context meaning item on the same word.", "fields": {
+  "text": "The scientist examined the minute details of the cell.\n\nIn this sentence, 'minute' most nearly means:",
+  "optionA": "Tiny",
+  "optionB": "Sixty-second",
+  "optionC": "Hurried",
+  "optionD": "Important",
+  "correctAnswer": "A",
+  "explanation": "As an adjective (pronounced my-NOOT), 'minute' means extremely small; details of a cell are tiny. The time-unit meaning (MIN-it) is a noun and does not fit here.",
+  "hint": "Here 'minute' describes details. How big are the details of a single cell?",
+  "whyB": "That is the noun 'minute' (60 seconds); in this sentence the word is an adjective describing 'details'.",
+  "whyC": "Confuses 'minute' with doing something 'in a minute' (quickly); the word describes size, not speed.",
+  "whyD": "Details can be important, but 'minute' describes their size, not their importance.",
+  "explanationTl": "Dito, adjective ang 'minute' (basa: my-NOOT) at ang ibig sabihin ay napakaliit. Ang 'minute' na 60 seconds ay noun, kaya hindi bagay dito.",
+  "hintTl": "Inilalarawan ng 'minute' ang details. Gaano kalaki ang details ng isang cell?",
+  "difficulty": 2}}
+]

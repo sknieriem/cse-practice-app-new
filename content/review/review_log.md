@@ -1,9 +1,10 @@
-# Review of original questions (200 reviewed)
+# Review of original questions (300 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
 | r1 | 29 | 44 | 3 | 24 | 0 |
 | r2 | 15 | 43 | 4 | 38 | 0 |
+| r3 | 38 | 38 | 3 | 21 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -207,3 +208,103 @@
 | r2 | 2029505828 | Verbal Ability | unchanged | Key correct, three synonym traps are good; only teaching fields added. |
 | r2 | 1459368517 | Verbal Ability | unchanged | Key correct, single answer; only teaching fields added. |
 | r2 | 1718825358 | Verbal Ability | unchanged | Key correct, single answer; only teaching fields added. |
+| r3 | 292444038 | Analytical Ability | rewritten | Both/None option set banned and old key overstated; new options with one clean assumption |
+| r3 | 887779386 | Analytical Ability | rewritten | Both/None option set banned and old key overstated; new options with one clean assumption |
+| r3 | 896911754 | Analytical Ability | rewritten | near-duplicate of other valid 'some' syllogisms and banned True/False options; rewritten as an invalid (undistributed middle) syllogism |
+| r3 | 1493632564 | Analytical Ability | rewritten | near-duplicate form and banned True/False options; rewritten as a different valid form (All/No) |
+| r3 | 1632913086 | Analytical Ability | rewritten | third near-duplicate of the 'all X / some Y are X' form; rewritten to an undetermined case |
+| r3 | 2065221890 | Analytical Ability | rewritten | near-duplicate form and banned True/False options; rewritten as an invalid (illicit major) syllogism |
+| r3 | 2120519826 | Analytical Ability | rewritten | near-duplicate form and banned True/False options; rewritten as a different valid form (No/Some) |
+| r3 | 1137112436 | General Information | rewritten | Vague stem and wrong citation (Art XII); rewritten to the exact Art II Sec 16 wording. |
+| r3 | 416474926 | General Information | rewritten | Stem broken: Boracay is itself an island and 'Visayas' is an island group, not an island; rewritten to Boracay's province (Aklan). |
+| r3 | 2022609578 | General Information | rewritten | Siargao is an island, not a province, and La Union is also called a surfing capital; rewritten to Siargao's province. |
+| r3 | 2118687031 | Numerical Ability | rewritten | Pure vocabulary trivia; rewritten to a real decagon computation (interior angle sum). |
+| r3 | 414065780 | Numerical Ability | rewritten | Near-duplicate of id 36851876 (same square-number series); rewritten as a cube-number series. |
+| r3 | 221276860 | Numerical Ability | rewritten | Trivia ('edges on a cube'); rewritten into a total-edge-length problem using the same fact. |
+| r3 | 635433018 | Numerical Ability | rewritten | Trivia ('legs on a spider'); rewritten as a CSE-style heads-and-legs word problem. |
+| r3 | 1640625305 | Numerical Ability | rewritten | Trivia ('months in a year'); rewritten as a savings word problem on the same idea. |
+| r3 | 372469145 | Numerical Ability | rewritten | One of five near-duplicate 'n workers, n jobs, n days' items; rewritten as a working-together problem. |
+| r3 | 472237019 | Numerical Ability | rewritten | Near-duplicate of id 33274110 (same doubling trick); rewritten as an inverse-proportion work problem. |
+| r3 | 1621855505 | Numerical Ability | rewritten | Near-duplicate of id 33274110 (same doubling trick); rewritten as a fill-and-drain work problem. |
+| r3 | 904422609 | Verbal Ability | rewritten | 'The team play well' is standard British usage (collective plural); replaced with an unambiguous agreement error. |
+| r3 | 1365006955 | Verbal Ability | rewritten | 'The jury have decided' is standard British usage; replaced with an unambiguous agreement error. |
+| r3 | 1697800269 | Verbal Ability | rewritten | Banned 'Both A and B' / 'None' option set; rewritten as an in-context meaning item on the same word. |
+| r3 | 1136389625 | Analytical Ability | key fixed | Flute (wind) was a second answer to keyed Piano (piano also has strings); set is now Guitar, Violin, Flute, Cello with Flute keyed |
+| r3 | 458469050 | Analytical Ability | key fixed | key was C (26); gaps 4,5,6 give +7 so 18 + 7 = 25 |
+| r3 | 1623350365 | Analytical Ability | key fixed | key was B (39); explanation itself gives 30 + 10 = 40 |
+| r3 | 603358645 | Analytical Ability | minor edit | Plain was a second antonym of Fancy; replaced with Ornate (a synonym trap) |
+| r3 | 1024818016 | Analytical Ability | minor edit | stem referred to a graph that isn't shown; stated the data directly with units |
+| r3 | 1385056419 | Analytical Ability | minor edit | stem referred to a graph that isn't shown; stated the data directly with units |
+| r3 | 1466426645 | Analytical Ability | minor edit | stem referred to a graph that isn't shown; stated the data directly with units |
+| r3 | 1209863589 | Analytical Ability | minor edit | replaced silly option 'Self' with a plausible distractor |
+| r3 | 1744376656 | Analytical Ability | minor edit | R's gender was not stated; added 'R is a woman' so Wife is the only answer |
+| r3 | 86297828 | Analytical Ability | minor edit | True/False option set banned; replaced C/D with common-mistake reasons |
+| r3 | 1175081634 | Analytical Ability | minor edit | fixed typos 'LaLAS'/'LaLas' to match 'Lalas' in the stem |
+| r3 | 1636377641 | Analytical Ability | minor edit | 'Maybe' competed with 'No'; options now carry reasons so only one is right |
+| r3 | 1910565425 | Analytical Ability | minor edit | True/False option set banned; replaced B-D; explanation now covers valid-with-false-premise |
+| r3 | 910327409 | Analytical Ability | minor edit | explanation said plate is for serving; clarified cutlery vs dishware |
+| r3 | 2093024008 | Analytical Ability | minor edit | tightened stem wording |
+| r3 | 731025093 | General Information | minor edit | Key correct; explanation now cites Art XIV Sec 6 and notes Tagalog trap. |
+| r3 | 1628749749 | General Information | minor edit | Key correct (Art VI Sec 23(1)); replaced non-plausible 'Minority' distractor. |
+| r3 | 1686675808 | General Information | minor edit | Key correct (Art VI Sec 4); fixed garbled stem wording. |
+| r3 | 1842092208 | General Information | minor edit | Key correct; added article citations; difficulty set to 1 (basic recall). |
+| r3 | 1276088687 | General Information | minor edit | Key correct (RA 6713 Sec 4(A)(b)); replaced silly distractors (corruption, bribery) with plausible non-norms. |
+| r3 | 176394152 | General Information | minor edit | Key correct; difficulty set to 1; added teaching fields. |
+| r3 | 1404617270 | General Information | minor edit | Krypton (option D) is also used to fill bulbs, a second answer; stem says 'most commonly' and D replaced with hydrogen. |
+| r3 | 1785343423 | General Information | minor edit | Key correct; difficulty set to 1; added teaching fields. |
+| r3 | 1996658139 | General Information | minor edit | Key correct; difficulty set to 1; added teaching fields. |
+| r3 | 113688723 | General Information | minor edit | Key correct; explanation adds Treaty of Manila and difficulty set to 1. |
+| r3 | 982838073 | General Information | minor edit | Key correct; difficulty set to 1; explanation adds the 1934 proclamation. |
+| r3 | 1503912089 | General Information | minor edit | Key correct; difficulty set to 1; added teaching fields. |
+| r3 | 1226545578 | Numerical Ability | minor edit | Key right; steps said '1x' and hint mentioned a multiplication that isn't there; easy item set to difficulty 1. |
+| r3 | 476202559 | Numerical Ability | minor edit | Options A (1/2) and D (6/12) were equal = two answers; D changed to 5/12. Explanation had lost × signs; hintTl was about addition. |
+| r3 | 1629422152 | Numerical Ability | minor edit | Key correct; steps reworded (same denominators already), whyC made specific, difficulty 1. |
+| r3 | 1810348430 | Numerical Ability | minor edit | Key correct but shown unsimplified as 6/6; option A changed to 1, steps fixed ('1/1'), difficulty 1. |
+| r3 | 1569990510 | Numerical Ability | minor edit | Missing units; explanation lost × ('105'); weak distractors replaced with perimeter/sum mistakes; all teaching fields added. |
+| r3 | 20506394 | Numerical Ability | minor edit | Key correct; steps made into a numbered chain; whys and explanationTl added. |
+| r3 | 195237896 | Numerical Ability | minor edit | Explanation lost the × sign ('162 = 32'); fixed and added whys and explanationTl. |
+| r3 | 1596450503 | Numerical Ability | minor edit | Key correct; random distractor 35 replaced with 40 (largest value mistake); added steps, hint, whys, Taglish; difficulty 1. |
+| r3 | 637573758 | Verbal Ability | minor edit | 'The cat jumped on the table' is also standard; stem now forces 'over' (clearing without touching). |
+| r3 | 838470859 | Verbal Ability | minor edit | Key correct; set difficulty to 1 (basic preposition); added teaching fields. |
+| r3 | 1106854031 | Verbal Ability | minor edit | Key correct; set difficulty to 1 (basic tense); added teaching fields. |
+| r3 | 1142168602 | Verbal Ability | minor edit | Option C 'Beautiful are the flowers' was a valid inversion and capital 'Flowers' misled; replaced C, lowercased the stem. |
+| r3 | 1691343255 | Verbal Ability | minor edit | Option C 'Sleeping is the cat' is an arguable inversion and capital 'Cat' misled; replaced C, lowercased the stem, fixed 'gerund' (it is a present participle). |
+| r3 | 1965033272 | Verbal Ability | minor edit | Stem was awkward, 'No implication' was a junk option and B was loosely worded; tightened B and D, same key. |
+| r3 | 868996614 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 999651903 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 576071044 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 1891877001 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 2092232111 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 1608258047 | Analytical Ability | unchanged | key correct; genders stated; added teaching fields |
+| r3 | 1165843484 | Analytical Ability | unchanged | key correct (contrapositive); added teaching fields |
+| r3 | 1384668205 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 1401712706 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 1174300165 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 1209780052 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 1694141845 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 1910354685 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r3 | 93725730 | Analytical Ability | unchanged | key correct; added missing whyX/explanationTl |
+| r3 | 2036881895 | Analytical Ability | unchanged | key correct; added missing whyX/explanationTl |
+| r3 | 259095705 | General Information | unchanged | Key correct (Art VI Sec 2); added citation and teaching fields. |
+| r3 | 951529665 | General Information | unchanged | Key correct; added teaching fields. |
+| r3 | 1497615111 | General Information | unchanged | Key correct; added teaching fields. |
+| r3 | 1734316344 | General Information | unchanged | Key correct; added teaching fields. |
+| r3 | 1822712201 | General Information | unchanged | Key correct; added teaching fields. |
+| r3 | 2132758750 | General Information | unchanged | Key correct; added teaching fields. |
+| r3 | 405853081 | Numerical Ability | unchanged | Key correct; added explanationTl. |
+| r3 | 154237621 | Numerical Ability | unchanged | Key correct; added explanationTl. |
+| r3 | 809997709 | Numerical Ability | unchanged | Key correct; added explanationTl. |
+| r3 | 1072639106 | Numerical Ability | unchanged | Key correct; added explanationTl. |
+| r3 | 1281974742 | Numerical Ability | unchanged | Key correct; added explanationTl. |
+| r3 | 36851876 | Numerical Ability | unchanged | Key correct; added whys and explanationTl. |
+| r3 | 188829606 | Numerical Ability | unchanged | Key correct; added steps, hint, whys and Taglish fields. |
+| r3 | 33274110 | Numerical Ability | unchanged | Key correct; added whys and explanationTl. |
+| r3 | 1689327113 | Numerical Ability | unchanged | Key correct; kept as the one scale-down version of this pattern; added whys and explanationTl. |
+| r3 | 14256358 | Verbal Ability | unchanged | Key correct, one answer; added teaching fields. |
+| r3 | 800041561 | Verbal Ability | unchanged | Key correct; 'news' is always singular; added teaching fields. |
+| r3 | 986518591 | Verbal Ability | unchanged | Key correct; 'scissors' is always plural; added teaching fields. |
+| r3 | 1444166743 | Verbal Ability | unchanged | Key correct; one answer; added teaching fields. |
+| r3 | 1562931377 | Verbal Ability | unchanged | Key correct; one answer; added teaching fields. |
+| r3 | 83162521 | Verbal Ability | unchanged | Key correct; distractors are all antonyms, no second synonym; added teaching fields. |
+| r3 | 200646296 | Verbal Ability | unchanged | Key correct; one synonym; added teaching fields. |
+| r3 | 1464501749 | Verbal Ability | unchanged | Key correct; one synonym; added teaching fields. |

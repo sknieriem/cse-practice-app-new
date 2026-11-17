@@ -1,0 +1,652 @@
+[
+ {
+  "id": 603358645,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "Plain was a second antonym of Fancy; replaced with Ornate (a synonym trap)",
+  "fields": {
+   "optionD": "Ornate",
+   "explanation": "Opaque and clear are opposites. The opposite of fancy is simple.",
+   "hint": "First name the relationship in the first pair, then apply it to the second.",
+   "whyB": "Complex is not the opposite of fancy; something can be both fancy and complex.",
+   "whyC": "Elegant is close to fancy in meaning, not its opposite.",
+   "whyD": "Ornate means the same as fancy; the pair needs an opposite.",
+   "explanationTl": "Magkasalungat ang opaque at clear. Kaya ang kasalungat ng fancy ay simple.",
+   "hintTl": "Alamin muna ang relationship ng unang pair, tapos i-apply sa pangalawa."
+  }
+ },
+ {
+  "id": 868996614,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "What is each tool mainly used to do?",
+   "whyB": "Writing is what a pen or pencil does, not a knife.",
+   "whyC": "Drawing repeats the pencil side of the pair.",
+   "whyD": "A knife gets sharpened; that is done to it, not its use.",
+   "explanationTl": "Ang pencil ay ginagamit sa sketching, ang knife naman ay sa cutting. Tool : gamit.",
+   "hintTl": "Ano ang pangunahing gamit ng bawat tool?"
+  }
+ },
+ {
+  "id": 999651903,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "What is the main work each person does?",
+   "whyB": "Serving is mainly a waiter's job, not the chef's main task.",
+   "whyC": "Eating is what the customer does.",
+   "whyD": "Cleaning is a side task, not what defines a chef.",
+   "explanationTl": "Ang teacher ay nag-i-instruct, ang chef naman ay nagluluto. Tao : pangunahing trabaho.",
+   "hintTl": "Ano ang pangunahing trabaho ng bawat tao?"
+  }
+ },
+ {
+  "id": 292444038,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Both/None option set banned and old key overstated; new options with one clean assumption",
+  "fields": {
+   "text": "A review center says: \"To pass the exam, students must review their notes.\" Which of the following is assumed by this statement?",
+   "optionA": "Reviewing notes guarantees passing the exam",
+   "optionB": "Reviewing notes helps students prepare for the exam",
+   "optionC": "Students who review will get a perfect score",
+   "optionD": "Students do not take notes in class",
+   "correctAnswer": "B",
+   "explanation": "Saying students must review notes to pass only makes sense if reviewing notes helps them prepare. It does not claim that reviewing alone guarantees passing.",
+   "hint": "An assumption is something the speaker must take for granted, not something stronger than what was said.",
+   "whyA": "\"Must\" makes reviewing necessary, not enough; a guarantee goes beyond the statement.",
+   "whyC": "A perfect score is a much stronger claim than passing.",
+   "whyD": "The statement takes for granted that students have notes to review, so this contradicts it.",
+   "explanationTl": "Kung sinasabing kailangang mag-review ng notes para pumasa, ina-assume na nakakatulong ang pag-review. Hindi sinasabing siguradong papasa ka dahil lang dito.",
+   "hintTl": "Ang assumption ay bagay na tinatanggap na ng nagsasalita, hindi mas malakas na claim kaysa sa sinabi niya."
+  }
+ },
+ {
+  "id": 887779386,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Both/None option set banned and old key overstated; new options with one clean assumption",
+  "fields": {
+   "text": "A puzzle club says: \"To solve puzzles, one must think logically.\" Which of the following is assumed by this statement?",
+   "optionA": "Thinking logically guarantees solving every puzzle",
+   "optionB": "Puzzles can only be solved by guessing",
+   "optionC": "Logical thinking is useful in solving puzzles",
+   "optionD": "Most people cannot think logically",
+   "correctAnswer": "C",
+   "explanation": "Saying one must think logically to solve puzzles takes for granted that logical thinking helps solve them. It does not say logic alone solves every puzzle.",
+   "hint": "Look for the idea the speaker must believe for the advice to make sense, without adding anything extra.",
+   "whyA": "\"Must\" makes logic necessary, not a guarantee for every puzzle.",
+   "whyB": "This contradicts the statement, which says logic is needed.",
+   "whyD": "The statement says nothing about how many people can think logically.",
+   "explanationTl": "Kung kailangan ang logical thinking para maka-solve ng puzzle, ina-assume na nakakatulong ito. Hindi sinasabing sigurado kang masosolve lahat dahil dito.",
+   "hintTl": "Hanapin ang idea na dapat paniwalaan ng nagsasalita para may sense ang sinabi niya, nang walang dagdag."
+  }
+ },
+ {
+  "id": 576071044,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "steps": "1. 1 = 1x1, 2 = 2x2, 3 = 3x3, 4 = 4x4.\n2. Each number is coded as its square.\n3. 5 = 5x5 = 25.",
+   "hint": "Compare each code with the number multiplied by itself.",
+   "whyB": "20 is 4x5; that rule doesn't give 1, 4, 9, 16.",
+   "whyC": "30 is 5x6; that rule would make 4 = 20, not 16.",
+   "whyD": "15 is 5x3; it fits none of the given codes.",
+   "explanationTl": "Bawat number ay naka-code bilang square niya. Kaya 5 = 5x5 = 25.",
+   "stepsTl": "1. 1 = 1x1, 2 = 2x2, 3 = 3x3, 4 = 4x4.\n2. Square ng number ang code.\n3. 5 = 5x5 = 25.",
+   "hintTl": "Ikumpara ang code sa number na i-multiply sa sarili niya."
+  }
+ },
+ {
+  "id": 1891877001,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "steps": "1. 2x2 + 1 = 5, 3x3 + 1 = 10, 4x4 + 1 = 17.\n2. The code is the square plus 1.\n3. 5x5 + 1 = 26.",
+   "hint": "Each code is just a little more than a familiar number.",
+   "whyB": "25 is 5x5 but forgets the +1.",
+   "whyC": "20 doesn't follow any rule that gives 5, 10, 17.",
+   "whyD": "22 adds 5 to 17; the gaps go 5, 7, so the next gap is 9.",
+   "explanationTl": "Ang code ay square ng number plus 1. Kaya 5x5 + 1 = 26.",
+   "stepsTl": "1. 2x2 + 1 = 5, 3x3 + 1 = 10, 4x4 + 1 = 17.\n2. Square plus 1 ang code.\n3. 5x5 + 1 = 26.",
+   "hintTl": "Medyo lampas lang ng kaunti ang bawat code sa isang kilalang number."
+  }
+ },
+ {
+  "id": 2092232111,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "steps": "1. 4x5 = 20, 5x6 = 30, 6x7 = 42.\n2. The code is n x (n + 1).\n3. 7x8 = 56.",
+   "hint": "Try multiplying each number by the number right after it.",
+   "whyB": "58 adds 16 to 42; the gaps go 10, 12, so the next gap is 14.",
+   "whyC": "60 adds 18 to 42, skipping a step in the gaps.",
+   "whyD": "62 adds 20 to 42, skipping too far.",
+   "explanationTl": "Ang code ay n x (n + 1). Kaya 7 x 8 = 56.",
+   "stepsTl": "1. 4x5 = 20, 5x6 = 30, 6x7 = 42.\n2. n x (n + 1) ang code.\n3. 7x8 = 56.",
+   "hintTl": "Subukang i-multiply ang bawat number sa kasunod niyang number."
+  }
+ },
+ {
+  "id": 1024818016,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "stem referred to a graph that isn't shown; stated the data directly with units",
+  "fields": {
+   "text": "A sari-sari store sold 300 items in Week 1, 350 items in Week 2, and 400 items in Week 3. What is the average number of items sold per week?",
+   "steps": "1. Add the three values: 300 + 350 + 400 = 1050.\n2. Divide by 3: 1050 / 3 = 350.",
+   "explanation": "The average is the total divided by the number of weeks: (300 + 350 + 400) / 3 = 350 items.",
+   "hint": "Average = total of the values / number of values.",
+   "whyA": "340 comes from a slip in the total (1,020 instead of 1,050).",
+   "whyC": "360 comes from a slip in the total (1,080 instead of 1,050).",
+   "whyD": "370 leans toward Week 3; for evenly spaced values the average is the middle one.",
+   "explanationTl": "I-add lahat tapos i-divide sa 3: 1050 / 3 = 350 items.",
+   "stepsTl": "1. I-add: 300 + 350 + 400 = 1050.\n2. I-divide sa 3: 1050 / 3 = 350.",
+   "hintTl": "Average = total ng values / bilang ng values."
+  }
+ },
+ {
+  "id": 1385056419,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "stem referred to a graph that isn't shown; stated the data directly with units",
+  "fields": {
+   "text": "A cooperative's revenue was ₱900,000 in Q1, ₱950,000 in Q2, and ₱1,000,000 in Q3. What is its average quarterly revenue, in thousands of pesos?",
+   "steps": "1. Add the three values: 900 + 950 + 1000 = 2850.\n2. Divide by 3: 2850 / 3 = 950.",
+   "explanation": "The average is the total divided by the number of quarters: (900 + 950 + 1000) / 3 = 950 thousand pesos.",
+   "hint": "Average = total of the values / number of values.",
+   "whyA": "940 comes from a slip in the total (2,820 instead of 2,850).",
+   "whyC": "960 comes from a slip in the total (2,880 instead of 2,850).",
+   "whyD": "970 leans toward Q3; for evenly spaced values the average is the middle one.",
+   "explanationTl": "I-add lahat tapos i-divide sa 3: 2850 / 3 = 950 thousand pesos.",
+   "stepsTl": "1. I-add: 900 + 950 + 1000 = 2850.\n2. I-divide sa 3: 2850 / 3 = 950.",
+   "hintTl": "Average = total ng values / bilang ng values."
+  }
+ },
+ {
+  "id": 1466426645,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "stem referred to a graph that isn't shown; stated the data directly with units",
+  "fields": {
+   "text": "A barangay seminar had 200 attendees on Day 1, 250 on Day 2, and 300 on Day 3. What is the average attendance per day?",
+   "steps": "1. Add the three values: 200 + 250 + 300 = 750.\n2. Divide by 3: 750 / 3 = 250.",
+   "explanation": "The average is the total divided by the number of days: (200 + 250 + 300) / 3 = 250 attendees.",
+   "hint": "Average = total of the values / number of values.",
+   "whyA": "240 comes from a slip in the total (720 instead of 750).",
+   "whyC": "260 comes from a slip in the total (780 instead of 750).",
+   "whyD": "270 leans toward Day 3; for evenly spaced values the average is the middle one.",
+   "explanationTl": "I-add lahat tapos i-divide sa 3: 750 / 3 = 250 attendees.",
+   "stepsTl": "1. I-add: 200 + 250 + 300 = 750.\n2. I-divide sa 3: 750 / 3 = 250.",
+   "hintTl": "Average = total ng values / bilang ng values."
+  }
+ },
+ {
+  "id": 1209863589,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "replaced silly option 'Self' with a plausible distractor",
+  "fields": {
+   "optionD": "Cousin",
+   "explanation": "X, Y and Z are siblings: Y is a sister to both. Since Z is a boy, Z is X's brother.",
+   "steps": "1. X is Y's brother and Y is Z's sister, so X, Y and Z are siblings.\n2. Z is a boy.\n3. A male sibling is a brother, so Z is X's brother.",
+   "hint": "Draw the three people as siblings, then mark each one's gender.",
+   "whyB": "Sister would need Z to be female, but Z is a boy.",
+   "whyC": "An uncle is a parent's brother; no generation change appears here.",
+   "whyD": "Cousins have different parents; here all three are siblings.",
+   "explanationTl": "Magkakapatid sina X, Y at Z. Lalaki si Z, kaya brother siya ni X.",
+   "stepsTl": "1. Kapatid ni Y si X at kapatid ni Z si Y, kaya magkakapatid silang tatlo.\n2. Lalaki si Z.\n3. Lalaking kapatid = brother, kaya brother ni X si Z.",
+   "hintTl": "I-drawing sila bilang magkakapatid, tapos lagyan ng gender ang bawat isa."
+  }
+ },
+ {
+  "id": 1608258047,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; genders stated; added teaching fields",
+  "fields": {
+   "steps": "1. J is K's brother and K is L's sister, so J, K and L are siblings.\n2. L is a girl.\n3. A female sibling is a sister, so L is J's sister.",
+   "hint": "Mark who is male and who is female, then link the siblings.",
+   "whyA": "Brother would need L to be male, but L is a girl.",
+   "whyC": "Father is a different generation and male; L is a sibling and a girl.",
+   "whyD": "Mother is a different generation; all three are siblings.",
+   "explanationTl": "Magkakapatid sina J, K at L. Babae si L, kaya sister siya ni J.",
+   "stepsTl": "1. Kapatid ni K si J at kapatid ni L si K, kaya magkakapatid sila.\n2. Babae si L.\n3. Babaeng kapatid = sister, kaya sister ni J si L.",
+   "hintTl": "Markahan kung sino ang lalaki at babae, tapos i-link ang magkakapatid."
+  }
+ },
+ {
+  "id": 1744376656,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "R's gender was not stated; added 'R is a woman' so Wife is the only answer",
+  "fields": {
+   "text": "P is Q's father. Q is R's daughter, and R is a woman. What is R to P?",
+   "explanation": "R is a woman whose daughter is Q, so R is Q's mother. Q's mother and Q's father are husband and wife, so R is P's wife.",
+   "steps": "1. Q is R's daughter, so R is Q's parent.\n2. R is a woman, so R is Q's mother.\n3. P is Q's father.\n4. The mother of P's child is P's wife.",
+   "hint": "Find R's relation to Q first, then connect it to P.",
+   "whyA": "Son would make R male and a generation below P.",
+   "whyB": "Daughter would make R a generation below P, but R is Q's parent.",
+   "whyD": "R is Q's mother, not P's mother; the relation was applied to the wrong person.",
+   "explanationTl": "Anak ni R si Q at babae si R, kaya nanay ni Q si R. Si P ang tatay ni Q, kaya asawa (wife) ni P si R.",
+   "stepsTl": "1. Anak ni R si Q, kaya magulang ni Q si R.\n2. Babae si R, kaya nanay ni Q si R.\n3. Tatay ni Q si P.\n4. Ang nanay ng anak ni P ay ang wife ni P.",
+   "hintTl": "Alamin muna kung ano si R kay Q, tapos ikonekta kay P."
+  }
+ },
+ {
+  "id": 86297828,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "True/False option set banned; replaced C/D with common-mistake reasons",
+  "fields": {
+   "text": "All roses are red. Some flowers are roses. So some flowers are red. Is the argument valid or invalid?",
+   "optionC": "Invalid, because not all flowers are roses",
+   "optionD": "Invalid, because some roses are not red in real life",
+   "explanation": "The flowers that are roses must be red, so at least some flowers are red. The conclusion is forced by the premises, so the argument is valid.",
+   "steps": "1. Some flowers are roses.\n2. All roses are red, so those flowers are red.\n3. So some flowers are red: the conclusion follows. Valid.",
+   "hint": "Judge only whether the conclusion is forced by the premises. Real-life truth doesn't matter.",
+   "whyB": "The conclusion does follow: the rose-flowers must be red.",
+   "whyC": "The conclusion only says 'some' flowers, so it doesn't need all flowers to be roses.",
+   "whyD": "Validity ignores real-life truth; accept the premises as given.",
+   "explanationTl": "Yung mga flower na rose ay siguradong red, kaya may flowers na red. Sumusunod ang conclusion, kaya valid.",
+   "stepsTl": "1. May flowers na rose.\n2. Lahat ng rose ay red, kaya red ang mga flower na iyon.\n3. Kaya may flowers na red. Valid.",
+   "hintTl": "Tingnan lang kung pilit na sumusunod ang conclusion sa premises. Hindi mahalaga kung totoo ito sa totoong buhay."
+  }
+ },
+ {
+  "id": 896911754,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "near-duplicate of other valid 'some' syllogisms and banned True/False options; rewritten as an invalid (undistributed middle) syllogism",
+  "fields": {
+   "text": "All dancers perform. Some people perform. So some people are dancers. Is the argument valid or invalid?",
+   "optionA": "Valid",
+   "optionB": "Invalid",
+   "optionC": "Valid, because the conclusion is true in real life",
+   "optionD": "Valid, because both premises are true",
+   "correctAnswer": "B",
+   "explanation": "The people who perform might be singers or actors, not dancers. Sharing the trait 'perform' does not put them among the dancers, so the conclusion is not forced: invalid.",
+   "steps": "1. Dancers are inside the group 'performers'.\n2. Some people are also inside 'performers'.\n3. Those people could be performers who are not dancers.\n4. The conclusion is not forced. Invalid.",
+   "hint": "Judge only whether the conclusion is forced by the premises. Real-life truth doesn't matter.",
+   "whyA": "Both groups being inside 'performers' doesn't make them overlap with each other.",
+   "whyC": "Real-life truth doesn't make an argument valid; only the form does.",
+   "whyD": "True premises can still lead to a conclusion that doesn't follow.",
+   "explanationTl": "Yung mga taong nagpe-perform ay puwedeng singer o actor, hindi dancer. Hindi pilit na sumusunod ang conclusion, kaya invalid.",
+   "stepsTl": "1. Ang dancers ay kasama sa 'performers'.\n2. May mga tao ring kasama sa 'performers'.\n3. Puwedeng hindi dancer ang mga taong iyon.\n4. Hindi pilit ang conclusion. Invalid.",
+   "hintTl": "Tingnan lang kung pilit na sumusunod ang conclusion sa premises. Hindi mahalaga kung totoo ito sa totoong buhay."
+  }
+ },
+ {
+  "id": 1165843484,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct (contrapositive); added teaching fields",
+  "fields": {
+   "steps": "1. Rule: if rainy, then not visit.\n2. Contrapositive: if visit, then not rainy.\n3. I will visit, so tomorrow is not rainy.",
+   "hint": "Flip and negate both parts of the if-then statement.",
+   "whyA": "If it were rainy, I would not visit; this contradicts the visit.",
+   "whyC": "Rain later is not mentioned in the rule.",
+   "whyD": "Staying home contradicts 'I will visit'.",
+   "explanationTl": "Contrapositive: kung bibisita ako, ibig sabihin hindi maulan bukas.",
+   "stepsTl": "1. Rule: kung maulan, hindi bibisita.\n2. Contrapositive: kung bibisita, hindi maulan.\n3. Bibisita ako, kaya hindi maulan bukas.",
+   "hintTl": "Baligtarin at i-negate ang dalawang bahagi ng if-then."
+  }
+ },
+ {
+  "id": 1175081634,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "fixed typos 'LaLAS'/'LaLas' to match 'Lalas' in the stem",
+  "fields": {
+   "optionA": "All Bloops are Lalas",
+   "optionB": "Some Bloops are Lalas",
+   "optionC": "No Bloops are Lalas",
+   "explanation": "The Razzies that are Lalas may or may not include any Bloops, so no conclusion about Bloops and Lalas is forced.",
+   "steps": "1. Bloops sit inside Razzies.\n2. Some Razzies are Lalas, but those may be outside the Bloops.\n3. Bloops and Lalas could overlap fully, partly or not at all.\n4. Cannot determine.",
+   "hint": "Draw circles: can you draw it once with Bloops touching Lalas and once without?",
+   "whyA": "Nothing puts every Bloop among the Lalas.",
+   "whyB": "The Lala-Razzies might all be non-Bloops, so even 'some' isn't forced.",
+   "whyC": "The Lala-Razzies might include Bloops, so 'none' isn't forced either.",
+   "explanationTl": "Yung Razzies na Lalas ay puwedeng may Bloops o wala. Walang pilit na conclusion, kaya cannot determine.",
+   "stepsTl": "1. Nasa loob ng Razzies ang Bloops.\n2. May Razzies na Lalas, pero puwedeng nasa labas ng Bloops.\n3. Puwedeng mag-overlap o hindi ang Bloops at Lalas.\n4. Cannot determine.",
+   "hintTl": "Mag-drawing ng circles: kaya mo bang i-drawing na nagtatagpo ang Bloops at Lalas, at hindi rin?"
+  }
+ },
+ {
+  "id": 1384668205,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "steps": "1. Some celestial bodies are stars.\n2. All stars shine, so those celestial bodies shine.\n3. Some celestial bodies shine.",
+   "hint": "Follow only the members you know are in both groups.",
+   "whyA": "Only some celestial bodies are stars; the rest are unknown.",
+   "whyC": "The celestial bodies that are stars must shine, so 'none' is false.",
+   "whyD": "A conclusion does follow: at least the overlapping members.",
+   "explanationTl": "Yung celestial bodies na stars ay siguradong shine. Kaya some celestial bodies shine.",
+   "stepsTl": "1. May celestial bodies na stars.\n2. Lahat ng stars ay shine, kaya shine din ang mga iyon.\n3. Some celestial bodies shine.",
+   "hintTl": "Sundan lang ang members na sigurado kang nasa parehong group."
+  }
+ },
+ {
+  "id": 1401712706,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "steps": "1. Some furniture are chairs.\n2. All chairs have legs, so those furniture have legs.\n3. Some furniture have legs.",
+   "hint": "Follow only the members you know are in both groups.",
+   "whyA": "Only some furniture are chairs; the rest are unknown.",
+   "whyC": "The furniture that are chairs must have legs, so 'none' is false.",
+   "whyD": "A conclusion does follow: at least the overlapping members.",
+   "explanationTl": "Yung furniture na chairs ay siguradong have legs. Kaya some furniture have legs.",
+   "stepsTl": "1. May furniture na chairs.\n2. Lahat ng chairs ay have legs, kaya have legs din ang mga iyon.\n3. Some furniture have legs.",
+   "hintTl": "Sundan lang ang members na sigurado kang nasa parehong group."
+  }
+ },
+ {
+  "id": 1493632564,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "near-duplicate form and banned True/False options; rewritten as a different valid form (All/No)",
+  "fields": {
+   "text": "All teachers are educators. No educator is careless. So no teacher is careless. Is the argument valid or invalid?",
+   "optionA": "Invalid, because some teachers are careless in real life",
+   "optionB": "Invalid",
+   "optionC": "Valid",
+   "optionD": "Invalid, because a premise with 'No' cannot give a conclusion",
+   "correctAnswer": "C",
+   "explanation": "Every teacher is an educator, and no educator is careless, so no teacher can be careless. The conclusion is forced: valid.",
+   "steps": "1. Teachers sit entirely inside educators.\n2. Educators and careless people never overlap.\n3. So teachers and careless people never overlap.\n4. Valid.",
+   "hint": "Judge only whether the conclusion is forced by the premises. Real-life truth doesn't matter.",
+   "whyA": "Validity ignores real life; accept the premises as given.",
+   "whyB": "The conclusion is forced, since teachers are fully inside a group with no careless members.",
+   "whyD": "One negative premise is allowed; only two negative premises give no conclusion.",
+   "explanationTl": "Lahat ng teacher ay educator, at walang educator na careless. Kaya walang teacher na careless. Valid.",
+   "stepsTl": "1. Nasa loob ng educators ang teachers.\n2. Walang educator na careless.\n3. Kaya walang teacher na careless.\n4. Valid.",
+   "hintTl": "Tingnan lang kung pilit na sumusunod ang conclusion sa premises. Hindi mahalaga kung totoo ito sa totoong buhay."
+  }
+ },
+ {
+  "id": 1632913086,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "third near-duplicate of the 'all X / some Y are X' form; rewritten to an undetermined case",
+  "fields": {
+   "text": "If all rivers flow and no lake is a river, then:",
+   "optionA": "All lakes flow",
+   "optionB": "No lakes flow",
+   "optionC": "Some lakes flow",
+   "optionD": "Cannot determine",
+   "correctAnswer": "D",
+   "explanation": "The premises say only that lakes are outside the rivers. Things outside the rivers may or may not flow, so nothing about lakes flowing is forced.",
+   "steps": "1. Rivers sit inside the group 'things that flow'.\n2. Lakes are outside the rivers.\n3. Lakes could be inside or outside 'things that flow'.\n4. Cannot determine.",
+   "hint": "Being outside a group says nothing about a bigger group that contains it.",
+   "whyA": "Not being a river doesn't make lakes flow.",
+   "whyB": "Other things besides rivers may flow; the premises don't rule lakes out.",
+   "whyC": "Even 'some' isn't forced; lakes could be completely outside the flowing things.",
+   "explanationTl": "Sinasabi lang na hindi river ang lake. Puwedeng mag-flow o hindi ang hindi-river, kaya cannot determine.",
+   "stepsTl": "1. Nasa loob ng 'things that flow' ang rivers.\n2. Nasa labas ng rivers ang lakes.\n3. Puwedeng nasa loob o labas ng 'things that flow' ang lakes.\n4. Cannot determine.",
+   "hintTl": "Kapag nasa labas ka ng isang group, wala itong sinasabi tungkol sa mas malaking group na naglalaman nito."
+  }
+ },
+ {
+  "id": 1636377641,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "'Maybe' competed with 'No'; options now carry reasons so only one is right",
+  "fields": {
+   "optionA": "Yes, because all actors are wealthy",
+   "optionB": "Yes, because Ben must be an actor",
+   "optionC": "No, because Ben may be wealthy without being an actor",
+   "optionD": "Yes, because only confident people are wealthy",
+   "correctAnswer": "C",
+   "explanation": "Being wealthy doesn't make Ben an actor, and only actors are known to be confident. So 'Ben is confident' is not undoubtedly true.",
+   "steps": "1. Actor -> confident, and actor -> wealthy.\n2. Ben is wealthy, but wealthy does not lead back to actor.\n3. Without 'Ben is an actor', nothing says Ben is confident.\n4. Not undoubtedly true.",
+   "hint": "Check whether 'wealthy' leads back to 'actor', or only the other way.",
+   "whyA": "All actors are wealthy, but not all wealthy people are actors.",
+   "whyB": "Reversing 'all actors are wealthy' is the classic error.",
+   "whyD": "The premise says only confident people are actors, not that only confident people are wealthy.",
+   "explanationTl": "Hindi porke wealthy si Ben ay actor na siya. Kaya hindi sigurado na confident siya.",
+   "stepsTl": "1. Actor -> confident, at actor -> wealthy.\n2. Wealthy si Ben, pero hindi bumabalik ang wealthy sa actor.\n3. Kung hindi alam na actor si Ben, walang sinasabing confident siya.\n4. Hindi sigurado.",
+   "hintTl": "Tingnan kung ang 'wealthy' ay bumabalik sa 'actor', o one-way lang."
+  }
+ },
+ {
+  "id": 1910565425,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "True/False option set banned; replaced B-D; explanation now covers valid-with-false-premise",
+  "fields": {
+   "text": "All birds fly. Penguins do not fly. So penguins are not birds. Is the argument valid or invalid?",
+   "optionB": "Invalid, because real penguins are birds",
+   "optionC": "Invalid, because a negative premise gives no conclusion",
+   "optionD": "Invalid",
+   "explanation": "If every bird flies and penguins don't fly, penguins cannot be birds. The first premise is false in real life, but validity only asks whether the conclusion follows, so the argument is valid.",
+   "steps": "1. Birds sit entirely inside 'things that fly'.\n2. Penguins are outside 'things that fly'.\n3. So penguins are outside 'birds'.\n4. Valid (even though premise 1 is false in real life).",
+   "hint": "Judge only whether the conclusion is forced by the premises. Real-life truth doesn't matter.",
+   "whyB": "Real-life facts don't decide validity; accept the premises as given.",
+   "whyC": "One negative premise is allowed; only two negative premises give no conclusion.",
+   "whyD": "The conclusion is forced by the premises, so it is not invalid.",
+   "explanationTl": "Kung lahat ng bird ay lumilipad at hindi lumilipad ang penguin, hindi siya bird. Mali ang premise sa totoong buhay, pero valid pa rin ang argument.",
+   "stepsTl": "1. Nasa loob ng 'things that fly' lahat ng birds.\n2. Nasa labas ng 'things that fly' ang penguins.\n3. Kaya nasa labas sila ng 'birds'.\n4. Valid (kahit mali ang premise 1 sa totoong buhay).",
+   "hintTl": "Tingnan lang kung pilit na sumusunod ang conclusion sa premises. Hindi mahalaga kung totoo ito sa totoong buhay."
+  }
+ },
+ {
+  "id": 2065221890,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "near-duplicate form and banned True/False options; rewritten as an invalid (illicit major) syllogism",
+  "fields": {
+   "text": "All architects design. No engineer is an architect. So no engineer designs. Is the argument valid or invalid?",
+   "optionA": "Valid",
+   "optionB": "Valid, because architects and engineers are different jobs",
+   "optionC": "Valid, because the conclusion uses 'No' like the second premise",
+   "optionD": "Invalid",
+   "correctAnswer": "D",
+   "explanation": "Engineers are outside the architects, but people other than architects can still design. The conclusion is not forced, so the argument is invalid.",
+   "steps": "1. Architects sit inside 'people who design'.\n2. Engineers are outside the architects.\n3. Engineers could still be inside 'people who design'.\n4. The conclusion is not forced. Invalid.",
+   "hint": "Judge only whether the conclusion is forced by the premises. Real-life truth doesn't matter.",
+   "whyA": "Not being an architect doesn't stop someone from designing.",
+   "whyB": "Different jobs can share the same activity; that doesn't force the conclusion.",
+   "whyC": "Copying the 'No' of a premise is a pattern-matching trap, not logic.",
+   "explanationTl": "Hindi architect ang engineers, pero puwede pa rin silang mag-design. Hindi pilit ang conclusion, kaya invalid.",
+   "stepsTl": "1. Nasa loob ng 'people who design' ang architects.\n2. Nasa labas ng architects ang engineers.\n3. Puwede pa ring mag-design ang engineers.\n4. Hindi pilit. Invalid.",
+   "hintTl": "Tingnan lang kung pilit na sumusunod ang conclusion sa premises. Hindi mahalaga kung totoo ito sa totoong buhay."
+  }
+ },
+ {
+  "id": 2120519826,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "near-duplicate form and banned True/False options; rewritten as a different valid form (No/Some)",
+  "fields": {
+   "text": "No pilot is afraid of heights. Some people are pilots. So some people are not afraid of heights. Is the argument valid or invalid?",
+   "optionA": "Invalid, because not all people are pilots",
+   "optionB": "Valid",
+   "optionC": "Invalid, because a negative premise gives no conclusion",
+   "optionD": "Invalid, because the conclusion should be 'No people are afraid of heights'",
+   "correctAnswer": "B",
+   "explanation": "The people who are pilots are not afraid of heights, so at least some people are not afraid of heights. The conclusion is forced: valid.",
+   "steps": "1. Some people are pilots.\n2. No pilot is afraid of heights, so those people are not afraid.\n3. Some people are not afraid of heights. Valid.",
+   "hint": "Judge only whether the conclusion is forced by the premises. Real-life truth doesn't matter.",
+   "whyA": "The conclusion only says 'some' people, so it doesn't need all people to be pilots.",
+   "whyC": "One negative premise is allowed; only two negative premises give no conclusion.",
+   "whyD": "Only some people are pilots, so 'No people' would overreach.",
+   "explanationTl": "Yung mga taong pilot ay hindi takot sa heights. Kaya may mga taong hindi takot sa heights. Valid.",
+   "stepsTl": "1. May mga taong pilot.\n2. Walang pilot na takot sa heights, kaya hindi takot ang mga iyon.\n3. May mga taong hindi takot sa heights. Valid.",
+   "hintTl": "Tingnan lang kung pilit na sumusunod ang conclusion sa premises. Hindi mahalaga kung totoo ito sa totoong buhay."
+  }
+ },
+ {
+  "id": 910327409,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "explanation said plate is for serving; clarified cutlery vs dishware",
+  "fields": {
+   "explanation": "Fork, spoon and knife are cutlery (eating utensils). A plate is dishware that holds the food.",
+   "hint": "Find the group that three of the items share, then spot the one that doesn't belong.",
+   "whyA": "Fork is cutlery like spoon and knife.",
+   "whyB": "Spoon is cutlery like fork and knife.",
+   "whyC": "Knife cuts, but it is still cutlery like fork and spoon.",
+   "explanationTl": "Cutlery ang fork, spoon at knife. Ang plate ay lalagyan ng pagkain.",
+   "hintTl": "Hanapin ang group na pareho ng tatlo, tapos hanapin ang hindi kasama."
+  }
+ },
+ {
+  "id": 1136389625,
+  "blind": "D",
+  "verdict": "key fixed",
+  "reason": "Flute (wind) was a second answer to keyed Piano (piano also has strings); set is now Guitar, Violin, Flute, Cello with Flute keyed",
+  "fields": {
+   "text": "Odd one out: Guitar, Violin, Flute, Cello",
+   "optionC": "Flute",
+   "optionD": "Cello",
+   "correctAnswer": "C",
+   "explanation": "Guitar, violin and cello are string instruments. The flute is a wind instrument.",
+   "hint": "Think about how each instrument makes its sound.",
+   "whyA": "Guitar is a string instrument like violin and cello.",
+   "whyB": "Violin is a string instrument like guitar and cello.",
+   "whyD": "Cello is bowed like the violin; it is still a string instrument.",
+   "explanationTl": "String instruments ang guitar, violin at cello. Ang flute ay wind instrument, hinihipan.",
+   "hintTl": "Isipin kung paano lumalabas ang tunog ng bawat instrument."
+  }
+ },
+ {
+  "id": 1174300165,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Find the group that three of the items share, then spot the one that doesn't belong.",
+   "whyA": "Rose is a flower like tulip and daisy.",
+   "whyB": "Tulip is a flower like rose and daisy.",
+   "whyC": "Daisy is a flower like rose and tulip.",
+   "explanationTl": "Puno ang oak; flowers naman ang iba.",
+   "hintTl": "Hanapin ang group na pareho ng tatlo, tapos hanapin ang hindi kasama."
+  }
+ },
+ {
+  "id": 1209780052,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Ask what each item does on paper.",
+   "whyA": "Pen makes marks, like pencil and marker.",
+   "whyB": "Pencil makes marks, like pen and marker.",
+   "whyC": "Marker makes marks, like pen and pencil.",
+   "explanationTl": "Ang eraser ay nagbubura; ang iba ay gumagawa ng sulat o marka.",
+   "hintTl": "Tanungin kung ano ang ginagawa ng bawat isa sa papel."
+  }
+ },
+ {
+  "id": 1694141845,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Find the group that three of the items share, then spot the one that doesn't belong.",
+   "whyA": "Book is reading material like magazine and newspaper.",
+   "whyB": "Magazine is reading material like book and newspaper.",
+   "whyC": "Newspaper is reading material like book and magazine.",
+   "explanationTl": "Pansulat ang pen; babasahin naman ang iba.",
+   "hintTl": "Hanapin ang group na pareho ng tatlo, tapos hanapin ang hindi kasama."
+  }
+ },
+ {
+  "id": 1910354685,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Think about the animal class each one belongs to.",
+   "whyA": "Dog is a mammal like cat and horse.",
+   "whyB": "Cat is a mammal like dog and horse.",
+   "whyC": "Horse is a mammal like dog and cat, even if it isn't a house pet.",
+   "explanationTl": "Mammals ang dog, cat at horse. Ang bird ay hindi mammal.",
+   "hintTl": "Isipin kung anong animal class kabilang ang bawat isa."
+  }
+ },
+ {
+  "id": 2093024008,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "tightened stem wording",
+  "fields": {
+   "text": "Odd one out: Apple, Banana, Carrot, Orange",
+   "hint": "Find the group that three of the items share, then spot the one that doesn't belong.",
+   "whyA": "Apple is a fruit like banana and orange.",
+   "whyB": "Banana is a fruit like apple and orange.",
+   "whyD": "Orange is a fruit like apple and banana.",
+   "explanationTl": "Gulay ang carrot; prutas naman ang iba.",
+   "hintTl": "Hanapin ang group na pareho ng tatlo, tapos hanapin ang hindi kasama."
+  }
+ },
+ {
+  "id": 93725730,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "key correct; added missing whyX/explanationTl",
+  "fields": {
+   "whyA": "42 adds 8 again; the gap grows by 1 each time.",
+   "whyB": "43 adds 9, repeating the last gap.",
+   "whyD": "45 adds 11, skipping a step.",
+   "explanationTl": "Ang differences ay 7, 8, 9, kaya +10 ang susunod: 34 + 10 = 44."
+  }
+ },
+ {
+  "id": 458469050,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "key was C (26); gaps 4,5,6 give +7 so 18 + 7 = 25",
+  "fields": {
+   "correctAnswer": "B",
+   "explanation": "The differences are 4, 5, 6, so the next is 7: 18 + 7 = 25.",
+   "steps": "1. Gaps: 7-3 = 4, 12-7 = 5, 18-12 = 6.\n2. The gap grows by 1, so the next gap is 7.\n3. 18 + 7 = 25.",
+   "hint": "Write the difference between neighbouring numbers. If it isn't constant, look at how the differences change.",
+   "whyA": "24 adds 6 again; the gap grows by 1 each time.",
+   "whyC": "26 adds 8, skipping a step.",
+   "whyD": "27 adds 9, skipping two steps.",
+   "explanationTl": "Ang differences ay 4, 5, 6, kaya +7 ang susunod: 18 + 7 = 25.",
+   "stepsTl": "1. Differences: 4, 5, 6.\n2. Lumalaki ng 1, kaya +7 ang susunod.\n3. 18 + 7 = 25.",
+   "hintTl": "Isulat ang difference ng magkatabing numbers. Kung hindi pare-pareho, tingnan kung paano nagbabago ang differences."
+  }
+ },
+ {
+  "id": 1623350365,
+  "blind": "C",
+  "verdict": "key fixed",
+  "reason": "key was B (39); explanation itself gives 30 + 10 = 40",
+  "fields": {
+   "correctAnswer": "C",
+   "steps": "1. Gaps: 13-6 = 7, 21-13 = 8, 30-21 = 9.\n2. The gap grows by 1, so the next gap is 10.\n3. 30 + 10 = 40.",
+   "hint": "Write the difference between neighbouring numbers. If it isn't constant, look at how the differences change.",
+   "whyA": "38 adds 8, a smaller gap than the last one.",
+   "whyB": "39 adds 9 again; the gap grows by 1 each time.",
+   "whyD": "41 adds 11, skipping a step.",
+   "explanationTl": "Ang differences ay 7, 8, 9, kaya +10 ang susunod: 30 + 10 = 40.",
+   "stepsTl": "1. Differences: 7, 8, 9.\n2. Lumalaki ng 1, kaya +10 ang susunod.\n3. 30 + 10 = 40.",
+   "hintTl": "Isulat ang difference ng magkatabing numbers. Kung hindi pare-pareho, tingnan kung paano nagbabago ang differences."
+  }
+ },
+ {
+  "id": 2036881895,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; added missing whyX/explanationTl",
+  "fields": {
+   "whyA": "34 adds 8 again; the gap grows by 1 each time.",
+   "whyC": "36 adds 10, skipping a step.",
+   "whyD": "37 adds 11, skipping two steps.",
+   "explanationTl": "Ang differences ay 6, 7, 8, kaya +9 ang susunod: 26 + 9 = 35."
+  }
+ }
+]
