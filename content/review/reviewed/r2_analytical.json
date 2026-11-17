@@ -1,0 +1,791 @@
+[
+ {
+  "id": 459095800,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Knitting also uses needles (second answer); replaced with Weaving.",
+  "fields": {
+   "optionB": "Weaving",
+   "difficulty": 1,
+   "explanation": "A brush is the tool used for painting; a needle is the tool used for sewing.",
+   "hint": "Ask: what activity is this tool mainly used for?",
+   "whyB": "Weaving is done on a loom with a shuttle, not with a needle.",
+   "whyC": "Threading is something you do TO a needle, not the activity a needle is used for.",
+   "whyD": "Cutting is done with scissors or a knife, not a needle.",
+   "explanationTl": "Ang brush ay gamit sa painting; ang needle naman ay gamit sa sewing o pananahi.",
+   "hintTl": "Tanungin mo: saan ba talaga ginagamit ang tool na 'to?"
+  }
+ },
+ {
+  "id": 545690631,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "'Telescope : observing' was weak (a telescope also magnifies); now an object-of-study pair.",
+  "fields": {
+   "text": "Microscope is to bacteria as telescope is to:",
+   "optionA": "Stars",
+   "optionB": "Lenses",
+   "optionC": "Cells",
+   "optionD": "Light",
+   "correctAnswer": "A",
+   "difficulty": 1,
+   "explanation": "A microscope is used to look at tiny things like bacteria; a telescope is used to look at faraway things like stars.",
+   "hint": "Think of what each instrument is pointed at.",
+   "whyB": "Lenses are parts of both instruments, not what a telescope is used to view.",
+   "whyC": "Cells are viewed with a microscope, not a telescope.",
+   "whyD": "Light is what both instruments collect, not the object being studied.",
+   "explanationTl": "Ang microscope ay pang-tingin sa maliliit tulad ng bacteria; ang telescope naman ay pang-tingin sa malalayo tulad ng stars.",
+   "hintTl": "Isipin mo kung saan nakatutok ang bawat instrument."
+  }
+ },
+ {
+  "id": 1097576830,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Synonym pair; key correct; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Big and large mean almost the same thing. Find the word that means almost the same as small.",
+   "whyB": "Huge is the opposite of small, not a synonym.",
+   "whyC": "Medium is in between small and large, not the same as small.",
+   "whyD": "Wide describes breadth, not smallness.",
+   "explanationTl": "Magkasingkahulugan ang big at large, kaya ang kapares ng small ay tiny.",
+   "hintTl": "Halos pareho ang meaning ng big at large. Hanapin ang kasingkahulugan ng small."
+  }
+ },
+ {
+  "id": 2061421434,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Unit-of-measure pair; key correct; added teaching fields.",
+  "fields": {
+   "hint": "Seconds is the unit of time. Which choice is the unit of energy?",
+   "whyB": "Watts measure power (energy per second), not energy itself.",
+   "whyC": "Volts measure electric potential, not energy.",
+   "whyD": "Amperes measure electric current, not energy.",
+   "explanationTl": "Ang time ay sinusukat sa seconds; ang energy naman ay sinusukat sa joules.",
+   "hintTl": "Ang seconds ay unit ng time. Alin dito ang unit ng energy?"
+  }
+ },
+ {
+  "id": 393079391,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "Both/None option set; keyed B is an entailment of 'must', not an assumption; replaced with a clean assumption item.",
+  "fields": {
+   "text": "Statement: \"Bring an umbrella when you go to the palengke this afternoon.\" Which is assumed by the speaker?",
+   "optionA": "It may rain this afternoon.",
+   "optionB": "The palengke is closed in the afternoon.",
+   "optionC": "Umbrellas are sold at the palengke.",
+   "optionD": "It rained this morning.",
+   "correctAnswer": "A",
+   "difficulty": 1,
+   "explanation": "The advice only makes sense if the speaker believes it may rain this afternoon; that unstated belief is the assumption.",
+   "hint": "Ask: why would anyone give this advice? What must they believe?",
+   "whyB": "If the palengke were closed, the speaker would not tell you to go there.",
+   "whyC": "The speaker tells you to bring an umbrella, not to buy one.",
+   "whyD": "The advice is about this afternoon; what happened this morning is not needed.",
+   "explanationTl": "May sense lang ang advice kung naniniwala ang speaker na baka umulan mamayang hapon. 'Yan ang hindi sinabi pero assumed.",
+   "hintTl": "Tanungin mo: bakit kaya niya sinabi 'yan? Ano ang pinaniniwalaan niya?"
+  }
+ },
+ {
+  "id": 509479997,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "Both/None option set with no clean assumption; replaced with a clean assumption item.",
+  "fields": {
+   "text": "Statement: \"The barangay will post the vaccination schedule on its Facebook page so residents will know when to come.\" Which is assumed?",
+   "optionA": "Many residents check the barangay's Facebook page.",
+   "optionB": "Residents dislike vaccines.",
+   "optionC": "The schedule will change every week.",
+   "optionD": "The health center has no bulletin board.",
+   "correctAnswer": "A",
+   "explanation": "Posting on Facebook can only inform residents if many of them actually see the barangay's page.",
+   "hint": "For the plan to work, what must be true about the residents?",
+   "whyB": "The plan is about informing residents, and nothing in it assumes they dislike vaccines.",
+   "whyC": "Nothing in the plan depends on the schedule changing.",
+   "whyD": "The barangay can use Facebook even if a bulletin board exists.",
+   "explanationTl": "Para gumana ang plano, dapat marami sa residents ang nakakakita ng Facebook page ng barangay.",
+   "hintTl": "Para mag-work ang plano, ano ang dapat totoo tungkol sa mga residents?"
+  }
+ },
+ {
+  "id": 773023119,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "Both/None option set with no clean assumption; replaced with a clean assumption item.",
+  "fields": {
+   "text": "Statement: \"To reduce late arrivals, the office will give a small reward to employees with perfect attendance.\" Which is assumed?",
+   "optionA": "Most employees are late every day.",
+   "optionB": "The office has a very large budget.",
+   "optionC": "Rewards can motivate employees to come on time.",
+   "optionD": "Late employees will be dismissed.",
+   "correctAnswer": "C",
+   "explanation": "The plan expects the reward to change behavior, so it assumes rewards can motivate employees to be punctual.",
+   "hint": "The plan links a reward to being on time. What belief connects the two?",
+   "whyA": "The plan only needs some late arrivals to reduce, not that most employees are late daily.",
+   "whyB": "The reward is described as small, so a large budget is not needed.",
+   "whyD": "The statement uses a reward, not a penalty; dismissal is never implied.",
+   "explanationTl": "Umaasa ang plano na mababago ng reward ang ugali, kaya assumed na kaya ng reward na i-motivate ang employees na pumasok on time.",
+   "hintTl": "Reward ang solusyon sa pagiging late. Anong paniniwala ang nagdudugtong sa dalawa?"
+  }
+ },
+ {
+  "id": 927696584,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "Both/None option set; 'guarantee' and 'leads to failure' options were not clean assumptions; replaced.",
+  "fields": {
+   "text": "Statement: \"Review your CSE reviewer every night so you will pass the exam.\" Which is assumed?",
+   "optionA": "The exam is easy.",
+   "optionB": "Everyone who reviews nightly will pass.",
+   "optionC": "The reviewer is free.",
+   "optionD": "Regular reviewing helps a person do better on the exam.",
+   "correctAnswer": "D",
+   "explanation": "The advice assumes that reviewing regularly improves exam performance; it does not need to assume a guaranteed pass.",
+   "hint": "Watch out for options that claim too much, like a guarantee.",
+   "whyA": "If the exam were easy, nightly review would not be needed.",
+   "whyB": "This overstates it; the advice assumes reviewing helps, not that it guarantees passing.",
+   "whyC": "Cost is never part of the advice.",
+   "explanationTl": "Assumed ng advice na nakakatulong ang regular na pag-review para gumaling sa exam. Hindi kailangang i-assume na sure pass agad.",
+   "hintTl": "Ingat sa options na sobra ang claim, tulad ng 'guaranteed' o 'everyone'."
+  }
+ },
+ {
+  "id": 1889889922,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "Both/None option set with no clean assumption; replaced with a clean assumption item.",
+  "fields": {
+   "text": "Statement: \"The company advertised its job opening in a national newspaper to attract qualified applicants.\" Which is assumed?",
+   "optionA": "The company has never hired anyone before.",
+   "optionB": "Some qualified job seekers read that newspaper.",
+   "optionC": "Only newspaper readers are qualified.",
+   "optionD": "Online job ads never work.",
+   "correctAnswer": "B",
+   "explanation": "Advertising there can only attract qualified applicants if at least some qualified job seekers read that newspaper.",
+   "hint": "For the ad to reach the right people, who must be reading the newspaper?",
+   "whyA": "The company's hiring history has nothing to do with where it advertises.",
+   "whyC": "Too extreme; the plan only needs some qualified readers, not that all qualified people read it.",
+   "whyD": "Choosing a newspaper does not mean the company thinks online ads never work.",
+   "explanationTl": "Para may maakit na qualified applicants, dapat may mga qualified job seekers na nagbabasa ng newspaper na 'yon.",
+   "hintTl": "Para maabot ng ad ang tamang tao, sino ang dapat nagbabasa ng newspaper?"
+  }
+ },
+ {
+  "id": 462475914,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key 36 correct, but explanation computed 27; fixed explanation and added steps.",
+  "fields": {
+   "explanation": "The values grow by 8, then 10, so the next jump is 12: 24 + 12 = 36. (Rule: n x (n + 5).)",
+   "steps": "1. Differences: 14 - 6 = 8, 24 - 14 = 10.\n2. The differences grow by 2, so the next is 12.\n3. 24 + 12 = 36.\n4. Check with the rule n x (n + 5): 4 x 9 = 36.",
+   "hint": "Look at how much each value increases, then see how the increases change.",
+   "whyA": "34 adds 10 again; the jumps grow by 2 each time, so the next jump is 12.",
+   "whyB": "35 adds 11; the jumps are even numbers growing by 2 (8, 10, 12).",
+   "whyD": "37 adds 13; the jumps are even numbers growing by 2.",
+   "explanationTl": "Lumalaki ng 8, tapos 10, kaya 12 ang susunod: 24 + 12 = 36. (Rule: n x (n + 5).)",
+   "stepsTl": "1. Pagitan: 14 - 6 = 8, 24 - 14 = 10.\n2. Nadadagdagan ng 2 ang pagitan, kaya 12 ang susunod.\n3. 24 + 12 = 36.\n4. I-check: 4 x 9 = 36.",
+   "hintTl": "Tingnan kung magkano ang dagdag sa bawat isa, tapos kung paano nagbabago ang dagdag."
+  }
+ },
+ {
+  "id": 642088610,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key 52 correct, but stated formula n^2+4n+7 gives 19 for n=2; fixed explanation and added steps.",
+  "fields": {
+   "explanation": "The values grow by 11, then 13, so the next jump is 15: 37 + 15 = 52. (Rule: n x n + 6n - 3.)",
+   "steps": "1. Differences: 24 - 13 = 11, 37 - 24 = 13.\n2. The differences grow by 2, so the next is 15.\n3. 37 + 15 = 52.\n4. Check with n x n + 6n - 3: 25 + 30 - 3 = 52.",
+   "hint": "Find the differences between consecutive values and look at how they change.",
+   "whyA": "50 adds 13 again; the jumps grow by 2, so the next one is 15.",
+   "whyB": "51 adds 14; the jumps are odd numbers growing by 2.",
+   "whyD": "53 adds 16; the next jump after 13 is 15, not 16.",
+   "explanationTl": "Lumalaki ng 11, tapos 13, kaya 15 ang susunod: 37 + 15 = 52.",
+   "stepsTl": "1. Pagitan: 24 - 13 = 11, 37 - 24 = 13.\n2. Nadadagdagan ng 2, kaya 15 ang susunod.\n3. 37 + 15 = 52.\n4. I-check: 25 + 30 - 3 = 52.",
+   "hintTl": "Kunin ang pagitan ng magkakasunod na values at tingnan kung paano nagbabago."
+  }
+ },
+ {
+  "id": 1102036996,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key 35 correct, but stated formula n^2+n+4 gives 10 for n=2; fixed explanation and added steps.",
+  "fields": {
+   "explanation": "Each value is n x (n + 2): 2 x 4 = 8, 3 x 5 = 15, 4 x 6 = 24, so 5 x 7 = 35.",
+   "steps": "1. Test 2: 2 x 4 = 8.\n2. Test 3: 3 x 5 = 15; test 4: 4 x 6 = 24.\n3. Rule: n x (n + 2).\n4. 5 x 7 = 35.",
+   "hint": "Try multiplying the number by something close to it.",
+   "whyA": "32 adds 8; the jumps are 7, 9, so the next jump is 11.",
+   "whyC": "36 is (5 + 1) squared; the rule is n x (n + 2), which gives 35.",
+   "whyD": "38 adds 14; after jumps of 7 and 9 the next is 11.",
+   "explanationTl": "Bawat value ay n x (n + 2): 2 x 4 = 8, 3 x 5 = 15, 4 x 6 = 24, kaya 5 x 7 = 35.",
+   "stepsTl": "1. 2 x 4 = 8.\n2. 3 x 5 = 15; 4 x 6 = 24.\n3. Rule: n x (n + 2).\n4. 5 x 7 = 35.",
+   "hintTl": "Subukang i-multiply ang number sa number na malapit sa kanya."
+  }
+ },
+ {
+  "id": 1786808757,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "Key C (48) wrong; explanation's rule fails at n=3 and gives 54; correct answer is 47 (B).",
+  "fields": {
+   "correctAnswer": "B",
+   "explanation": "The values grow by 9, then 11, so the next jump is 13: 34 + 13 = 47. (Rule: n x n + 2n - 1.)",
+   "steps": "1. Differences: 23 - 14 = 9, 34 - 23 = 11.\n2. The differences grow by 2, so the next is 13.\n3. 34 + 13 = 47.\n4. Check with n x n + 2n - 1: 36 + 12 - 1 = 47.",
+   "hint": "Find the differences between consecutive values and see how they change.",
+   "whyA": "46 adds 12; the jumps are odd numbers (9, 11, 13).",
+   "whyC": "48 adds 14; after jumps of 9 and 11 the next is 13.",
+   "whyD": "49 is 7 x 7; the values follow growing jumps, not perfect squares.",
+   "explanationTl": "Lumalaki ng 9, tapos 11, kaya 13 ang susunod: 34 + 13 = 47.",
+   "stepsTl": "1. Pagitan: 23 - 14 = 9, 34 - 23 = 11.\n2. Nadadagdagan ng 2, kaya 13 ang susunod.\n3. 34 + 13 = 47.\n4. I-check: 36 + 12 - 1 = 47.",
+   "hintTl": "Kunin ang pagitan ng magkakasunod at tingnan kung paano lumalaki."
+  }
+ },
+ {
+  "id": 59516148,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; removed reference to a graph that is not shown; added teaching fields.",
+  "fields": {
+   "text": "A store's weekly sales were: Week 1, 600 units; Week 2, 650 units; Week 3, 700 units. What is the average weekly sales?",
+   "difficulty": 1,
+   "steps": "1. Add: 600 + 650 + 700 = 1,950.\n2. Divide by 3 weeks: 1,950 / 3 = 650.",
+   "hint": "Average = total divided by the number of weeks.",
+   "whyA": "640 is too low; 640 x 3 = 1,920, not 1,950.",
+   "whyC": "660 is too high; 660 x 3 = 1,980, not 1,950.",
+   "whyD": "670 is too high; 670 x 3 = 2,010, not 1,950.",
+   "explanationTl": "(600 + 650 + 700) / 3 = 1,950 / 3 = 650.",
+   "stepsTl": "1. Pagsamahin: 600 + 650 + 700 = 1,950.\n2. Hatiin sa 3: 650.",
+   "hintTl": "Average = total na hinati sa bilang ng weeks."
+  }
+ },
+ {
+  "id": 135614298,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate average item (same 400/450/500 as 842249061); replaced with a percent-change item.",
+  "fields": {
+   "text": "A sari-sari store's daily sales were: Monday P1,200; Tuesday P1,500; Wednesday P1,000; Thursday P1,400. By what percent did sales increase from Wednesday to Thursday?",
+   "optionA": "28.6%",
+   "optionB": "30%",
+   "optionC": "35%",
+   "optionD": "40%",
+   "correctAnswer": "D",
+   "explanation": "The increase is P1,400 - P1,000 = P400, and 400 / 1,000 = 40%.",
+   "steps": "1. Increase: 1,400 - 1,000 = 400.\n2. Divide by the starting value (Wednesday): 400 / 1,000 = 0.40.\n3. 0.40 = 40%.",
+   "hint": "Percent increase is always computed against the starting (earlier) value.",
+   "whyA": "28.6% divides 400 by Thursday's P1,400; percent increase uses the starting value.",
+   "whyB": "30% would need an increase of only P300.",
+   "whyC": "35% would need an increase of P350.",
+   "explanationTl": "Tumaas ng P400 (1,400 - 1,000), at 400 / 1,000 = 40%.",
+   "stepsTl": "1. Dagdag: 1,400 - 1,000 = 400.\n2. Hatiin sa starting value: 400 / 1,000 = 0.40.\n3. 40%.",
+   "hintTl": "Ang percent increase ay laging kinukuha base sa starting o naunang value."
+  }
+ },
+ {
+  "id": 842249061,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Exact numeric duplicate of 135614298 (400/450/500 average); replaced with a percent-of-total item.",
+  "fields": {
+   "text": "An office's quarterly expenses were: Q1 P40,000; Q2 P45,000; Q3 P50,000; Q4 P65,000. What percent of the year's total expenses was spent in Q4?",
+   "optionA": "25%",
+   "optionB": "30%",
+   "optionC": "32.5%",
+   "optionD": "35%",
+   "correctAnswer": "C",
+   "explanation": "The yearly total is P200,000, and 65,000 / 200,000 = 32.5%.",
+   "steps": "1. Total: 40,000 + 45,000 + 50,000 + 65,000 = 200,000.\n2. Q4 share: 65,000 / 200,000 = 0.325.\n3. 0.325 = 32.5%.",
+   "hint": "First get the total for all four quarters.",
+   "whyA": "25% assumes all quarters are equal; Q4 spent more than the others.",
+   "whyB": "30% would need Q4 to be P60,000.",
+   "whyD": "35% would need Q4 to be P70,000.",
+   "explanationTl": "Ang total ay P200,000, at 65,000 / 200,000 = 32.5%.",
+   "stepsTl": "1. Total: 40,000 + 45,000 + 50,000 + 65,000 = 200,000.\n2. 65,000 / 200,000 = 0.325.\n3. 32.5%.",
+   "hintTl": "Kunin muna ang total ng apat na quarters."
+  }
+ },
+ {
+  "id": 1472321946,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of the other average items; replaced with a trend-projection item.",
+  "fields": {
+   "text": "A school's enrollment was 800 in 2021, 850 in 2022, and 900 in 2023. If enrollment keeps rising by the same amount each year, what will it be in 2026?",
+   "optionA": "1,050",
+   "optionB": "1,000",
+   "optionC": "1,100",
+   "optionD": "950",
+   "correctAnswer": "A",
+   "explanation": "Enrollment rises by 50 a year; 2026 is three years after 2023, so 900 + 3 x 50 = 1,050.",
+   "steps": "1. Yearly increase: 850 - 800 = 50; 900 - 850 = 50.\n2. Years from 2023 to 2026: 3.\n3. 900 + 3 x 50 = 1,050.",
+   "hint": "Count the years carefully from the last value given.",
+   "whyB": "1,000 is the 2025 figure; 2026 is one more year.",
+   "whyC": "1,100 adds four years of growth; 2023 to 2026 is only three.",
+   "whyD": "950 is the 2024 figure.",
+   "explanationTl": "Tumataas ng 50 kada taon. Tatlong taon mula 2023 hanggang 2026, kaya 900 + 150 = 1,050.",
+   "stepsTl": "1. Dagdag kada taon: 50.\n2. Mula 2023 hanggang 2026: 3 taon.\n3. 900 + 3 x 50 = 1,050.",
+   "hintTl": "Bilangin nang maigi ang taon mula sa huling value."
+  }
+ },
+ {
+  "id": 93208581,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "T's gender never stated; stated it and reworded the stem.",
+  "fields": {
+   "text": "R is S's father. S is the daughter of T, who is a woman. How is T related to R?",
+   "explanation": "S's father is R and S's other parent T is a woman, so T is S's mother and R's wife.",
+   "steps": "1. R is S's father.\n2. T is also S's parent and is a woman, so T is S's mother.\n3. S's mother is the wife of S's father.\n4. T is R's wife.",
+   "hint": "S has two parents. One is R. Who is the other?",
+   "whyA": "T is stated to be a woman, so T cannot be a son.",
+   "whyB": "T is S's parent, so T is in R's generation, not R's daughter.",
+   "whyD": "T is S's mother, not R's mother; R's mother would be S's grandmother.",
+   "explanationTl": "Si R ang tatay ni S, at babae si T na magulang din ni S, kaya si T ang nanay ni S at asawa ni R.",
+   "stepsTl": "1. Si R ang tatay ni S.\n2. Si T ay magulang din ni S at babae, kaya nanay siya ni S.\n3. Ang nanay ni S ay asawa ng tatay ni S.\n4. Si T ay wife ni R.",
+   "hintTl": "Dalawa ang magulang ni S. Si R ang isa. Sino ang isa pa?"
+  }
+ },
+ {
+  "id": 1388460149,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 93208581 and W's gender never stated; replaced with a grandparent item.",
+  "fields": {
+   "text": "Lorna is the only daughter of Mr. and Mrs. Cruz. Paolo is Lorna's son. How is Mrs. Cruz related to Paolo?",
+   "optionA": "Aunt",
+   "optionB": "Grandmother",
+   "optionC": "Mother",
+   "optionD": "Sister",
+   "correctAnswer": "B",
+   "explanation": "Mrs. Cruz is Lorna's mother, and Lorna is Paolo's mother, so Mrs. Cruz is Paolo's grandmother.",
+   "steps": "1. Mrs. Cruz is Lorna's mother.\n2. Lorna is Paolo's mother.\n3. The mother of Paolo's mother is his grandmother.\n4. Mrs. Cruz is Paolo's grandmother.",
+   "hint": "Go one generation up from Paolo, then one more.",
+   "whyA": "An aunt is a parent's sister; Mrs. Cruz is Lorna's mother, not her sister.",
+   "whyC": "Paolo's mother is Lorna, not Mrs. Cruz.",
+   "whyD": "Mrs. Cruz is two generations above Paolo, not in his generation.",
+   "explanationTl": "Si Mrs. Cruz ang nanay ni Lorna, at si Lorna ang nanay ni Paolo, kaya lola ni Paolo si Mrs. Cruz.",
+   "stepsTl": "1. Nanay ni Lorna si Mrs. Cruz.\n2. Nanay ni Paolo si Lorna.\n3. Ang nanay ng nanay ay lola.\n4. Lola ni Paolo si Mrs. Cruz.",
+   "hintTl": "Umakyat ng isang generation mula kay Paolo, tapos isa pa."
+  }
+ },
+ {
+  "id": 1612824738,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 93208581 and Q's gender never stated; replaced with a pointing-to item.",
+  "fields": {
+   "text": "Ana, a woman, points to a man and says, \"His mother is the only daughter of my mother.\" How is Ana related to the man?",
+   "optionA": "Sister",
+   "optionB": "Aunt",
+   "optionC": "Mother",
+   "optionD": "Grandmother",
+   "correctAnswer": "C",
+   "explanation": "Ana is a woman, so the only daughter of Ana's mother is Ana herself; the man's mother is therefore Ana.",
+   "steps": "1. 'My mother' = Ana's mother.\n2. Ana is a woman, so she is a daughter of her mother.\n3. Her mother has only one daughter, so that daughter is Ana.\n4. The man's mother is Ana, so Ana is his mother.",
+   "hint": "Ana is a woman. Who is the only daughter of Ana's mother?",
+   "whyA": "If Ana were his sister, his mother would be Ana's mother, but the statement makes his mother Ana's mother's daughter.",
+   "whyB": "Aunt would need Ana's mother to have another daughter; she has only one, and that is Ana.",
+   "whyD": "Ana's mother would be his grandmother, not Ana.",
+   "explanationTl": "Babae si Ana, kaya ang only daughter ng nanay niya ay si Ana mismo. Ibig sabihin, si Ana ang nanay ng lalaki.",
+   "stepsTl": "1. 'My mother' = nanay ni Ana.\n2. Babae si Ana, kaya anak na babae siya ng nanay niya.\n3. Isa lang ang anak na babae, kaya si Ana 'yon.\n4. Si Ana ang nanay ng lalaki.",
+   "hintTl": "Babae si Ana. Sino ang nag-iisang anak na babae ng nanay ni Ana?"
+  }
+ },
+ {
+  "id": 1987065153,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct, but 'F is a girl' plus three male options gave the answer away; replaced distractors.",
+  "fields": {
+   "optionB": "Granddaughter",
+   "optionC": "Niece",
+   "optionD": "Sister",
+   "explanation": "E is D's child and F is E's sister, so F is also D's child; since F is a girl, F is D's daughter.",
+   "steps": "1. D is E's mother, so E is D's child.\n2. F is E's sister, so F has the same mother, D.\n3. F is a girl.\n4. F is D's daughter.",
+   "hint": "Siblings share the same mother.",
+   "whyB": "A granddaughter is a child's child; F is D's own child.",
+   "whyC": "A niece is a sibling's child; F is D's own child.",
+   "whyD": "F is E's sister, not D's; D is one generation above F.",
+   "explanationTl": "Anak ni D si E, at kapatid ni E si F, kaya anak din ni D si F. Babae si F, kaya daughter siya ni D.",
+   "stepsTl": "1. Nanay ni E si D.\n2. Kapatid ni E si F, kaya pareho sila ng nanay.\n3. Babae si F.\n4. Daughter ni D si F.",
+   "hintTl": "Ang magkapatid ay pareho ng nanay."
+  }
+ },
+ {
+  "id": 64955796,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Valid syllogism, one answer; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. All animals breathe.\n2. Some creatures are animals.\n3. Those creatures are animals, so they breathe.\n4. Some creatures breathe.",
+   "hint": "Focus on the creatures that are animals. What do you know about them?",
+   "whyA": "Only some creatures are known to be animals; the premises say nothing about the rest.",
+   "whyC": "The creatures that are animals do breathe, so this contradicts the premises.",
+   "whyD": "A definite conclusion can be drawn: the creatures that are animals breathe.",
+   "explanationTl": "Lahat ng animals ay humihinga, at ilang creatures ay animals, kaya humihinga ang mga 'yon: some creatures breathe.",
+   "stepsTl": "1. Lahat ng animals ay humihinga.\n2. Ilang creatures ay animals.\n3. Kaya humihinga ang mga 'yon.\n4. Some creatures breathe.",
+   "hintTl": "Tingnan ang mga creatures na animals. Ano ang alam mo tungkol sa kanila?"
+  }
+ },
+ {
+  "id": 161847378,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 64955796 (same 'all X / some Y are X' form); replaced with a 'No' syllogism.",
+  "fields": {
+   "text": "No houses are tents. All bungalows are houses. Which of the following must be true?",
+   "optionA": "Some tents are bungalows.",
+   "optionB": "All houses are bungalows.",
+   "optionC": "No bungalows are tents.",
+   "optionD": "Some houses are tents.",
+   "correctAnswer": "C",
+   "explanation": "Every bungalow is a house, and no house is a tent, so no bungalow can be a tent.",
+   "steps": "1. All bungalows are houses.\n2. No houses are tents.\n3. So nothing that is a bungalow can be a tent.\n4. No bungalows are tents.",
+   "hint": "Bungalows are inside the 'houses' group. Does that group overlap with tents?",
+   "whyA": "Bungalows are houses, and no house is a tent, so no tent can be a bungalow.",
+   "whyB": "The premises say all bungalows are houses, not the reverse.",
+   "whyD": "This directly contradicts 'No houses are tents.'",
+   "explanationTl": "Lahat ng bungalows ay houses, at walang house na tent, kaya walang bungalow na tent.",
+   "stepsTl": "1. Lahat ng bungalows ay houses.\n2. Walang house na tent.\n3. Kaya walang bungalow na tent.",
+   "hintTl": "Nasa loob ng 'houses' ang bungalows. May overlap ba ang houses at tents?"
+  }
+ },
+ {
+  "id": 620005274,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Valid/Invalid/True/False option set (conclusion is also 'True'); replaced with an ordering item.",
+  "fields": {
+   "text": "Ana is taller than Ben. Carlo is shorter than Ben. Dina is taller than Ana. Who is the shortest?",
+   "optionA": "Ana",
+   "optionB": "Ben",
+   "optionC": "Dina",
+   "optionD": "Carlo",
+   "correctAnswer": "D",
+   "difficulty": 1,
+   "explanation": "The order from tallest is Dina, Ana, Ben, Carlo, so Carlo is the shortest.",
+   "steps": "1. Ana > Ben.\n2. Ben > Carlo.\n3. Dina > Ana.\n4. Order: Dina > Ana > Ben > Carlo.\n5. Shortest: Carlo.",
+   "hint": "Line them up from tallest to shortest one clue at a time.",
+   "whyA": "Ana is taller than Ben, so she cannot be the shortest.",
+   "whyB": "Ben is taller than Carlo.",
+   "whyC": "Dina is the tallest of the four.",
+   "explanationTl": "Ang ayos mula pinakamatangkad: Dina, Ana, Ben, Carlo. Kaya si Carlo ang pinakamaliit.",
+   "stepsTl": "1. Ana > Ben.\n2. Ben > Carlo.\n3. Dina > Ana.\n4. Dina > Ana > Ben > Carlo.\n5. Pinakamaliit: Carlo.",
+   "hintTl": "Ihanay sila mula pinakamatangkad, isa-isang clue."
+  }
+ },
+ {
+  "id": 843201365,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Valid/Invalid/True/False option set; near-duplicate valid syllogism; replaced with an age-ordering item.",
+  "fields": {
+   "text": "Liza is older than Mia but younger than Nora. Olive is older than Nora. Who is the second oldest?",
+   "optionA": "Nora",
+   "optionB": "Olive",
+   "optionC": "Liza",
+   "optionD": "Mia",
+   "correctAnswer": "A",
+   "explanation": "The order from oldest is Olive, Nora, Liza, Mia, so Nora is the second oldest.",
+   "steps": "1. Nora > Liza > Mia.\n2. Olive > Nora.\n3. Order: Olive > Nora > Liza > Mia.\n4. Second oldest: Nora.",
+   "hint": "Build the order from oldest to youngest, then count to the second place.",
+   "whyB": "Olive is the oldest, not the second oldest.",
+   "whyC": "Liza is third; both Olive and Nora are older.",
+   "whyD": "Mia is the youngest.",
+   "explanationTl": "Ang ayos mula pinakamatanda: Olive, Nora, Liza, Mia. Kaya si Nora ang second oldest.",
+   "stepsTl": "1. Nora > Liza > Mia.\n2. Olive > Nora.\n3. Olive > Nora > Liza > Mia.\n4. Second oldest: Nora.",
+   "hintTl": "Ihanay mula pinakamatanda hanggang pinakabata, tapos bilangin ang pangalawa."
+  }
+ },
+ {
+  "id": 961695495,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Valid/Invalid/True/False option set; near-duplicate; replaced with an 'only if' conditional item.",
+  "fields": {
+   "text": "A student may join the varsity team only if she passed the tryout. Grace joined the varsity team. Which must be true?",
+   "optionA": "Grace did not take the tryout.",
+   "optionB": "Grace is the team captain.",
+   "optionC": "Everyone who passed the tryout joined the team.",
+   "optionD": "Grace passed the tryout.",
+   "correctAnswer": "D",
+   "explanation": "'Only if' makes passing the tryout a requirement for joining, so Grace, who joined, must have passed.",
+   "steps": "1. Joining the team requires passing the tryout.\n2. Grace joined.\n3. So Grace met the requirement.\n4. Grace passed the tryout.",
+   "hint": "'Only if' names a requirement. Did Grace meet it?",
+   "whyB": "Nothing in the statements is about who leads the team.",
+   "whyC": "Passing is required for joining, but that does not mean every passer joined.",
+   "whyA": "She could not have joined without passing the tryout.",
+   "explanationTl": "Ang 'only if' ay requirement. Dahil nakasali si Grace, siguradong pumasa siya sa tryout.",
+   "stepsTl": "1. Requirement sa pagsali: pumasa sa tryout.\n2. Sumali si Grace.\n3. Kaya pasado siya sa requirement.\n4. Pumasa si Grace sa tryout.",
+   "hintTl": "Ang 'only if' ay nagsasabi ng requirement. Na-meet ba ni Grace?"
+  }
+ },
+ {
+  "id": 1313182667,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 64955796; replaced with a 'denying the consequent' item.",
+  "fields": {
+   "text": "All insects have six legs. Spiders do not have six legs. Which conclusion follows?",
+   "optionA": "Spiders are insects.",
+   "optionB": "Spiders are not insects.",
+   "optionC": "Some insects are spiders.",
+   "optionD": "Some spiders have six legs.",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "Anything that is an insect has six legs; spiders lack six legs, so spiders cannot be insects.",
+   "steps": "1. If something is an insect, it has six legs.\n2. Spiders do not have six legs.\n3. So spiders are not insects.",
+   "hint": "If being an insect means having six legs, what does lacking six legs tell you?",
+   "whyA": "An insect must have six legs, and spiders do not.",
+   "whyC": "No spider can be an insect, so no insect is a spider.",
+   "whyD": "This contradicts 'Spiders do not have six legs.'",
+   "explanationTl": "Lahat ng insects ay may anim na paa. Walang anim na paa ang spiders, kaya hindi sila insects.",
+   "stepsTl": "1. Kapag insect, may anim na paa.\n2. Walang anim na paa ang spiders.\n3. Kaya hindi insects ang spiders.",
+   "hintTl": "Kung ang insect ay laging may anim na paa, ano ang ibig sabihin kapag wala?"
+  }
+ },
+ {
+  "id": 1336245471,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 64955796 (and odd premise 'all clouds bring rain'); replaced with a chain conditional.",
+  "fields": {
+   "text": "If it rains, the game will be cancelled. If the game is cancelled, the players will go home early. It rained. Which must be true?",
+   "optionA": "The players stayed until evening.",
+   "optionB": "The game was played.",
+   "optionC": "It will rain again tomorrow.",
+   "optionD": "The players went home early.",
+   "correctAnswer": "D",
+   "explanation": "Rain leads to cancellation, and cancellation leads to the players going home early; it rained, so the players went home early.",
+   "steps": "1. Rain -> game cancelled.\n2. Game cancelled -> players go home early.\n3. It rained, so the game was cancelled.\n4. So the players went home early.",
+   "hint": "Follow the chain of 'if... then' one link at a time.",
+   "whyB": "Rain means the game was cancelled, not played.",
+   "whyC": "Nothing is said about tomorrow's weather.",
+   "whyA": "The chain says the players went home early, not that they stayed.",
+   "explanationTl": "Umulan, kaya cancelled ang game, kaya umuwi nang maaga ang players.",
+   "stepsTl": "1. Ulan -> cancelled ang game.\n2. Cancelled -> uuwi nang maaga ang players.\n3. Umulan, kaya cancelled.\n4. Kaya umuwi nang maaga ang players.",
+   "hintTl": "Sundan ang chain ng 'if... then' isa-isa."
+  }
+ },
+ {
+  "id": 1529806093,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "Key A (Valid) wrong: 'some students are scholars' does not make all scholars students; also replaced True/False options.",
+  "fields": {
+   "correctAnswer": "B",
+   "text": "All students study. Some students are scholars. Conclusion: All scholars study. The conclusion is:",
+   "optionA": "Valid, because scholars are students",
+   "optionB": "Invalid, because some scholars may not be students",
+   "optionC": "Invalid, because some students may not study",
+   "optionD": "Valid, because students and scholars are the same group",
+   "explanation": "Only some students are known to be scholars; scholars who are not students are not covered by 'all students study', so the conclusion does not follow.",
+   "steps": "1. All students study.\n2. Some students are scholars: only part of the scholars group is known to be students.\n3. Scholars outside the students group are not covered by premise 1.\n4. 'All scholars study' does not follow: invalid.",
+   "hint": "Is every scholar known to be a student?",
+   "whyA": "The premises only say some students are scholars, not that every scholar is a student.",
+   "whyC": "This contradicts the premise 'All students study.'",
+   "whyD": "'Some students are scholars' does not make the two groups identical.",
+   "explanationTl": "Ilan lang sa students ang scholars. 'Yung scholars na hindi students, hindi sakop ng 'all students study', kaya invalid ang conclusion.",
+   "stepsTl": "1. Lahat ng students ay nag-aaral.\n2. Ilan sa students ay scholars.\n3. 'Yung scholars na hindi students, hindi sakop ng premise 1.\n4. Hindi sigurado na lahat ng scholars ay nag-aaral: invalid.",
+   "hintTl": "Sigurado ba na lahat ng scholars ay students?"
+  }
+ },
+ {
+  "id": 1690573639,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 64955796; replaced with a modus tollens item.",
+  "fields": {
+   "text": "Whenever the store is open, its lights are on. The lights are off. Which must be true?",
+   "optionA": "The store is open.",
+   "optionB": "The store is closed.",
+   "optionC": "The lights are broken.",
+   "optionD": "The owner is on vacation.",
+   "correctAnswer": "B",
+   "explanation": "An open store always has its lights on; the lights are off, so the store cannot be open.",
+   "steps": "1. Open -> lights on.\n2. Lights are off.\n3. If the store were open, the lights would be on.\n4. So the store is closed.",
+   "hint": "If 'open' always means 'lights on', what does 'lights off' tell you?",
+   "whyA": "If the store were open, the lights would be on.",
+   "whyC": "Possible, but not required; the statements do not say why the lights are off.",
+   "whyD": "Possible, but nothing in the statements requires it.",
+   "explanationTl": "Kapag bukas ang store, laging naka-on ang ilaw. Patay ang ilaw, kaya sarado ang store.",
+   "stepsTl": "1. Bukas -> naka-on ang ilaw.\n2. Patay ang ilaw.\n3. Kung bukas, naka-on sana.\n4. Kaya sarado ang store.",
+   "hintTl": "Kung 'bukas' ay laging 'naka-on ang ilaw', ano ang ibig sabihin ng 'patay ang ilaw'?"
+  }
+ },
+ {
+  "id": 1958573007,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Valid/Invalid/True/False option set; near-duplicate; replaced with a 'No/Some' syllogism.",
+  "fields": {
+   "text": "No employee of the municipal office smokes. Some barangay officials are employees of the municipal office. Which must be true?",
+   "optionA": "No barangay official smokes.",
+   "optionB": "Some barangay officials do not smoke.",
+   "optionC": "All barangay officials smoke.",
+   "optionD": "Some employees of the municipal office smoke.",
+   "correctAnswer": "B",
+   "explanation": "The barangay officials who are municipal employees do not smoke, so some barangay officials do not smoke.",
+   "steps": "1. No municipal employee smokes.\n2. Some barangay officials are municipal employees.\n3. Those officials do not smoke.\n4. Some barangay officials do not smoke.",
+   "hint": "Focus on the officials who are also municipal employees.",
+   "whyA": "Officials who are not municipal employees are not covered; they may smoke.",
+   "whyC": "The officials who are municipal employees do not smoke.",
+   "whyD": "This contradicts 'No employee of the municipal office smokes.'",
+   "explanationTl": "'Yung barangay officials na employee ng municipal office ay hindi naninigarilyo, kaya some barangay officials do not smoke.",
+   "stepsTl": "1. Walang municipal employee na naninigarilyo.\n2. Ilang barangay officials ay municipal employees.\n3. Hindi naninigarilyo ang mga 'yon.\n4. Some barangay officials do not smoke.",
+   "hintTl": "Tingnan ang officials na municipal employees din."
+  }
+ },
+ {
+  "id": 2000706559,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 64955796; replaced with a negation-of-'all' item.",
+  "fields": {
+   "text": "The statement \"All the applicants passed the exam\" is false. Which must be true?",
+   "optionA": "No applicant passed the exam.",
+   "optionB": "At least one applicant did not pass the exam.",
+   "optionC": "Some applicants passed the exam.",
+   "optionD": "Exactly one applicant failed the exam.",
+   "correctAnswer": "B",
+   "explanation": "To make 'all passed' false, it is enough for at least one applicant not to pass; nothing more is guaranteed.",
+   "steps": "1. 'All passed' is false.\n2. So not every applicant passed.\n3. At least one applicant did not pass.\n4. How many others passed or failed is unknown.",
+   "hint": "What is the smallest thing that would make 'all passed' false?",
+   "whyA": "'All passed' is also false when some passed and some failed, so no-one-passed is not required.",
+   "whyC": "It is possible that nobody passed, so this need not be true.",
+   "whyD": "More than one applicant could have failed.",
+   "explanationTl": "Para maging false ang 'all passed', sapat na may isang hindi pumasa. 'Yan lang ang sigurado.",
+   "stepsTl": "1. False ang 'all passed'.\n2. Kaya hindi lahat pumasa.\n3. May at least isang hindi pumasa.\n4. Hindi alam kung ilan pa ang pumasa o bumagsak.",
+   "hintTl": "Ano ang pinakamaliit na kailangan para maging false ang 'all passed'?"
+  }
+ },
+ {
+  "id": 2024482281,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Valid/Invalid/True/False option set; near-duplicate; replaced with an either-or item.",
+  "fields": {
+   "text": "The seminar is either on Monday or on Friday, not both. It is not on Monday. Which must be true?",
+   "optionA": "The seminar is on Wednesday.",
+   "optionB": "The seminar is on both days.",
+   "optionC": "The seminar is cancelled.",
+   "optionD": "The seminar is on Friday.",
+   "correctAnswer": "D",
+   "difficulty": 1,
+   "explanation": "Only two days are possible; ruling out Monday leaves Friday.",
+   "steps": "1. Possible days: Monday or Friday.\n2. Not Monday.\n3. So Friday.",
+   "hint": "Cross out the day that is ruled out.",
+   "whyB": "The statement says not both.",
+   "whyC": "The statement says it is on one of the two days, so it is not cancelled.",
+   "whyA": "Wednesday was never one of the possible days.",
+   "explanationTl": "Dalawa lang ang pwedeng araw. Hindi Monday, kaya Friday.",
+   "stepsTl": "1. Pwede: Monday o Friday.\n2. Hindi Monday.\n3. Kaya Friday.",
+   "hintTl": "I-cross out ang araw na hindi pwede."
+  }
+ },
+ {
+  "id": 2075441765,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Valid/Invalid/True/False option set; near-duplicate; replaced with an 'affirming the consequent' item.",
+  "fields": {
+   "text": "All nurses at the clinic wear white uniforms. Lito wears a white uniform. Which is correct?",
+   "optionA": "Lito is a nurse at the clinic.",
+   "optionB": "Lito is not a nurse at the clinic.",
+   "optionC": "Lito may or may not be a nurse at the clinic.",
+   "optionD": "Lito works at a hospital.",
+   "correctAnswer": "C",
+   "explanation": "Nurses wear white uniforms, but the premise does not say only nurses do, so Lito's uniform does not settle whether he is a nurse.",
+   "steps": "1. Nurse at the clinic -> white uniform.\n2. Lito wears a white uniform.\n3. Others (e.g., cooks, students) may also wear white.\n4. Lito may or may not be a nurse.",
+   "hint": "Does the premise say ONLY nurses wear white uniforms?",
+   "whyA": "Others could wear white uniforms too; the premise is only about nurses.",
+   "whyB": "Nothing rules him out; he could still be a nurse.",
+   "whyD": "No statement mentions a hospital.",
+   "explanationTl": "Naka-white uniform ang lahat ng nurses, pero hindi sinabing nurses lang ang naka-white. Kaya hindi sigurado kung nurse si Lito.",
+   "stepsTl": "1. Nurse -> white uniform.\n2. Naka-white si Lito.\n3. Pwedeng iba rin ang naka-white.\n4. Pwedeng nurse siya, pwedeng hindi.",
+   "hintTl": "Sinabi ba na nurses LANG ang naka-white uniform?"
+  }
+ },
+ {
+  "id": 838510846,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Seal is also odd (only non-cetacean, goes on land); replaced Seal with Porpoise so only the shark stands out. Stem updated to list Porpoise too (caught by the second blind check).",
+  "fields": {
+   "optionD": "Porpoise",
+   "explanation": "Shark is a fish that breathes through gills; whale, dolphin and porpoise are mammals that breathe air with lungs.",
+   "hint": "Think about how each animal breathes.",
+   "whyA": "A whale is a mammal like the dolphin and porpoise.",
+   "whyB": "A dolphin is a mammal like the whale and porpoise.",
+   "whyD": "A porpoise is a mammal, a close relative of the dolphin.",
+   "explanationTl": "Fish ang shark at humihinga gamit ang gills; mammals ang whale, dolphin at porpoise na humihinga gamit ang lungs.",
+   "hintTl": "Isipin kung paano huminga ang bawat isa.",
+   "text": "Odd one out: Whale, Dolphin, Shark, Porpoise"
+  }
+ },
+ {
+  "id": 1155737381,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Circle is the only non-polygon; key correct; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "A circle has no straight sides or corners; the square, triangle and pentagon are polygons made of straight sides.",
+   "hint": "Look at the kind of edges each shape has.",
+   "whyB": "A square is a polygon with straight sides, like the triangle and pentagon.",
+   "whyC": "A triangle is a polygon with straight sides, like the square and pentagon.",
+   "whyD": "A pentagon is a polygon with straight sides, like the square and triangle.",
+   "explanationTl": "Walang straight sides at corners ang circle; polygons naman ang square, triangle at pentagon.",
+   "hintTl": "Tingnan kung anong klase ng gilid mayroon ang bawat shape."
+  }
+ },
+ {
+  "id": 1590122859,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Bear is the only non-cat; key correct; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Tiger, lion and cheetah belong to the cat family; the bear does not.",
+   "hint": "Which animal family do most of these belong to?",
+   "whyA": "A tiger is a big cat, like the lion and cheetah.",
+   "whyB": "A lion is a big cat, like the tiger and cheetah.",
+   "whyD": "A cheetah is a wild cat, like the tiger and lion.",
+   "explanationTl": "Kabilang sa cat family ang tiger, lion at cheetah; hindi kasama ang bear.",
+   "hintTl": "Saang animal family kabilang ang karamihan sa kanila?"
+  }
+ },
+ {
+  "id": 274578779,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; existing steps fine; added whys and explanationTl.",
+  "fields": {
+   "whyA": "42 adds 9 again; the gaps grow by 1, so the next is 10.",
+   "whyC": "44 adds 11, skipping the gap of 10.",
+   "whyD": "45 adds 12; the next gap after 9 is 10.",
+   "explanationTl": "Ang pagitan ay 7, 8, 9, kaya 10 ang susunod: 33 + 10 = 43."
+  }
+ },
+ {
+  "id": 1716003426,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "Key C (16) wrong; the explanation itself gives 10 + 5 = 15 (B).",
+  "fields": {
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "steps": "1. Gaps: 2, 3, 4 (each grows by 1).\n2. Next gap: 5.\n3. 10 + 5 = 15.",
+   "hint": "Look at the gap between neighbours. How does it change?",
+   "whyA": "14 adds 4 again; the gaps grow by 1 each time.",
+   "whyC": "16 adds 6, skipping the gap of 5.",
+   "whyD": "17 adds 7; the next gap after 4 is 5.",
+   "explanationTl": "Ang pagitan ay 2, 3, 4, kaya 5 ang susunod: 10 + 5 = 15.",
+   "stepsTl": "1. Pagitan: 2, 3, 4.\n2. Susunod: 5.\n3. 10 + 5 = 15.",
+   "hintTl": "Tingnan ang pagitan ng magkakatabi. Paano ito nagbabago?"
+  }
+ }
+]

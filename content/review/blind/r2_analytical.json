@@ -1,0 +1,392 @@
+[
+ {
+  "id": 459095800,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Brush is to painting as needle is to:",
+  "optionA": "Sewing",
+  "optionB": "Knitting",
+  "optionC": "Threading",
+  "optionD": "Cutting"
+ },
+ {
+  "id": 545690631,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Microscope is to magnifying as telescope is to:",
+  "optionA": "Observing",
+  "optionB": "Measuring",
+  "optionC": "Focusing",
+  "optionD": "Recording"
+ },
+ {
+  "id": 1097576830,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Big : Large :: Small :",
+  "optionA": "Tiny",
+  "optionB": "Huge",
+  "optionC": "Medium",
+  "optionD": "Wide"
+ },
+ {
+  "id": 2061421434,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Time : Seconds :: Energy :",
+  "optionA": "Joules",
+  "optionB": "Watts",
+  "optionC": "Volts",
+  "optionD": "Amperes"
+ },
+ {
+  "id": 393079391,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To succeed in math, one must practice problems.",
+  "optionA": "Practicing problems guarantees success",
+  "optionB": "Not practicing problems leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 509479997,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To excel in painting, one must practice techniques.",
+  "optionA": "Practicing techniques guarantees excellence",
+  "optionB": "Not practicing techniques leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 773023119,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To create art, one must have imagination.",
+  "optionA": "Having imagination guarantees art creation",
+  "optionB": "Not having imagination leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 927696584,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: Students should study hard to pass.",
+  "optionA": "Studying hard guarantees pass",
+  "optionB": "Not studying leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 1889889922,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To become a doctor, one must study medicine.",
+  "optionA": "Studying medicine guarantees becoming a doctor",
+  "optionB": "Not studying medicine leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 462475914,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 1=6, 2=14, 3=24, 4=?",
+  "optionA": "34",
+  "optionB": "35",
+  "optionC": "36",
+  "optionD": "37"
+ },
+ {
+  "id": 642088610,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=13, 3=24, 4=37, 5=?",
+  "optionA": "50",
+  "optionB": "51",
+  "optionC": "52",
+  "optionD": "53"
+ },
+ {
+  "id": 1102036996,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=8, 3=15, 4=24, 5=?",
+  "optionA": "32",
+  "optionB": "35",
+  "optionC": "36",
+  "optionD": "38"
+ },
+ {
+  "id": 1786808757,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 3=14, 4=23, 5=34, 6=?",
+  "optionA": "46",
+  "optionB": "47",
+  "optionC": "48",
+  "optionD": "49"
+ },
+ {
+  "id": 59516148,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing sales: Week 1 600, Week 2 650, Week 3 700. What is the average sales?",
+  "optionA": "640",
+  "optionB": "650",
+  "optionC": "660",
+  "optionD": "670"
+ },
+ {
+  "id": 135614298,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing sales: Week 1 400, Week 2 450, Week 3 500. What is the average sales?",
+  "optionA": "440",
+  "optionB": "450",
+  "optionC": "460",
+  "optionD": "470"
+ },
+ {
+  "id": 842249061,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing expenses: Q1 400, Q2 450, Q3 500. What is the average expense?",
+  "optionA": "440",
+  "optionB": "450",
+  "optionC": "460",
+  "optionD": "470"
+ },
+ {
+  "id": 1472321946,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing expenses: Q1 800, Q2 850, Q3 900. What is the average expense?",
+  "optionA": "840",
+  "optionB": "850",
+  "optionC": "860",
+  "optionD": "870"
+ },
+ {
+  "id": 93208581,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If R is S’s father, S is T’s daughter, T is R’s:",
+  "optionA": "Son",
+  "optionB": "Daughter",
+  "optionC": "Wife",
+  "optionD": "Mother"
+ },
+ {
+  "id": 1388460149,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If U is V’s mother, V is W’s daughter, W is U’s:",
+  "optionA": "Son",
+  "optionB": "Husband",
+  "optionC": "Daughter",
+  "optionD": "Father"
+ },
+ {
+  "id": 1612824738,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If O is P’s father, P is Q’s daughter, Q is O’s:",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 1987065153,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "D is E's mother, E is F's sister, and F is a girl. F is D's:",
+  "optionA": "Daughter",
+  "optionB": "Son",
+  "optionC": "Husband",
+  "optionD": "Father"
+ },
+ {
+  "id": 64955796,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all animals breathe and some creatures are animals, then:",
+  "optionA": "All creatures breathe",
+  "optionB": "Some creatures breathe",
+  "optionC": "No creatures breathe",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 161847378,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all houses have roofs and some buildings are houses, then:",
+  "optionA": "All buildings have roofs",
+  "optionB": "Some buildings have roofs",
+  "optionC": "No buildings have roofs",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 620005274,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All lawyers argue. Some professionals are lawyers. So some professionals argue.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 843201365,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All programmers code. Some people are programmers. So some people code.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 961695495,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All artists create. Some people are artists. So some people create.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 1313182667,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all insects have legs and some creatures are insects, then:",
+  "optionA": "All creatures have legs",
+  "optionB": "Some creatures have legs",
+  "optionC": "No creatures have legs",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1336245471,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all clouds bring rain and some weather patterns are clouds, then:",
+  "optionA": "All weather patterns bring rain",
+  "optionB": "Some weather patterns bring rain",
+  "optionC": "No weather patterns bring rain",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1529806093,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All students study. Some students are scholars. So all scholars study.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 1690573639,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all vehicles move and some machines are vehicles, then:",
+  "optionA": "All machines move",
+  "optionB": "Some machines move",
+  "optionC": "No machines move",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1958573007,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All engineers innovate. Some professionals are engineers. So some professionals innovate.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 2000706559,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all flowers bloom and some plants are flowers, then:",
+  "optionA": "All plants bloom",
+  "optionB": "Some plants bloom",
+  "optionC": "No plants bloom",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 2024482281,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All computers process data. Some machines are computers. So some machines process data.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 2075441765,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All doctors heal. Some professionals are doctors. So some professionals heal.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 838510846,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Whale, Dolphin, Shark, Seal",
+  "optionA": "Whale",
+  "optionB": "Dolphin",
+  "optionC": "Shark",
+  "optionD": "Seal"
+ },
+ {
+  "id": 1155737381,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Circle, Square, Triangle, Pentagon",
+  "optionA": "Circle",
+  "optionB": "Square",
+  "optionC": "Triangle",
+  "optionD": "Pentagon"
+ },
+ {
+  "id": 1590122859,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Tiger, Lion, Bear, Cheetah",
+  "optionA": "Tiger",
+  "optionB": "Lion",
+  "optionC": "Bear",
+  "optionD": "Cheetah"
+ },
+ {
+  "id": 274578779,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 9, 16, 24, 33, ____",
+  "optionA": "42",
+  "optionB": "43",
+  "optionC": "44",
+  "optionD": "45"
+ },
+ {
+  "id": 1716003426,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 1, 3, 6, 10, ____",
+  "optionA": "14",
+  "optionB": "15",
+  "optionC": "16",
+  "optionD": "17"
+ }
+]

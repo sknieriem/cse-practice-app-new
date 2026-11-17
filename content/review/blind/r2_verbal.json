@@ -1,0 +1,162 @@
+[
+ {
+  "id": 379343669,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Complete the analogy: Pen is to write as knife is to:",
+  "optionA": "Cut",
+  "optionB": "Eat",
+  "optionC": "Sharpen",
+  "optionD": "Cook"
+ },
+ {
+  "id": 964282408,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Complete the analogy: Doctor is to hospital as teacher is to:",
+  "optionA": "Book",
+  "optionB": "School",
+  "optionC": "Student",
+  "optionD": "Pencil"
+ },
+ {
+  "id": 1365313027,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Complete the analogy: Lock is to key as code is to:",
+  "optionA": "Password",
+  "optionB": "Door",
+  "optionC": "Computer",
+  "optionD": "Book"
+ },
+ {
+  "id": 1556267642,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'ascend' is:",
+  "optionA": "Rise",
+  "optionB": "Descend",
+  "optionC": "Climb",
+  "optionD": "Soar"
+ },
+ {
+  "id": 2029505828,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'diligent' is:",
+  "optionA": "Hardworking",
+  "optionB": "Lazy",
+  "optionC": "Assiduous",
+  "optionD": "Industrious"
+ },
+ {
+  "id": 649091033,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "In the sentence 'He drives careful,' the error is:",
+  "optionA": "He",
+  "optionB": "drives",
+  "optionC": "careful",
+  "optionD": "No error"
+ },
+ {
+  "id": 705733641,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Fill in the blank: We are committed _____ excellence.",
+  "optionA": "to",
+  "optionB": "with",
+  "optionC": "for",
+  "optionD": "of"
+ },
+ {
+  "id": 1092394360,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Fill in the blank: She is allergic _____ nuts.",
+  "optionA": "to",
+  "optionB": "with",
+  "optionC": "of",
+  "optionD": "for"
+ },
+ {
+  "id": 1296110569,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which sentence is grammatically correct?",
+  "optionA": "He go to school.",
+  "optionB": "He goes to school.",
+  "optionC": "He going to school.",
+  "optionD": "He went to school."
+ },
+ {
+  "id": 1762188624,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which of the following sentences contains an error in subject-verb agreement?",
+  "optionA": "The team of players are practicing hard.",
+  "optionB": "Each of the students has submitted their assignment.",
+  "optionC": "Neither the manager nor the employees is happy with the decision.",
+  "optionD": "No error."
+ },
+ {
+  "id": 464245615,
+  "category": "Verbal Ability",
+  "subtopic": "verb_ordering",
+  "text": "Rearrange: Stars / the / are / shining",
+  "optionA": "The shining are stars",
+  "optionB": "The stars are shining",
+  "optionC": "Shining are the stars",
+  "optionD": "Stars the are shining"
+ },
+ {
+  "id": 1490974169,
+  "category": "Verbal Ability",
+  "subtopic": "verb_ordering",
+  "text": "Rearrange: Birds / the / are / flying",
+  "optionA": "The flying are birds",
+  "optionB": "The birds are flying",
+  "optionC": "Flying are the birds",
+  "optionD": "Birds the are flying"
+ },
+ {
+  "id": 182894093,
+  "category": "Verbal Ability",
+  "subtopic": "verb_reading",
+  "text": "Implied in 'The road was long, but they persevered.' is:",
+  "optionA": "They gave up.",
+  "optionB": "They continued despite difficulty.",
+  "optionC": "The road was short.",
+  "optionD": "No implication."
+ },
+ {
+  "id": 331725529,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The word 'fast' can mean:",
+  "optionA": "Quick",
+  "optionB": "Not eating",
+  "optionC": "Both A and B",
+  "optionD": "None"
+ },
+ {
+  "id": 1459368517,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "She has an affinity for art.\n\nIn this sentence, 'affinity' most nearly means:",
+  "optionA": "Dislike",
+  "optionB": "Natural liking",
+  "optionC": "Fear",
+  "optionD": "Aversion"
+ },
+ {
+  "id": 1718825358,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The theory is esoteric.\n\nIn this sentence, 'esoteric' most nearly means:",
+  "optionA": "Common",
+  "optionB": "Obscure",
+  "optionC": "Known",
+  "optionD": "Popular"
+ }
+]

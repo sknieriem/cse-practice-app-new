@@ -1,112 +1,209 @@
-# Review of 100 original questions
+# Review of original questions (200 reviewed)
 
-| verdict | count |
-|---|---|
-| unchanged | 29 |
-| minor edit | 44 |
-| key fixed | 3 |
-| rewritten | 24 |
-| flagged | 0 |
+| round | unchanged | minor edit | key fixed | rewritten | flagged |
+|---|---|---|---|---|---|
+| r1 | 29 | 44 | 3 | 24 | 0 |
+| r2 | 15 | 43 | 4 | 38 | 0 |
 
-| id | subject | verdict | why |
-|---|---|---|---|
-| 1503535450 | Analytical Ability | rewritten | Old options had 'Both'/'None' and no clean assumption (key B is a restatement, D also defensible); replaced with a proper assumption item. |
-| 904082392 | Analytical Ability | rewritten | Two defensible answers (green under RYB, yellow under RGB) and a nonsense 'lime' explanation; new set has one clear odd item. |
-| 2012019668 | Analytical Ability | rewritten | Two defensible answers: bronze (only alloy) and iron (not a medal metal, the old key D); new set has one alloy among pure metals. |
-| 557701591 | General Information | rewritten | 'Current President as of 2022' is time-bound and ambiguous (Duterte until Jun 30, Marcos after); now tests stable Art VII Sec 2 qualification. |
-| 640360594 | General Information | rewritten | Current Chief Justice is a changing office-holder; now tests stable Art VIII Sec 11 retirement age. |
-| 700029415 | General Information | rewritten | Duplicate of the Morning Star item (same answer Venus); replaced with a different planet fact. |
-| 838353328 | General Information | rewritten | 'Tallest building as of 2025' is time-bound (Jeddah Tower under construction); now asks the stable location of Burj Khalifa. |
-| 1651628155 | General Information | rewritten | 'Largest rice producer' is disputed (China historically, India in recent USDA estimates); replaced with a stable rice fact. |
-| 65674374 | General Information | rewritten | KEY WRONG: key was Bonifacio (Father/Supremo of the Katipunan); the 'Brains of the Katipunan' is Emilio Jacinto, who was not an option. Options rebuilt. |
-| 1806971651 | General Information | rewritten | Named office-holder 'in 2025' is time-bound and distractors were outdated (Sereno, Bautista); now tests Art VII Sec 18. |
-| 1818563915 | General Information | rewritten | Correct option just restated the stem (giveaway); now asks what February 25 commemorates. |
-| 2107498529 | General Information | rewritten | Region count changes over time (17 -> 18 with Negros Island Region, 2024); now tests a stable region name. |
-| 95377751 | General Information | rewritten | Stem said 'per the reviewer' (an unseen source); rebuilt as a clean positive-vs-negative peace item. |
-| 301551909 | Numerical Ability | rewritten | 'Number of sides in a square?' is a grade-school recall item, not CSE level; replaced with a square perimeter-to-area problem. |
-| 883521151 | Numerical Ability | rewritten | 'Number of sides in a triangle?' is trivial recall, not CSE level; replaced with a triangle angle-ratio problem. |
-| 1324363821 | Numerical Ability | rewritten | Exact duplicate of 1932654512 (120 km in 2 h); replaced with a round-trip average-speed problem. |
-| 1932654512 | Numerical Ability | rewritten | Duplicate of 1324363821 with non-mistake distractors; numbers changed to a 2 h 30 min trip with real conversion traps. |
-| 325896063 | Numerical Ability | rewritten | 'Number of planets' is science trivia, not Numerical Ability; replaced with a peso change-making word problem. |
-| 459624580 | Numerical Ability | rewritten | 'Number of zeros in a million' is trivial recall; replaced with a percent word problem. |
-| 564603729 | Numerical Ability | rewritten | 'Seconds in a minute' is trivial recall; replaced with a combined-work problem. |
-| 852745417 | Numerical Ability | rewritten | 'Wheels on a bicycle' is not a CSE item; replaced with a ratio word problem. |
-| 1028545692 | Numerical Ability | rewritten | 'Days in February in a leap year' is bare recall; replaced with a calendar reasoning problem that uses the same fact. |
-| 1993060714 | Numerical Ability | rewritten | 'Hours in a day' is trivial recall; replaced with an elapsed-time work-hours problem. |
-| 2100835973 | Numerical Ability | rewritten | 'Fingers on one hand' is not a CSE item; replaced with a successive-discount problem. |
-| 208137246 | Analytical Ability | key fixed | Key was C (22) with explanation n^2+2=18 (fits none of the givens); pattern is n^2+n+1, so 4 = 21 (B). |
-| 799514571 | Analytical Ability | key fixed | Key was B (29) though its own explanation computes 28; differences 5,6,7,8 give 28 (A). |
-| 1610271519 | General Information | key fixed | Key was D (15); Art VIII Sec 4(1) says a Chief Justice and FOURTEEN Associate Justices. Fixed typo 'Associates'. |
-| 706306464 | Analytical Ability | minor edit | Key 48 is correct but the explanation used n^2+2n+4 and computed 52; fixed to n(n+2). |
-| 511436158 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded to a plain list; difficulty lowered to 1. |
-| 768367767 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded; difficulty lowered to 1. |
-| 890192414 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded; difficulty lowered to 1. |
-| 1585774411 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded; difficulty lowered to 1. |
-| 83863444 | Analytical Ability | minor edit | Z's gender was never stated, so 'Wife' did not follow; stem now states Z is a woman. |
-| 87388746 | Analytical Ability | minor edit | A's gender was never stated, so 'Wife' did not follow; stem now states A is a woman. |
-| 14692262 | Analytical Ability | minor edit | Options 'True'/'False' made D defensible (the conclusion is factually false); stem now asks if the conclusion follows, options reworded. |
-| 1902311237 | Analytical Ability | minor edit | Earth was a second defensible answer (only one not named after a Roman god, only one with life); replaced Earth with Mars. |
-| 1888209390 | Analytical Ability | minor edit | Key correct; very easy skip-one series, difficulty lowered to 1. Added teaching fields. |
-| 47588994 | General Information | minor edit | Key right; smoothed stem and added Art VII Sec 4 citation. |
-| 1234666477 | General Information | minor edit | Key right; replaced vague options and cited Art XI Secs 12-13. |
-| 1865441410 | General Information | minor edit | Key right; replaced absurd distractors (BIR, 'House of Ombudsman'); cited Art VI Sec 1. |
-| 1650764253 | General Information | minor edit | Correct; 'Moon' and 'Wind' were weak, replaced with plausible energy sources; difficulty 1. |
-| 319480201 | General Information | minor edit | Key right but Sahara is a common rival answer; stem now says hot and cold deserts count, so only one answer stands. |
-| 455430751 | General Information | minor edit | Correct; very easy, set difficulty 1. |
-| 501393926 | General Information | minor edit | Correct; easy recall, set difficulty 1. |
-| 1158147902 | General Information | minor edit | Correct; easy recall, set difficulty 1. |
-| 1378099863 | General Information | minor edit | Correct; very easy, set difficulty 1. |
-| 1987067943 | General Information | minor edit | Correct; easy recall, set difficulty 1. |
-| 846600262 | General Information | minor edit | Key right; 'Visayas' is an island group, not an island, so replaced with Samar. |
-| 1821130614 | General Information | minor edit | 'Wrote' was ambiguous (Felipe = music, Jose Palma = lyrics); stem now says 'composed the music', Palma replaces Jose Garcia Villa. |
-| 2024639418 | General Information | minor edit | Key right; no law formally proclaims a national hero, so 'officially recognized' softened; stem made a full question. |
-| 1215094383 | Numerical Ability | minor edit | Key correct (x = 5); options reordered to spread keys (all 25 were A), difficulty 2 -> 1, whyX rewritten to name the mistake. |
-| 1498426729 | Numerical Ability | minor edit | Key correct (30); explanation was garbled ('k = 56 = 30'), distractors replaced with real mistakes, options reordered, difficulty 2 -> 1. |
-| 160688422 | Numerical Ability | minor edit | Key correct (0.3); stem reworded, options ordered and key moved, whyX were non-explanations ('0.03 ≠ 3 ÷ 10'), difficulty 2 -> 1. |
-| 317826174 | Numerical Ability | minor edit | Key value correct (3/8); distractors 4/8, 2/8, 6/8 were not common mistakes, replaced with real ones and reordered; difficulty 2 -> 1. |
-| 994003789 | Numerical Ability | minor edit | Key correct (0.833...); distractors 0.5 and 0.75 replaced with real mistakes, options reordered, missing teaching fields added, difficulty 2 -> 1. |
-| 1333126242 | Numerical Ability | minor edit | Key correct (5); stem said 'sides' (should be legs) and had no units, distractors 6/8 replaced with real mistakes, options reordered, difficulty 2 -> 1. |
-| 92762615 | Numerical Ability | minor edit | Key correct (35); stem tightened, distractors 30/40/45 were not mistakes and were replaced, difficulty 2 -> 1. |
-| 103402290 | Numerical Ability | minor edit | Key correct (60); time restated as 1 hour 30 minutes to test the conversion, distractors replaced with real mistakes, key moved, difficulty 2 -> 1. |
-| 62184747 | Numerical Ability | minor edit | Key correct (25); stem reworded, distractors 27/19 replaced with real mistakes, difficulty 2 -> 1. |
-| 602545768 | Numerical Ability | minor edit | Key correct (64); explanation garbled ('322 = 64'), distractors replaced with real mistakes, key moved, difficulty 2 -> 1. |
-| 684643150 | Numerical Ability | minor edit | Key correct (12); stepsTl said 'dagdag (-2)', distractor 15 was not a real mistake and was replaced, key moved, difficulty 2 -> 1. |
-| 742655735 | Numerical Ability | minor edit | Key correct (17); stem reworded, distractors replaced with real mistakes, difficulty 2 -> 1. |
-| 970730716 | Numerical Ability | minor edit | Key correct (28); stem reworded, distractors replaced with real mistakes, key moved, difficulty 2 -> 1. |
-| 151693602 | Numerical Ability | minor edit | Key correct (9); '*' replaced with ×, explanation garbled ('34=12'), distractors replaced with real order-of-operations mistakes, difficulty 2 -> 1. |
-| 138672814 | Verbal Ability | minor edit | Key correct; basic item, difficulty lowered to Subprofessional level. |
-| 265326331 | Verbal Ability | minor edit | Stem had a stray 'most nearly means' line pasted in; rewritten as a clean error-identification question. |
-| 348171601 | Verbal Ability | minor edit | Key correct; basic tense recognition, difficulty lowered to 1. |
-| 524610546 | Verbal Ability | minor edit | Option C 'was' was also grammatical ('The group was arriving'); replaced with 'were' so only 'is' fits. |
-| 575430692 | Verbal Ability | minor edit | Explanation was inaccurate ('completed in the present'); rewritten, difficulty lowered to 1. |
-| 869906807 | Verbal Ability | minor edit | 'Proficient at' is also standard usage, so option C was a second defensible answer; replaced with 'of'. |
-| 285853436 | Verbal Ability | minor edit | Option C 'Big is the house' is a grammatical inversion (second answer) and the capitalized 'House' hinted the start; fixed both. |
-| 597306044 | Analytical Ability | unchanged | Tool-to-craft analogy; carving is the one craft a chisel is named for. Added teaching fields. |
-| 1234356618 | Analytical Ability | unchanged | Quantity-to-unit analogy; ohm is the only unit of resistance. Added teaching fields. |
-| 1968245072 | Analytical Ability | unchanged | Quantity-to-unit analogy; newton is the SI unit of force. Added teaching fields. |
-| 2118779469 | Analytical Ability | unchanged | Clothing-to-body-part analogy; a glove covers the whole hand. Added teaching fields. |
-| 269609167 | Analytical Ability | unchanged | Undistributed middle; only 'cannot determine' is defensible. Added teaching fields. |
-| 1397867088 | General Information | unchanged | Correct and stable; added teaching fields. |
-| 1904482849 | General Information | unchanged | Correct; added Art VII Sec 1 citation and teaching fields. |
-| 14216838 | General Information | unchanged | Correct; added teaching fields. |
-| 124495185 | General Information | unchanged | Correct; Curie is a fair, plausible distractor. |
-| 147687101 | General Information | unchanged | Correct; added teaching fields. |
-| 423569218 | General Information | unchanged | Correct; added teaching fields. |
-| 481078786 | General Information | unchanged | Correct; added teaching fields. |
-| 610897573 | General Information | unchanged | Correct; added teaching fields. |
-| 886009167 | General Information | unchanged | Correct; added teaching fields. |
-| 1516095501 | General Information | unchanged | Correct, past event, stable; added teaching fields. |
-| 2084301453 | General Information | unchanged | Correct; added teaching fields. |
-| 777988385 | General Information | unchanged | Correct; added teaching fields. |
-| 1407880570 | General Information | unchanged | Correct; added teaching fields. |
-| 1628196838 | General Information | unchanged | Correct per RA 9850; added citation and teaching fields. |
-| 1814858951 | General Information | unchanged | Correct; added teaching fields. |
-| 1888897707 | General Information | unchanged | Correct; added Art III citation and teaching fields. |
-| 40703556 | Verbal Ability | unchanged | Key correct; Hidden, Vague and Secretive are all near-synonyms of obscure, so only Clear is opposite. |
-| 97539312 | Verbal Ability | unchanged | Key correct; Cloudy, Thick and Dense all describe things light cannot pass through. |
-| 2091737583 | Verbal Ability | unchanged | Key correct; Thrifty is a synonym, Cautious and Modest are related but not opposites. |
-| 407036540 | Verbal Ability | unchanged | Key correct; subject 'effect' is singular and only 'is' fits. |
-| 369006591 | Verbal Ability | unchanged | Key correct; the three distractors are all antonyms, no second synonym. |
-| 567036490 | Verbal Ability | unchanged | Key correct; only one positive option, others are antonyms. |
-| 1199739628 | Verbal Ability | unchanged | Key correct; Uniform, Consistent and Monotonous all mean sameness. |
-| 2112260607 | Verbal Ability | unchanged | Key correct; the three distractors are all antonyms of futile. |
+| round | id | subject | verdict | why |
+|---|---|---|---|---|
+| r1 | 1503535450 | Analytical Ability | rewritten | Old options had 'Both'/'None' and no clean assumption (key B is a restatement, D also defensible); replaced with a proper assumption item. |
+| r1 | 904082392 | Analytical Ability | rewritten | Two defensible answers (green under RYB, yellow under RGB) and a nonsense 'lime' explanation; new set has one clear odd item. |
+| r1 | 2012019668 | Analytical Ability | rewritten | Two defensible answers: bronze (only alloy) and iron (not a medal metal, the old key D); new set has one alloy among pure metals. |
+| r1 | 557701591 | General Information | rewritten | 'Current President as of 2022' is time-bound and ambiguous (Duterte until Jun 30, Marcos after); now tests stable Art VII Sec 2 qualification. |
+| r1 | 640360594 | General Information | rewritten | Current Chief Justice is a changing office-holder; now tests stable Art VIII Sec 11 retirement age. |
+| r1 | 700029415 | General Information | rewritten | Was a duplicate Evening Star (Venus) item; round-1 rewrite duplicated id 657782264 (closest planet), so rewritten again to the third planet (lead fix, caught by duplicate scan). |
+| r1 | 838353328 | General Information | rewritten | 'Tallest building as of 2025' is time-bound (Jeddah Tower under construction); now asks the stable location of Burj Khalifa. |
+| r1 | 1651628155 | General Information | rewritten | 'Largest rice producer' is disputed (China historically, India in recent USDA estimates); replaced with a stable rice fact. |
+| r1 | 65674374 | General Information | rewritten | KEY WRONG: key was Bonifacio (Father/Supremo of the Katipunan); the 'Brains of the Katipunan' is Emilio Jacinto, who was not an option. Options rebuilt. |
+| r1 | 1806971651 | General Information | rewritten | Named office-holder 'in 2025' is time-bound and distractors were outdated (Sereno, Bautista); now tests Art VII Sec 18. |
+| r1 | 1818563915 | General Information | rewritten | Correct option just restated the stem (giveaway); now asks what February 25 commemorates. |
+| r1 | 2107498529 | General Information | rewritten | Region count changes over time (17 -> 18 with Negros Island Region, 2024); now tests a stable region name. |
+| r1 | 95377751 | General Information | rewritten | Stem said 'per the reviewer' (an unseen source); rebuilt as a clean positive-vs-negative peace item. |
+| r1 | 301551909 | Numerical Ability | rewritten | 'Number of sides in a square?' is a grade-school recall item, not CSE level; replaced with a square perimeter-to-area problem. |
+| r1 | 883521151 | Numerical Ability | rewritten | 'Number of sides in a triangle?' is trivial recall, not CSE level; replaced with a triangle angle-ratio problem. |
+| r1 | 1324363821 | Numerical Ability | rewritten | Exact duplicate of 1932654512 (120 km in 2 h); replaced with a round-trip average-speed problem. |
+| r1 | 1932654512 | Numerical Ability | rewritten | Duplicate of 1324363821 with non-mistake distractors; numbers changed to a 2 h 30 min trip with real conversion traps. |
+| r1 | 325896063 | Numerical Ability | rewritten | 'Number of planets' is science trivia, not Numerical Ability; replaced with a peso change-making word problem. |
+| r1 | 459624580 | Numerical Ability | rewritten | 'Number of zeros in a million' is trivial recall; replaced with a percent word problem. |
+| r1 | 564603729 | Numerical Ability | rewritten | 'Seconds in a minute' is trivial recall; replaced with a combined-work problem. |
+| r1 | 852745417 | Numerical Ability | rewritten | 'Wheels on a bicycle' is not a CSE item; replaced with a ratio word problem. |
+| r1 | 1028545692 | Numerical Ability | rewritten | 'Days in February in a leap year' is bare recall; replaced with a calendar reasoning problem that uses the same fact. |
+| r1 | 1993060714 | Numerical Ability | rewritten | 'Hours in a day' is trivial recall; replaced with an elapsed-time work-hours problem. |
+| r1 | 2100835973 | Numerical Ability | rewritten | 'Fingers on one hand' is not a CSE item; replaced with a successive-discount problem. |
+| r1 | 208137246 | Analytical Ability | key fixed | Key was C (22) with explanation n^2+2=18 (fits none of the givens); pattern is n^2+n+1, so 4 = 21 (B). |
+| r1 | 799514571 | Analytical Ability | key fixed | Key was B (29) though its own explanation computes 28; differences 5,6,7,8 give 28 (A). |
+| r1 | 1610271519 | General Information | key fixed | Key was D (15); Art VIII Sec 4(1) says a Chief Justice and FOURTEEN Associate Justices. Fixed typo 'Associates'. |
+| r1 | 706306464 | Analytical Ability | minor edit | Key 48 is correct but the explanation used n^2+2n+4 and computed 52; fixed to n(n+2). |
+| r1 | 511436158 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded to a plain list; difficulty lowered to 1. |
+| r1 | 768367767 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded; difficulty lowered to 1. |
+| r1 | 890192414 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded; difficulty lowered to 1. |
+| r1 | 1585774411 | Analytical Ability | minor edit | Key correct; stem referred to a graph that is not shown, reworded; difficulty lowered to 1. |
+| r1 | 83863444 | Analytical Ability | minor edit | Z's gender was never stated, so 'Wife' did not follow; stem now states Z is a woman. |
+| r1 | 87388746 | Analytical Ability | minor edit | A's gender was never stated, so 'Wife' did not follow; stem now states A is a woman. |
+| r1 | 14692262 | Analytical Ability | minor edit | Options 'True'/'False' made D defensible (the conclusion is factually false); stem now asks if the conclusion follows, options reworded. |
+| r1 | 1902311237 | Analytical Ability | minor edit | Earth was a second defensible answer (only one not named after a Roman god, only one with life); replaced Earth with Mars. |
+| r1 | 1888209390 | Analytical Ability | minor edit | Key correct; very easy skip-one series, difficulty lowered to 1. Added teaching fields. |
+| r1 | 47588994 | General Information | minor edit | Key right; smoothed stem and added Art VII Sec 4 citation. |
+| r1 | 1234666477 | General Information | minor edit | Key right; replaced vague options and cited Art XI Secs 12-13. |
+| r1 | 1865441410 | General Information | minor edit | Key right; replaced absurd distractors (BIR, 'House of Ombudsman'); cited Art VI Sec 1. |
+| r1 | 1650764253 | General Information | minor edit | Correct; 'Moon' and 'Wind' were weak, replaced with plausible energy sources; difficulty 1. |
+| r1 | 319480201 | General Information | minor edit | Key right but Sahara is a common rival answer; stem now says hot and cold deserts count, so only one answer stands. |
+| r1 | 455430751 | General Information | minor edit | Correct; very easy, set difficulty 1. |
+| r1 | 501393926 | General Information | minor edit | Correct; easy recall, set difficulty 1. |
+| r1 | 1158147902 | General Information | minor edit | Correct; easy recall, set difficulty 1. |
+| r1 | 1378099863 | General Information | minor edit | Correct; very easy, set difficulty 1. |
+| r1 | 1987067943 | General Information | minor edit | Correct; easy recall, set difficulty 1. |
+| r1 | 846600262 | General Information | minor edit | Key right; 'Visayas' is an island group, not an island, so replaced with Samar. |
+| r1 | 1821130614 | General Information | minor edit | 'Wrote' was ambiguous (Felipe = music, Jose Palma = lyrics); stem now says 'composed the music', Palma replaces Jose Garcia Villa. |
+| r1 | 2024639418 | General Information | minor edit | Key right; no law formally proclaims a national hero, so 'officially recognized' softened; stem made a full question. |
+| r1 | 1215094383 | Numerical Ability | minor edit | Key correct (x = 5); options reordered to spread keys (all 25 were A), difficulty 2 -> 1, whyX rewritten to name the mistake. |
+| r1 | 1498426729 | Numerical Ability | minor edit | Key correct (30); explanation was garbled ('k = 56 = 30'), distractors replaced with real mistakes, options reordered, difficulty 2 -> 1. |
+| r1 | 160688422 | Numerical Ability | minor edit | Key correct (0.3); stem reworded, options ordered and key moved, whyX were non-explanations ('0.03 ≠ 3 ÷ 10'), difficulty 2 -> 1. |
+| r1 | 317826174 | Numerical Ability | minor edit | Key value correct (3/8); distractors 4/8, 2/8, 6/8 were not common mistakes, replaced with real ones and reordered; difficulty 2 -> 1. |
+| r1 | 994003789 | Numerical Ability | minor edit | Key correct (0.833...); distractors 0.5 and 0.75 replaced with real mistakes, options reordered, missing teaching fields added, difficulty 2 -> 1. |
+| r1 | 1333126242 | Numerical Ability | minor edit | Key correct (5); stem said 'sides' (should be legs) and had no units, distractors 6/8 replaced with real mistakes, options reordered, difficulty 2 -> 1. |
+| r1 | 92762615 | Numerical Ability | minor edit | Key correct (35); stem tightened, distractors 30/40/45 were not mistakes and were replaced, difficulty 2 -> 1. |
+| r1 | 103402290 | Numerical Ability | minor edit | Key correct (60); time restated as 1 hour 30 minutes to test the conversion, distractors replaced with real mistakes, key moved, difficulty 2 -> 1. |
+| r1 | 62184747 | Numerical Ability | minor edit | Key correct (25); stem reworded, distractors 27/19 replaced with real mistakes, difficulty 2 -> 1. |
+| r1 | 602545768 | Numerical Ability | minor edit | Key correct (64); explanation garbled ('322 = 64'), distractors replaced with real mistakes, key moved, difficulty 2 -> 1. |
+| r1 | 684643150 | Numerical Ability | minor edit | Key correct (12); stepsTl said 'dagdag (-2)', distractor 15 was not a real mistake and was replaced, key moved, difficulty 2 -> 1. |
+| r1 | 742655735 | Numerical Ability | minor edit | Key correct (17); stem reworded, distractors replaced with real mistakes, difficulty 2 -> 1. |
+| r1 | 970730716 | Numerical Ability | minor edit | Key correct (28); stem reworded, distractors replaced with real mistakes, key moved, difficulty 2 -> 1. |
+| r1 | 151693602 | Numerical Ability | minor edit | Key correct (9); '*' replaced with ×, explanation garbled ('34=12'), distractors replaced with real order-of-operations mistakes, difficulty 2 -> 1. |
+| r1 | 138672814 | Verbal Ability | minor edit | Key correct; basic item, difficulty lowered to Subprofessional level. |
+| r1 | 265326331 | Verbal Ability | minor edit | Stem had a stray 'most nearly means' line pasted in; rewritten as a clean error-identification question. |
+| r1 | 348171601 | Verbal Ability | minor edit | Key correct; basic tense recognition, difficulty lowered to 1. |
+| r1 | 524610546 | Verbal Ability | minor edit | Option C 'was' was also grammatical ('The group was arriving'); replaced with 'were' so only 'is' fits. |
+| r1 | 575430692 | Verbal Ability | minor edit | Explanation was inaccurate ('completed in the present'); rewritten, difficulty lowered to 1. |
+| r1 | 869906807 | Verbal Ability | minor edit | 'Proficient at' is also standard usage, so option C was a second defensible answer; replaced with 'of'. |
+| r1 | 285853436 | Verbal Ability | minor edit | Option C 'Big is the house' is a grammatical inversion (second answer) and the capitalized 'House' hinted the start; fixed both. |
+| r1 | 597306044 | Analytical Ability | unchanged | Tool-to-craft analogy; carving is the one craft a chisel is named for. Added teaching fields. |
+| r1 | 1234356618 | Analytical Ability | unchanged | Quantity-to-unit analogy; ohm is the only unit of resistance. Added teaching fields. |
+| r1 | 1968245072 | Analytical Ability | unchanged | Quantity-to-unit analogy; newton is the SI unit of force. Added teaching fields. |
+| r1 | 2118779469 | Analytical Ability | unchanged | Clothing-to-body-part analogy; a glove covers the whole hand. Added teaching fields. |
+| r1 | 269609167 | Analytical Ability | unchanged | Undistributed middle; only 'cannot determine' is defensible. Added teaching fields. |
+| r1 | 1397867088 | General Information | unchanged | Correct and stable; added teaching fields. |
+| r1 | 1904482849 | General Information | unchanged | Correct; added Art VII Sec 1 citation and teaching fields. |
+| r1 | 14216838 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 124495185 | General Information | unchanged | Correct; Curie is a fair, plausible distractor. |
+| r1 | 147687101 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 423569218 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 481078786 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 610897573 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 886009167 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 1516095501 | General Information | unchanged | Correct, past event, stable; added teaching fields. |
+| r1 | 2084301453 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 777988385 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 1407880570 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 1628196838 | General Information | unchanged | Correct per RA 9850; added citation and teaching fields. |
+| r1 | 1814858951 | General Information | unchanged | Correct; added teaching fields. |
+| r1 | 1888897707 | General Information | unchanged | Correct; added Art III citation and teaching fields. |
+| r1 | 40703556 | Verbal Ability | unchanged | Key correct; Hidden, Vague and Secretive are all near-synonyms of obscure, so only Clear is opposite. |
+| r1 | 97539312 | Verbal Ability | unchanged | Key correct; Cloudy, Thick and Dense all describe things light cannot pass through. |
+| r1 | 2091737583 | Verbal Ability | unchanged | Key correct; Thrifty is a synonym, Cautious and Modest are related but not opposites. |
+| r1 | 407036540 | Verbal Ability | unchanged | Key correct; subject 'effect' is singular and only 'is' fits. |
+| r1 | 369006591 | Verbal Ability | unchanged | Key correct; the three distractors are all antonyms, no second synonym. |
+| r1 | 567036490 | Verbal Ability | unchanged | Key correct; only one positive option, others are antonyms. |
+| r1 | 1199739628 | Verbal Ability | unchanged | Key correct; Uniform, Consistent and Monotonous all mean sameness. |
+| r1 | 2112260607 | Verbal Ability | unchanged | Key correct; the three distractors are all antonyms of futile. |
+| r2 | 545690631 | Analytical Ability | rewritten | 'Telescope : observing' was weak (a telescope also magnifies); now an object-of-study pair. |
+| r2 | 393079391 | Analytical Ability | rewritten | Both/None option set; keyed B is an entailment of 'must', not an assumption; replaced with a clean assumption item. |
+| r2 | 509479997 | Analytical Ability | rewritten | Both/None option set with no clean assumption; replaced with a clean assumption item. |
+| r2 | 773023119 | Analytical Ability | rewritten | Both/None option set with no clean assumption; replaced with a clean assumption item. |
+| r2 | 927696584 | Analytical Ability | rewritten | Both/None option set; 'guarantee' and 'leads to failure' options were not clean assumptions; replaced. |
+| r2 | 1889889922 | Analytical Ability | rewritten | Both/None option set with no clean assumption; replaced with a clean assumption item. |
+| r2 | 135614298 | Analytical Ability | rewritten | Near-duplicate average item (same 400/450/500 as 842249061); replaced with a percent-change item. |
+| r2 | 842249061 | Analytical Ability | rewritten | Exact numeric duplicate of 135614298 (400/450/500 average); replaced with a percent-of-total item. |
+| r2 | 1472321946 | Analytical Ability | rewritten | Near-duplicate of the other average items; replaced with a trend-projection item. |
+| r2 | 1388460149 | Analytical Ability | rewritten | Near-duplicate of 93208581 and W's gender never stated; replaced with a grandparent item. |
+| r2 | 1612824738 | Analytical Ability | rewritten | Near-duplicate of 93208581 and Q's gender never stated; replaced with a pointing-to item. |
+| r2 | 161847378 | Analytical Ability | rewritten | Near-duplicate of 64955796 (same 'all X / some Y are X' form); replaced with a 'No' syllogism. |
+| r2 | 620005274 | Analytical Ability | rewritten | Valid/Invalid/True/False option set (conclusion is also 'True'); replaced with an ordering item. |
+| r2 | 843201365 | Analytical Ability | rewritten | Valid/Invalid/True/False option set; near-duplicate valid syllogism; replaced with an age-ordering item. |
+| r2 | 961695495 | Analytical Ability | rewritten | Valid/Invalid/True/False option set; near-duplicate; replaced with an 'only if' conditional item. |
+| r2 | 1313182667 | Analytical Ability | rewritten | Near-duplicate of 64955796; replaced with a 'denying the consequent' item. |
+| r2 | 1336245471 | Analytical Ability | rewritten | Near-duplicate of 64955796 (and odd premise 'all clouds bring rain'); replaced with a chain conditional. |
+| r2 | 1690573639 | Analytical Ability | rewritten | Near-duplicate of 64955796; replaced with a modus tollens item. |
+| r2 | 1958573007 | Analytical Ability | rewritten | Valid/Invalid/True/False option set; near-duplicate; replaced with a 'No/Some' syllogism. |
+| r2 | 2000706559 | Analytical Ability | rewritten | Near-duplicate of 64955796; replaced with a negation-of-'all' item. |
+| r2 | 2024482281 | Analytical Ability | rewritten | Valid/Invalid/True/False option set; near-duplicate; replaced with an either-or item. |
+| r2 | 2075441765 | Analytical Ability | rewritten | Valid/Invalid/True/False option set; near-duplicate; replaced with an 'affirming the consequent' item. |
+| r2 | 1356525952 | General Information | rewritten | Options 'Both'/'None' banned and weak; replaced with real ethics-law distractors, key moved to C. |
+| r2 | 243976649 | General Information | rewritten | Most-populous country is a changing fact (India passed China in 2023); replaced with stable world-geography fact. |
+| r2 | 1611602806 | General Information | rewritten | Jupiter, Uranus and Neptune also have rings, so 3 options were defensible; replaced distractors with ringless planets. |
+| r2 | 1734665666 | General Information | rewritten | 'Largest producer' is a ranking that can change; replaced with stable Philippine coffee fact. |
+| r2 | 2099166841 | General Information | rewritten | Keyed fact false: recreational tanks hold compressed air (~78% nitrogen), not oxygen; pure O2 is toxic at depth. |
+| r2 | 1130747386 | General Information | rewritten | Island count changes with surveys (7,107 old vs 7,641 NAMRIA 2016) and both were options; replaced with stable island-groups fact. |
+| r2 | 1599644349 | Numerical Ability | rewritten | Was a one-step 7 + 8 sum; rewritten as a real substitution/order-of-operations item on the same subtopic. |
+| r2 | 2057492189 | Numerical Ability | rewritten | Near-duplicate of 5x = 35 (same answer 7, same options); rewritten as an equation with parentheses and x on both sides. |
+| r2 | 65727337 | Numerical Ability | rewritten | Side 4 made perimeter equal area (16 = 16), so the area mistake gave the key; changed to side 5 cm with units and mistake-based distractors. |
+| r2 | 2105375501 | Numerical Ability | rewritten | 2 km ÷ 1 h was trivial; rewritten as a CSE-style speed item with mixed hours and minutes. |
+| r2 | 279001731 | Numerical Ability | rewritten | Duplicate of the +6 series (both plain add-a-constant); rewritten as a ×2 + 1 series. |
+| r2 | 268008055 | Numerical Ability | rewritten | Sorted odd list with mean = median tested nothing; rewritten as an unsorted even-count list so sorting and averaging the two middle values matter. |
+| r2 | 667265545 | Numerical Ability | rewritten | Trivia (days in January); rewritten as a calendar day-counting problem. |
+| r2 | 1923875964 | Numerical Ability | rewritten | Trivia (piano keys); rewritten as an age word problem. |
+| r2 | 1365313027 | Verbal Ability | rewritten | Original 'code : password' relation was loose (a code is itself a kind of password); rebuilt as key opens lock :: password opens account. |
+| r2 | 331725529 | Verbal Ability | rewritten | Used 'Both A and B' / 'None' (banned format); rebuilt as an in-context meaning item for 'fast'. |
+| r2 | 1786808757 | Analytical Ability | key fixed | Key C (48) wrong; explanation's rule fails at n=3 and gives 54; correct answer is 47 (B). |
+| r2 | 1529806093 | Analytical Ability | key fixed | Key A (Valid) wrong: 'some students are scholars' does not make all scholars students; also replaced True/False options. |
+| r2 | 1716003426 | Analytical Ability | key fixed | Key C (16) wrong; the explanation itself gives 10 + 5 = 15 (B). |
+| r2 | 1762188624 | Verbal Ability | key fixed | Key B was wrong: B's verb 'has' agrees (its 'their' is not a subject-verb issue); C is the error, and A was also arguable, so A and B were rewritten to be clearly correct. |
+| r2 | 459095800 | Analytical Ability | minor edit | Knitting also uses needles (second answer); replaced with Weaving. |
+| r2 | 462475914 | Analytical Ability | minor edit | Key 36 correct, but explanation computed 27; fixed explanation and added steps. |
+| r2 | 642088610 | Analytical Ability | minor edit | Key 52 correct, but stated formula n^2+4n+7 gives 19 for n=2; fixed explanation and added steps. |
+| r2 | 1102036996 | Analytical Ability | minor edit | Key 35 correct, but stated formula n^2+n+4 gives 10 for n=2; fixed explanation and added steps. |
+| r2 | 59516148 | Analytical Ability | minor edit | Key correct; removed reference to a graph that is not shown; added teaching fields. |
+| r2 | 93208581 | Analytical Ability | minor edit | T's gender never stated; stated it and reworded the stem. |
+| r2 | 1987065153 | Analytical Ability | minor edit | Key correct, but 'F is a girl' plus three male options gave the answer away; replaced distractors. |
+| r2 | 838510846 | Analytical Ability | minor edit | Seal is also odd (only non-cetacean, goes on land); replaced Seal with Porpoise so only the shark stands out. Stem updated to list Porpoise too (caught by the second blind check). |
+| r2 | 62331576 | General Information | minor edit | Key correct; difficulty lowered to 1 (basic recall); added teaching fields. |
+| r2 | 374604388 | General Information | minor edit | Key correct; difficulty lowered to 1; added teaching fields. |
+| r2 | 464569912 | General Information | minor edit | Key correct; difficulty lowered to 1; added teaching fields. |
+| r2 | 582554641 | General Information | minor edit | Key correct; difficulty lowered to 1; added teaching fields. |
+| r2 | 655272907 | General Information | minor edit | Key correct; explanation lacked full title/year; stem clarified; added teaching fields. |
+| r2 | 1210660306 | General Information | minor edit | Key correct; explanation date imprecise (euro adopted 1999, cash 2002); difficulty 1; added fields. |
+| r2 | 1437646706 | General Information | minor edit | Stem 'invented the light bulb' is historically contested (Swan and others); narrowed to the practical incandescent bulb. |
+| r2 | 1999569666 | General Information | minor edit | Key correct; explanation's 'nearby pyramids' fine; difficulty lowered to 1; added fields. |
+| r2 | 1941911883 | General Information | minor edit | Stem lacked 'in the Philippines'; 'Visayas' is an island group, not an island; replaced with Samar. |
+| r2 | 2039615985 | General Information | minor edit | Key correct; difficulty lowered to 1; added teaching fields. |
+| r2 | 808390217 | Numerical Ability | minor edit | Key right; moved key off A (22/23 keys were A), why lines now name the mistake, added Taglish explanation. |
+| r2 | 1315932955 | Numerical Ability | minor edit | Key right; moved key off A, why lines now name the mistake, added Taglish explanation. |
+| r2 | 1622807356 | Numerical Ability | minor edit | Key right; distractors now real mistakes, why lines, hint fitted to a one-step equation, added Taglish explanation. |
+| r2 | 179913215 | Numerical Ability | minor edit | Key right; replaced non-mistake distractors (0.5, 0.1) with 0.4 and 0.14, why lines name the mistake, moved key off A. |
+| r2 | 1260396501 | Numerical Ability | minor edit | Key right but 4/3 × 3.14 = 4.1867 rounds to 4.19, not 4.186; fixed option, added units, fixed the explanation's lost × sign, moved key off A. |
+| r2 | 273774303 | Numerical Ability | minor edit | Key right; replaced arbitrary distractor 110 with 9.9 (decimal slip), why lines name the mistake, moved key off A, added Taglish explanation. |
+| r2 | 1450369977 | Numerical Ability | minor edit | Key right; added units and mistake-based distractors, why lines, Taglish explanation, moved key off A. |
+| r2 | 160379009 | Numerical Ability | minor edit | Key right; distractors now come from real mistakes, why lines, steps and Taglish added, moved key off A. |
+| r2 | 751710091 | Numerical Ability | minor edit | Key right; fixed explanation's lost × sign ("482 = 96"), replaced weak distractor 84 with 144, why lines, moved key off A. |
+| r2 | 910365878 | Numerical Ability | minor edit | Key right; why lines and Taglish explanation added, stem tidied, moved key off A. |
+| r2 | 1055551722 | Numerical Ability | minor edit | Key right; replaced arbitrary distractors with mistake-based ones, why lines, Taglish, difficulty set to 1. |
+| r2 | 1585438389 | Numerical Ability | minor edit | Key right; why lines and Taglish explanation added, stem tidied, moved key off A. |
+| r2 | 514582134 | Numerical Ability | minor edit | Key right (B); stem wording tidied, steps, hint, why lines and Taglish added. |
+| r2 | 1128821398 | Numerical Ability | minor edit | Key right; replaced arbitrary distractor 9 with 1.5, why lines, clearer steps, Taglish, moved key off A. |
+| r2 | 1398123625 | Numerical Ability | minor edit | Key right; replaced arbitrary distractor 6 with 1, why lines, clearer steps, Taglish, moved key off A. |
+| r2 | 379343669 | Verbal Ability | minor edit | Key correct; very easy analogy, difficulty set to 1; teaching fields added. |
+| r2 | 964282408 | Verbal Ability | minor edit | Key correct; easy item, difficulty set to 1; teaching fields added. |
+| r2 | 1556267642 | Verbal Ability | minor edit | Key correct; easy antonym, difficulty set to 1; teaching fields added. |
+| r2 | 649091033 | Verbal Ability | minor edit | Key correct; easy adverb item, difficulty set to 1; teaching fields added. |
+| r2 | 705733641 | Verbal Ability | minor edit | Key correct; standard preposition item, difficulty set to 1; teaching fields added. |
+| r2 | 1092394360 | Verbal Ability | minor edit | Key correct; standard preposition item, difficulty set to 1; teaching fields added. |
+| r2 | 1296110569 | Verbal Ability | minor edit | Option D 'He went to school.' was also correct; replaced with 'He gone to school.' so only B is correct; difficulty 1. |
+| r2 | 464245615 | Verbal Ability | minor edit | Option C 'Shining are the stars' is a valid inverted sentence; replaced distractors with non-sentences, lowercased the prompt, clarified stem; difficulty 1. |
+| r2 | 1490974169 | Verbal Ability | minor edit | Option C 'Flying are the birds' is a valid inverted sentence; replaced distractors with non-sentences, lowercased the prompt, clarified stem; difficulty 1. |
+| r2 | 182894093 | Verbal Ability | minor edit | Key correct; stem reworded into a real question, weak 'No implication' distractor replaced; difficulty 1. |
+| r2 | 1097576830 | Analytical Ability | unchanged | Synonym pair; key correct; added teaching fields. |
+| r2 | 2061421434 | Analytical Ability | unchanged | Unit-of-measure pair; key correct; added teaching fields. |
+| r2 | 64955796 | Analytical Ability | unchanged | Valid syllogism, one answer; added teaching fields. |
+| r2 | 1155737381 | Analytical Ability | unchanged | Circle is the only non-polygon; key correct; added teaching fields. |
+| r2 | 1590122859 | Analytical Ability | unchanged | Bear is the only non-cat; key correct; added teaching fields. |
+| r2 | 274578779 | Analytical Ability | unchanged | Key correct; existing steps fine; added whys and explanationTl. |
+| r2 | 413752642 | General Information | unchanged | Key correct; added citation and teaching fields. |
+| r2 | 1042032203 | General Information | unchanged | Key correct; added teaching fields. |
+| r2 | 1446932728 | General Information | unchanged | Key correct, stable fact; added teaching fields. |
+| r2 | 1643095155 | General Information | unchanged | Key correct; added teaching fields. |
+| r2 | 494259942 | General Information | unchanged | Key correct; added teaching fields. |
+| r2 | 642446311 | General Information | unchanged | Key correct (Ati-Atihan/Dinagyang not among options); added teaching fields. |
+| r2 | 2029505828 | Verbal Ability | unchanged | Key correct, three synonym traps are good; only teaching fields added. |
+| r2 | 1459368517 | Verbal Ability | unchanged | Key correct, single answer; only teaching fields added. |
+| r2 | 1718825358 | Verbal Ability | unchanged | Key correct, single answer; only teaching fields added. |
