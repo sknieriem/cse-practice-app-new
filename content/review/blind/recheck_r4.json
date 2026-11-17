@@ -1,0 +1,443 @@
+[
+ {
+  "id": 35942117,
+  "category": "Analytical Ability",
+  "text": "Broom is to sweeping as needle is to:",
+  "optionA": "Sewing",
+  "optionB": "Ironing",
+  "optionC": "Weaving",
+  "optionD": "Folding"
+ },
+ {
+  "id": 1555712605,
+  "category": "Analytical Ability",
+  "text": "Ruler is to measuring as camera is to:",
+  "optionA": "Photographing",
+  "optionB": "Printing",
+  "optionC": "Lighting",
+  "optionD": "Focusing"
+ },
+ {
+  "id": 269705685,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To win the inter-school debate, our team must prepare its arguments early.\" Which of the following is assumed in the statement?",
+  "optionA": "Preparing early guarantees that the team will win.",
+  "optionB": "The team wants to win the inter-school debate.",
+  "optionC": "The other teams have not prepared at all.",
+  "optionD": "Debates are judged only on how early teams prepare."
+ },
+ {
+  "id": 796708615,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To raise office morale, the new division chief plans to personally thank employees for good work.\" Which of the following is assumed in the statement?",
+  "optionA": "Being thanked can lift employees' morale.",
+  "optionB": "Thanking employees is the only way to raise morale.",
+  "optionC": "Office morale is already at its highest.",
+  "optionD": "Employees care only about cash bonuses."
+ },
+ {
+  "id": 823971108,
+  "category": "Analytical Ability",
+  "text": "Statement: \"Maria enrolled in a review center so that she can pass the Civil Service Exam.\" Which of the following is assumed in the statement?",
+  "optionA": "Maria has failed the Civil Service Exam before.",
+  "optionB": "Review centers guarantee that every enrollee passes.",
+  "optionC": "Studying on one's own never works.",
+  "optionD": "A review center can help her prepare for the exam."
+ },
+ {
+  "id": 985585971,
+  "category": "Analytical Ability",
+  "text": "Statement: \"The company requires its new call-center agents to practise speaking English for one hour every day.\" Which of the following is assumed in the statement?",
+  "optionA": "The new agents already speak perfect English.",
+  "optionB": "Every agent will become fluent within one month.",
+  "optionC": "Daily speaking practice can improve the agents' English.",
+  "optionD": "The agents will never need any other language at work."
+ },
+ {
+  "id": 1695189728,
+  "category": "Analytical Ability",
+  "text": "If 2=11, 3=20, 4=31, 5=?",
+  "optionA": "44",
+  "optionB": "45",
+  "optionC": "46",
+  "optionD": "47"
+ },
+ {
+  "id": 2050284569,
+  "category": "Analytical Ability",
+  "text": "If 2=10, 3=19, 4=30, 5=?",
+  "optionA": "42",
+  "optionB": "43",
+  "optionC": "44",
+  "optionD": "45"
+ },
+ {
+  "id": 636588524,
+  "category": "Analytical Ability",
+  "text": "A graph shows the noon temperature in a town: Monday 15 °C, Tuesday 20 °C, Wednesday 25 °C. What is the average temperature for the three days?",
+  "optionA": "18 °C",
+  "optionB": "20 °C",
+  "optionC": "22 °C",
+  "optionD": "24 °C"
+ },
+ {
+  "id": 734611293,
+  "category": "Analytical Ability",
+  "text": "A graph shows the noon temperature in a city: Day 1 25 °C, Day 2 30 °C, Day 3 35 °C. What is the average temperature for the three days?",
+  "optionA": "28 °C",
+  "optionB": "30 °C",
+  "optionC": "32 °C",
+  "optionD": "34 °C"
+ },
+ {
+  "id": 763597739,
+  "category": "Analytical Ability",
+  "text": "A graph shows a factory's rice-sack production: Q1 500 sacks, Q2 550 sacks, Q3 600 sacks. What is the average production per quarter?",
+  "optionA": "540 sacks",
+  "optionB": "550 sacks",
+  "optionC": "560 sacks",
+  "optionD": "570 sacks"
+ },
+ {
+  "id": 1429217809,
+  "category": "Analytical Ability",
+  "text": "A graph shows a store's monthly sales: January ₱100,000, February ₱150,000, March ₱120,000. What is the average monthly sales, rounded to the nearest peso?",
+  "optionA": "₱123,333",
+  "optionB": "₱120,000",
+  "optionC": "₱130,000",
+  "optionD": "₱125,000"
+ },
+ {
+  "id": 8810366,
+  "category": "Analytical Ability",
+  "text": "No poets are lazy. Some people are poets. Which conclusion follows?",
+  "optionA": "Some people are not lazy.",
+  "optionB": "No people are lazy.",
+  "optionC": "All people are lazy.",
+  "optionD": "Some lazy people are poets."
+ },
+ {
+  "id": 104501795,
+  "category": "Analytical Ability",
+  "text": "All dogs bark. Spot barks. Which conclusion follows?",
+  "optionA": "Spot is a dog.",
+  "optionB": "Spot is not a dog.",
+  "optionC": "It cannot be determined whether Spot is a dog.",
+  "optionD": "Only dogs bark."
+ },
+ {
+  "id": 1114052581,
+  "category": "Analytical Ability",
+  "text": "All dogs are loyal. No cat is a dog. Which conclusion follows?",
+  "optionA": "No cat is loyal.",
+  "optionB": "All cats are loyal.",
+  "optionC": "Some cats are loyal.",
+  "optionD": "Nothing definite follows about whether cats are loyal."
+ },
+ {
+  "id": 364905136,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Lion, Tiger, Elephant, Leopard",
+  "optionA": "Lion",
+  "optionB": "Tiger",
+  "optionC": "Elephant",
+  "optionD": "Leopard"
+ },
+ {
+  "id": 466601111,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Car, Jeepney, Motorcycle, Airplane",
+  "optionA": "Car",
+  "optionB": "Jeepney",
+  "optionC": "Motorcycle",
+  "optionD": "Airplane"
+ },
+ {
+  "id": 1387829418,
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, how is the Speaker of the House of Representatives chosen?",
+  "optionA": "Appointed by the President",
+  "optionB": "Elected by a majority vote of all the Members of the House",
+  "optionC": "Elected by the people in a nationwide vote",
+  "optionD": "The longest-serving Member automatically becomes Speaker"
+ },
+ {
+  "id": 2034682365,
+  "category": "General Information",
+  "text": "What is the main function of the Commission on Elections (COMELEC)?",
+  "optionA": "Enforce and administer all laws on the conduct of elections",
+  "optionB": "Audit the accounts of government agencies",
+  "optionC": "Appoint officials to government positions",
+  "optionD": "Enact laws"
+ },
+ {
+  "id": 300226883,
+  "category": "General Information",
+  "text": "The Suez Canal, which links the Mediterranean Sea and the Red Sea, is located in which country?",
+  "optionA": "Sudan",
+  "optionB": "Egypt",
+  "optionC": "Libya",
+  "optionD": "Morocco"
+ },
+ {
+  "id": 369340607,
+  "category": "General Information",
+  "text": "Which scientist developed the theory of relativity?",
+  "optionA": "Isaac Newton",
+  "optionB": "Albert Einstein",
+  "optionC": "Galileo Galilei",
+  "optionD": "Niels Bohr"
+ },
+ {
+  "id": 1708134427,
+  "category": "General Information",
+  "text": "Republic Act No. 9262 is also known as the:",
+  "optionA": "Anti-Violence Against Women and Their Children Act of 2004",
+  "optionB": "Anti-Graft and Corrupt Practices Act",
+  "optionC": "Ecological Solid Waste Management Act",
+  "optionD": "Labor Code of the Philippines"
+ },
+ {
+  "id": 190778579,
+  "category": "General Information",
+  "text": "What is the national costume of the Philippines for men?",
+  "optionA": "Barong Tagalog",
+  "optionB": "Baro't saya",
+  "optionC": "Malong",
+  "optionD": "Salakot"
+ },
+ {
+  "id": 1543417124,
+  "category": "General Information",
+  "text": "Which Philippine folk dance is performed while balancing lighted oil lamps on the head and the backs of the hands?",
+  "optionA": "Tinikling",
+  "optionB": "Cariñosa",
+  "optionC": "Pandanggo sa Ilaw",
+  "optionD": "Singkil"
+ },
+ {
+  "id": 207501616,
+  "category": "Numerical Ability",
+  "text": "If b = c × d and c = 7, d = 3, what is b?",
+  "optionA": "21",
+  "optionB": "10",
+  "optionC": "4",
+  "optionD": "24"
+ },
+ {
+  "id": 389516047,
+  "category": "Numerical Ability",
+  "text": "What is 1/3 written as a decimal?",
+  "optionA": "0.333...",
+  "optionB": "0.5",
+  "optionC": "0.25",
+  "optionD": "0.666..."
+ },
+ {
+  "id": 466426449,
+  "category": "Numerical Ability",
+  "text": "A regular hexagon has sides of 8 cm each. What is its perimeter?",
+  "optionA": "40 cm",
+  "optionB": "48 cm",
+  "optionC": "56 cm",
+  "optionD": "64 cm"
+ },
+ {
+  "id": 605251264,
+  "category": "Numerical Ability",
+  "text": "What is the sum of the interior angles of a heptagon (7 sides)?",
+  "optionA": "720°",
+  "optionB": "1,080°",
+  "optionC": "900°",
+  "optionD": "1,260°"
+ },
+ {
+  "id": 539613295,
+  "category": "Numerical Ability",
+  "text": "A cyclist rides 30 km in 1 hour 30 minutes. What is the average speed in km/h?",
+  "optionA": "20",
+  "optionB": "45",
+  "optionC": "30",
+  "optionD": "15"
+ },
+ {
+  "id": 277354909,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 1, 8, 27, 64, 125, ?",
+  "optionA": "216",
+  "optionB": "150",
+  "optionC": "100",
+  "optionD": "175"
+ },
+ {
+  "id": 1260676570,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 1, 5, 9, 13, 17, ?",
+  "optionA": "21",
+  "optionB": "19",
+  "optionC": "23",
+  "optionD": "15"
+ },
+ {
+  "id": 1677984835,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 7, 14, 28, 56, ?",
+  "optionA": "112",
+  "optionB": "84",
+  "optionC": "70",
+  "optionD": "98"
+ },
+ {
+  "id": 1911138141,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 49, 36, 25, 16, ?",
+  "optionA": "9",
+  "optionB": "4",
+  "optionC": "1",
+  "optionD": "7"
+ },
+ {
+  "id": 2022239685,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 5, 10, 15, 20, 25, ?",
+  "optionA": "30",
+  "optionB": "50",
+  "optionC": "35",
+  "optionD": "125"
+ },
+ {
+  "id": 53623703,
+  "category": "Numerical Ability",
+  "text": "A barangay sports fest has 6 soccer teams. Each team has 11 players on the field and 5 substitutes. How many players are there in all?",
+  "optionA": "66",
+  "optionB": "71",
+  "optionC": "96",
+  "optionD": "30"
+ },
+ {
+  "id": 1111574015,
+  "category": "Numerical Ability",
+  "text": "Lito saves ₱75 every week. Counting a year as 52 weeks, how much does he save in one year?",
+  "optionA": "₱3,600",
+  "optionB": "₱3,900",
+  "optionC": "₱900",
+  "optionD": "₱3,975"
+ },
+ {
+  "id": 1407941946,
+  "category": "Numerical Ability",
+  "text": "A music teacher restrings 9 six-string guitars and 4 four-string bass guitars. How many strings does she need in all?",
+  "optionA": "78",
+  "optionB": "54",
+  "optionC": "52",
+  "optionD": "70"
+ },
+ {
+  "id": 1511106379,
+  "category": "Numerical Ability",
+  "text": "A parking area has 15 cars and 8 tricycles. How many wheels are there in all?",
+  "optionA": "76",
+  "optionB": "84",
+  "optionC": "92",
+  "optionD": "69"
+ },
+ {
+  "id": 1495293733,
+  "category": "Numerical Ability",
+  "text": "If 6 workers build 6 walls in 6 days, how many days will 3 workers take to build 6 walls?",
+  "optionA": "6",
+  "optionB": "3",
+  "optionC": "12",
+  "optionD": "9"
+ },
+ {
+  "id": 2043291122,
+  "category": "Numerical Ability",
+  "text": "If 4 mechanics fix 4 cars in 4 hours, how many hours will 2 mechanics take to fix 4 cars?",
+  "optionA": "4",
+  "optionB": "2",
+  "optionC": "8",
+  "optionD": "6"
+ },
+ {
+  "id": 1136378611,
+  "category": "Verbal Ability",
+  "text": "Complete the analogy: Hot is to cold as light is to:",
+  "optionA": "Dark",
+  "optionB": "Bright",
+  "optionC": "Lamp",
+  "optionD": "Day"
+ },
+ {
+  "id": 209984142,
+  "category": "Verbal Ability",
+  "text": "Which word in the phrase 'a herd of cattles' is incorrect?",
+  "optionA": "a",
+  "optionB": "herd",
+  "optionC": "of",
+  "optionD": "cattles"
+ },
+ {
+  "id": 1307000080,
+  "category": "Verbal Ability",
+  "text": "The flock of birds _____ making its way south.",
+  "optionA": "is",
+  "optionB": "are",
+  "optionC": "were",
+  "optionD": "have"
+ },
+ {
+  "id": 1980431187,
+  "category": "Verbal Ability",
+  "text": "The number of books on the shelf _____ ten.",
+  "optionA": "is",
+  "optionB": "are",
+  "optionC": "were",
+  "optionD": "have"
+ },
+ {
+  "id": 272174356,
+  "category": "Verbal Ability",
+  "text": "What does the sentence 'She studied hard, yet she failed.' imply?",
+  "optionA": "Studying hard always guarantees success.",
+  "optionB": "She failed even though she made an effort.",
+  "optionC": "She did not study for the exam.",
+  "optionD": "She failed because she studied too hard."
+ },
+ {
+  "id": 1602142674,
+  "category": "Verbal Ability",
+  "text": "Choose the correct spelling:",
+  "optionA": "Recieve",
+  "optionB": "Receive",
+  "optionC": "Recive",
+  "optionD": "Receve"
+ },
+ {
+  "id": 375555613,
+  "category": "Verbal Ability",
+  "text": "Choose the synonym for 'tenacious'.",
+  "optionA": "Weak",
+  "optionB": "Persistent",
+  "optionC": "Hesitant",
+  "optionD": "Feeble"
+ },
+ {
+  "id": 791835610,
+  "category": "Verbal Ability",
+  "text": "What does 'bank' mean in the sentence 'I deposited money in the bank'?",
+  "optionA": "River edge",
+  "optionB": "Financial institution",
+  "optionC": "Aircraft maneuver",
+  "optionD": "Row of switches"
+ },
+ {
+  "id": 1813792302,
+  "category": "Verbal Ability",
+  "text": "The landscape was barren.\n\nIn this sentence, 'barren' most nearly means:",
+  "optionA": "Fertile",
+  "optionB": "Bare",
+  "optionC": "Lush",
+  "optionD": "Verdant"
+ }
+]

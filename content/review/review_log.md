@@ -1,10 +1,11 @@
-# Review of original questions (300 reviewed)
+# Review of original questions (401 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
 | r1 | 29 | 44 | 3 | 24 | 0 |
 | r2 | 15 | 43 | 4 | 38 | 0 |
 | r3 | 38 | 38 | 3 | 21 | 0 |
+| r4 | 20 | 58 | 2 | 21 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -308,3 +309,104 @@
 | r3 | 83162521 | Verbal Ability | unchanged | Key correct; distractors are all antonyms, no second synonym; added teaching fields. |
 | r3 | 200646296 | Verbal Ability | unchanged | Key correct; one synonym; added teaching fields. |
 | r3 | 1464501749 | Verbal Ability | unchanged | Key correct; one synonym; added teaching fields. |
+| r4 | 35942117 | Analytical Ability | rewritten | 'Fork is to piercing' is weak (a fork also scoops and picks up food); replaced with a clean tool : function pair |
+| r4 | 269705685 | Analytical Ability | rewritten | Banned Both/None options; keyed option was a restatement, not an assumption |
+| r4 | 796708615 | Analytical Ability | rewritten | Banned Both/None options; keyed option was a restatement, not an assumption |
+| r4 | 823971108 | Analytical Ability | rewritten | Banned Both/None options; keyed option was a restatement, not an assumption |
+| r4 | 985585971 | Analytical Ability | rewritten | Banned Both/None options; keyed option was a restatement, not an assumption |
+| r4 | 8810366 | Analytical Ability | rewritten | Banned Valid/Invalid/True/False option set; recast as 'which conclusion follows' with a different syllogism form to avoid near-duplicates |
+| r4 | 104501795 | Analytical Ability | rewritten | Banned Valid/Invalid/True/False option set; recast as 'which conclusion follows' (key unchanged in substance: Spot being a dog does not follow) |
+| r4 | 1114052581 | Analytical Ability | rewritten | Banned Valid/Invalid/True/False option set; recast as 'which conclusion follows' with a different form (illicit major) to avoid a near-duplicate |
+| r4 | 1387829418 | General Information | rewritten | The Constitution sets no term for the Speaker, so 'Until replaced' vs '3 years' (one Congress) was disputable; rewritten to how the Speaker is chosen (Art. VI Sec. 16(1)). |
+| r4 | 300226883 | General Information | rewritten | 'Largest country in Africa' changed in 2011 (Sudan split), a time-sensitive superlative; rewritten to a stable Africa geography fact. |
+| r4 | 369340607 | General Information | rewritten | 'Father of Modern Physics' is attributed to both Galileo (most common, incl. by Einstein himself) and Einstein; keyed Einstein was disputable; rewritten to theory of relativity. |
+| r4 | 1543417124 | General Information | rewritten | No law declares a national dance; Tinikling and Cariñosa are both widely cited as such, so two answers were defensible; rewritten to a stable folk-dance fact. |
+| r4 | 466426449 | Numerical Ability | rewritten | Trivia ('number of sides in a hexagon') rewritten into a perimeter problem on the same subtopic. |
+| r4 | 605251264 | Numerical Ability | rewritten | Trivia ('number of sides in a heptagon') rewritten into an interior-angle-sum problem. |
+| r4 | 539613295 | Numerical Ability | rewritten | Stem gave the answer away (20 km in 1 hour = 20 km/h); rewritten as a real speed problem needing a time conversion. |
+| r4 | 53623703 | Numerical Ability | rewritten | Sports trivia ('players in a soccer team') rewritten into a multiplication word problem. |
+| r4 | 1111574015 | Numerical Ability | rewritten | Trivia with a second arguable answer (a year is 52 1/7 weeks, so 53 is defensible) rewritten into a savings word problem. |
+| r4 | 1407941946 | Numerical Ability | rewritten | Trivia with a second arguable answer (bass and 7-string guitars exist) rewritten into a word problem that states the string counts. |
+| r4 | 1511106379 | Numerical Ability | rewritten | Trivia ('wheels on a car') rewritten into a counting word problem with Philippine context. Wheel counts stated in the stem (second blind check had to assume them). |
+| r4 | 1495293733 | Numerical Ability | rewritten | 4 items shared one 'answer stays the same' template; changed to 6 walls so the rate must actually be used; key now C (12). |
+| r4 | 2043291122 | Numerical Ability | rewritten | Same 'answer stays the same' template; changed to 4 cars so the rate must be used; key now C (8). |
+| r4 | 1695189728 | Analytical Ability | key fixed | Key 45 was wrong: rule n^2 + 4n - 1 gives 44 (explanation's n^2 + 3n + 5 fails for n = 2) |
+| r4 | 2050284569 | Analytical Ability | key fixed | Key 44 was wrong: differences 9, 11, 13 give 43 (explanation's n^2 + 3n + 4 gives 14 for n = 2, not 10) |
+| r4 | 183168070 | Analytical Ability | minor edit | Key correct; difficulty set to 1 and teaching fields added |
+| r4 | 327417457 | Analytical Ability | minor edit | Key correct; difficulty set to 1 and teaching fields added |
+| r4 | 571070274 | Analytical Ability | minor edit | Key correct; difficulty set to 1 and teaching fields added |
+| r4 | 1555712605 | Analytical Ability | minor edit | 'Filming' was a second defensible answer (cameras also film); replaced with 'Printing' |
+| r4 | 1631256051 | Analytical Ability | minor edit | Key correct; difficulty set to 1 and teaching fields added |
+| r4 | 105547188 | Analytical Ability | minor edit | Key 49 correct; explanation used a wrong formula and computed 55 |
+| r4 | 587274041 | Analytical Ability | minor edit | Key 40 correct; explanation used a wrong formula and computed 39 |
+| r4 | 1966047099 | Analytical Ability | minor edit | Key 42 correct; explanation used a wrong formula and computed 46 |
+| r4 | 2069883621 | Analytical Ability | minor edit | Key 29 correct; explanation used a wrong formula and computed 26 |
+| r4 | 636588524 | Analytical Ability | minor edit | Key correct; added units (degrees C) and tidied stem; difficulty 1 |
+| r4 | 734611293 | Analytical Ability | minor edit | Key correct; added units (degrees C) and tidied stem; difficulty 1 |
+| r4 | 763597739 | Analytical Ability | minor edit | Key correct; added units and tidied stem; difficulty 1 |
+| r4 | 1429217809 | Analytical Ability | minor edit | Key correct; added units, rounding note, and tidied stem |
+| r4 | 364905136 | Analytical Ability | minor edit | Wolf was a second valid answer (only non-cat); replaced Wolf with Leopard so Elephant is the only non-cat and only herbivore |
+| r4 | 466601111 | Analytical Ability | minor edit | Bicycle was a second valid answer (only non-motorized); replaced Bicycle with Jeepney so Airplane is the only one that flies |
+| r4 | 483963428 | Analytical Ability | minor edit | Key correct; difficulty set to 1 and teaching fields added |
+| r4 | 2034682365 | General Information | minor edit | Key correct; option A sharpened to the constitutional wording and explanation now cites Art. IX-C Sec. 2(1). |
+| r4 | 1489601512 | General Information | minor edit | Key correct; explanation now cites Sec. 7(d) and notes the distractors are Sec. 4 norms of conduct. |
+| r4 | 160158279 | General Information | minor edit | Key correct; easy recall item lowered to difficulty 1; teaching fields added. |
+| r4 | 317658505 | General Information | minor edit | Key correct; explanation said blue whales grow 'up to 100 meters' (false: about 30 m / 100 feet); fixed; difficulty set to 1. |
+| r4 | 657782264 | General Information | minor edit | Key correct; difficulty set to 1; teaching fields added. |
+| r4 | 1521342287 | General Information | minor edit | Key correct; difficulty set to 1; teaching fields added. |
+| r4 | 1593956969 | General Information | minor edit | Key correct; difficulty set to 1; teaching fields added. |
+| r4 | 1708134427 | General Information | minor edit | Key correct; option A lacked 'Their' from the official title; stem completed; explanation now gives the full title. |
+| r4 | 2055236491 | General Information | minor edit | Key correct; explanation said euro 'adopted in 2002' (adopted 1999, notes and coins 2002); fixed. |
+| r4 | 2101546851 | General Information | minor edit | Key correct; difficulty set to 1; teaching fields added. |
+| r4 | 190778579 | General Information | minor edit | Key correct; foreign distractors (kimono, tuxedo, suit) were giveaways; replaced with Filipino garments; difficulty set to 1. |
+| r4 | 924282981 | General Information | minor edit | Key correct; explanation now cites PD 940 and the Quezon City trap; difficulty set to 1. |
+| r4 | 172219452 | Numerical Ability | minor edit | Key correct; difficulty set to 1 (one-step substitution); numbered steps; added whys and explanationTl. |
+| r4 | 207501616 | Numerical Ability | minor edit | Explanation lost its × sign ('b = 73 = 21'); stem '*' changed to '×'; difficulty 1; added whys/Taglish. |
+| r4 | 612824269 | Numerical Ability | minor edit | Hint talked about undoing +/− (there is none here); stepsTl was cut short; difficulty 1; added explanationTl. |
+| r4 | 389516047 | Numerical Ability | minor edit | Key correct; stem reworded; difficulty 1; added steps, hint, whys and Taglish. |
+| r4 | 98467538 | Numerical Ability | minor edit | Key correct; difficulty 1; explanation now uses ×; added explanationTl. |
+| r4 | 411712212 | Numerical Ability | minor edit | Key correct; difficulty 1; explanation now uses ×; added explanationTl. |
+| r4 | 1059750230 | Numerical Ability | minor edit | Key correct; difficulty 1; explanation now uses ×; added explanationTl. |
+| r4 | 1752148487 | Numerical Ability | minor edit | Key correct; difficulty 1; explanation now uses ×; added explanationTl; replaced weak whys (odd decimals like 21.875%) with the actual mistakes. |
+| r4 | 2021100914 | Numerical Ability | minor edit | Key correct; difficulty 1; explanation now uses ×; added explanationTl; replaced weak whys (odd decimals like 21.875%) with the actual mistakes. |
+| r4 | 2097167053 | Numerical Ability | minor edit | Key correct; difficulty 1; explanation now uses ×; added explanationTl. |
+| r4 | 1446253096 | Numerical Ability | minor edit | Key correct; numbered the steps; added whys and explanationTl. |
+| r4 | 277354909 | Numerical Ability | minor edit | Stem ended '125?' (blank unclear), now '125, ?'; difficulty 1; added steps, hint, whys, Taglish. |
+| r4 | 1260676570 | Numerical Ability | minor edit | Stem ended '17?' (blank unclear), now '17, ?'; difficulty 1; added whys and explanationTl. |
+| r4 | 1570412187 | Numerical Ability | minor edit | Explanation lost its × sign ('813 = 243'); difficulty 1; added whys and explanationTl. |
+| r4 | 1677984835 | Numerical Ability | minor edit | Explanation lost its × sign ('562 = 112'); unclear stem fixed; difficulty 1; added whys and explanationTl. |
+| r4 | 1911138141 | Numerical Ability | minor edit | Key correct; silly distractor 0 replaced with 7 (the next gap, a real mistake); difficulty 1; added whys and explanationTl. |
+| r4 | 2022239685 | Numerical Ability | minor edit | Stem ended '25?' (blank unclear); distractors 25 and 20 just repeated terms, replaced with 50 and 125; difficulty 1. |
+| r4 | 161148794 | Numerical Ability | minor edit | Key correct; steps said 'job' for products, reworded; added whys and explanationTl; difficulty 1. |
+| r4 | 436461011 | Numerical Ability | minor edit | Key correct; steps reworded; added whys and explanationTl; difficulty 1. |
+| r4 | 1136378611 | Verbal Ability | minor edit | 'Heavy' was a second valid answer (light vs heavy are also opposites); replaced with 'Lamp'; difficulty 1. |
+| r4 | 209984142 | Verbal Ability | minor edit | Stem presented a bare fragment as a sentence; reworded as a phrase question; difficulty 1. |
+| r4 | 1307000080 | Verbal Ability | minor edit | 'is' and 'was' were both correct (no tense fixed); replaced C with 'were' and added 'its' so singular agreement is forced. |
+| r4 | 1980431187 | Verbal Ability | minor edit | 'is' and 'was' were both correct (no tense fixed); replaced C 'was' with 'were'. |
+| r4 | 272174356 | Verbal Ability | minor edit | Awkward stem and fragment options ('No implication.'); reworded into full-sentence options, key unchanged. |
+| r4 | 386851684 | Verbal Ability | minor edit | Key correct; difficulty lowered to 1 (subprofessional spelling); added teaching fields. |
+| r4 | 1602142674 | Verbal Ability | minor edit | Key correct; removed trailing space in stem, difficulty 1; added teaching fields. |
+| r4 | 375555613 | Verbal Ability | minor edit | Key correct; replaced phrase option 'Giving up' with single word 'Hesitant' to match the other options. |
+| r4 | 791835610 | Verbal Ability | minor edit | 'Group of fish' is not a sense of 'bank' (that is a school); replaced with real sense 'Row of switches'; stem reworded; difficulty 1. |
+| r4 | 1326619988 | Verbal Ability | minor edit | Key correct; difficulty lowered to 1; explanation expanded; added teaching fields. |
+| r4 | 1813792302 | Verbal Ability | minor edit | 'Empty' was a loose match for 'barren'; replaced with the closer 'Bare'. |
+| r4 | 828334311 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 1707578260 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 413502916 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 505467647 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 887372409 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 733498225 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 812446768 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 1862564295 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r4 | 608952765 | General Information | unchanged | Key correct; added teaching fields. |
+| r4 | 1072534553 | General Information | unchanged | Key correct; added teaching fields. |
+| r4 | 1509638371 | General Information | unchanged | Key correct; added teaching fields. |
+| r4 | 1854968706 | General Information | unchanged | Key correct; added teaching fields. |
+| r4 | 1513413537 | General Information | unchanged | Key correct; added teaching fields. |
+| r4 | 2128945234 | Verbal Ability | unchanged | Key correct, one answer; added teaching fields. |
+| r4 | 238952314 | Verbal Ability | unchanged | Key correct; only B keeps all three items in the same form; added teaching fields. |
+| r4 | 542674840 | Verbal Ability | unchanged | Key correct; the other three all make a plot easier to predict; added teaching fields. |
+| r4 | 628174097 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r4 | 162904311 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r4 | 706599274 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r4 | 1266564199 | Verbal Ability | unchanged | Key correct; added teaching fields. |

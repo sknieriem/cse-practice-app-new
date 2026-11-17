@@ -1,0 +1,253 @@
+[
+ {
+  "id": 1136378611, "blind": "A", "verdict": "minor edit",
+  "reason": "'Heavy' was a second valid answer (light vs heavy are also opposites); replaced with 'Lamp'; difficulty 1.",
+  "fields": {
+   "optionC": "Lamp",
+   "difficulty": 1,
+   "explanation": "Hot and cold are opposites in temperature; in the same way, light and dark are opposites in brightness.",
+   "hint": "Ask what relationship hot and cold have, then find the word with that same relationship to light.",
+   "whyB": "Bright is close in meaning to light, not its opposite; the pair needs opposites.",
+   "whyC": "A lamp gives off light; that is a source relationship, not opposites like hot and cold.",
+   "whyD": "Day is when there is light; it is associated with light, not its opposite.",
+   "explanationTl": "Magkasalungat ang hot at cold. Kaya ang kapareho niyan para sa light ay ang kabaligtaran niya, which is dark.",
+   "hintTl": "Tingnan mo muna kung ano ang relationship ng hot at cold, tapos hanapin mo 'yung ganun din sa light."
+  }
+ },
+ {
+  "id": 2128945234, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct, one answer; added teaching fields.",
+  "fields": {
+   "hint": "Lucid is often used for writing or thinking that is easy to follow. Look for the opposite.",
+   "whyA": "Clear is a synonym of lucid, not an antonym.",
+   "whyC": "Understandable means the same as lucid; the question asks for the opposite.",
+   "whyD": "Coherent (logical and easy to follow) is close to lucid, not its opposite.",
+   "explanationTl": "Ang lucid ay malinaw at madaling intindihin. Kaya ang antonym niya ay confusing, 'yung nakakalito.",
+   "hintTl": "Ginagamit ang lucid para sa paliwanag na madaling sundan. Hanapin mo 'yung kabaligtaran."
+  }
+ },
+ {
+  "id": 209984142, "blind": "D", "verdict": "minor edit",
+  "reason": "Stem presented a bare fragment as a sentence; reworded as a phrase question; difficulty 1.",
+  "fields": {
+   "text": "Which word in the phrase 'a herd of cattles' is incorrect?",
+   "optionA": "a",
+   "difficulty": 1,
+   "explanation": "'Cattle' is already a plural noun and never takes -s, so the correct phrase is 'a herd of cattle'.",
+   "hint": "One of these nouns has the same form whether you mean one group or many animals.",
+   "whyA": "The article 'a' correctly goes with the singular noun 'herd'.",
+   "whyB": "'Herd' is the right collective noun for cattle.",
+   "whyC": "'Of' is the correct preposition after a collective noun ('a herd of', 'a flock of').",
+   "explanationTl": "Plural na talaga ang 'cattle', kaya hindi na nilalagyan ng -s. Ang tama ay 'a herd of cattle'.",
+   "hintTl": "May isang noun dito na plural na kahit walang -s."
+  }
+ },
+ {
+  "id": 238952314, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; only B keeps all three items in the same form; added teaching fields.",
+  "fields": {
+   "hint": "Check whether every item in the list has the same grammatical form.",
+   "whyA": "Mixes infinitives (to swim, to hike) with a gerund (running).",
+   "whyC": "Mixes base verbs (swim, run) with a gerund (hiking), and 'likes swim' is ungrammatical.",
+   "whyD": "Starts with infinitives (to swim, run) but ends with a gerund (hiking).",
+   "explanationTl": "Sa parallelism, dapat pare-pareho ang form ng mga nasa listahan. Sa B, lahat -ing (gerund): swimming, running, hiking.",
+   "hintTl": "Tingnan mo kung pare-pareho ang anyo ng bawat item sa listahan."
+  }
+ },
+ {
+  "id": 542674840, "blind": "A", "verdict": "unchanged",
+  "reason": "Key correct; the other three all make a plot easier to predict; added teaching fields.",
+  "fields": {
+   "explanation": "Intricate means very complex and full of detail, which is why readers could not predict the ending.",
+   "hint": "The clue is 'couldn't predict the ending'. What kind of plot is hard to predict?",
+   "whyB": "A simple plot is easy to predict, the opposite of what the sentence describes.",
+   "whyC": "A boring plot is dull, but dullness does not make an ending unpredictable.",
+   "whyD": "A familiar plot follows patterns readers know, so it is easier to predict.",
+   "explanationTl": "Ang intricate ay sobrang complex at maraming detalye, kaya hindi mahulaan ng readers ang ending.",
+   "hintTl": "Ang clue ay 'couldn't predict the ending'. Anong klaseng plot ang mahirap hulaan?"
+  }
+ },
+ {
+  "id": 628174097, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Inadvertent' means not done on purpose, so an inadvertent error is an unintentional one.",
+   "hint": "The prefix 'in-' often means 'not'. 'Advertent' relates to paying attention.",
+   "whyA": "Intentional is the opposite of inadvertent.",
+   "whyC": "Deliberate means done on purpose, the opposite of inadvertent.",
+   "whyD": "Planned means arranged in advance, the opposite of an accidental error.",
+   "explanationTl": "Ang inadvertent ay hindi sinasadya. Kaya ang inadvertent error ay unintentional, aksidente lang.",
+   "hintTl": "Ang prefix na 'in-' ay madalas 'not' ang ibig sabihin."
+  }
+ },
+ {
+  "id": 1307000080, "blind": "A", "verdict": "minor edit",
+  "reason": "'is' and 'was' were both correct (no tense fixed); replaced C with 'were' and added 'its' so singular agreement is forced.",
+  "fields": {
+   "text": "The flock of birds _____ making its way south.",
+   "optionC": "were",
+   "difficulty": 1,
+   "explanation": "The subject is 'flock', a collective noun acting as one unit (the sentence says 'its way'), so it takes the singular verb 'is'. 'Of birds' does not change the subject.",
+   "hint": "Find the real subject. Is it 'flock' or 'birds'? The word 'its' is a clue.",
+   "whyB": "'Are' agrees with 'birds', but 'birds' is inside the 'of' phrase; the subject is 'flock'.",
+   "whyC": "'Were' is plural; the singular subject 'flock' (and 'its') needs a singular verb.",
+   "whyD": "'Have making' is ungrammatical; the -ing form needs a form of 'be'.",
+   "explanationTl": "Ang subject ay 'flock', hindi 'birds'. Isang grupo siya na kumikilos as one unit (kaya 'its'), so singular ang verb: 'is'.",
+   "hintTl": "Hanapin mo ang totoong subject. 'Flock' ba o 'birds'? Clue ang salitang 'its'."
+  }
+ },
+ {
+  "id": 1980431187, "blind": "A", "verdict": "minor edit",
+  "reason": "'is' and 'was' were both correct (no tense fixed); replaced C 'was' with 'were'.",
+  "fields": {
+   "text": "The number of books on the shelf _____ ten.",
+   "optionC": "were",
+   "explanation": "'The number of' refers to a single total, so it takes a singular verb: 'The number of books is ten.' (Compare: 'A number of books are missing.')",
+   "hint": "Is the subject the books themselves, or one total count?",
+   "whyB": "'Are' agrees with 'books', but the subject is 'the number', which is singular.",
+   "whyC": "'Were' is plural; 'the number' is singular.",
+   "whyD": "'Have ten' does not state the count; the sentence needs a linking verb, 'is'.",
+   "explanationTl": "Ang 'the number of' ay isang total lang, kaya singular: 'is'. Iba 'yan sa 'a number of', na plural ('are').",
+   "hintTl": "Ang subject ba ay 'yung mga libro, o 'yung isang bilang (total)?"
+  }
+ },
+ {
+  "id": 272174356, "blind": "B", "verdict": "minor edit",
+  "reason": "Awkward stem and fragment options ('No implication.'); reworded into full-sentence options, key unchanged.",
+  "fields": {
+   "text": "What does the sentence 'She studied hard, yet she failed.' imply?",
+   "optionA": "Studying hard always guarantees success.",
+   "optionB": "She failed even though she made an effort.",
+   "optionC": "She did not study for the exam.",
+   "optionD": "She failed because she studied too hard.",
+   "explanation": "'Yet' signals contrast: the failure happened in spite of her hard studying.",
+   "hint": "Focus on the word 'yet'. What kind of relationship does it show?",
+   "whyA": "The sentence shows the opposite: hard study did not guarantee her success.",
+   "whyC": "The sentence states plainly that she studied hard.",
+   "whyD": "'Yet' shows contrast, not cause; nothing says studying caused the failure.",
+   "explanationTl": "Ang 'yet' ay nagpapakita ng contrast. Ibig sabihin, bumagsak siya kahit nag-aral siya nang mabuti.",
+   "hintTl": "Tutukan mo ang salitang 'yet'. Anong klaseng relationship ang pinapakita niya?"
+  }
+ },
+ {
+  "id": 386851684, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; difficulty lowered to 1 (subprofessional spelling); added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The correct spelling is 'calendar', ending in -ar. 'Calender' is a common misspelling.",
+   "hint": "Think about the ending of the word for the chart of days and months: -er or -ar?",
+   "whyA": "'The' is spelled correctly.",
+   "whyC": "'Is' is spelled correctly.",
+   "whyD": "'Wall' is spelled correctly.",
+   "explanationTl": "Ang tamang spelling ay 'calendar', -ar ang dulo. Madalas mali ang 'calender'.",
+   "hintTl": "Tingnan mo ang dulo ng salita: -er ba o -ar?"
+  }
+ },
+ {
+  "id": 1602142674, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; removed trailing space in stem, difficulty 1; added teaching fields.",
+  "fields": {
+   "text": "Choose the correct spelling:",
+   "difficulty": 1,
+   "hint": "Remember the rule about i and e after the letter c.",
+   "whyA": "Swaps the vowels: after c it is 'ei', not 'ie'.",
+   "whyC": "Drops the 'e' of the 'ei' pair.",
+   "whyD": "Drops the 'i' of the 'ei' pair.",
+   "explanationTl": "Tama ang 'receive'. Sundin ang rule na 'i before e, except after c', kaya 'cei' ang tama.",
+   "hintTl": "Alalahanin mo ang rule tungkol sa i at e pagkatapos ng letter c."
+  }
+ },
+ {
+  "id": 162904311, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "An eccentric person does things differently from most people.",
+   "whyA": "Normal is close to the opposite of eccentric.",
+   "whyC": "Conventional means following usual customs, the opposite of eccentric.",
+   "whyD": "Standard means usual or ordinary, the opposite of eccentric.",
+   "explanationTl": "Ang eccentric ay kakaiba o hindi pangkaraniwan ang kilos, kaya unconventional ang pinakamalapit.",
+   "hintTl": "Ang taong eccentric ay iba ang gawi kumpara sa karamihan."
+  }
+ },
+ {
+  "id": 375555613, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; replaced phrase option 'Giving up' with single word 'Hesitant' to match the other options.",
+  "fields": {
+   "optionC": "Hesitant",
+   "explanation": "Tenacious means holding on firmly and not giving up easily, so its synonym is persistent.",
+   "hint": "A tenacious person keeps going even when things get hard.",
+   "whyA": "Weak suggests lack of strength, nearly the opposite of tenacious.",
+   "whyC": "Hesitant means unsure and slow to act, not determined.",
+   "whyD": "Feeble means weak, the opposite of the firm grip implied by tenacious.",
+   "explanationTl": "Ang tenacious ay matiyaga at hindi basta sumusuko, kaya ang synonym niya ay persistent.",
+   "hintTl": "Ang taong tenacious ay tuloy lang kahit mahirap na."
+  }
+ },
+ {
+  "id": 706599274, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "A stringent policy leaves very little room for exceptions.",
+   "whyA": "Lenient means easygoing, the opposite of stringent.",
+   "whyC": "Flexible means open to change, the opposite of stringent.",
+   "whyD": "Loose means not strict, the opposite of stringent.",
+   "explanationTl": "Ang stringent ay mahigpit, kaya ang stringent na policy ay strict, walang palusot.",
+   "hintTl": "Ang stringent na policy ay halos walang exception."
+  }
+ },
+ {
+  "id": 791835610, "blind": "B", "verdict": "minor edit",
+  "reason": "'Group of fish' is not a sense of 'bank' (that is a school); replaced with real sense 'Row of switches'; stem reworded; difficulty 1.",
+  "fields": {
+   "text": "What does 'bank' mean in the sentence 'I deposited money in the bank'?",
+   "optionD": "Row of switches",
+   "difficulty": 1,
+   "hint": "Look at what was put in the bank.",
+   "whyA": "A river bank is a real meaning of 'bank', but you do not deposit money at a river's edge.",
+   "whyC": "To bank an aircraft means to tilt it while turning; that does not fit 'deposited money'.",
+   "whyD": "A bank of switches is a row of them, a meaning that does not fit depositing money.",
+   "explanationTl": "Dahil 'deposited money' ang context, ang 'bank' dito ay financial institution, kung saan nag-iipon ng pera.",
+   "hintTl": "Tingnan mo kung ano ang inilagay sa bank."
+  }
+ },
+ {
+  "id": 1266564199, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "Sporadic events happen now and then, not on a schedule.",
+   "whyA": "Continuous means without stopping, the opposite of sporadic.",
+   "whyC": "Constant means happening all the time, the opposite of sporadic.",
+   "whyD": "Regular means at fixed intervals, while sporadic means irregular.",
+   "explanationTl": "Ang sporadic ay paminsan-minsan lang at hindi regular, kaya ang synonym ay occasional.",
+   "hintTl": "Ang sporadic na pangyayari ay paminsan-minsan lang, walang schedule."
+  }
+ },
+ {
+  "id": 1326619988, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; difficulty lowered to 1; explanation expanded; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The imperative mood gives a command or request, usually with the subject 'you' understood, as in 'Eat your food.'",
+   "hint": "Look for the sentence that tells someone to do something.",
+   "whyA": "'She eats.' is a statement of fact (indicative mood), not a command.",
+   "whyC": "'She ate.' is a past-tense statement (indicative), not a command.",
+   "whyD": "'She is eating.' describes an ongoing action (indicative), not a command.",
+   "explanationTl": "Ang imperative mood ay nag-uutos o nakikiusap, at 'you' ang hindi binabanggit na subject, tulad ng 'Eat your food.'",
+   "hintTl": "Hanapin mo 'yung sentence na nag-uutos sa isang tao."
+  }
+ },
+ {
+  "id": 1813792302, "blind": "B", "verdict": "minor edit",
+  "reason": "'Empty' was a loose match for 'barren'; replaced with the closer 'Bare'.",
+  "fields": {
+   "optionB": "Bare",
+   "explanation": "'Barren' describes land too poor to grow much or any vegetation, so a barren landscape is bare.",
+   "hint": "Picture land where almost nothing grows.",
+   "whyA": "Fertile means able to grow plenty of crops, the opposite of barren.",
+   "whyC": "Lush means full of thick, healthy plants, the opposite of barren.",
+   "whyD": "Verdant means green with vegetation, the opposite of barren.",
+   "explanationTl": "Ang barren na lupa ay halos walang tumutubo, kaya ang barren landscape ay bare o tigang.",
+   "hintTl": "Isipin mo ang lupang halos walang tumutubo."
+  }
+ }
+]
