@@ -1,0 +1,410 @@
+[
+ {
+  "id": 413239717,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Drawing was a second defensible use of a pen; replaced with Reading; difficulty 1",
+  "fields": {
+   "optionB": "Reading",
+   "difficulty": 1,
+   "explanation": "Cutting is the main use of scissors; writing is the main use of a pen. The relationship is tool : its main function.",
+   "hint": "Ask: what is each tool mainly made to do?",
+   "whyB": "Reading uses your eyes, not a pen.",
+   "whyC": "Erasing is what an eraser does, the opposite of a pen's job.",
+   "whyD": "You can point with a pen, but that is not what it is made for.",
+   "explanationTl": "Ang scissors ay pang-cut; ang pen naman ay pangsulat. Tool : main function ang relationship.",
+   "hintTl": "Tanungin mo: ano ang pangunahing gamit ng bawat tool?"
+  }
+ },
+ {
+  "id": 1275206013,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "Ohm is the SI unit of resistance, and volt is the SI unit of voltage. The relationship is quantity : unit.",
+   "hint": "The pair is a quantity and the unit it is measured in.",
+   "whyB": "Amperes measure electric current, not voltage.",
+   "whyC": "Watts measure power.",
+   "whyD": "Joules measure energy.",
+   "explanationTl": "Ang resistance ay sinusukat sa ohms, at ang voltage ay sinusukat sa volts. Quantity : unit ang pattern.",
+   "hintTl": "Quantity at ang unit na pangsukat nito ang magkapares."
+  }
+ },
+ {
+  "id": 1415530014,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1 and teaching fields added",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Iron is a kind of metal, and granite is a kind of rock. The relationship is member : category.",
+   "hint": "Iron belongs to a bigger group. Which group does granite belong to?",
+   "whyA": "Marble is another rock, a fellow member, not the category granite belongs to.",
+   "whyC": "Sand is made from broken-down rock; granite is not a kind of sand.",
+   "whyD": "Solid is a state of matter; iron is also a solid, so it doesn't match the metal category.",
+   "explanationTl": "Ang iron ay isang uri ng metal, at ang granite ay isang uri ng rock. Member : category ang relationship.",
+   "hintTl": "Saang mas malaking grupo kabilang ang iron? Ganun din sa granite."
+  }
+ },
+ {
+  "id": 1513314115,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Spinning vs Pushing (thrust) both defensible, and a wheel also spins; replaced with a clean part : vehicle analogy",
+  "fields": {
+   "text": "Pedal is to bicycle as oar is to:",
+   "optionA": "Rowboat",
+   "optionB": "Airplane",
+   "optionC": "Train",
+   "optionD": "Sailboat",
+   "correctAnswer": "A",
+   "explanation": "A person moves a bicycle by working the pedals and a rowboat by working the oars. The relationship is the part a person works to move the vehicle.",
+   "hint": "Which vehicle does a person move by pulling oars through the water?",
+   "whyB": "An airplane is moved by engines and propellers, not oars.",
+   "whyC": "A train runs on an engine along rails.",
+   "whyD": "A sailboat is moved by wind in its sails, not by oars.",
+   "explanationTl": "Pedals ang pinapagana ng tao para umandar ang bicycle; oars naman para umandar ang rowboat.",
+   "hintTl": "Anong sasakyan ang pinapaandar ng tao gamit ang sagwan (oar)?"
+  }
+ },
+ {
+  "id": 1534995568,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Same Resistance:Ohms stem as another item; changed stem to Current:Amperes and swapped the Amperes option for Newtons",
+  "fields": {
+   "text": "Current : Amperes :: Power :",
+   "optionD": "Newtons",
+   "explanation": "Electric current is measured in amperes, and power is measured in watts. The relationship is quantity : unit.",
+   "hint": "Match the quantity to the unit it is measured in.",
+   "whyB": "Joules measure energy, not power (a watt is one joule per second).",
+   "whyC": "Volts measure voltage.",
+   "whyD": "Newtons measure force.",
+   "explanationTl": "Ang current ay sinusukat sa amperes, at ang power ay sinusukat sa watts. Quantity : unit ang pattern.",
+   "hintTl": "Itugma ang quantity sa unit na pangsukat nito."
+  }
+ },
+ {
+  "id": 1552804273,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "Force is measured in newtons, and energy is measured in joules. The relationship is quantity : unit.",
+   "hint": "Match the quantity to its SI unit.",
+   "whyB": "Watts measure power, the rate of using energy, not energy itself.",
+   "whyC": "Amperes measure electric current.",
+   "whyD": "Pascals measure pressure.",
+   "explanationTl": "Ang force ay sinusukat sa newtons, at ang energy ay sinusukat sa joules. Quantity : unit ang pattern.",
+   "hintTl": "Itugma ang quantity sa SI unit nito."
+  }
+ },
+ {
+  "id": 2095764249,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "A chef's own action is cooking, so a dancer's is dancing; 'Perform' is too general (singers and actors perform too)",
+  "fields": {
+   "correctAnswer": "B",
+   "explanation": "A chef's job is to cook, and a dancer's job is to dance. The relationship is worker : the specific action of that worker.",
+   "hint": "Name the exact action, not a general one many workers share.",
+   "whyA": "Perform is too general: singers and actors perform too. The pair needs the dancer's own specific action.",
+   "whyC": "Some dancers teach, but teaching is not what makes someone a dancer.",
+   "whyD": "Watching is what the audience does, not the dancer.",
+   "explanationTl": "Ang chef ay nagluluto (cook), at ang dancer ay sumasayaw (dance). Worker : specific na action niya ang pattern.",
+   "hintTl": "Hanapin ang eksaktong action, hindi yung general na ginagawa rin ng ibang trabaho."
+  }
+ },
+ {
+  "id": 116522408,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption",
+  "fields": {
+   "text": "Statement: \"To learn coding, one must practice regularly.\" Which is assumed in the statement?",
+   "optionA": "Coding skill is built up through repeated practice",
+   "optionB": "Coding can be learned without a teacher",
+   "optionC": "Anyone who practices regularly will become a good coder",
+   "optionD": "Coding is harder to learn than other skills",
+   "correctAnswer": "A",
+   "explanation": "Saying practice is needed only makes sense if coding skill grows through repeated practice. The statement gives a requirement, not a guarantee.",
+   "hint": "An assumption is something that must be true for the statement to make sense.",
+   "explanationTl": "Kailangan daw ang regular practice, so ina-assume na ang coding skill ay nabubuo sa paulit-ulit na practice. Requirement lang ito, hindi guarantee.",
+   "hintTl": "Ang assumption ay yung dapat totoo para may sense ang statement.",
+   "whyB": "The statement says nothing about teachers.",
+   "whyC": "This turns a requirement into a guarantee; 'must practice' does not mean practice is enough.",
+   "whyD": "No comparison with other skills is made."
+  }
+ },
+ {
+  "id": 414785518,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption",
+  "fields": {
+   "text": "Statement: \"To succeed in science, one must experiment.\" Which is assumed in the statement?",
+   "optionA": "Every experiment leads to a scientific discovery",
+   "optionB": "Science is the most important field of study",
+   "optionC": "Experiments are a necessary part of doing good science",
+   "optionD": "Scientists work better in teams",
+   "correctAnswer": "C",
+   "explanation": "Calling experimenting a must assumes that experiments are a needed part of success in science. It does not claim that experimenting alone brings success.",
+   "hint": "Look for what the speaker must believe, not something extra or stronger.",
+   "explanationTl": "Sinabi na 'must experiment', so ina-assume na kailangan talaga ang experiments sa science. Hindi nito sinasabing sapat na ang experiment para mag-succeed.",
+   "hintTl": "Hanapin kung ano ang dapat paniwalaan ng nagsalita, hindi yung sobra o mas malakas na claim.",
+   "whyA": "This overreaches: 'must experiment' does not mean every experiment succeeds.",
+   "whyB": "No comparison with other fields is made.",
+   "whyD": "Teamwork is not mentioned at all."
+  }
+ },
+ {
+  "id": 1105149904,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption",
+  "fields": {
+   "text": "Statement: \"To excel in sports, one must practice daily.\" Which is assumed in the statement?",
+   "optionA": "Natural talent does not matter in sports",
+   "optionB": "Daily practice improves sports performance",
+   "optionC": "Athletes who practice daily always win",
+   "optionD": "Sports are more popular than other hobbies",
+   "correctAnswer": "B",
+   "explanation": "Requiring daily practice to excel only makes sense if daily practice improves performance. Nothing is said about talent, winning, or popularity.",
+   "hint": "Ask: what must the speaker believe about daily practice?",
+   "explanationTl": "Kung kailangan ang daily practice para mag-excel, ina-assume na nakakatulong talaga ito sa performance. Walang sinabi tungkol sa talent o pagkapanalo.",
+   "hintTl": "Tanungin mo: ano ang dapat paniwalaan ng nagsalita tungkol sa daily practice?",
+   "whyA": "The statement does not deny talent; it only names practice as needed.",
+   "whyC": "This turns a requirement into a guarantee of winning.",
+   "whyD": "Popularity has nothing to do with the statement."
+  }
+ },
+ {
+  "id": 1662984017,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption",
+  "fields": {
+   "text": "Statement: \"To run a marathon, one must train.\" Which is assumed in the statement?",
+   "optionA": "Marathons are only for professional athletes",
+   "optionB": "Anyone who trains will finish a marathon",
+   "optionC": "Training should start a year before the race",
+   "optionD": "A marathon is too demanding to finish without preparation",
+   "correctAnswer": "D",
+   "explanation": "Saying training is a must assumes a marathon is too hard to complete without preparing for it. It does not promise that training guarantees finishing.",
+   "hint": "Why would the speaker say training is a must? What do they believe about marathons?",
+   "explanationTl": "Sinabi na 'must train', so ina-assume na sobrang hirap ng marathon kung walang preparation. Hindi nito sinasabing siguradong matatapos mo kapag nag-train ka.",
+   "hintTl": "Bakit sasabihin na kailangan ang training? Ano ang paniniwala niya tungkol sa marathon?",
+   "whyA": "Nothing limits marathons to professionals.",
+   "whyB": "This turns a requirement into a guarantee; training is needed, not enough.",
+   "whyC": "No time frame for training is given."
+  }
+ },
+ {
+  "id": 696609522,
+  "blind": "A",
+  "verdict": "key fixed",
+  "reason": "Key B (49) with an explanation computing 51; rule n^2+5n-2 (differences 10, 12, 14) gives 48 = A",
+  "fields": {
+   "correctAnswer": "A",
+   "explanation": "The outputs rise by 10, then 12, so the next rise is 14: 34 + 14 = 48. Equivalently, n² + 5n − 2 gives 12, 22, 34, 48.",
+   "steps": "1. Differences: 22 − 12 = 10, 34 − 22 = 12.\n2. The differences grow by 2, so the next difference is 14.\n3. 34 + 14 = 48.\n4. Check with n² + 5n − 2: 5² + 5×5 − 2 = 25 + 25 − 2 = 48.",
+   "hint": "Look at how much the output grows each time n goes up by 1.",
+   "whyB": "49 = 34 + 15: an odd step breaks the +2 pattern in the differences.",
+   "whyC": "50 = 34 + 16: skips a step in the differences (10, 12, 16).",
+   "whyD": "51 comes from the wrong rule n² + 4n + 6, which gives 18 for n = 2, not 12.",
+   "explanationTl": "Tumataas ng 10, tapos 12, so ang susunod ay 14: 34 + 14 = 48.",
+   "stepsTl": "1. Differences: 22 − 12 = 10, 34 − 22 = 12.\n2. Nadadagdagan ng 2 ang difference, kaya 14 ang susunod.\n3. 34 + 14 = 48.\n4. Check: 5² + 5×5 − 2 = 48.",
+   "hintTl": "Tingnan kung ilan ang nadadagdag sa sagot tuwing tumataas ang n ng 1."
+  }
+ },
+ {
+  "id": 1442755801,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; added steps and teaching fields",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Average = total ÷ number of quarters = (700 + 750 + 800) ÷ 3 = 2,250 ÷ 3 = 750.",
+   "steps": "1. Add: 700 + 750 + 800 = 2,250.\n2. Divide by 3 quarters: 2,250 ÷ 3 = 750.",
+   "hint": "Add all the values, then divide by how many there are.",
+   "whyA": "740 is a miscalculation; the values are evenly spaced around 750.",
+   "whyC": "760 is too high; for evenly spaced values the middle one is the average.",
+   "whyD": "770 is too high; it is not the total divided by 3.",
+   "explanationTl": "Average = total ÷ bilang. (700 + 750 + 800) ÷ 3 = 2,250 ÷ 3 = 750.",
+   "stepsTl": "1. I-add: 700 + 750 + 800 = 2,250.\n2. I-divide sa 3: 2,250 ÷ 3 = 750.",
+   "hintTl": "I-add lahat, tapos i-divide sa dami ng values."
+  }
+ },
+ {
+  "id": 1678692415,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added unit (°C), difficulty 1, steps and teaching fields",
+  "fields": {
+   "difficulty": 1,
+   "text": "In a data interpretation graph showing temperatures: Day 1 10°C, Day 2 15°C, Day 3 20°C. What is the average temperature?",
+   "optionA": "13°C",
+   "optionB": "15°C",
+   "optionC": "17°C",
+   "optionD": "19°C",
+   "explanation": "Average = (10 + 15 + 20) ÷ 3 = 45 ÷ 3 = 15°C.",
+   "steps": "1. Add: 10 + 15 + 20 = 45.\n2. Divide by 3 days: 45 ÷ 3 = 15°C.",
+   "hint": "Add the three temperatures, then divide by the number of days.",
+   "whyA": "13°C is too low; evenly spaced values average to the middle value.",
+   "whyC": "17°C is too high; it is not the total divided by 3.",
+   "whyD": "19°C is close to the highest day, not the average.",
+   "explanationTl": "Average = (10 + 15 + 20) ÷ 3 = 45 ÷ 3 = 15°C.",
+   "stepsTl": "1. I-add: 10 + 15 + 20 = 45.\n2. I-divide sa 3 araw: 45 ÷ 3 = 15°C.",
+   "hintTl": "I-add ang tatlong temperature, tapos i-divide sa bilang ng araw."
+  }
+ },
+ {
+  "id": 313181633,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; Husband/Father were silly distractors (C is a girl), replaced with Granddaughter/Niece; difficulty 1",
+  "fields": {
+   "optionC": "Granddaughter",
+   "optionD": "Niece",
+   "difficulty": 1,
+   "explanation": "A is B's mother, and C is B's sister, so A is also C's mother. Since C is a girl, C is A's daughter.",
+   "steps": "1. A is B's mother.\n2. B and C are sisters, so they share the same mother: A is C's mother.\n3. C is a girl, so C is A's daughter.",
+   "hint": "If two girls are sisters, who is the mother of the second one?",
+   "whyB": "C is stated to be a girl, so C cannot be a son.",
+   "whyC": "A granddaughter is two generations down; C is in the same generation as B, A's child.",
+   "whyD": "A niece is a sibling's child; C is A's own child, the sister of A's child B.",
+   "explanationTl": "Si A ang nanay ni B, at magkapatid sina B at C, kaya nanay din ni C si A. Babae si C, so daughter siya ni A.",
+   "stepsTl": "1. Si A ang mother ni B.\n2. Magkapatid sina B at C, kaya si A rin ang mother ni C.\n3. Babae si C, kaya daughter siya ni A.",
+   "hintTl": "Kung magkapatid ang dalawang babae, sino ang nanay ng isa pa?"
+  }
+ },
+ {
+  "id": 326968816,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "'True/False' options are banned; kept Valid/Invalid and replaced the distractors with common invalid reasons",
+  "fields": {
+   "text": "All chefs cook. Some people are chefs. Therefore, some people cook. Is the argument valid or invalid?",
+   "optionA": "Valid",
+   "optionB": "Invalid, because 'some' cannot lead to a conclusion",
+   "optionC": "Invalid, because not all people are chefs",
+   "optionD": "Invalid, because non-chefs also cook",
+   "explanation": "The people who are chefs belong to the group 'chefs', and every chef cooks, so those people cook. The conclusion must follow, so the argument is valid.",
+   "steps": "1. Some people are chefs: at least one person is a chef.\n2. All chefs cook: that person cooks.\n3. So at least some people cook. The argument is valid.",
+   "hint": "Picture the 'some people' inside the 'chefs' circle. Where is the 'chefs' circle?",
+   "whyB": "A 'some' premise can support a 'some' conclusion when the other premise is 'all'.",
+   "whyC": "The argument only concludes that some people cook, so it does not need all people to be chefs.",
+   "whyD": "Non-chefs who cook do not make the conclusion false; they are irrelevant.",
+   "explanationTl": "Yung mga taong chef ay kasama sa 'chefs', at lahat ng chefs ay nagluluto. Kaya siguradong may mga taong nagluluto. Valid ang argument.",
+   "stepsTl": "1. May ilang tao na chef.\n2. Lahat ng chef ay nagluluto, kaya nagluluto rin sila.\n3. Kaya may mga taong nagluluto. Valid.",
+   "hintTl": "I-drawing mo: nasa loob ng 'chefs' circle ang 'some people'. Nasaan naman ang 'chefs' circle?"
+  }
+ },
+ {
+  "id": 471045008,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps and teaching fields",
+  "fields": {
+   "explanation": "The animals that are mammals all have fur, so at least some animals have fur.",
+   "steps": "1. Some animals are mammals.\n2. All mammals have fur.\n3. So those animals have fur: some animals have fur.",
+   "hint": "Follow the animals that are mammals. What must be true of them?",
+   "whyA": "Only some animals are known to be mammals; nothing is said about the rest.",
+   "whyC": "This contradicts the premises: the animals that are mammals do have fur.",
+   "whyD": "A conclusion can be drawn: the mammal animals must have fur.",
+   "explanationTl": "Yung mga hayop na mammal ay may fur lahat, kaya siguradong may ilang hayop na may fur.",
+   "stepsTl": "1. May mga hayop na mammal.\n2. Lahat ng mammal ay may fur.\n3. Kaya may mga hayop na may fur.",
+   "hintTl": "Sundan mo yung mga hayop na mammal. Ano ang siguradong totoo sa kanila?"
+  }
+ },
+ {
+  "id": 1970276575,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "'True/False' options banned and near-duplicate of the chefs item; rewritten as 'which conclusion follows'",
+  "fields": {
+   "text": "All musicians perform. Some people are musicians. Which conclusion follows?",
+   "optionA": "Some people perform",
+   "optionB": "All people perform",
+   "optionC": "Some people do not perform",
+   "optionD": "All performers are musicians",
+   "correctAnswer": "A",
+   "explanation": "The people who are musicians all perform, so at least some people perform. Nothing more can be concluded.",
+   "steps": "1. Some people are musicians.\n2. All musicians perform.\n3. So those people perform: some people perform.",
+   "hint": "Follow only the people who are musicians.",
+   "whyB": "Only some people are known to be musicians; the rest are unknown.",
+   "whyC": "Nothing is said about people who are not musicians, so this is not guaranteed.",
+   "whyD": "This reverses the first premise; actors and singers can perform without being musicians.",
+   "explanationTl": "Yung mga taong musician ay nagpe-perform lahat, kaya siguradong may mga taong nagpe-perform.",
+   "stepsTl": "1. May mga taong musician.\n2. Lahat ng musician ay nagpe-perform.\n3. Kaya may mga taong nagpe-perform.",
+   "hintTl": "Sundan mo lang yung mga taong musician."
+  }
+ },
+ {
+  "id": 1026634272,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added explanationTl and whys, tightened steps",
+  "fields": {
+   "explanationTl": "Ang pagitan ay 7, 8, 9, kaya 10 ang susunod: 29 + 10 = 39.",
+   "hint": "Write the difference between neighbours. If that isn't constant, look at how the differences themselves change.",
+   "hintTl": "Isulat ang pagitan ng bawat magkatabing numero. Kung hindi pare-pareho, tingnan kung paano nagbabago ang mga pagitan.",
+   "steps": "1. Differences: 12 − 5 = 7, 20 − 12 = 8, 29 − 20 = 9.\n2. The differences grow by 1, so the next is 10.\n3. 29 + 10 = 39.",
+   "stepsTl": "1. Pagitan: 7, 8, 9. Lumalaki ng 1.\n2. Kaya 10 ang susunod na pagitan.\n3. 29 + 10 = 39.",
+   "whyA": "38 adds 9 again; the gap must grow to 10.",
+   "whyC": "40 adds 11, skipping a step in the gaps.",
+   "whyD": "41 adds 12, too big a jump."
+  }
+ },
+ {
+  "id": 1394039618,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; added explanationTl and whys, tightened steps",
+  "fields": {
+   "explanationTl": "Ang pagitan ay 7, 8, 9, kaya 10 ang susunod: 32 + 10 = 42.",
+   "hint": "Write the difference between neighbours. If that isn't constant, look at how the differences themselves change.",
+   "hintTl": "Isulat ang pagitan ng bawat magkatabing numero. Kung hindi pare-pareho, tingnan kung paano nagbabago ang mga pagitan.",
+   "steps": "1. Differences: 15 − 8 = 7, 23 − 15 = 8, 32 − 23 = 9.\n2. The differences grow by 1, so the next is 10.\n3. 32 + 10 = 42.",
+   "stepsTl": "1. Pagitan: 7, 8, 9. Lumalaki ng 1.\n2. Kaya 10 ang susunod na pagitan.\n3. 32 + 10 = 42.",
+   "whyA": "40 adds only 8; the gap must grow, not shrink.",
+   "whyB": "41 adds 9 again; the gap must grow to 10.",
+   "whyD": "43 adds 11, skipping a step in the gaps."
+  }
+ },
+ {
+  "id": 1588383733,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added explanationTl and whys, tightened steps",
+  "fields": {
+   "explanationTl": "Ang pagitan ay 5, 6, 7, kaya 8 ang susunod: 25 + 8 = 33.",
+   "hint": "Write the difference between neighbours. If that isn't constant, look at how the differences themselves change.",
+   "hintTl": "Isulat ang pagitan ng bawat magkatabing numero. Kung hindi pare-pareho, tingnan kung paano nagbabago ang mga pagitan.",
+   "steps": "1. Differences: 12 − 7 = 5, 18 − 12 = 6, 25 − 18 = 7.\n2. The differences grow by 1, so the next is 8.\n3. 25 + 8 = 33.",
+   "stepsTl": "1. Pagitan: 5, 6, 7. Lumalaki ng 1.\n2. Kaya 8 ang susunod na pagitan.\n3. 25 + 8 = 33.",
+   "whyA": "32 adds 7 again; the gap must grow to 8.",
+   "whyC": "34 adds 9, skipping a step in the gaps.",
+   "whyD": "35 adds 10, too big a jump."
+  }
+ },
+ {
+  "id": 1620561748,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; added steps and teaching fields",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Each letter skips one letter: A (1), C (3), E (5), G (7), so the next is I (9).",
+   "steps": "1. Letter positions: A = 1, C = 3, E = 5, G = 7.\n2. Each step adds 2.\n3. 7 + 2 = 9 = I.",
+   "hint": "Count how many letters are skipped between each pair.",
+   "whyA": "H is just the next letter after G; the pattern skips one letter each time.",
+   "whyC": "J (10) adds 3, breaking the +2 pattern.",
+   "whyD": "K (11) adds 4, skipping too many letters.",
+   "explanationTl": "Bawat letter ay may nilalaktawang isa: A, C, E, G, kaya I ang susunod.",
+   "stepsTl": "1. Position: A = 1, C = 3, E = 5, G = 7.\n2. Plus 2 bawat isa.\n3. 7 + 2 = 9 = I.",
+   "hintTl": "Bilangin kung ilang letter ang nilalaktawan sa pagitan."
+  }
+ }
+]

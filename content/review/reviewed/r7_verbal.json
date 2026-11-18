@@ -1,0 +1,324 @@
+[
+ {
+  "id": 575804354,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key fine; set difficulty 1 and added teaching fields",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Think of the main way each animal moves.",
+   "whyB": "Walking is how land animals move; fish have no legs.",
+   "whyC": "Running needs legs; it is not a fish's natural movement.",
+   "whyD": "Some fish leap, but jumping is not their main way of moving.",
+   "explanationTl": "Ang ibon ay lumilipad (fly), ang isda naman ay lumalangoy (swim). Parehong relationship: animal to its main way of moving.",
+   "hintTl": "Isipin mo kung paano talaga gumagalaw ang bawat hayop."
+  }
+ },
+ {
+  "id": 1921384393,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "What is each place mostly made of?",
+   "whyB": "Heat describes a desert's climate, not what it is made of.",
+   "whyC": "A cactus lives in the desert; it is not what the desert is made of.",
+   "whyD": "A camel lives in the desert; this is a habitat link, not a 'made of' link.",
+   "explanationTl": "Ang ocean ay binubuo ng water, at ang desert ay binubuo ng sand. Ang relationship ay place to what it is made of.",
+   "hintTl": "Ano ang pangunahing laman o bumubuo sa bawat lugar?"
+  }
+ },
+ {
+  "id": 313375559,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "Benevolent describes someone who wishes others well. Find its opposite.",
+   "whyA": "Kind is a synonym of benevolent, not an antonym.",
+   "whyC": "Generous is close in meaning to benevolent, not opposite.",
+   "whyD": "Friendly is similar to benevolent, not its opposite.",
+   "explanationTl": "Ang benevolent ay mabait at may mabuting intensyon sa iba, kaya ang opposite ay malicious, ibig sabihin gustong manakit o mamerwisyo.",
+   "hintTl": "Ang benevolent ay taong gusto ang mabuti para sa iba. Hanapin ang kabaligtaran."
+  }
+ },
+ {
+  "id": 782317538,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "B and D were both grammatical; added 'Yesterday' so only past 'were' fits",
+  "fields": {
+   "optionA": "Yesterday, they was going to the market.",
+   "optionB": "Yesterday, they were going to the market.",
+   "optionC": "Yesterday, they is going to the market.",
+   "optionD": "Yesterday, they are going to the market.",
+   "difficulty": 1,
+   "explanation": "'Yesterday' calls for the past tense, and the plural subject 'they' takes 'were', giving the past continuous 'they were going'.",
+   "hint": "Check two things: the time word and whether the subject is singular or plural.",
+   "whyA": "'Was' is singular; 'they' is plural and needs 'were'.",
+   "whyC": "'Is' is singular and present; 'they' needs a plural past form.",
+   "whyD": "'Are' agrees with 'they' but is present tense, which clashes with 'yesterday'.",
+   "explanationTl": "Dahil may 'yesterday', past tense ang kailangan, at plural ang 'they' kaya 'were' ang tama: 'they were going'.",
+   "hintTl": "Tingnan mo ang time word at kung singular o plural ang subject."
+  }
+ },
+ {
+  "id": 1424839539,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "key fine; set difficulty 1 and added teaching fields",
+  "fields": {
+   "difficulty": 1,
+   "hint": "The speaker is offering a choice between two drinks.",
+   "whyA": "'So' shows result, not a choice between two things.",
+   "whyC": "'But' shows contrast, which makes no sense in an offer.",
+   "whyD": "'And' would offer both drinks together, not a choice of one.",
+   "explanationTl": "Ginagamit ang 'or' kapag pinapapili mo ang tao sa dalawang bagay, kaya 'coffee or tea' ang tama.",
+   "hintTl": "Pinapapili ang tao sa dalawang inumin."
+  }
+ },
+ {
+  "id": 676241558,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "key fine; set difficulty 1 and added teaching fields",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Article first, then adjectives (quality before color), then the noun.",
+   "whyA": "Color adjectives come after quality adjectives, so 'brown quick' is out of order.",
+   "whyC": "The article 'the' must come before the adjectives.",
+   "whyD": "The article must come first, and 'brown' must follow 'quick'.",
+   "explanationTl": "Ang tamang order ay article, tapos adjectives (quality bago color), tapos noun: 'The quick brown fox'.",
+   "hintTl": "Article muna, tapos adjectives (quality bago color), saka ang noun."
+  }
+ },
+ {
+  "id": 2064729706,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "original allowed 2-3-1-4 too (mix before preheat is fine); sentences rewritten so one order is forced",
+  "fields": {
+   "text": "Arrange the sentences in logical order: (1) The pan is placed in the oven to bake. (2) The batter is poured into a greased pan. (3) The ingredients are mixed into a smooth batter. (4) The cooled cake is sliced and served.",
+   "optionA": "3-2-1-4",
+   "optionB": "2-3-1-4",
+   "optionC": "1-2-3-4",
+   "optionD": "3-1-2-4",
+   "correctAnswer": "A",
+   "difficulty": 1,
+   "explanation": "You must have batter before you can pour it, and it must be in the pan before baking; serving comes last. So the order is mix (3), pour (2), bake (1), serve (4).",
+   "steps": "1. The batter must exist first: sentence 3 (mix the ingredients).\n2. The batter goes into the pan: sentence 2.\n3. The pan goes into the oven: sentence 1.\n4. The cake is served last: sentence 4.\n5. Order: 3-2-1-4.",
+   "hint": "Find the step that every other step depends on.",
+   "whyB": "You cannot pour batter (2) before the ingredients are mixed (3).",
+   "whyC": "Baking (1) cannot come before there is batter in a pan.",
+   "whyD": "The pan cannot be baked (1) before the batter is poured into it (2).",
+   "explanationTl": "Kailangan munang may batter bago ibuhos, at dapat nasa pan na bago i-bake; huli ang pag-serve. Kaya 3-2-1-4.",
+   "stepsTl": "1. Una, kailangan munang gawin ang batter: sentence 3.\n2. Ibuhos ang batter sa pan: sentence 2.\n3. Ilagay ang pan sa oven: sentence 1.\n4. Huli ang pag-serve: sentence 4.\n5. Order: 3-2-1-4.",
+   "hintTl": "Hanapin mo ang step na kailangan muna bago magawa ang iba."
+  }
+ },
+ {
+  "id": 598687627,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "The base word 'occur' doubles its final consonant before the suffix.",
+   "whyA": "Missing the second 'r'; 'occur' doubles the r before '-ence'.",
+   "whyB": "The suffix is '-ence', not '-ance'.",
+   "whyD": "Missing the second 'c' and the second 'r'.",
+   "explanationTl": "Ang tamang spelling ay 'occurrence': double c, double r, at '-ence' ang dulo.",
+   "hintTl": "Sa 'occur', dino-double ang huling consonant bago idagdag ang suffix."
+  }
+ },
+ {
+  "id": 1474941314,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "key fine; set difficulty 1, sharpened explanation, added teaching fields",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The correct spelling is 'restaurant' (r-e-s-t-a-u-r-a-n-t); the sentence swaps the 'a' and 'u'.",
+   "hint": "Spell each word slowly, letter by letter.",
+   "whyA": "'The' is spelled correctly.",
+   "whyC": "'Is' is spelled correctly.",
+   "whyD": "'Open' is spelled correctly.",
+   "explanationTl": "Ang tamang spelling ay 'restaurant'; napagpalit ang 'a' at 'u' sa sentence.",
+   "hintTl": "I-spell mo nang dahan-dahan ang bawat word."
+  }
+ },
+ {
+  "id": 163859528,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "distractors confusing/vague/obscure shared one meaning, giving the key away by elimination; replaced two",
+  "fields": {
+   "optionC": "Lengthy",
+   "optionD": "Emotional",
+   "hint": "Think of 'lucid' as letting light through, so the point is easy to see.",
+   "whyA": "Confusing is the opposite of lucid.",
+   "whyC": "Lengthy refers to length, not clarity; a long explanation can still be unclear.",
+   "whyD": "Emotional describes feeling, not how clearly something is explained.",
+   "explanationTl": "Ang 'lucid' ay malinaw at madaling intindihin, kaya 'clear' ang sagot.",
+   "hintTl": "Isipin mo ang 'lucid' na parang may liwanag, kaya madaling makita ang punto."
+  }
+ },
+ {
+  "id": 195027882,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "key was the only multi-word option and distractors shared one meaning; options rebalanced",
+  "fields": {
+   "optionA": "Lazy",
+   "optionB": "Meticulous",
+   "optionC": "Generous",
+   "optionD": "Forgetful",
+   "explanation": "'Fastidious' means very attentive to accuracy and detail and hard to please; 'meticulous' is the closest meaning.",
+   "hint": "A fastidious person notices every small flaw.",
+   "whyA": "Lazy means unwilling to work; a fastidious person is careful and exacting.",
+   "whyC": "Generous is about giving freely, unrelated to attention to detail.",
+   "whyD": "Forgetful means failing to remember; fastidious people tend to miss nothing.",
+   "explanationTl": "Ang 'fastidious' ay sobrang maingat at metikuloso sa detalye, kaya 'meticulous' ang sagot.",
+   "hintTl": "Ang fastidious na tao ay napapansin kahit maliit na mali."
+  }
+ },
+ {
+  "id": 656936127,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "A doctor's job is to reduce suffering.",
+   "whyA": "Aggravate means to make worse, the opposite of mitigate.",
+   "whyB": "Intensify means to make stronger, the opposite of mitigate.",
+   "whyC": "Finish means to end completely; mitigate means to lessen, not eliminate.",
+   "explanationTl": "Ang 'mitigate' ay bawasan ang bigat o sakit ng isang bagay, kaya kapareho ng 'alleviate'.",
+   "hintTl": "Trabaho ng doktor na bawasan ang paghihirap ng tao."
+  }
+ },
+ {
+  "id": 791723399,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "A plumber who lacks this quality would overcharge you. What is missing?",
+   "whyA": "Afraid is about fear; the sentence is about care and honesty in the work.",
+   "whyB": "Employed refers to having a job, not to how carefully or honestly one works.",
+   "whyD": "Infamous means having a bad reputation, which does not fit 'less ___'.",
+   "explanationTl": "Ang 'scrupulous' ay maingat at may konsensya sa trabaho; ang 'less scrupulous' na plumber ay mandadaya, kaya 'careful' ang pinakamalapit.",
+   "hintTl": "Ang plumber na kulang dito ay magpapamahal ng singil. Anong ugali ang wala sa kanya?"
+  }
+ },
+ {
+  "id": 1050194713,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "distractors slowly/gradually/steadily shared one meaning; replaced two; difficulty 1",
+  "fields": {
+   "optionC": "Quietly",
+   "optionD": "Secretly",
+   "difficulty": 1,
+   "hint": "Think about speed.",
+   "whyA": "Slowly is the opposite of rapidly.",
+   "whyC": "Quietly fits a rumor but describes sound, not speed.",
+   "whyD": "Secretly fits a rumor but describes hiddenness, not speed.",
+   "explanationTl": "Ang 'rapidly' ay mabilis, kaya 'quickly' ang sagot.",
+   "hintTl": "Bilis ang pinag-uusapan dito."
+  }
+ },
+ {
+  "id": 1136400058,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "How would residents feel when the power suddenly goes out?",
+   "whyB": "Deliberation means careful thought, not a sudden feeling of alarm.",
+   "whyC": "Disability is a physical or mental limitation, unrelated to a reaction.",
+   "whyD": "Distaste is dislike, not the alarm and confusion a blackout causes.",
+   "explanationTl": "Ang 'consternation' ay pagkabahala o pagkagulat na may halong pagkalito, kaya 'dismay' ang pinakamalapit.",
+   "hintTl": "Ano ang mararamdaman ng mga residente kapag biglang nag-brownout?"
+  }
+ },
+ {
+  "id": 1360294987,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "Notice the word 'fortune' inside it.",
+   "whyA": "Planned is the opposite; fortuitous events happen by chance.",
+   "whyC": "Unfortunate means unlucky, the opposite of the usual sense of fortuitous.",
+   "whyD": "Deliberate means done on purpose, the opposite of happening by chance.",
+   "explanationTl": "Ang 'fortuitous' ay nangyari nang hindi sinasadya pero kadalasan ay swerte, kaya 'lucky' ang sagot.",
+   "hintTl": "Pansinin mo ang 'fortune' sa loob ng salita."
+  }
+ },
+ {
+  "id": 1405879297,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "distractors idealistic/dreamy/theoretical shared one meaning; replaced two",
+  "fields": {
+   "optionC": "Stubborn",
+   "optionD": "Talkative",
+   "hint": "A pragmatic person asks, 'Will it actually work?'",
+   "whyA": "Idealistic is the opposite: focused on ideals rather than what works.",
+   "whyC": "Stubborn means unwilling to change one's mind, not focused on practicality.",
+   "whyD": "Talkative is about how much someone speaks, unrelated to being practical.",
+   "explanationTl": "Ang 'pragmatic' ay praktikal, tumitingin sa kung ano ang talagang gumagana, kaya 'practical' ang sagot.",
+   "hintTl": "Ang pragmatic na tao ay nagtatanong, 'Gagana ba talaga ito?'"
+  }
+ },
+ {
+  "id": 1511850923,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "stem was a fragment and 'Heavy' is not a meaning of light; stem and distractors now real senses of 'light'; difficulty 1",
+  "fields": {
+   "text": "In the sentence 'The light is on,' the word 'light' most nearly means:",
+   "optionA": "Not heavy",
+   "optionC": "Pale in color",
+   "optionD": "Gentle or soft",
+   "difficulty": 1,
+   "explanation": "A light that can be 'on' is a lamp or bulb, so 'light' here means illumination.",
+   "hint": "What kind of light can be switched on?",
+   "whyA": "'Not heavy' is the adjective sense of light, which cannot be switched on.",
+   "whyC": "'Pale in color' (as in light blue) is another adjective sense that does not fit 'is on'.",
+   "whyD": "'Gentle or soft' (as in a light touch) does not fit something that is switched on.",
+   "explanationTl": "Ang light na puwedeng 'on' ay ilaw o bombilya, kaya 'illumination' ang ibig sabihin dito.",
+   "hintTl": "Anong klaseng light ang puwedeng i-switch on?"
+  }
+ },
+ {
+  "id": 1961119059,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key fine; added teaching fields",
+  "fields": {
+   "hint": "Something ubiquitous seems to be found everywhere you look.",
+   "whyA": "Rare is the opposite of ubiquitous.",
+   "whyC": "Unique means one of a kind, close to the opposite of being everywhere.",
+   "whyD": "Obscure means little known or hidden, not present everywhere.",
+   "explanationTl": "Ang 'ubiquitous' ay nasa lahat ng lugar, kaya kapareho ng 'omnipresent'.",
+   "hintTl": "Ang ubiquitous ay parang nakikita mo kahit saan ka tumingin."
+  }
+ },
+ {
+  "id": 2144520768,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "distractors impossible/unworkable/impractical shared one meaning; replaced two; explanation tightened",
+  "fields": {
+   "optionC": "Expensive",
+   "optionD": "Popular",
+   "explanation": "'Feasible' means able to be done or carried out, so 'possible' is the closest meaning.",
+   "hint": "Ask: can the plan actually be carried out?",
+   "whyA": "Impossible is the opposite of feasible.",
+   "whyC": "Expensive is about cost; a plan can be costly and still feasible.",
+   "whyD": "Popular means well-liked, not able to be done.",
+   "explanationTl": "Ang 'feasible' ay kayang gawin o maisakatuparan, kaya 'possible' ang sagot.",
+   "hintTl": "Itanong mo: kaya ba talagang gawin ang plano?"
+  }
+ }
+]

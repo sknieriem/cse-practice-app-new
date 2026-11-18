@@ -1,4 +1,4 @@
-# Review of original questions (601 reviewed)
+# Review of original questions (701 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
@@ -8,6 +8,7 @@
 | r4 | 20 | 58 | 2 | 21 | 0 |
 | r5 | 41 | 36 | 0 | 23 | 0 |
 | r6 | 31 | 37 | 5 | 27 | 0 |
+| r7 | 23 | 45 | 2 | 30 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -612,3 +613,103 @@
 | r6 | 587746811 | Verbal Ability | unchanged | Key correct; added teaching fields. |
 | r6 | 851957533 | Verbal Ability | unchanged | Key correct; added teaching fields. |
 | r6 | 1686907840 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r7 | 1513314115 | Analytical Ability | rewritten | Spinning vs Pushing (thrust) both defensible, and a wheel also spins; replaced with a clean part : vehicle analogy |
+| r7 | 116522408 | Analytical Ability | rewritten | 'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption |
+| r7 | 414785518 | Analytical Ability | rewritten | 'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption |
+| r7 | 1105149904 | Analytical Ability | rewritten | 'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption |
+| r7 | 1662984017 | Analytical Ability | rewritten | 'Both'/'None' options are banned and neither listed option was a clean assumption; rewritten with one clear assumption |
+| r7 | 326968816 | Analytical Ability | rewritten | 'True/False' options are banned; kept Valid/Invalid and replaced the distractors with common invalid reasons |
+| r7 | 1970276575 | Analytical Ability | rewritten | 'True/False' options banned and near-duplicate of the chefs item; rewritten as 'which conclusion follows' |
+| r7 | 1357790381 | General Information | rewritten | "Both A and B"/"None" option set is banned. Rewrote on the same labor policy using Article II, Section 18 wording. |
+| r7 | 165664840 | General Information | rewritten | Foreign trivia (currency of Mexico); rewrote to the Philippine currency authority under Art. XII, Sec. 20. |
+| r7 | 561712936 | General Information | rewritten | Foreign trivia (river of Paris); rewrote to a Philippine river on the same subtopic. |
+| r7 | 651558414 | General Information | rewritten | Option B repeated the stem ("wind" powers wind power), a giveaway; rewrote to the energy conversion in a wind turbine. |
+| r7 | 1130976751 | General Information | rewritten | Foreign trivia (South American river); rewrote to the longest river in the Philippines. |
+| r7 | 1232696367 | General Information | rewritten | South Africa has three capitals, so Cape Town is also defensible; rewrote to the Philippine capital. |
+| r7 | 1355532793 | General Information | rewritten | "Freon" is a brand name and nitrogen is also used in cryogenic cooling; rewrote to the CFC refrigerant phase-out. |
+| r7 | 1774245905 | General Information | rewritten | Mexico, Peru and Sudan also have pyramids (Sudan has more than Egypt); rewrote to a Philippine landmark. |
+| r7 | 1923130828 | General Information | rewritten | Foreign literature trivia; rewrote to Philippine literature on the same subtopic. |
+| r7 | 2043994268 | General Information | rewritten | Foreign trivia (and the mid-ocean ridge is longer than the Andes); rewrote to the longest Philippine mountain range. |
+| r7 | 1788748540 | General Information | rewritten | Keyed 'fact' unsupported (no law names 'Three Stars and a Sun' the national emblem); first rewrite duplicated 1246744583, so rewritten to the Flag and Heraldic Code (RA 8491) on the same national-symbols subtopic. |
+| r7 | 118872779 | Numerical Ability | rewritten | trivia (sides of an octagon) replaced with interior-angle problem |
+| r7 | 1620882769 | Numerical Ability | rewritten | duplicate of 977679582 (₱500, 20% off); rewritten as successive discounts |
+| r7 | 2072066813 | Numerical Ability | rewritten | Same item as 1808046236 (₱1,000 at 10% off); rewritten to a different discount problem on the same subtopic. |
+| r7 | 1941691772 | Numerical Ability | rewritten | duplicate of 1740064796 (180 km in 3 h); rewritten as clock-time speed problem |
+| r7 | 108426720 | Numerical Ability | rewritten | Third near-copy of the doubling series to 128 (1254511877, 976181267); rewritten to a halving series on the same subtopic. |
+| r7 | 899803267 | Numerical Ability | rewritten | Same series as 1802591182 (2, 4, 8, 16, 32); rewritten to a ×3 series on the same subtopic. |
+| r7 | 1401195273 | Numerical Ability | rewritten | Rewrite duplicated 1874968719 (4, 9, 16, 25, 36); new n^2 - 1 series on the same subtopic. |
+| r7 | 1529363246 | Numerical Ability | rewritten | Same series as 1691723446 (4, 8, 12, 16, 20); rewritten to a +6 series on the same subtopic. |
+| r7 | 362914008 | Numerical Ability | rewritten | trivia (vertices of a square) replaced with perimeter-to-area problem |
+| r7 | 1770394816 | Numerical Ability | rewritten | trivia (colors of a rainbow) replaced with a change-making word problem |
+| r7 | 882286800 | Numerical Ability | rewritten | Same 8-8-8 scale-down puzzle as 1689327113 (kept in r3 as the one version); rewritten to an inverse-proportion work problem. |
+| r7 | 2064729706 | Verbal Ability | rewritten | original allowed 2-3-1-4 too (mix before preheat is fine); sentences rewritten so one order is forced |
+| r7 | 2095764249 | Analytical Ability | key fixed | A chef's own action is cooking, so a dancer's is dancing; 'Perform' is too general (singers and actors perform too) |
+| r7 | 696609522 | Analytical Ability | key fixed | Key B (49) with an explanation computing 51; rule n^2+5n-2 (differences 10, 12, 14) gives 48 = A |
+| r7 | 413239717 | Analytical Ability | minor edit | Drawing was a second defensible use of a pen; replaced with Reading; difficulty 1 |
+| r7 | 1415530014 | Analytical Ability | minor edit | Key correct; difficulty set to 1 and teaching fields added |
+| r7 | 1534995568 | Analytical Ability | minor edit | Same Resistance:Ohms stem as another item; changed stem to Current:Amperes and swapped the Amperes option for Newtons |
+| r7 | 1442755801 | Analytical Ability | minor edit | Key correct; difficulty 1; added steps and teaching fields |
+| r7 | 1678692415 | Analytical Ability | minor edit | Key correct; added unit (°C), difficulty 1, steps and teaching fields |
+| r7 | 313181633 | Analytical Ability | minor edit | Key correct; Husband/Father were silly distractors (C is a girl), replaced with Granddaughter/Niece; difficulty 1 |
+| r7 | 1620561748 | Analytical Ability | minor edit | Key correct; difficulty 1; added steps and teaching fields |
+| r7 | 120164668 | General Information | minor edit | Stem said "The Philippine Constitution"; the 1935 and 1973 charters were also ratified. Specified the present Constitution; swapped 1899 for 1986. |
+| r7 | 1595912791 | General Information | minor edit | Einstein’s general relativity is also a theory of gravity; reworded the stem to the law of universal gravitation. |
+| r7 | 340685609 | Numerical Ability | minor edit | key ok; difficulty to 1, steps numbered, whys + Tl added |
+| r7 | 466653163 | Numerical Ability | minor edit | key ok; difficulty to 1, Tl added |
+| r7 | 798361226 | Numerical Ability | minor edit | key ok; difficulty to 1, Tl added |
+| r7 | 1411236690 | Numerical Ability | minor edit | key ok; difficulty to 1, Tl added |
+| r7 | 1528286468 | Numerical Ability | minor edit | key ok; difficulty to 1, steps numbered, whys + Tl added |
+| r7 | 1622931909 | Numerical Ability | minor edit | key ok; difficulty to 1, steps numbered, whys + Tl added |
+| r7 | 1844558306 | Numerical Ability | minor edit | explanation lost the × sign ('u = 45 = 20'); stem '*' changed to ×; difficulty 1 |
+| r7 | 907670181 | Numerical Ability | minor edit | steps said 'common denominator of 3 and 3' (first fraction is 4/6); rewritten; whys specific |
+| r7 | 1324726266 | Numerical Ability | minor edit | key ok; whys made specific, difficulty 1, Tl added |
+| r7 | 1501371987 | Numerical Ability | minor edit | replaced silly distractors 3/3, 0/3 with common mistakes; difficulty 1 |
+| r7 | 490956332 | Numerical Ability | minor edit | key ok (0.67 × 3,000 = 2,010); whys reworded without 4-decimal %, Tl added |
+| r7 | 1160808012 | Numerical Ability | minor edit | key ok; difficulty 1, Tl added |
+| r7 | 1602985521 | Numerical Ability | minor edit | key ok; difficulty 1, Tl added |
+| r7 | 2083639282 | Numerical Ability | minor edit | key ok; whys reworded without 4-decimal %, difficulty 1, Tl added |
+| r7 | 548274261 | Numerical Ability | minor edit | key ok; steps numbered, whys + Tl added, difficulty 1 |
+| r7 | 1275863076 | Numerical Ability | minor edit | key ok; steps used rounded 0.8333 h, redone with exact fraction; whys + Tl added |
+| r7 | 1740064796 | Numerical Ability | minor edit | key ok; steps numbered, whys + Tl added, difficulty 1 |
+| r7 | 381284277 | Numerical Ability | minor edit | key ok; whys + Tl added, difficulty 1 |
+| r7 | 950767701 | Numerical Ability | minor edit | stem fixed to the standard form with a blank; difficulty 1; whys + Tl added |
+| r7 | 812756266 | Numerical Ability | minor edit | key ok; steps numbered, difficulty 1, whys + Tl added |
+| r7 | 894776864 | Numerical Ability | minor edit | key ok; difficulty 1; steps, hint, whys, Tl added |
+| r7 | 22064127 | Numerical Ability | minor edit | key ok; added units to stem; steps, hint, whys, Tl added |
+| r7 | 104286941 | Numerical Ability | minor edit | key ok; steps said 'job' instead of books; explanation, whys, Tl added |
+| r7 | 789045348 | Numerical Ability | minor edit | key ok; steps said 'job' instead of cars; explanation, whys, Tl added |
+| r7 | 1123632898 | Numerical Ability | minor edit | key ok; steps said 'job' instead of suits; explanation, whys, Tl added |
+| r7 | 575804354 | Verbal Ability | minor edit | key fine; set difficulty 1 and added teaching fields |
+| r7 | 782317538 | Verbal Ability | minor edit | B and D were both grammatical; added 'Yesterday' so only past 'were' fits |
+| r7 | 1424839539 | Verbal Ability | minor edit | key fine; set difficulty 1 and added teaching fields |
+| r7 | 676241558 | Verbal Ability | minor edit | key fine; set difficulty 1 and added teaching fields |
+| r7 | 1474941314 | Verbal Ability | minor edit | key fine; set difficulty 1, sharpened explanation, added teaching fields |
+| r7 | 163859528 | Verbal Ability | minor edit | distractors confusing/vague/obscure shared one meaning, giving the key away by elimination; replaced two |
+| r7 | 195027882 | Verbal Ability | minor edit | key was the only multi-word option and distractors shared one meaning; options rebalanced |
+| r7 | 1050194713 | Verbal Ability | minor edit | distractors slowly/gradually/steadily shared one meaning; replaced two; difficulty 1 |
+| r7 | 1405879297 | Verbal Ability | minor edit | distractors idealistic/dreamy/theoretical shared one meaning; replaced two |
+| r7 | 1511850923 | Verbal Ability | minor edit | stem was a fragment and 'Heavy' is not a meaning of light; stem and distractors now real senses of 'light'; difficulty 1 |
+| r7 | 2144520768 | Verbal Ability | minor edit | distractors impossible/unworkable/impractical shared one meaning; replaced two; explanation tightened |
+| r7 | 1275206013 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r7 | 1552804273 | Analytical Ability | unchanged | Key correct; added teaching fields |
+| r7 | 471045008 | Analytical Ability | unchanged | Key correct; added steps and teaching fields |
+| r7 | 1026634272 | Analytical Ability | unchanged | Key correct; added explanationTl and whys, tightened steps |
+| r7 | 1394039618 | Analytical Ability | unchanged | Key correct; added explanationTl and whys, tightened steps |
+| r7 | 1588383733 | Analytical Ability | unchanged | Key correct; added explanationTl and whys, tightened steps |
+| r7 | 523885028 | General Information | unchanged | Key correct; added teaching fields and Article VII citation. |
+| r7 | 442539199 | General Information | unchanged | Key correct; added teaching fields. |
+| r7 | 888262152 | General Information | unchanged | Key correct; added teaching fields. |
+| r7 | 1516273769 | General Information | unchanged | Key correct; added teaching fields. |
+| r7 | 1929580637 | General Information | unchanged | Key correct; added teaching fields. |
+| r7 | 977679582 | Numerical Ability | unchanged | key ok; Tl added |
+| r7 | 1628393272 | Numerical Ability | unchanged | key ok; Tl added |
+| r7 | 2102609926 | Numerical Ability | unchanged | key ok; Tl added |
+| r7 | 891441518 | Numerical Ability | unchanged | key ok (even squares 2²..10²); whys + Tl added |
+| r7 | 1921384393 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r7 | 313375559 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r7 | 598687627 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r7 | 656936127 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r7 | 791723399 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r7 | 1136400058 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r7 | 1360294987 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r7 | 1961119059 | Verbal Ability | unchanged | key fine; added teaching fields |

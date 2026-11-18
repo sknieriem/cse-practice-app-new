@@ -1,0 +1,202 @@
+[
+ {
+  "id": 575804354,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Complete the analogy: Bird is to fly as fish is to:",
+  "optionA": "Swim",
+  "optionB": "Walk",
+  "optionC": "Run",
+  "optionD": "Jump"
+ },
+ {
+  "id": 1921384393,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Complete the analogy: Ocean is to water as desert is to:",
+  "optionA": "Sand",
+  "optionB": "Heat",
+  "optionC": "Cactus",
+  "optionD": "Camel"
+ },
+ {
+  "id": 313375559,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'benevolent' is:",
+  "optionA": "Kind",
+  "optionB": "Malicious",
+  "optionC": "Generous",
+  "optionD": "Friendly"
+ },
+ {
+  "id": 782317538,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which sentence is correct?",
+  "optionA": "They was going to the market.",
+  "optionB": "They were going to the market.",
+  "optionC": "They is going to the market.",
+  "optionD": "They are going to the market."
+ },
+ {
+  "id": 1424839539,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Would you like coffee __________ tea?",
+  "optionA": "so",
+  "optionB": "or",
+  "optionC": "but",
+  "optionD": "and"
+ },
+ {
+  "id": 676241558,
+  "category": "Verbal Ability",
+  "subtopic": "verb_ordering",
+  "text": "Rearrange: The / quick / brown / fox",
+  "optionA": "The brown quick fox",
+  "optionB": "The quick brown fox",
+  "optionC": "Quick the brown fox",
+  "optionD": "Brown the quick fox"
+ },
+ {
+  "id": 2064729706,
+  "category": "Verbal Ability",
+  "subtopic": "verb_ordering",
+  "text": "Rearrange the sentences: (1) The cake baked. (2) Ingredients mixed. (3) Oven preheated. (4) Cake served.",
+  "optionA": "3-2-1-4",
+  "optionB": "2-3-1-4",
+  "optionC": "1-2-3-4",
+  "optionD": "4-3-2-1"
+ },
+ {
+  "id": 598687627,
+  "category": "Verbal Ability",
+  "subtopic": "verb_spelling",
+  "text": "Choose the correct spelling:",
+  "optionA": "Occurence",
+  "optionB": "Occurrance",
+  "optionC": "Occurrence",
+  "optionD": "Ocurence"
+ },
+ {
+  "id": 1474941314,
+  "category": "Verbal Ability",
+  "subtopic": "verb_spelling",
+  "text": "Identify the misspelled word: 'The restuarant is open.'",
+  "optionA": "The",
+  "optionB": "restuarant",
+  "optionC": "is",
+  "optionD": "open"
+ },
+ {
+  "id": 163859528,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Her explanation was lucid.\n\nIn this sentence, 'lucid' most nearly means:",
+  "optionA": "Confusing",
+  "optionB": "Clear",
+  "optionC": "Vague",
+  "optionD": "Obscure"
+ },
+ {
+  "id": 195027882,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "He is fastidious.\n\nIn this sentence, 'fastidious' most nearly means:",
+  "optionA": "Sloppy",
+  "optionB": "Very attentive to detail",
+  "optionC": "Careless",
+  "optionD": "Negligent"
+ },
+ {
+  "id": 656936127,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Paulo wanted to become a doctor because of his desire to mitigate misery in the world.\n\nIn this sentence, 'mitigate' most nearly means:",
+  "optionA": "aggravate",
+  "optionB": "intensify",
+  "optionC": "finish",
+  "optionD": "alleviate"
+ },
+ {
+  "id": 791723399,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "A less scrupulous plumber could easily have unnecessarily replaced the drainpipes and run up the cost.\n\nIn this sentence, 'scrupulous' most nearly means:",
+  "optionA": "afraid",
+  "optionB": "employed",
+  "optionC": "careful",
+  "optionD": "infamous"
+ },
+ {
+  "id": 1050194713,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The rumor spread rapidly.\n\nIn this sentence, 'rapidly' most nearly means:",
+  "optionA": "Slowly",
+  "optionB": "Quickly",
+  "optionC": "Gradually",
+  "optionD": "Steadily"
+ },
+ {
+  "id": 1136400058,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The power failure at 8 P.M. caused consternation among the barangay's residents.\n\nIn this sentence, 'consternation' most nearly means:",
+  "optionA": "dismay",
+  "optionB": "deliberation",
+  "optionC": "disability",
+  "optionD": "distaste"
+ },
+ {
+  "id": 1360294987,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The event was fortuitous.\n\nIn this sentence, 'fortuitous' most nearly means:",
+  "optionA": "Planned",
+  "optionB": "Lucky",
+  "optionC": "Unfortunate",
+  "optionD": "Deliberate"
+ },
+ {
+  "id": 1405879297,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "He is pragmatic.\n\nIn this sentence, 'pragmatic' most nearly means:",
+  "optionA": "Idealistic",
+  "optionB": "Practical",
+  "optionC": "Dreamy",
+  "optionD": "Theoretical"
+ },
+ {
+  "id": 1511850923,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Contextual meaning of 'light' in 'The light is on':",
+  "optionA": "Weight",
+  "optionB": "Illumination",
+  "optionC": "Color",
+  "optionD": "Heavy"
+ },
+ {
+  "id": 1961119059,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Identify the synonym of 'ubiquitous'.",
+  "optionA": "Rare",
+  "optionB": "Omnipresent",
+  "optionC": "Unique",
+  "optionD": "Obscure"
+ },
+ {
+  "id": 2144520768,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The plan was feasible.\n\nIn this sentence, 'feasible' most nearly means:",
+  "optionA": "Impossible",
+  "optionB": "Possible",
+  "optionC": "Unworkable",
+  "optionD": "Impractical"
+ }
+]

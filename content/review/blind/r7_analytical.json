@@ -1,0 +1,222 @@
+[
+ {
+  "id": 413239717,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Scissors is to cutting as pen is to:",
+  "optionA": "Writing",
+  "optionB": "Drawing",
+  "optionC": "Erasing",
+  "optionD": "Pointing"
+ },
+ {
+  "id": 1275206013,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Resistance : Ohms :: Voltage :",
+  "optionA": "Volts",
+  "optionB": "Amperes",
+  "optionC": "Watts",
+  "optionD": "Joules"
+ },
+ {
+  "id": 1415530014,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Iron: metal :: granite:",
+  "optionA": "Marble",
+  "optionB": "Rock",
+  "optionC": "Sand",
+  "optionD": "Solid"
+ },
+ {
+  "id": 1513314115,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Wheel is to rolling as propeller is to:",
+  "optionA": "Spinning",
+  "optionB": "Flying",
+  "optionC": "Steering",
+  "optionD": "Pushing"
+ },
+ {
+  "id": 1534995568,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Resistance : Ohms :: Power :",
+  "optionA": "Watts",
+  "optionB": "Joules",
+  "optionC": "Volts",
+  "optionD": "Amperes"
+ },
+ {
+  "id": 1552804273,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Force : Newtons :: Energy :",
+  "optionA": "Joules",
+  "optionB": "Watts",
+  "optionC": "Amperes",
+  "optionD": "Pascals"
+ },
+ {
+  "id": 2095764249,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Chef : Cook :: Dancer :",
+  "optionA": "Perform",
+  "optionB": "Dance",
+  "optionC": "Teach",
+  "optionD": "Watch"
+ },
+ {
+  "id": 116522408,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To learn coding, one must practice regularly.",
+  "optionA": "Practicing regularly guarantees coding skills",
+  "optionB": "Not practicing regularly leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 414785518,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To succeed in science, one must experiment.",
+  "optionA": "Experimenting guarantees success",
+  "optionB": "Not experimenting leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 1105149904,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To excel in sports, one must practice daily.",
+  "optionA": "Practicing daily guarantees excelling",
+  "optionB": "Not practicing daily leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 1662984017,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To run a marathon, one must train.",
+  "optionA": "Training guarantees running a marathon",
+  "optionB": "Not training leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 696609522,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=12, 3=22, 4=34, 5=?",
+  "optionA": "48",
+  "optionB": "49",
+  "optionC": "50",
+  "optionD": "51"
+ },
+ {
+  "id": 1442755801,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing sales: Q1 700, Q2 750, Q3 800. What is the average sales?",
+  "optionA": "740",
+  "optionB": "750",
+  "optionC": "760",
+  "optionD": "770"
+ },
+ {
+  "id": 1678692415,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing temperatures: Day 1 10, Day 2 15, Day 3 20. What is the average temperature?",
+  "optionA": "13",
+  "optionB": "15",
+  "optionC": "17",
+  "optionD": "19"
+ },
+ {
+  "id": 313181633,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "A is B's mother, B is C's sister, and C is a girl. C is A's:",
+  "optionA": "Daughter",
+  "optionB": "Son",
+  "optionC": "Husband",
+  "optionD": "Father"
+ },
+ {
+  "id": 326968816,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All chefs cook. Some people are chefs. So some people cook.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 471045008,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all mammals have fur and some animals are mammals, then:",
+  "optionA": "All animals have fur",
+  "optionB": "Some animals have fur",
+  "optionC": "No animals have fur",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1970276575,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All musicians perform. Some people are musicians. So some people perform.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 1026634272,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 5, 12, 20, 29, ____",
+  "optionA": "38",
+  "optionB": "39",
+  "optionC": "40",
+  "optionD": "41"
+ },
+ {
+  "id": 1394039618,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 8, 15, 23, 32, ____",
+  "optionA": "40",
+  "optionB": "41",
+  "optionC": "42",
+  "optionD": "43"
+ },
+ {
+  "id": 1588383733,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 7, 12, 18, 25, ____",
+  "optionA": "32",
+  "optionB": "33",
+  "optionC": "34",
+  "optionD": "35"
+ },
+ {
+  "id": 1620561748,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: A, C, E, G, ____",
+  "optionA": "H",
+  "optionB": "I",
+  "optionC": "J",
+  "optionD": "K"
+ }
+]

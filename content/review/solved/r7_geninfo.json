@@ -1,0 +1,128 @@
+[
+ {
+  "id": 120164668,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": true,
+  "note": "1935 and 1973 were also ratified; stem should say present"
+ },
+ {
+  "id": 523885028,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Art VII"
+ },
+ {
+  "id": 1357790381,
+  "answer": "C",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Both A and B option set is banned"
+ },
+ {
+  "id": 165664840,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "foreign trivia"
+ },
+ {
+  "id": 442539199,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": ""
+ },
+ {
+  "id": 561712936,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "foreign trivia"
+ },
+ {
+  "id": 651558414,
+  "answer": "B",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "B repeats stem; sun ultimately drives wind"
+ },
+ {
+  "id": 888262152,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": ""
+ },
+ {
+  "id": 1130976751,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "foreign trivia"
+ },
+ {
+  "id": 1232696367,
+  "answer": "B",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "SA has 3 capitals; Cape Town also defensible"
+ },
+ {
+  "id": 1355532793,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Freon is a brand; nitrogen used in cryogenic cooling"
+ },
+ {
+  "id": 1516273769,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": ""
+ },
+ {
+  "id": 1595912791,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": true,
+  "note": "Einstein also has a theory of gravity"
+ },
+ {
+  "id": 1774245905,
+  "answer": "B",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Mexico, Peru, Sudan also have pyramids"
+ },
+ {
+  "id": 1923130828,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "foreign trivia"
+ },
+ {
+  "id": 1929580637,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": ""
+ },
+ {
+  "id": 2043994268,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Andes longest continental range; mid-ocean ridge longer"
+ },
+ {
+  "id": 1788748540,
+  "answer": "C",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "no official national emblem; key dubious"
+ }
+]

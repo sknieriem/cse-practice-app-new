@@ -1,0 +1,282 @@
+[
+ {
+  "id": 340685609,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 466653163,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 798361226,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1411236690,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1528286468,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1622931909,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1844558306,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 907670181,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2/3+1/3=1"
+ },
+ {
+  "id": 1324726266,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1501371987,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 118872779,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "trivia"
+ },
+ {
+  "id": 490956332,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3000*0.67=2010"
+ },
+ {
+  "id": 977679582,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1160808012,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1602985521,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1620882769,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1628393272,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2072066813,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2083639282,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2102609926,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 548274261,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1275863076,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "10/(50/60)=12"
+ },
+ {
+  "id": 1740064796,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1941691772,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 108426720,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 381284277,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 891441518,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "(2n)^2 -> 100"
+ },
+ {
+  "id": 899803267,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "doubling: 32x2=64"
+ },
+ {
+  "id": 950767701,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "stem lacks ?, slot"
+ },
+ {
+  "id": 1401195273,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "stem ends with ? after 36"
+ },
+ {
+  "id": 1529363246,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 812756266,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 894776864,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 362914008,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "trivia"
+ },
+ {
+  "id": 1770394816,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "trivia"
+ },
+ {
+  "id": 22064127,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 104286941,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 789045348,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 882286800,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1123632898,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ }
+]
