@@ -1,0 +1,184 @@
+[
+ {
+  "id": 50632873,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "m/s^2"
+ },
+ {
+  "id": 542674740,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "seconds"
+ },
+ {
+  "id": 1098361223,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "m/s"
+ },
+ {
+  "id": 1236757594,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "newtons"
+ },
+ {
+  "id": 1369622238,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "watts"
+ },
+ {
+  "id": 16495850,
+  "answer": "B",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Both/None options banned; B nearest to 'plan is necessary'"
+ },
+ {
+  "id": 1728884847,
+  "answer": "B",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Both/None options banned; B nearest to 'risk is necessary'"
+ },
+ {
+  "id": 855153085,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "diffs 9,11,13 -> 41"
+ },
+ {
+  "id": 1851378890,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "255/3=85"
+ },
+ {
+  "id": 540910788,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "N is M's mother -> L's wife"
+ },
+ {
+  "id": 593413974,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "C mother -> A's wife"
+ },
+ {
+  "id": 1325356238,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "U mother -> S's wife"
+ },
+ {
+  "id": 1905306631,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "O father -> M's husband"
+ },
+ {
+  "id": 118610683,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "valid; True/False options banned"
+ },
+ {
+  "id": 188497522,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "some"
+ },
+ {
+  "id": 992826696,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "affirming consequent"
+ },
+ {
+  "id": 1087625655,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "some"
+ },
+ {
+  "id": 1769855880,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "hypothetical syllogism"
+ },
+ {
+  "id": 2045818122,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "some"
+ },
+ {
+  "id": 844066916,
+  "answer": "D",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "no clean single answer; hat (head, accessory) vs socks"
+ },
+ {
+  "id": 1604296376,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "vegetable"
+ },
+ {
+  "id": 1716691115,
+  "answer": "B",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Sun is a star -> Sun/Star overlap; Moon satellite"
+ },
+ {
+  "id": 68112122,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+3"
+ },
+ {
+  "id": 1094724157,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+5,+6,+7,+8"
+ },
+ {
+  "id": 1821169236,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+7,+8,+9,+10"
+ },
+ {
+  "id": 1839757197,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+4,+5,+6,+7"
+ }
+]

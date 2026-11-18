@@ -1,0 +1,322 @@
+[
+ {
+  "id": 615938498,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields; basic vocabulary so difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Look for the word that means the opposite of 'a lot'.",
+   "whyA": "Plentiful is a synonym of abundant, not an antonym.",
+   "whyC": "Ample also means more than enough, a synonym.",
+   "whyD": "Bountiful means generous or plentiful, a synonym.",
+   "explanationTl": "Ang 'abundant' ay sobrang dami, kaya ang opposite niya ay 'scarce', ibig sabihin kulang o kakaunti.",
+   "hintTl": "Hanapin ang word na kabaligtaran ng 'marami'."
+  }
+ },
+ {
+  "id": 945786064,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields; basic preposition so difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Which preposition normally follows 'afraid' before the thing feared?",
+   "whyB": "'Afraid for' means worried about someone's safety, not fear of an activity.",
+   "whyC": "'Afraid to' takes a base verb (afraid to fly), not a gerund like 'flying'.",
+   "whyD": "'Afraid with' is not a standard English pairing.",
+   "explanationTl": "Ang tamang pairing ay 'afraid of' kapag sinasabi kung ano ang kinatatakutan, kaya 'afraid of flying'.",
+   "hintTl": "Anong preposition ang laging kasama ng 'afraid' bago ang kinatatakutan?"
+  }
+ },
+ {
+  "id": 974231614,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields; basic agreement so difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Check whether the subject is singular or plural.",
+   "whyA": "'The' is a correct article.",
+   "whyB": "'Boys' is a correct plural noun; the verb must change, not the subject.",
+   "whyD": "'Football' is correctly used as the object.",
+   "explanationTl": "Plural ang 'boys', kaya dapat 'play' at hindi 'plays'. Ang verb na may -s ay para lang sa singular subject.",
+   "hintTl": "Tingnan kung singular o plural ang subject."
+  }
+ },
+ {
+  "id": 1031589169,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Option B lists three gerunds (eating, sleeping, watching), so all items in the series have the same form.",
+   "hint": "Check that every item in the list has the same grammatical form.",
+   "whyA": "Mixes infinitives (to eat, sleep) with a gerund (watching).",
+   "whyC": "'Likes eat' is ungrammatical; 'likes' needs an infinitive or a gerund.",
+   "whyD": "Repeats 'to' twice then drops it for 'watch', breaking the pattern, and lacks 'and'.",
+   "explanationTl": "Sa option B, puro gerund (eating, sleeping, watching) ang nasa list, kaya parallel ang structure.",
+   "hintTl": "Dapat pare-pareho ang form ng bawat item sa list."
+  }
+ },
+ {
+  "id": 1341079469,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "Which word describes how she sings? What part of speech should it be?",
+   "whyA": "'She' is a correct subject pronoun.",
+   "whyB": "'Sings' agrees with the singular subject 'she'.",
+   "whyD": "There is an error: an adjective is used where an adverb is needed.",
+   "explanationTl": "Ang 'sings' ay verb, kaya adverb ang kailangan para i-describe ito. Dapat 'beautifully', hindi 'beautiful'.",
+   "hintTl": "Paano siya kumanta? Anong part of speech dapat ang word na iyon?"
+  }
+ },
+ {
+  "id": 1750935850,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields; basic agreement so difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "'She' is third-person singular. Which helping verb goes with it?",
+   "whyA": "'She' is a correct subject pronoun.",
+   "whyC": "'Like' is correct after a helping verb (doesn't like).",
+   "whyD": "'Apples' is correctly used as the object.",
+   "explanationTl": "Third-person singular ang 'she', kaya 'doesn't' ang tama, hindi 'don't'. 'She doesn't like apples.'",
+   "hintTl": "Third-person singular ang 'she'. Anong helping verb ang bagay dito?"
+  }
+ },
+ {
+  "id": 131549429,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct and unique; added teaching fields.",
+  "fields": {
+   "explanation": "The thief must enter first (4), which makes the dog bark (1); the barking wakes the owner (3), and the thief then runs away (2).",
+   "steps": "1. The story starts with the thief entering the house: (4).\n2. The intruder makes the dog bark: (1).\n3. The barking ('the noise') wakes the owner: (3).\n4. The thief runs away: (2).\n5. Order: 4-1-3-2.",
+   "hint": "Find the event that causes all the others, then follow cause and effect.",
+   "whyB": "Puts the owner waking before the dog barks, but 'the noise' refers to the barking.",
+   "whyC": "Has the dog barking before the thief has entered.",
+   "whyD": "Starts with 'the noise' before any noise has been mentioned.",
+   "explanationTl": "Una, pumasok ang magnanakaw (4), kaya tumahol ang aso (1). Nagising ang may-ari dahil sa ingay (3), tapos tumakas ang magnanakaw (2).",
+   "stepsTl": "1. Simula: pumasok ang magnanakaw sa bahay: (4).\n2. Dahil dito, tumahol ang aso: (1).\n3. Ang 'noise' (tahol) ang gumising sa may-ari: (3).\n4. Tumakas ang magnanakaw: (2).\n5. Order: 4-1-3-2.",
+   "hintTl": "Hanapin muna ang event na nag-cause ng lahat, tapos sundan ang cause and effect."
+  }
+ },
+ {
+  "id": 576021709,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Old key A (teacher dismissed before bell) was doubtful, 1-4-2-3 also defensible, and (4) was a fragment; rewrote with clear cues.",
+  "fields": {
+   "text": "Rearrange the sentences: (1) The students packed their bags and left the room. (2) The bell rang to signal the end of the period. (3) The empty classroom finally fell quiet. (4) Hearing the bell, the teacher dismissed the class.",
+   "optionA": "4-2-1-3",
+   "optionB": "2-4-1-3",
+   "optionC": "2-1-4-3",
+   "optionD": "4-1-2-3",
+   "correctAnswer": "B",
+   "explanation": "The bell rings first (2); 'Hearing the bell' shows the teacher's dismissal comes next (4); the students then leave (1), and only then is the room empty and quiet (3).",
+   "steps": "1. 'Hearing the bell' in (4) means (2) comes before (4).\n2. Students leave only after being dismissed: (1) after (4).\n3. The classroom is 'empty' only after the students leave: (3) last.\n4. Order: 2-4-1-3.",
+   "hint": "Look for clue words like 'Hearing the bell' and 'empty' that tie one sentence to another.",
+   "whyA": "Has the teacher react to the bell before it has rung.",
+   "whyC": "Has the students leave before the teacher dismisses them.",
+   "whyD": "Starts with the teacher hearing a bell that has not rung yet.",
+   "explanationTl": "Una, tumunog ang bell (2). Dahil 'Hearing the bell', sumunod ang pag-dismiss ng teacher (4). Tapos umalis ang students (1), at saka lang tumahimik ang empty na classroom (3).",
+   "stepsTl": "1. Ang 'Hearing the bell' sa (4) ay nangangahulugang nauna ang (2).\n2. Umaalis lang ang students pagka-dismiss: (1) pagkatapos ng (4).\n3. 'Empty' lang ang classroom kapag nakaalis na ang students: (3) ang huli.\n4. Order: 2-4-1-3.",
+   "hintTl": "Hanapin ang clue words gaya ng 'Hearing the bell' at 'empty' na nagdudugtong sa mga sentence."
+  }
+ },
+ {
+  "id": 1257319884,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Old key B (3-1-2-4) and 3-1-4-2 were both defensible; rewrote with linking cues so only one order works.",
+  "fields": {
+   "text": "Rearrange the sentences: (1) It suddenly started raining. (2) Once indoors, we dried ourselves with towels. (3) We were playing basketball outside. (4) When the rain grew heavier, the referee stopped the game and we ran inside.",
+   "optionA": "3-1-4-2",
+   "optionB": "3-1-2-4",
+   "optionC": "1-3-4-2",
+   "optionD": "3-4-1-2",
+   "correctAnswer": "A",
+   "explanation": "The scene opens with the game (3), then the rain starts (1); 'When the rain grew heavier' must follow the first rain, so (4) comes next, and 'Once indoors' (2) can only come after running inside.",
+   "steps": "1. Background first: we were playing outside (3).\n2. The rain starts: (1).\n3. 'The rain grew heavier' needs rain already falling: (4) after (1).\n4. 'Once indoors' needs us to have run inside: (2) after (4).\n5. Order: 3-1-4-2.",
+   "hint": "Notice 'grew heavier' and 'Once indoors'; each points back to an earlier sentence.",
+   "whyB": "Puts 'Once indoors' before the sentence where we ran inside.",
+   "whyC": "Starts with the rain, but the setting (playing outside) should come first.",
+   "whyD": "Has the rain 'grow heavier' before it has started.",
+   "explanationTl": "Una ang setting, naglalaro kami sa labas (3). Tapos umulan (1). Ang 'rain grew heavier' ay dapat after umulan na, kaya (4). At ang 'Once indoors' (2) ay after tumakbo kami sa loob.",
+   "stepsTl": "1. Setting muna: naglalaro kami sa labas (3).\n2. Nagsimulang umulan: (1).\n3. 'Grew heavier' ay kailangang umuulan na: (4) after (1).\n4. 'Once indoors' ay kailangang nakapasok na: (2) after (4).\n5. Order: 3-1-4-2.",
+   "hintTl": "Pansinin ang 'grew heavier' at 'Once indoors'; tumuturo sila sa naunang sentence."
+  }
+ },
+ {
+  "id": 1979050691,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "'Black is my dog' was a valid inversion and the capital 'My' gave the answer away; rewrote with lowercase word cards and one standard order.",
+  "fields": {
+   "text": "Rearrange the words to form a correct sentence: arrives / early / the / always / teacher",
+   "optionA": "The teacher arrives always early.",
+   "optionB": "The teacher always arrives early.",
+   "optionC": "The always teacher arrives early.",
+   "optionD": "The teacher early always arrives.",
+   "correctAnswer": "B",
+   "explanation": "A frequency adverb like 'always' goes before the main verb, and 'early' follows the verb it modifies: 'The teacher always arrives early.'",
+   "steps": "1. Subject: 'the teacher'.\n2. Frequency adverb 'always' goes before the main verb 'arrives'.\n3. 'Early' tells when the teacher arrives, so it goes after the verb.\n4. Sentence: The teacher always arrives early.",
+   "hint": "Where does a frequency word like 'always' usually go with a one-word verb?",
+   "whyA": "Places 'always' after the main verb; frequency adverbs come before a one-word main verb.",
+   "whyC": "Puts 'always' between the article and the noun, as if it were an adjective.",
+   "whyD": "Places both adverbs before the verb, which is not standard order.",
+   "explanationTl": "Ang frequency adverb gaya ng 'always' ay nilalagay bago ang main verb, at ang 'early' ay after ng verb. Kaya 'The teacher always arrives early.'",
+   "stepsTl": "1. Subject: 'the teacher'.\n2. Ang 'always' ay bago ang main verb na 'arrives'.\n3. Ang 'early' ay nagsasabi kung kailan, kaya after ng verb.\n4. Sentence: The teacher always arrives early.",
+   "hintTl": "Saan karaniwang nilalagay ang frequency word na 'always' kapag isang word lang ang verb?"
+  }
+ },
+ {
+  "id": 1424691502,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Options were fragments and A and B were both defensible; rewrote as a clean inference item.",
+  "fields": {
+   "text": "'It was cold, so Lea wore her thick jacket.' What does the sentence imply?",
+   "optionA": "Lea wore the jacket to keep warm.",
+   "optionB": "Lea wears a jacket every day.",
+   "optionC": "Lea had just bought the jacket.",
+   "optionD": "Lea left her jacket at home.",
+   "correctAnswer": "A",
+   "explanation": "'So' links the cold to her action, implying she wore the thick jacket to stay warm.",
+   "hint": "What does the word 'so' tell you about why she wore the jacket?",
+   "whyB": "The sentence describes one cold day only, not a daily habit.",
+   "whyC": "Nothing in the sentence says when she got the jacket.",
+   "whyD": "Contradicts the sentence: she wore the jacket.",
+   "explanationTl": "Ang 'so' ay nagpapakita ng cause and effect: dahil malamig, nag-jacket si Lea para mainitan.",
+   "hintTl": "Ano ang sinasabi ng word na 'so' tungkol sa dahilan ng pag-jacket niya?"
+  }
+ },
+ {
+  "id": 1200360199,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation wrongly said double 'm' and 'd' (it is double 'c' and double 'm').",
+  "fields": {
+   "explanation": "The correct spelling is 'accommodate', with a double 'c' and a double 'm'.",
+   "hint": "Count the c's and the m's in the word.",
+   "whyA": "'Committee' is spelled correctly: double m, double t, double e.",
+   "whyB": "'Will' is spelled correctly.",
+   "whyD": "'Requests' is spelled correctly.",
+   "explanationTl": "Ang tamang spelling ay 'accommodate': double 'c' at double 'm'.",
+   "hintTl": "Bilangin ang c at m sa word."
+  }
+ },
+ {
+  "id": 102197310,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields; basic vocabulary so difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "'Bene-' is a Latin root meaning 'good' or 'well'.",
+   "whyA": "Malevolent means wishing harm, the opposite of benevolent.",
+   "whyC": "Cruel is an antonym, not a synonym.",
+   "whyD": "Selfish is the opposite of the giving, kind nature benevolent describes.",
+   "explanationTl": "Ang 'benevolent' ay mabait at gustong tumulong sa iba, kaya 'kind-hearted' ang ibig sabihin.",
+   "hintTl": "Ang 'bene-' ay Latin root na ang ibig sabihin ay 'good' o 'well'."
+  }
+ },
+ {
+  "id": 181618418,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Zealous means full of eager devotion or energy, so the synonym is enthusiastic.",
+   "hint": "Think of the noun 'zeal'. Is it strong feeling or lack of feeling?",
+   "whyA": "Apathetic means showing no interest, the opposite of zealous.",
+   "whyC": "Indifferent means not caring, an antonym.",
+   "whyD": "Lethargic means sluggish and without energy, the opposite of zealous.",
+   "explanationTl": "Ang 'zealous' ay sobrang sipag at masigasig, kaya 'enthusiastic' ang synonym.",
+   "hintTl": "Isipin ang noun na 'zeal'. Malakas ba itong feeling o walang feeling?"
+  }
+ },
+ {
+  "id": 587746811,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Terse' means brief and using few words, so it most nearly means concise.",
+   "hint": "Was her response long or short?",
+   "whyA": "Verbose means using too many words, the opposite of terse.",
+   "whyC": "Lengthy means long, the opposite of terse.",
+   "whyD": "Wordy means using too many words, an antonym.",
+   "explanationTl": "Ang 'terse' ay maikli at kaunti lang ang salita, kaya 'concise' ang pinakamalapit na meaning.",
+   "hintTl": "Mahaba ba o maikli ang sagot niya?"
+  }
+ },
+ {
+  "id": 851957533,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "Break the word apart: 'base' + '-less' (without).",
+   "whyA": "Founded means having a basis, the opposite of baseless.",
+   "whyC": "True is the opposite idea; a baseless rumor has no proof behind it.",
+   "whyD": "Verified means confirmed, the opposite of baseless.",
+   "explanationTl": "Ang 'baseless' ay walang basehan o ebidensya, kaya 'unfounded' ang ibig sabihin.",
+   "hintTl": "Hatiin ang word: 'base' + '-less' (walang)."
+  }
+ },
+ {
+  "id": 928760992,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "Banned 'Both A and B' / 'None' options; rewrote as a context-meaning item on the same homonym.",
+  "fields": {
+   "text": "We had a picnic on the bank of the Pasig River.\n\nIn this sentence, 'bank' most nearly means:",
+   "optionA": "a place that keeps money",
+   "optionB": "the land along the side of a river",
+   "optionC": "a row of switches or keys",
+   "optionD": "to rely on someone",
+   "correctAnswer": "B",
+   "explanation": "'Bank' has several meanings; with 'of the Pasig River', it means the sloping land beside a river.",
+   "hint": "Use the words around 'bank' to pick the right meaning.",
+   "whyA": "That is the financial meaning, which does not fit 'the bank of the Pasig River'.",
+   "whyC": "That meaning (as in 'a bank of switches') does not fit a picnic by a river.",
+   "whyD": "That is the verb 'bank on'; here 'bank' is a noun.",
+   "explanationTl": "Maraming meaning ang 'bank', pero dahil 'of the Pasig River', ang ibig sabihin ay ang pampang o gilid ng ilog.",
+   "hintTl": "Gamitin ang mga word sa paligid ng 'bank' para malaman ang tamang meaning."
+  }
+ },
+ {
+  "id": 1111738095,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; distractor 'Stutter' was a verb, changed to 'Stammering' to match parts of speech.",
+  "fields": {
+   "optionC": "Stammering",
+   "hint": "Think of a speaker whose words flow smoothly and persuasively.",
+   "whyA": "Mute means unable or unwilling to speak, the opposite of eloquent.",
+   "whyC": "Stammering means speaking with halts and repeats, the opposite of eloquent.",
+   "whyD": "Quiet means saying little, not speaking well.",
+   "explanationTl": "Ang 'eloquent' ay magaling at malinaw magsalita, kaya 'fluent' ang synonym.",
+   "hintTl": "Isipin ang speaker na tuloy-tuloy at nakakakumbinsi magsalita."
+  }
+ },
+ {
+  "id": 1686907840,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "Think of what colonizers did to gain control over a people.",
+   "whyA": "Liberated means set free, the opposite of subjugated.",
+   "whyC": "Frightened only means scared; subjugated means brought under control.",
+   "whyD": "Digressed means strayed from a topic; it has nothing to do with control.",
+   "explanationTl": "Ang 'subjugated' ay sinakop o pinasailalim sa control, kaya 'subdued' ang pinakamalapit na meaning.",
+   "hintTl": "Isipin kung ano ang ginawa ng colonizers para makontrol ang mga tao."
+  }
+ }
+]

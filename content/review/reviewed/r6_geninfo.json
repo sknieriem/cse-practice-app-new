@@ -1,0 +1,315 @@
+[
+ {
+  "id": 372385870,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct (Art VI Sec 7); added teaching fields.",
+  "fields": {
+   "explanation": "Under Article VI, Section 7 of the 1987 Constitution, members of the House of Representatives are elected for a term of three years. They may not serve more than three consecutive terms.",
+   "hint": "It is the shortest elective term in Congress.",
+   "whyB": "Four years is not a term used for any national elective office in the 1987 Constitution.",
+   "whyC": "Five years is not the term of Representatives; it is a guess between the House and Senate terms.",
+   "whyD": "Six years is the term of Senators (Art. VI, Sec. 4), not Representatives.",
+   "explanationTl": "Ayon sa Article VI, Section 7 ng 1987 Constitution, three years ang term ng mga miyembro ng House of Representatives. Hanggang three consecutive terms lang sila.",
+   "hintTl": "Ito ang pinakamaikling term sa Congress."
+  }
+ },
+ {
+  "id": 858073164,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct (Art VI Sec 2); added teaching fields.",
+  "fields": {
+   "explanation": "Article VI, Section 2 of the 1987 Constitution provides that the Senate is composed of 24 Senators elected at large by the qualified voters of the Philippines.",
+   "hint": "Half of them are elected every three years, 12 at a time.",
+   "whyB": "20 is not the constitutional number of Senators.",
+   "whyC": "30 is not the constitutional number of Senators.",
+   "whyD": "12 is the number of Senators elected in each regular election, not the total membership.",
+   "explanationTl": "Sa Article VI, Section 2 ng 1987 Constitution, 24 ang Senators, at elected at large sila ng buong bansa.",
+   "hintTl": "Kalahati lang sa kanila ang ine-elect tuwing three years, 12 bawat election."
+  }
+ },
+ {
+  "id": 1426649772,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct, but bare 'Lands and buildings' is vague (Sec 28(3) does exempt lands/buildings used for religious, charitable or educational purposes); option and stem sharpened.",
+  "fields": {
+   "text": "Under Article VI, Section 28(3) of the 1987 Constitution, which of the following is NOT exempt from taxation?",
+   "optionA": "A privately owned office building leased out for profit",
+   "explanation": "Article VI, Section 28(3) of the 1987 Constitution exempts charitable institutions, churches and convents appurtenant thereto, non-profit cemeteries, and lands, buildings and improvements actually, directly and exclusively used for religious, charitable or educational purposes. A building leased out for profit is not among them.",
+   "hint": "Ask whether the property is used for religious, charitable or educational purposes.",
+   "whyB": "Churches and convents appurtenant thereto are expressly exempt under Sec. 28(3).",
+   "whyC": "Charitable institutions are expressly exempt under Sec. 28(3).",
+   "whyD": "Non-profit cemeteries are expressly exempt under Sec. 28(3).",
+   "explanationTl": "Sa Article VI, Section 28(3), exempt sa tax ang charitable institutions, churches at convents, non-profit cemeteries, at mga lupa o building na ginagamit actually, directly and exclusively para sa religious, charitable o educational purposes. Ang building na pinapaupahan para kumita ay hindi kasama diyan.",
+   "hintTl": "Tanungin mo: ginagamit ba ito for religious, charitable o educational purposes?"
+  }
+ },
+ {
+  "id": 1474498158,
+  "blind": "C",
+  "verdict": "key fixed",
+  "reason": "Key said A (35); Art VII Sec 2 requires at least 40 years of age, so key is C.",
+  "fields": {
+   "correctAnswer": "C",
+   "explanation": "Article VII, Section 2 of the 1987 Constitution requires the President to be a natural-born citizen, a registered voter, able to read and write, at least 40 years of age on the day of the election, and a resident of the Philippines for at least ten years immediately preceding the election.",
+   "hint": "It is older than the minimum age for Senators.",
+   "whyA": "35 is the minimum age for Senators (Art. VI, Sec. 3), not the President.",
+   "whyB": "30 is not the age requirement for President; it is too low.",
+   "whyD": "25 is the minimum age for members of the House of Representatives (Art. VI, Sec. 6).",
+   "explanationTl": "Sa Article VII, Section 2 ng 1987 Constitution, dapat at least 40 years old sa araw ng election ang tatakbong President, bukod sa pagiging natural-born citizen, registered voter, marunong bumasa at sumulat, at 10 years resident ng Pilipinas.",
+   "hintTl": "Mas mataas ito sa minimum age ng Senators."
+  }
+ },
+ {
+  "id": 10222013,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; removed disputed length figure from explanation.",
+  "fields": {
+   "explanation": "The Volga, which flows through Russia into the Caspian Sea, is the longest river in Europe. The Danube is the second longest.",
+   "hint": "It flows entirely through Russia and empties into the Caspian Sea.",
+   "whyA": "The Danube is Europe's second-longest river, not the longest.",
+   "whyC": "The Rhine is much shorter than the Volga.",
+   "whyD": "The Seine, the river of Paris, is far shorter than the Volga.",
+   "explanationTl": "Ang Volga, na dumadaloy sa Russia papuntang Caspian Sea, ang pinakamahabang ilog sa Europe. Pangalawa lang ang Danube.",
+   "hintTl": "Nasa Russia ito at sa Caspian Sea bumabagsak."
+  }
+ },
+ {
+  "id": 405977489,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Madrid is the capital of Spain and the seat of its national government.",
+   "hint": "It is located near the center of the country.",
+   "whyA": "Barcelona is Spain's second-largest city and capital of Catalonia, not of Spain.",
+   "whyC": "Seville is the capital of Andalusia, not of Spain.",
+   "whyD": "Valencia is a major port city, not the national capital.",
+   "explanationTl": "Madrid ang capital ng Spain at dito nakaupo ang national government nila.",
+   "hintTl": "Nasa gitna ito ng bansa."
+  }
+ },
+ {
+  "id": 476472631,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Machu Picchu is a 15th-century Inca citadel high in the Andes Mountains of Peru.",
+   "hint": "Think of the Inca Empire, whose capital was Cusco.",
+   "whyA": "Mexico is known for Aztec and Maya ruins such as Chichen Itza, not Machu Picchu.",
+   "whyC": "Bolivia borders Peru but Machu Picchu is not there.",
+   "whyD": "Chile was at the southern edge of the Inca Empire; Machu Picchu is not there.",
+   "explanationTl": "Ang Machu Picchu ay Inca citadel noong 15th century, nasa Andes Mountains ng Peru.",
+   "hintTl": "Isipin mo ang Inca Empire, na Cusco ang capital."
+  }
+ },
+ {
+  "id": 769599817,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation area figure made precise.",
+  "fields": {
+   "explanation": "Vatican City, an independent city-state enclaved within Rome, is the smallest country in the world, with an area of only about 0.44 square kilometers (44 hectares).",
+   "hint": "It is the home of the Pope.",
+   "whyA": "Monaco is the second-smallest country, larger than Vatican City.",
+   "whyC": "San Marino is small but much larger than Vatican City.",
+   "whyD": "Liechtenstein is many times larger than Vatican City.",
+   "explanationTl": "Ang Vatican City, na nasa loob ng Rome, ang pinakamaliit na bansa sa mundo, mga 0.44 square kilometers (44 hectares) lang.",
+   "hintTl": "Dito nakatira ang Pope."
+  }
+ },
+ {
+  "id": 815930142,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "The chemical symbol for iron is Fe, from its Latin name ferrum.",
+   "hint": "The symbol comes from the Latin name, not the English one.",
+   "whyB": "Ir is iridium.",
+   "whyC": "In is indium.",
+   "whyD": "Io is not a chemical symbol; it is a moon of Jupiter.",
+   "explanationTl": "Fe ang chemical symbol ng iron, galing sa Latin name nitong ferrum.",
+   "hintTl": "Galing sa Latin name ang symbol, hindi sa English."
+  }
+ },
+ {
+  "id": 1206901741,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; rounded area figure in explanation.",
+  "fields": {
+   "explanation": "Asia is the largest continent, covering about 44 million square kilometers, roughly 30% of Earth's land area.",
+   "hint": "The Philippines is part of this continent.",
+   "whyA": "Africa is the second-largest continent.",
+   "whyC": "Australia is the smallest continent.",
+   "whyD": "Europe is the second-smallest continent.",
+   "explanationTl": "Asia ang pinakamalaking continent, mga 44 million square kilometers, halos 30% ng lupa sa mundo.",
+   "hintTl": "Kasama ang Pilipinas sa continent na ito."
+  }
+ },
+ {
+  "id": 1369681511,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Mercury is the smallest planet in the solar system. Pluto was reclassified as a dwarf planet by the International Astronomical Union in 2006, so it is no longer counted as a planet.",
+   "hint": "It is also the planet closest to the Sun.",
+   "whyA": "Venus is nearly the size of Earth.",
+   "whyC": "Mars is larger than Mercury; it is the second-smallest planet.",
+   "whyD": "Pluto has been classified as a dwarf planet since 2006, not a planet.",
+   "explanationTl": "Mercury ang pinakamaliit na planet. Ang Pluto ay dwarf planet na mula 2006 ayon sa International Astronomical Union, kaya hindi na siya counted na planet.",
+   "hintTl": "Ito rin ang pinakamalapit sa Sun."
+  }
+ },
+ {
+  "id": 1499003041,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Nitrogen is also used as a propellant in some extinguishers; stem sharpened so only CO2 fits.",
+  "fields": {
+   "text": "Which non-flammable gas, heavier than air, is discharged from some fire extinguishers to smother flames by displacing oxygen?",
+   "explanation": "Carbon dioxide is non-flammable and heavier than air, so when discharged it blankets the fire and displaces the oxygen the fire needs.",
+   "hint": "It is the gas we exhale.",
+   "whyA": "Oxygen feeds a fire; it would make it burn more.",
+   "whyC": "Nitrogen is slightly lighter than air and is mainly used as a propellant, not as the smothering agent described.",
+   "whyD": "Helium is much lighter than air, so it would rise away from the flames.",
+   "explanationTl": "Ang carbon dioxide ay hindi nasusunog at mas mabigat sa hangin, kaya tinatakpan nito ang apoy at tinataboy ang oxygen na kailangan ng apoy.",
+   "hintTl": "Ito ang gas na inilalabas natin kapag humihinga."
+  }
+ },
+ {
+  "id": 1550724579,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Alfred Wallace co-proposed natural selection, so the original stem had two defensible answers; stem anchored to the book.",
+  "fields": {
+   "text": "Who wrote 'On the Origin of Species' (1859), which presented the theory of evolution by natural selection?",
+   "explanation": "Charles Darwin published 'On the Origin of Species' in 1859, setting out the theory of evolution by natural selection. Alfred Russel Wallace independently reached a similar idea, but he did not write that book.",
+   "hint": "This naturalist sailed on HMS Beagle and studied the Galapagos finches.",
+   "whyB": "Gregor Mendel is known for the laws of heredity from pea plant experiments.",
+   "whyC": "Alfred Wallace independently proposed natural selection but did not write 'On the Origin of Species'.",
+   "whyD": "Louis Pasteur is known for germ theory and pasteurization.",
+   "explanationTl": "Si Charles Darwin ang sumulat ng 'On the Origin of Species' noong 1859, kung saan niya inilatag ang theory of evolution by natural selection. Si Alfred Wallace ay may kaparehong idea, pero hindi siya ang sumulat ng librong iyon.",
+   "hintTl": "Sumakay siya sa HMS Beagle at pinag-aralan ang mga finch sa Galapagos."
+  }
+ },
+ {
+  "id": 1698968893,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "No planet is 'the' Gas Giant (Saturn, Uranus, Neptune too); stem reworded.",
+  "fields": {
+   "text": "Which of the following planets is a gas giant?",
+   "explanation": "Jupiter is a gas giant, composed mostly of hydrogen and helium. Mars, Venus and Mercury are rocky (terrestrial) planets.",
+   "hint": "Three of the choices are rocky inner planets.",
+   "whyA": "Mars is a rocky terrestrial planet.",
+   "whyC": "Venus is a rocky terrestrial planet despite its thick atmosphere.",
+   "whyD": "Mercury is a rocky terrestrial planet.",
+   "explanationTl": "Gas giant ang Jupiter, kasi halos hydrogen at helium ang laman niya. Ang Mars, Venus at Mercury ay mga rocky o terrestrial planets.",
+   "hintTl": "Tatlo sa choices ay rocky inner planets."
+  }
+ },
+ {
+  "id": 1784934507,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Marie Curie became the first woman to win a Nobel Prize when she shared the 1903 Nobel Prize in Physics; she won again in Chemistry in 1911.",
+   "hint": "She did pioneering research on radioactivity.",
+   "whyB": "Jane Addams won the Nobel Peace Prize in 1931, much later than 1903.",
+   "whyC": "Mother Teresa won the Nobel Peace Prize in 1979.",
+   "whyD": "Rosalind Franklin never received a Nobel Prize.",
+   "explanationTl": "Si Marie Curie ang unang babaeng nanalo ng Nobel Prize, sa Physics noong 1903, at nanalo ulit sa Chemistry noong 1911.",
+   "hintTl": "Kilala siya sa research niya sa radioactivity."
+  }
+ },
+ {
+  "id": 1900650298,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Jupiter is the largest planet in the solar system by both mass and diameter.",
+   "hint": "It has the Great Red Spot.",
+   "whyA": "Earth is the largest rocky planet but far smaller than the gas giants.",
+   "whyB": "Mars is smaller than Earth.",
+   "whyD": "Saturn is the second-largest planet.",
+   "explanationTl": "Jupiter ang pinakamalaking planet sa solar system, sa mass man o sa diameter.",
+   "hintTl": "Ito ang may Great Red Spot."
+  }
+ },
+ {
+  "id": 277746663,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "'Festival of Festivals' nickname is not established; reworded to the well-known 'Mother of All Philippine Festivals' (Ati-Atihan), key unchanged.",
+  "fields": {
+   "text": "Which festival in Kalibo, Aklan is known as the 'Mother of All Philippine Festivals'?",
+   "explanation": "The Ati-Atihan of Kalibo, Aklan, held every January in honor of the Santo Nino, is known as the 'Mother of All Philippine Festivals'; festivals such as Sinulog and Dinagyang were patterned after it.",
+   "hint": "Its name means 'to be like the Ati.'",
+   "whyA": "Sinulog is Cebu City's Santo Nino festival, patterned after Ati-Atihan.",
+   "whyB": "Panagbenga is Baguio City's flower festival.",
+   "whyD": "Dinagyang is Iloilo City's festival, also patterned after Ati-Atihan.",
+   "explanationTl": "Ang Ati-Atihan ng Kalibo, Aklan, tuwing January para sa Santo Nino, ang tinatawag na 'Mother of All Philippine Festivals'. Ginaya rito ang mga festival tulad ng Sinulog at Dinagyang.",
+   "hintTl": "Ang ibig sabihin ng pangalan ay 'magpanggap na Ati.'"
+  }
+ },
+ {
+  "id": 426662387,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation softened since no law formally proclaims a national hero.",
+  "fields": {
+   "explanation": "Jose Rizal is widely honored as the National Hero of the Philippines for his novels 'Noli Me Tangere' and 'El Filibusterismo' and his execution at Bagumbayan on December 30, 1896.",
+   "hint": "Rizal Day, December 30, marks his death.",
+   "whyA": "Andres Bonifacio is honored as the Father of the Philippine Revolution and founder of the Katipunan.",
+   "whyC": "Emilio Aguinaldo was the first President of the Philippine Republic.",
+   "whyD": "Apolinario Mabini is called the 'Brains of the Revolution' and the 'Sublime Paralytic'.",
+   "explanationTl": "Si Jose Rizal ang kinikilalang National Hero ng Pilipinas dahil sa Noli Me Tangere at El Filibusterismo, at sa pagbitay sa kanya sa Bagumbayan noong December 30, 1896.",
+   "hintTl": "Ang Rizal Day, December 30, ay ang araw ng kamatayan niya."
+  }
+ },
+ {
+  "id": 1246744583,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "Keyed 'Philippine Eagle is the national animal' is false: it is the national BIRD (Proclamation No. 615, 1995); carabao 'national animal' has no statute, so item rewritten to national bird.",
+  "fields": {
+   "text": "Which bird was declared the national bird of the Philippines in 1995?",
+   "optionA": "Maya",
+   "optionB": "Philippine Eagle",
+   "optionC": "Philippine Cockatoo",
+   "optionD": "Rufous Hornbill",
+   "correctAnswer": "B",
+   "explanation": "Proclamation No. 615 (1995) declared the Philippine Eagle (Pithecophaga jefferyi) the national bird, replacing the maya.",
+   "hint": "It is one of the largest eagles in the world and is critically endangered.",
+   "whyA": "The maya was the earlier national bird, replaced in 1995.",
+   "whyC": "The Philippine Cockatoo is an endangered native bird but not the national bird.",
+   "whyD": "The Rufous Hornbill is a native bird but not the national bird.",
+   "explanationTl": "Sa Proclamation No. 615 noong 1995, idineklarang national bird ang Philippine Eagle, at pinalitan nito ang maya.",
+   "hintTl": "Isa ito sa pinakamalaking agila sa mundo at critically endangered."
+  }
+ },
+ {
+  "id": 1918894663,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Jose Rizal wrote 'El Filibusterismo' (1891), the sequel to 'Noli Me Tangere' (1887). He dedicated it to the three martyred priests known as Gomburza.",
+   "hint": "The same author wrote 'Noli Me Tangere'.",
+   "whyA": "Andres Bonifacio founded the Katipunan; he did not write the novel.",
+   "whyC": "Emilio Aguinaldo was a revolutionary general and the first President, not the author.",
+   "whyD": "Apolinario Mabini wrote 'El Verdadero Decalogo', not 'El Filibusterismo'.",
+   "explanationTl": "Si Jose Rizal ang sumulat ng El Filibusterismo (1891), ang sequel ng Noli Me Tangere (1887). Inialay niya ito sa tatlong paring martir na Gomburza.",
+   "hintTl": "Iisang author lang ito at ang Noli Me Tangere."
+  }
+ }
+]

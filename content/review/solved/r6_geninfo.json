@@ -1,0 +1,142 @@
+[
+ {
+  "id": 372385870,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Art VI Sec 7: 3 years"
+ },
+ {
+  "id": 858073164,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Art VI Sec 2: 24"
+ },
+ {
+  "id": 1426649772,
+  "answer": "A",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Art VI Sec 28(3): only lands/buildings used for religious/charitable/educational purposes; bare 'lands and buildings' too vague"
+ },
+ {
+  "id": 1474498158,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Art VII Sec 2: 40"
+ },
+ {
+  "id": 10222013,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Volga"
+ },
+ {
+  "id": 405977489,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Madrid"
+ },
+ {
+  "id": 476472631,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Peru"
+ },
+ {
+  "id": 769599817,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Vatican City"
+ },
+ {
+  "id": 815930142,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Fe"
+ },
+ {
+  "id": 1206901741,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Asia"
+ },
+ {
+  "id": 1369681511,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Mercury; Pluto is a dwarf planet"
+ },
+ {
+  "id": 1499003041,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "CO2"
+ },
+ {
+  "id": 1550724579,
+  "answer": "A",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Wallace co-proposed natural selection"
+ },
+ {
+  "id": 1698968893,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": true,
+  "note": "Jupiter only gas giant among options; 'the Gas Giant' odd wording"
+ },
+ {
+  "id": 1784934507,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Marie Curie 1903"
+ },
+ {
+  "id": 1900650298,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Jupiter"
+ },
+ {
+  "id": 277746663,
+  "answer": "C",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "nickname uncertain; Ati-Atihan = 'Mother of All Philippine Festivals'"
+ },
+ {
+  "id": 426662387,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Rizal"
+ },
+ {
+  "id": 1246744583,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Carabao (popular, not by statute)"
+ },
+ {
+  "id": 1918894663,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Rizal"
+ }
+]

@@ -1,4 +1,4 @@
-# Review of original questions (501 reviewed)
+# Review of original questions (601 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
@@ -7,6 +7,7 @@
 | r3 | 38 | 38 | 3 | 21 | 0 |
 | r4 | 20 | 58 | 2 | 21 | 0 |
 | r5 | 41 | 36 | 0 | 23 | 0 |
+| r6 | 31 | 37 | 5 | 27 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -511,3 +512,103 @@
 | r5 | 27637960 | Verbal Ability | unchanged | Key correct; teaching fields added. |
 | r5 | 356158836 | Verbal Ability | unchanged | Key correct; teaching fields added. |
 | r5 | 1940339355 | Verbal Ability | unchanged | Key correct; teaching fields added. |
+| r6 | 16495850 | Analytical Ability | rewritten | 'Both'/'None' options banned; replaced with four single assumptions, key stays B |
+| r6 | 1728884847 | Analytical Ability | rewritten | 'Both'/'None' options banned; replaced with four single assumptions, key stays B |
+| r6 | 118610683 | Analytical Ability | rewritten | 'Valid/Invalid/True/False' option set banned; options rewritten, key stays A |
+| r6 | 992826696 | Analytical Ability | rewritten | 'Valid/Invalid/True/False' option set banned; options rewritten, key stays B |
+| r6 | 844066916 | Analytical Ability | rewritten | second valid answer (socks: feet; hat: head; shirt: upper body only); new set with one clear odd |
+| r6 | 1716691115 | Analytical Ability | rewritten | second valid answer: the Sun IS a star, so Sun/Star overlap; new set with one clear odd |
+| r6 | 1070144002 | Numerical Ability | rewritten | Duplicate of 53825126 (same answer 6, same options); rewritten as a two-step equation with real distractors. |
+| r6 | 1955258917 | Numerical Ability | rewritten | Third near-identical ax = b item with '*' notation and no teaching fields; rewritten as a division equation. |
+| r6 | 264154965 | Numerical Ability | rewritten | 1/2 = 0.5 is recall, and the whys only said '≠'; rewritten as a CSE-level fraction-to-decimal item. |
+| r6 | 1462491363 | Numerical Ability | rewritten | Options C (15/15) and D (8/8) both equal 1, so three options were correct; explanation had lost × signs; rewritten. |
+| r6 | 1861795099 | Numerical Ability | rewritten | Duplicate of 1172827180 (same answer 1/4, same options); rewritten with unlike denominators that need an LCD. |
+| r6 | 1561020875 | Numerical Ability | rewritten | Recall stem with no units; rewritten into a computation using the triangle angle sum. |
+| r6 | 691490361 | Numerical Ability | rewritten | Duplicate of 1808046236 (single 10% discount); rewritten as a successive-discount problem. |
+| r6 | 1814244649 | Numerical Ability | rewritten | 50% of 50 is trivial and repeats the percent-of pattern; rewritten as a find-the-whole percent item. |
+| r6 | 789621836 | Numerical Ability | rewritten | 600 km in 1 hour is division by 1 and repeats the jet item; rewritten with time in minutes. |
+| r6 | 1460080057 | Numerical Ability | rewritten | Near-duplicate distance÷time item; rewritten as an average-speed round trip. |
+| r6 | 1849687737 | Numerical Ability | rewritten | Near-duplicate distance÷time item; rewritten as find-the-time with a decimal-hour conversion. |
+| r6 | 1213713850 | Numerical Ability | rewritten | Counting by 10s is trivial and repeats the +4 item; rewritten with growing differences. |
+| r6 | 2013615148 | Numerical Ability | rewritten | Trivia ('minutes in an hour'); rewritten into a time-interval word problem. |
+| r6 | 839106954 | Numerical Ability | rewritten | Original key 20 was wrong: each student takes their own test, so 5 students still need 10 minutes; rewritten as a true inverse-proportion item. |
+| r6 | 974319781 | Numerical Ability | rewritten | Same problem as 270135001 with gardeners (same numbers, options, answer); rewritten with unequal changes. |
+| r6 | 1321192476 | Numerical Ability | rewritten | Third copy of the 'n workers, n jobs, n time' pattern with an odd singing context; rewritten as a rate problem. |
+| r6 | 576021709 | Verbal Ability | rewritten | Old key A (teacher dismissed before bell) was doubtful, 1-4-2-3 also defensible, and (4) was a fragment; rewrote with clear cues. |
+| r6 | 1257319884 | Verbal Ability | rewritten | Old key B (3-1-2-4) and 3-1-4-2 were both defensible; rewrote with linking cues so only one order works. |
+| r6 | 1979050691 | Verbal Ability | rewritten | 'Black is my dog' was a valid inversion and the capital 'My' gave the answer away; rewrote with lowercase word cards and one standard order. |
+| r6 | 1424691502 | Verbal Ability | rewritten | Options were fragments and A and B were both defensible; rewrote as a clean inference item. |
+| r6 | 928760992 | Verbal Ability | rewritten | Banned 'Both A and B' / 'None' options; rewrote as a context-meaning item on the same homonym. |
+| r6 | 855153085 | Analytical Ability | key fixed | key C (42) wrong and explanation formula/39 wrong; differences 9, 11, 13 give 41 (B) |
+| r6 | 1821169236 | Analytical Ability | key fixed | key B (37) wrong; gaps 7, 8, 9, 10 give 38 (C), as the explanation itself says |
+| r6 | 1839757197 | Analytical Ability | key fixed | key C (24) wrong; gaps 4, 5, 6, 7 give 23 (B), as the explanation itself says |
+| r6 | 1474498158 | General Information | key fixed | Key said A (35); Art VII Sec 2 requires at least 40 years of age, so key is C. |
+| r6 | 1246744583 | General Information | key fixed | Keyed 'Philippine Eagle is the national animal' is false: it is the national BIRD (Proclamation No. 615, 1995); carabao 'national animal' has no statute, so item rewritten to national bird. |
+| r6 | 1851378890 | Analytical Ability | minor edit | key correct; cleaned awkward stem and added fields |
+| r6 | 1769855880 | Analytical Ability | minor edit | key correct; stem asked 'true' for a validity question |
+| r6 | 1604296376 | Analytical Ability | minor edit | key correct; explanation sharpened to fruit vs tuber |
+| r6 | 1426649772 | General Information | minor edit | Key correct, but bare 'Lands and buildings' is vague (Sec 28(3) does exempt lands/buildings used for religious, charitable or educational purposes); option and stem sharpened. |
+| r6 | 10222013 | General Information | minor edit | Key correct; removed disputed length figure from explanation. |
+| r6 | 769599817 | General Information | minor edit | Key correct; explanation area figure made precise. |
+| r6 | 1206901741 | General Information | minor edit | Key correct; rounded area figure in explanation. |
+| r6 | 1499003041 | General Information | minor edit | Nitrogen is also used as a propellant in some extinguishers; stem sharpened so only CO2 fits. |
+| r6 | 1550724579 | General Information | minor edit | Alfred Wallace co-proposed natural selection, so the original stem had two defensible answers; stem anchored to the book. |
+| r6 | 1698968893 | General Information | minor edit | No planet is 'the' Gas Giant (Saturn, Uranus, Neptune too); stem reworded. |
+| r6 | 277746663 | General Information | minor edit | 'Festival of Festivals' nickname is not established; reworded to the well-known 'Mother of All Philippine Festivals' (Ati-Atihan), key unchanged. |
+| r6 | 426662387 | General Information | minor edit | Key correct; explanation softened since no law formally proclaims a national hero. |
+| r6 | 53825126 | Numerical Ability | minor edit | Key correct; one-step equation set to difficulty 1, hint matched to a one-step equation, Taglish explanation added. |
+| r6 | 1372036468 | Numerical Ability | minor edit | Key correct; set to difficulty 1, hint matched to a one-step equation, Taglish explanation added. |
+| r6 | 2104137613 | Numerical Ability | minor edit | Key correct; difficulty set to 1, explanation expanded, Taglish explanation added. |
+| r6 | 1172827180 | Numerical Ability | minor edit | Key correct; whyB/whyC/whyD were generic or wrong (whyD described adding denominators for '0'); fixed, difficulty 1, Taglish explanation added. |
+| r6 | 1371794387 | Numerical Ability | minor edit | Key correct; whyC/whyD were not mistakes; fixed, difficulty 1, Taglish explanation added. |
+| r6 | 1569359555 | Numerical Ability | minor edit | Key correct; option C 13/15 replaced with 3/8 (the classic add-straight-across error); whys now name the mistakes; Taglish explanation added. |
+| r6 | 1583391362 | Numerical Ability | minor edit | Key correct; steps wrongly said 'common denominator of 2 and 3'; options C/D swapped for real mistakes; difficulty 1; Taglish explanation added. |
+| r6 | 408303764 | Numerical Ability | minor edit | Key correct; difficulty set to 1, Taglish explanation added. |
+| r6 | 449688089 | Numerical Ability | minor edit | Key correct; stem reworded and peso units added to options; difficulty 1; Taglish explanation added. |
+| r6 | 709115724 | Numerical Ability | minor edit | Key correct; whys rewritten (were '33.3333%'-style decimals); difficulty 1; Taglish explanation added. |
+| r6 | 1808046236 | Numerical Ability | minor edit | Key correct; stem reworded and peso units added to options; difficulty 1; Taglish explanation added. |
+| r6 | 149435379 | Numerical Ability | minor edit | Key correct; whys added, difficulty 1, Taglish explanation added. |
+| r6 | 1839852171 | Numerical Ability | minor edit | Key correct; whys added, difficulty 1, Taglish explanation added. |
+| r6 | 1996436848 | Numerical Ability | minor edit | Key correct; whys added, difficulty 1, Taglish explanation added. |
+| r6 | 144562164 | Numerical Ability | minor edit | Key correct; stem reworded; steps, hint, whys and Taglish fields added. |
+| r6 | 642159861 | Numerical Ability | minor edit | Key correct; explanation had lost the × ('242 = 48'); options C/D replaced with real mistakes; whys added; difficulty 1. |
+| r6 | 1691723446 | Numerical Ability | minor edit | Key correct; stem reworded; whys and Taglish explanation added; difficulty 1. |
+| r6 | 2141167408 | Numerical Ability | minor edit | Key correct; option B 8 replaced with 3 (direct-proportion error); whys, steps, hint and Taglish fields added. |
+| r6 | 615938498 | Verbal Ability | minor edit | Key correct; added teaching fields; basic vocabulary so difficulty 1. |
+| r6 | 945786064 | Verbal Ability | minor edit | Key correct; added teaching fields; basic preposition so difficulty 1. |
+| r6 | 974231614 | Verbal Ability | minor edit | Key correct; added teaching fields; basic agreement so difficulty 1. |
+| r6 | 1750935850 | Verbal Ability | minor edit | Key correct; added teaching fields; basic agreement so difficulty 1. |
+| r6 | 1200360199 | Verbal Ability | minor edit | Key correct; explanation wrongly said double 'm' and 'd' (it is double 'c' and double 'm'). |
+| r6 | 102197310 | Verbal Ability | minor edit | Key correct; added teaching fields; basic vocabulary so difficulty 1. |
+| r6 | 1111738095 | Verbal Ability | minor edit | Key correct; distractor 'Stutter' was a verb, changed to 'Stammering' to match parts of speech. |
+| r6 | 50632873 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r6 | 542674740 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r6 | 1098361223 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r6 | 1236757594 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r6 | 1369622238 | Analytical Ability | unchanged | key correct; added teaching fields |
+| r6 | 540910788 | Analytical Ability | unchanged | key correct; genders stated (father/mother, daughter); added fields |
+| r6 | 593413974 | Analytical Ability | unchanged | key correct; genders stated (father/mother, daughter); added fields |
+| r6 | 1325356238 | Analytical Ability | unchanged | key correct; genders stated (father/mother, daughter); added fields |
+| r6 | 1905306631 | Analytical Ability | unchanged | key correct; genders stated (father/mother, daughter); added fields |
+| r6 | 188497522 | Analytical Ability | unchanged | key correct; valid 'some' conclusion; added fields |
+| r6 | 1087625655 | Analytical Ability | unchanged | key correct; valid 'some' conclusion; added fields |
+| r6 | 2045818122 | Analytical Ability | unchanged | key correct; valid 'some' conclusion; added fields |
+| r6 | 68112122 | Analytical Ability | unchanged | key correct; added missing fields |
+| r6 | 1094724157 | Analytical Ability | unchanged | key correct; added missing fields |
+| r6 | 372385870 | General Information | unchanged | Key correct (Art VI Sec 7); added teaching fields. |
+| r6 | 858073164 | General Information | unchanged | Key correct (Art VI Sec 2); added teaching fields. |
+| r6 | 405977489 | General Information | unchanged | Key correct; added teaching fields. |
+| r6 | 476472631 | General Information | unchanged | Key correct; added teaching fields. |
+| r6 | 815930142 | General Information | unchanged | Key correct; added teaching fields. |
+| r6 | 1369681511 | General Information | unchanged | Key correct; added teaching fields. |
+| r6 | 1784934507 | General Information | unchanged | Key correct; added teaching fields. |
+| r6 | 1900650298 | General Information | unchanged | Key correct; added teaching fields. |
+| r6 | 1918894663 | General Information | unchanged | Key correct; added teaching fields. |
+| r6 | 270135001 | Numerical Ability | unchanged | Key correct; added whys, explanation wording, Taglish explanation. |
+| r6 | 1031589169 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r6 | 1341079469 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r6 | 131549429 | Verbal Ability | unchanged | Key correct and unique; added teaching fields. |
+| r6 | 181618418 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r6 | 587746811 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r6 | 851957533 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r6 | 1686907840 | Verbal Ability | unchanged | Key correct; added teaching fields. |

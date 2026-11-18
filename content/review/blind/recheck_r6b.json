@@ -1,0 +1,47 @@
+[
+ {
+  "id": 1698968893,
+  "category": "General Information",
+  "text": "Which of the following planets is a gas giant?",
+  "optionA": "Mars",
+  "optionB": "Jupiter",
+  "optionC": "Venus",
+  "optionD": "Mercury"
+ },
+ {
+  "id": 277746663,
+  "category": "General Information",
+  "text": "Which festival in Kalibo, Aklan is known as the 'Mother of All Philippine Festivals'?",
+  "optionA": "Sinulog",
+  "optionB": "Panagbenga",
+  "optionC": "Ati-Atihan",
+  "optionD": "Dinagyang"
+ },
+ {
+  "id": 1246744583,
+  "category": "General Information",
+  "text": "Which bird was declared the national bird of the Philippines in 1995?",
+  "optionA": "Maya",
+  "optionB": "Philippine Eagle",
+  "optionC": "Philippine Cockatoo",
+  "optionD": "Rufous Hornbill"
+ },
+ {
+  "id": 1070144002,
+  "category": "Numerical Ability",
+  "text": "Solve for x: 2(x + 3) = 26.",
+  "optionA": "13",
+  "optionB": "11.5",
+  "optionC": "10",
+  "optionD": "16"
+ },
+ {
+  "id": 1955258917,
+  "category": "Numerical Ability",
+  "text": "Solve for x: x ÷ 3 = 7.",
+  "optionA": "7/3",
+  "optionB": "21",
+  "optionC": "10",
+  "optionD": "4"
+ }
+]

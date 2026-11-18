@@ -1,0 +1,262 @@
+[
+ {
+  "id": 50632873,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Velocity : Meters per second :: Acceleration :",
+  "optionA": "Meters per second squared",
+  "optionB": "Newtons",
+  "optionC": "Joules",
+  "optionD": "Watts"
+ },
+ {
+  "id": 542674740,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Mass : Kilograms :: Time :",
+  "optionA": "Seconds",
+  "optionB": "Meters",
+  "optionC": "Liters",
+  "optionD": "Newtons"
+ },
+ {
+  "id": 1098361223,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Density : Kilograms per cubic meter :: Speed :",
+  "optionA": "Meters per second",
+  "optionB": "Newtons",
+  "optionC": "Joules",
+  "optionD": "Watts"
+ },
+ {
+  "id": 1236757594,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Speed : Kilometers per hour :: Force :",
+  "optionA": "Newtons",
+  "optionB": "Joules",
+  "optionC": "Watts",
+  "optionD": "Pascals"
+ },
+ {
+  "id": 1369622238,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Voltage : Volts :: Power :",
+  "optionA": "Watts",
+  "optionB": "Joules",
+  "optionC": "Amperes",
+  "optionD": "Ohms"
+ },
+ {
+  "id": 16495850,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To build a house, one must have a plan.",
+  "optionA": "Having a plan guarantees building success",
+  "optionB": "Not having a plan leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 1728884847,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To succeed in business, one must take risks.",
+  "optionA": "Taking risks guarantees success",
+  "optionB": "Not taking risks leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 855153085,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=8, 3=17, 4=28, 5=?",
+  "optionA": "40",
+  "optionB": "41",
+  "optionC": "42",
+  "optionD": "43"
+ },
+ {
+  "id": 1851378890,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing scores: Test 1 80, Test 2 85, Test 3 90. What is the average score?",
+  "optionA": "83",
+  "optionB": "85",
+  "optionC": "87",
+  "optionD": "89"
+ },
+ {
+  "id": 540910788,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If L is M’s father, M is N’s daughter, N is L’s:",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 593413974,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If A is B’s father, B is C’s daughter, C is A’s:",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 1325356238,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If S is T’s father, T is U’s daughter, U is S’s:",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 1905306631,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If M is N’s mother, N is O’s daughter, O is M’s:",
+  "optionA": "Son",
+  "optionB": "Husband",
+  "optionC": "Daughter",
+  "optionD": "Father"
+ },
+ {
+  "id": 118610683,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All scientists research. Some people are scientists. So some people research.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 188497522,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all planets orbit the sun and some celestial bodies are planets, then:",
+  "optionA": "All celestial bodies orbit the sun",
+  "optionB": "Some celestial bodies orbit the sun",
+  "optionC": "No celestial bodies orbit the sun",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 992826696,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All birds sing. Sparky sings. So Sparky is a bird.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 1087625655,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all vehicles have engines and some machines are vehicles, then:",
+  "optionA": "All machines have engines",
+  "optionB": "Some machines have engines",
+  "optionC": "No machines have engines",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1769855880,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If A then B, If B then C. Therefore, If A then C. Is this true?",
+  "optionA": "Yes (Hypothetical Syllogism)",
+  "optionB": "No",
+  "optionC": "Only if A is true",
+  "optionD": "Depends on C"
+ },
+ {
+  "id": 2045818122,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all clouds produce rain and some weather patterns are clouds, then:",
+  "optionA": "All weather patterns produce rain",
+  "optionB": "Some weather patterns produce rain",
+  "optionC": "No weather patterns produce rain",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 844066916,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Shirt, Pants, Socks, Hat",
+  "optionA": "Shirt",
+  "optionB": "Pants",
+  "optionC": "Socks",
+  "optionD": "Hat"
+ },
+ {
+  "id": 1604296376,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Apple, Orange, Banana, Potato",
+  "optionA": "Apple",
+  "optionB": "Orange",
+  "optionC": "Banana",
+  "optionD": "Potato"
+ },
+ {
+  "id": 1716691115,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Sun, Moon, Star, Planet",
+  "optionA": "Sun",
+  "optionB": "Moon",
+  "optionC": "Star",
+  "optionD": "Planet"
+ },
+ {
+  "id": 68112122,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "What is the next number in the sequence: 1, 4, 7, 10, 13?",
+  "optionA": "15",
+  "optionB": "16",
+  "optionC": "14",
+  "optionD": "17"
+ },
+ {
+  "id": 1094724157,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 4, 9, 15, 22, ____",
+  "optionA": "28",
+  "optionB": "29",
+  "optionC": "30",
+  "optionD": "31"
+ },
+ {
+  "id": 1821169236,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 4, 11, 19, 28, ____",
+  "optionA": "36",
+  "optionB": "37",
+  "optionC": "38",
+  "optionD": "39"
+ },
+ {
+  "id": 1839757197,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 1, 5, 10, 16, ____",
+  "optionA": "22",
+  "optionB": "23",
+  "optionC": "24",
+  "optionD": "25"
+ }
+]
