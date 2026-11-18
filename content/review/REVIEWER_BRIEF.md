@@ -29,6 +29,7 @@ Traps found in earlier rounds (look hard for these):
 - **Verbal:** grammar items where a second form is also standard ("proficient at/of", "group was/were"). Word-order items where an inverted sentence is valid, or a capital letter gives the answer away. Stray pasted fragments. Bare sentences with no question. Synonym sets hiding a second near-synonym.
 - **General Information:** wrong counts from the Constitution (the Supreme Court is the Chief Justice plus 14 Associate Justices). Wrong hero titles ("Brains of the Katipunan" = Emilio Jacinto). False "facts" (scuba tanks hold compressed air, not oxygen).
   - Anything that changes over time (current officials, number of regions or islands, "largest/tallest/top producer", "as of <year>") must be rewritten to a stable fact on the same subtopic.
+  - **Exception: tagged current-events items** (`"topic": "current_events"`, subtopic `gi_current`, with an `"as_of": "YYYY-MM"` date). These are dated on purpose (the real CSE asks current events). Do NOT rewrite them into stable facts. Check each fact as of its `as_of` month; if it is wrong as of that month, fix or flag it as usual. If it may have changed SINCE `as_of` (a law amended or repealed, a program renamed, an agency merged), flag it with reason `stale: <what changed>` so it can be refreshed with a new `as_of`. The explanation must say "As of <Month YYYY>" matching `as_of`.
   - Stable references: the 1987 Constitution, RA 6713, RA 9003, RA 8749, RA 9275, the UDHR.
   - Never guess a legal fact: flag it.
 

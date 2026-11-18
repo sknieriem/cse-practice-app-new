@@ -443,7 +443,10 @@ def enrich_rule_based(q):
 # --------------------------------------------------------------------------------------
 FIELDS = ["id", "category", "subtopic", "passage", "text", "optionA", "optionB", "optionC", "optionD",
           "correctAnswer", "explanation", "steps", "hint", "whyA", "whyB", "whyC", "whyD",
-          "explanationTl", "stepsTl", "hintTl", "difficulty", "timeSensitive", "source"]
+          "explanationTl", "stepsTl", "hintTl", "difficulty", "timeSensitive", "source",
+          # current-events items only: topic "current_events" + as_of "YYYY-MM" (date the facts were verified).
+          # Not in the Room entity (Gson skips them); kept in questions.json so stale items can be found and refreshed.
+          "topic", "as_of"]
 
 
 def qid(q):
