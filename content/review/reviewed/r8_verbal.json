@@ -1,0 +1,357 @@
+[
+ {
+  "id": 1402275905,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key right; easy item set to difficulty 1, teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Day and night are a matched pair of opposites. The sun is the main light of the day sky and the moon is its counterpart in the night sky, so sun pairs with moon.",
+   "hint": "Think of what shines in the sky at the time that is the opposite of day.",
+   "whyB": "The sun itself is a star, so 'star' does not give the night-time counterpart of the sun.",
+   "whyC": "Light is what the sun gives off, not its opposite partner.",
+   "whyD": "The sky holds both sun and moon; it is not the counterpart of the sun.",
+   "explanationTl": "Magkapares ang day at night bilang magkasalungat. Ang sun ang ilaw ng araw, at ang moon naman ang katapat nito sa gabi, kaya sun : moon.",
+   "hintTl": "Isipin mo kung ano ang nasa langit sa oras na kabaligtaran ng day."
+  }
+ },
+ {
+  "id": 117669853,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; teaching fields added.",
+  "fields": {
+   "explanation": "Opulent means very rich and luxurious. Its opposite is poor.",
+   "hint": "Find the word that means the reverse of having great wealth and luxury.",
+   "whyA": "Wealthy is a synonym of opulent, not an antonym.",
+   "whyC": "Lavish means rich and abundant, which is close to opulent in meaning.",
+   "whyD": "Affluent means wealthy, a synonym of opulent.",
+   "explanationTl": "Ang opulent ay sobrang yaman at marangya. Kaya ang kabaligtaran nito ay poor.",
+   "hintTl": "Hanapin mo ang salitang kabaligtaran ng pagiging mayaman at marangya."
+  }
+ },
+ {
+  "id": 815096725,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; very easy item set to difficulty 1, teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Happy means feeling pleasure or joy. Its opposite is sad, meaning unhappy or sorrowful.",
+   "hint": "Look for the feeling that is the reverse of joy.",
+   "whyA": "Joyful is a synonym of happy.",
+   "whyC": "Excited is a related positive feeling, not the opposite of happy.",
+   "whyD": "Content means satisfied, which is close to happy, not its opposite.",
+   "explanationTl": "Ang happy ay masaya. Ang kabaligtaran nito ay sad o malungkot.",
+   "hintTl": "Hanapin mo ang feeling na kabaligtaran ng saya."
+  }
+ },
+ {
+  "id": 1251069734,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; teaching fields added.",
+  "fields": {
+   "explanation": "Ephemeral means lasting only a short time. The opposite is permanent, meaning lasting forever or for a very long time.",
+   "hint": "Three of the options mean almost the same thing; the answer is the one that means the reverse.",
+   "whyA": "Transient means short-lived, a synonym of ephemeral.",
+   "whyC": "Fleeting means passing quickly, a synonym of ephemeral.",
+   "whyD": "Short-lived is a synonym of ephemeral, not its opposite.",
+   "explanationTl": "Ang ephemeral ay panandalian lang. Kaya ang kabaligtaran nito ay permanent, na pangmatagalan.",
+   "hintTl": "Tatlo sa choices ay halos pareho ang ibig sabihin; ang sagot ay ang kabaligtaran nila."
+  }
+ },
+ {
+  "id": 820638102,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key right; set to difficulty 1, teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Quick' is an adjective, but the word here describes how he ran, so it must be the adverb 'quickly': 'He ran quickly to the store.'",
+   "hint": "Ask which word tells HOW the action was done, and check if it has the right form.",
+   "whyA": "'He' is the correct subject pronoun.",
+   "whyB": "'Ran' is the correct past tense of 'run'.",
+   "whyD": "'To the store' is a correct prepositional phrase showing direction.",
+   "explanationTl": "Adjective ang 'quick', pero ang kailangan dito ay adverb kasi dine-describe nito kung paano siya tumakbo. Dapat 'quickly'.",
+   "hintTl": "Tingnan mo kung aling word ang nagsasabi kung PAANO ginawa ang action, at kung tama ang form nito."
+  }
+ },
+ {
+  "id": 1424710915,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "'and' also fit the old sentence; changed stem verb to 'prefers' and replaced 'and' with 'so' so only 'but' works.",
+  "fields": {
+   "text": "Choose the word that best completes the sentence: I like swimming, ______ my sister prefers dancing.",
+   "optionA": "so",
+   "explanation": "The two clauses show different preferences, so a contrast word is needed. 'But' is the conjunction that shows contrast.",
+   "hint": "Are the two ideas similar, a cause and effect, or a contrast?",
+   "whyA": "'So' shows a result, but my liking swimming does not cause my sister's preference.",
+   "whyB": "'Or' offers a choice between alternatives, which does not fit two facts that are both true.",
+   "whyC": "'Because' shows a reason, but one person's preference is not the reason for the other's.",
+   "explanationTl": "Magkaiba ang gusto ng dalawa, kaya kailangan ng contrast word. Ang 'but' ang nagpapakita ng contrast.",
+   "hintTl": "Magkapareho ba, cause and effect, o magkasalungat ang dalawang idea?"
+  }
+ },
+ {
+  "id": 1447532309,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; stem reworded to 'conditional form' (conditional is a mood, not a true tense), teaching fields added.",
+  "fields": {
+   "text": "Which sentence uses the conditional form of the verb?",
+   "explanation": "The conditional form uses 'would' plus the base verb to show an action that depends on a condition, as in 'She would eat (if she were hungry).'",
+   "hint": "Look for the helping verb that usually goes with an 'if' clause.",
+   "whyA": "'She eats' is simple present tense.",
+   "whyC": "'She ate' is simple past tense.",
+   "whyD": "'She is eating' is present progressive tense.",
+   "explanationTl": "Ang conditional form ay 'would' + base verb, para sa action na nakadepende sa condition, gaya ng 'She would eat (if she were hungry).'",
+   "hintTl": "Hanapin mo ang helping verb na madalas kasama ng 'if' clause."
+  }
+ },
+ {
+  "id": 1814613962,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct ('is' not offered, 'is being' unidiomatic); teaching fields added.",
+  "fields": {
+   "explanation": "The subject is 'effect', which is singular; 'of the new policy' does not change that. A singular subject takes 'was'.",
+   "hint": "Find the real subject; ignore the phrase that starts with 'of'.",
+   "whyA": "'Were' is plural and does not agree with the singular subject 'effect'.",
+   "whyC": "'Are' is plural and does not agree with the singular subject 'effect'.",
+   "whyD": "'Is being immediate' uses the progressive form, which is not used with a state like 'immediate'.",
+   "explanationTl": "Ang subject ay 'effect', na singular. Hindi binabago ng 'of the new policy' yan. Kaya singular verb: 'was'.",
+   "hintTl": "Hanapin mo ang totoong subject; huwag pansinin ang phrase na nagsisimula sa 'of'."
+  }
+ },
+ {
+  "id": 951150844,
+  "blind": "C",
+  "verdict": "key fixed",
+  "reason": "Old key 2-4-1-3 put 'However, it requires dedication' after the schedule step, where 2-1-4-3 reads better; rewrote sentences so 2-1-4-3 is the only coherent order.",
+  "fields": {
+   "text": "Rearrange the following sentences to form a coherent paragraph: (1) However, many students do not know how to prepare. (2) Studying for exams is essential. (3) In short, a good plan makes studying easier. (4) The first step is to make a study schedule.",
+   "correctAnswer": "C",
+   "explanation": "The paragraph opens with the main idea (2), turns to a problem with 'However' (1), gives the first step of the solution (4), and closes with 'In short' (3).",
+   "steps": "1. The opening must be the general statement: (2) Studying for exams is essential.\n2. 'However' contrasts with (2), so (1) comes next: many students do not know how to prepare.\n3. (4) answers that problem with the first step: make a study schedule.\n4. 'In short' signals the conclusion, so (3) is last.\n5. Order: 2-1-4-3.",
+   "stepsTl": "1. Ang simula ay ang general statement: (2) Studying for exams is essential.\n2. Ang 'However' ay sumasalungat sa (2), kaya (1) ang kasunod: maraming students ang hindi alam paano mag-prepare.\n3. Sinasagot ng (4) ang problem: ang first step ay gumawa ng study schedule.\n4. Ang 'In short' ay hudyat ng conclusion, kaya (3) ang huli.\n5. Order: 2-1-4-3.",
+   "hint": "Find the opening idea, then see which sentence the word 'However' must follow.",
+   "whyA": "Putting the schedule step (4) before the problem (1) gives a solution before the problem is stated.",
+   "whyB": "(4) cannot open the paragraph; 'the first step' needs a topic stated before it.",
+   "whyD": "(1) cannot open the paragraph, because 'However' must contrast with an earlier sentence, and the conclusion (3) cannot be second.",
+   "explanationTl": "Simula sa main idea (2), tapos 'However' para sa problem (1), sunod ang first step na solution (4), at 'In short' bilang conclusion (3).",
+   "hintTl": "Hanapin mo muna ang opening idea, tapos tingnan kung saan dapat sumunod ang 'However'."
+  }
+ },
+ {
+  "id": 27092131,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; set to difficulty 1, teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The correct spelling is 'committee', with double m, double t and double e.",
+   "hint": "Count the doubled letters in the word.",
+   "whyA": "'The' is spelled correctly.",
+   "whyC": "'Met' is spelled correctly.",
+   "whyD": "There is an error: 'commitee' is missing one t.",
+   "explanationTl": "Ang tamang spelling ay 'committee': double m, double t, at double e.",
+   "hintTl": "Bilangin mo ang mga doubled letters sa word."
+  }
+ },
+ {
+  "id": 161155379,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; teaching fields added.",
+  "fields": {
+   "explanation": "Eloquent means able to express ideas clearly and effectively, especially in speech. Articulate has the same meaning.",
+   "hint": "Think of a good speaker who uses words well.",
+   "whyA": "Silent means not speaking at all, the opposite of a fluent speaker.",
+   "whyC": "Confused describes unclear thinking, not skill with words.",
+   "whyD": "Angry describes a feeling, not a way of expressing ideas.",
+   "explanationTl": "Ang eloquent ay magaling magsalita at malinaw mag-express ng ideas. Kapareho ito ng articulate.",
+   "hintTl": "Isipin mo ang taong magaling at malinaw magsalita."
+  }
+ },
+ {
+  "id": 434904680,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; teaching fields added.",
+  "fields": {
+   "explanation": "Exquisite means extremely beautiful and finely made, so 'beautiful' is the closest meaning.",
+   "hint": "The word praises the painting very highly.",
+   "whyA": "Ugly is the opposite of exquisite.",
+   "whyC": "Plain means simple and undecorated, the reverse of finely beautiful.",
+   "whyD": "Ordinary means common, while exquisite means outstanding in beauty.",
+   "explanationTl": "Ang exquisite ay sobrang ganda at maselan ang pagkakagawa, kaya 'beautiful' ang pinakamalapit.",
+   "hintTl": "Mataas na papuri sa painting ang word na ito."
+  }
+ },
+ {
+  "id": 689865808,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; distractors were all synonyms of each other (authentic/true/verified), a giveaway; replaced options with plausible confusions.",
+  "fields": {
+   "optionA": "Ancient",
+   "optionB": "Questionable",
+   "optionC": "Sacred",
+   "optionD": "Tragic",
+   "explanation": "Apocryphal describes a story that is widely told but of doubtful truth, so 'questionable' is the closest meaning.",
+   "hint": "Would you fully believe an apocryphal story?",
+   "whyA": "Apocryphal stories may be old, but the word is about doubtful truth, not age.",
+   "whyC": "The word is linked to the Apocrypha (books outside some Bibles), but it does not mean sacred.",
+   "whyD": "Tragic describes a sad ending, not whether a story is true.",
+   "explanationTl": "Ang apocryphal ay kuwentong kumakalat pero duda kung totoo, kaya 'questionable' ang pinakamalapit.",
+   "hintTl": "Paniniwalaan mo ba agad ang apocryphal na kuwento?"
+  }
+ },
+ {
+  "id": 727461905,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; distractors were three synonyms of 'admirable', a giveaway; replaced C and D with plausible confusions.",
+  "fields": {
+   "optionC": "Sociable",
+   "optionD": "Minor",
+   "explanation": "Egregious means outstandingly bad or shocking, so 'outrageous' is the closest meaning.",
+   "hint": "The word describes something very bad, not something good.",
+   "whyA": "Admirable is a positive word; egregious is strongly negative.",
+   "whyC": "'Sociable' is the meaning of gregarious, a word that only looks similar to egregious.",
+   "whyD": "Minor means small or unimportant, while egregious means glaringly bad.",
+   "explanationTl": "Ang egregious ay sobrang sama o nakakagulat na mali, kaya 'outrageous' ang pinakamalapit.",
+   "hintTl": "Masama ang ibig sabihin ng word, hindi maganda."
+  }
+ },
+ {
+  "id": 757285429,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 161155379 (also 'eloquent'); rewritten to 'succinct' on the same vocab subtopic.",
+  "fields": {
+   "text": "The speech was succinct.\n\nIn this sentence, 'succinct' most nearly means:",
+   "optionA": "Lengthy",
+   "optionB": "Concise",
+   "optionC": "Confusing",
+   "optionD": "Emotional",
+   "explanation": "Succinct means expressed clearly in few words, so 'concise' is the closest meaning.",
+   "hint": "Think about how long a succinct speech would be.",
+   "whyA": "Lengthy is the opposite: a succinct speech is short.",
+   "whyC": "A succinct speech is brief and clear, not confusing.",
+   "whyD": "Succinct is about length and clarity, not about feeling.",
+   "explanationTl": "Ang succinct ay maikli pero malinaw, kaya 'concise' ang pinakamalapit.",
+   "hintTl": "Isipin mo kung gaano kahaba ang isang succinct na speech."
+  }
+ },
+ {
+  "id": 1244700752,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; distractors were three synonyms of 'simple', a giveaway; replaced C and D.",
+  "fields": {
+   "optionC": "Exciting",
+   "optionD": "Predictable",
+   "explanation": "Intricate means having many detailed, connected parts, so 'complicated' is the closest meaning.",
+   "hint": "Picture a plot with many twists and connected parts.",
+   "whyA": "Simple is the opposite of intricate.",
+   "whyC": "An intricate plot may be exciting, but the word itself means detailed and complex.",
+   "whyD": "Predictable means easy to guess; intricate means complex, which is often the reverse.",
+   "explanationTl": "Ang intricate ay maraming detalye at magkakaugnay na bahagi, kaya 'complicated' ang pinakamalapit.",
+   "hintTl": "Isipin mo ang plot na maraming twists at konektadong parte."
+  }
+ },
+ {
+  "id": 1342924581,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; distractors were three synonyms of 'weak', a giveaway; replaced C and D.",
+  "fields": {
+   "optionC": "Stubborn",
+   "optionD": "Careless",
+   "explanation": "Resilient means able to withstand hardship and recover quickly, so 'tough' is the closest meaning.",
+   "hint": "Think of someone who bounces back after a hard time.",
+   "whyA": "Fragile means easily broken, the opposite of resilient.",
+   "whyC": "Stubborn means unwilling to change one's mind, which is not the same as recovering from hardship.",
+   "whyD": "Careless means not paying attention, unrelated to strength or recovery.",
+   "explanationTl": "Ang resilient ay matibay at mabilis bumangon pagkatapos ng hirap, kaya 'tough' ang pinakamalapit.",
+   "hintTl": "Isipin mo ang taong mabilis bumangon pagkatapos ng problema."
+  }
+ },
+ {
+  "id": 1419020812,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; distractors were three synonyms of 'solitary', a giveaway; replaced C and D.",
+  "fields": {
+   "optionC": "Generous",
+   "optionD": "Aggressive",
+   "explanation": "Gregarious means fond of company and enjoying being with others, so 'sociable' is the closest meaning.",
+   "hint": "Would a gregarious person rather be in a crowd or alone?",
+   "whyA": "Solitary means preferring to be alone, the opposite of gregarious.",
+   "whyC": "Generous means giving freely; it sounds a little like gregarious but means something else.",
+   "whyD": "Aggressive means ready to attack or argue, not friendly and fond of company.",
+   "explanationTl": "Ang gregarious ay mahilig makihalubilo sa ibang tao, kaya 'sociable' ang pinakamalapit.",
+   "hintTl": "Mas gusto ba ng gregarious na tao ang maraming kasama o mag-isa?"
+  }
+ },
+ {
+  "id": 1526410949,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "Key right; swapped the real-person sentence for a neutral one and replaced 'loud' (can also mean showy) with 'spacious'.",
+  "fields": {
+   "text": "The new owner's ostentatious mansion stood out in the quiet barangay.\n\nIn this sentence, 'ostentatious' most nearly means:",
+   "optionA": "Oscillating",
+   "optionB": "Spacious",
+   "optionC": "Wealthy",
+   "optionD": "Showy",
+   "explanation": "Ostentatious means designed to impress others by a flashy display, so 'showy' is the closest meaning.",
+   "hint": "Why would the mansion 'stand out'? Think of display.",
+   "whyA": "Oscillating means swinging back and forth; it only starts with the same letters.",
+   "whyB": "Spacious means roomy; size alone is not the same as a flashy display.",
+   "whyC": "Ostentatious things often belong to wealthy people, but the word means showing off, not being rich.",
+   "explanationTl": "Ang ostentatious ay pasikat o ginawa para magpabilib sa iba, kaya 'showy' ang pinakamalapit.",
+   "hintTl": "Bakit 'stood out' ang mansion? Isipin mo ang pagpapakitang-gilas."
+  }
+ },
+ {
+  "id": 1572810276,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "Banned 'Both A and B'/'None' option set; rewritten as a context item for 'right'.",
+  "fields": {
+   "text": "Everyone has the right to vote.\n\nIn this sentence, 'right' most nearly means:",
+   "optionA": "Correct answer",
+   "optionB": "Direction opposite left",
+   "optionC": "Entitlement",
+   "optionD": "Duty",
+   "correctAnswer": "C",
+   "explanation": "Here 'right' is a noun meaning something a person is entitled to have or do, so 'entitlement' fits.",
+   "hint": "The word 'right' has many meanings; read what the sentence says people HAVE.",
+   "whyA": "'Right' as 'correct' does not fit 'the right to vote'.",
+   "whyB": "'Right' as a direction does not fit 'the right to vote'.",
+   "whyD": "A duty is something you must do; a right is something you are entitled to.",
+   "explanationTl": "Dito, ang 'right' ay noun na ibig sabihin ay karapatan, kaya 'entitlement' ang tama.",
+   "hintTl": "Maraming meaning ang 'right'; basahin mo kung ano ang MERON ang tao ayon sa sentence."
+  }
+ },
+ {
+  "id": 2065415615,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key right; replaced silly 'Fruit' with 'Produce' (as in 'bear fruit').",
+  "fields": {
+   "optionD": "Produce",
+   "explanation": "In 'I can't bear the pain', 'bear' means to endure or tolerate something unpleasant.",
+   "hint": "Swap each option into the sentence and see which one makes sense with 'the pain'.",
+   "whyA": "'Bear' as an animal is a noun; here it is a verb.",
+   "whyC": "'Bear' can mean carry, but 'I can't carry the pain' is not what the sentence means.",
+   "whyD": "'Bear' means produce in 'the tree bears fruit', not with pain.",
+   "explanationTl": "Sa 'I can't bear the pain', ang 'bear' ay tiisin o kayanin.",
+   "hintTl": "Isingit mo ang bawat option sa sentence at tingnan kung alin ang may sense kasama ang 'the pain'."
+  }
+ }
+]

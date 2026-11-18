@@ -1,0 +1,422 @@
+[
+ {
+  "id": 292186588,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "ruler measures"
+ },
+ {
+  "id": 997900159,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "brush-painter"
+ },
+ {
+  "id": 1387077245,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "fridge cools"
+ },
+ {
+  "id": 1572436242,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "lacks truthfulness"
+ },
+ {
+  "id": 2022670371,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "weak:strong wind"
+ },
+ {
+  "id": 1918022796,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "classes help"
+ },
+ {
+  "id": 694184605,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "600/3=200"
+ },
+ {
+  "id": 1988342223,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "600/1200=50%"
+ },
+ {
+  "id": 690156220,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "diffs double: 25+24=49"
+ },
+ {
+  "id": 1242023609,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3 branches"
+ },
+ {
+  "id": 379682279,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "photovoltaic"
+ },
+ {
+  "id": 758915308,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "acetylene"
+ },
+ {
+  "id": 367111671,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Manila"
+ },
+ {
+  "id": 1489654682,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "June 12"
+ },
+ {
+  "id": 929664260,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "10*2"
+ },
+ {
+  "id": 1291586413,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "4+6"
+ },
+ {
+  "id": 1383073297,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "12-9=3"
+ },
+ {
+  "id": 1907526426,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "5*4"
+ },
+ {
+  "id": 338613393,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3/8=.375"
+ },
+ {
+  "id": 878196308,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3/7"
+ },
+ {
+  "id": 1089880767,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2/4=1/2"
+ },
+ {
+  "id": 1433273404,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "6*8/2=24"
+ },
+ {
+  "id": 1486412531,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2(12+5)=34"
+ },
+ {
+  "id": 1582492509,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3^3"
+ },
+ {
+  "id": 425277101,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "250*.8"
+ },
+ {
+  "id": 734121756,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2000*.75"
+ },
+ {
+  "id": 1326332900,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "1000*.5"
+ },
+ {
+  "id": 1338857299,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2500*.9"
+ },
+ {
+  "id": 1630710049,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "180/.9"
+ },
+ {
+  "id": 1840313242,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "15000*.8"
+ },
+ {
+  "id": 1882087395,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "30/120"
+ },
+ {
+  "id": 263928250,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "90/3"
+ },
+ {
+  "id": 1520624502,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "45/1.5"
+ },
+ {
+  "id": 1802624888,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "40/2"
+ },
+ {
+  "id": 1874609057,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "12/2"
+ },
+ {
+  "id": 2121797046,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "300/5"
+ },
+ {
+  "id": 273930774,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+3"
+ },
+ {
+  "id": 427974349,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "diffs 1,2,3,4,5 ->16"
+ },
+ {
+  "id": 799606978,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+2"
+ },
+ {
+  "id": 1177479934,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x2"
+ },
+ {
+  "id": 1787589291,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "n^2+1 ->26"
+ },
+ {
+  "id": 2051560334,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x4 ->768"
+ },
+ {
+  "id": 1989361240,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "21+4"
+ },
+ {
+  "id": 185642614,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "50*4"
+ },
+ {
+  "id": 881178821,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "inverse: 100/5"
+ },
+ {
+  "id": 892836642,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "12/6"
+ },
+ {
+  "id": 1380766250,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "48/4"
+ },
+ {
+  "id": 1771433287,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "108bm/3h=36; 144/6=24"
+ },
+ {
+  "id": 1424710915,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "contrast"
+ },
+ {
+  "id": 1447532309,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "would"
+ },
+ {
+  "id": 951150844,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2-1-4-3"
+ },
+ {
+  "id": 689865808,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "dubious"
+ },
+ {
+  "id": 727461905,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "outrageous"
+ },
+ {
+  "id": 757285429,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "concise"
+ },
+ {
+  "id": 1244700752,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "complicated"
+ },
+ {
+  "id": 1342924581,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "tough"
+ },
+ {
+  "id": 1419020812,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "sociable"
+ },
+ {
+  "id": 1526410949,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "showy"
+ },
+ {
+  "id": 1572810276,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "entitlement"
+ },
+ {
+  "id": 2065415615,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "endure"
+ }
+]

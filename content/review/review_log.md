@@ -1,4 +1,4 @@
-# Review of original questions (701 reviewed)
+# Review of original questions (801 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
@@ -9,6 +9,7 @@
 | r5 | 41 | 36 | 0 | 23 | 0 |
 | r6 | 31 | 37 | 5 | 27 | 0 |
 | r7 | 23 | 45 | 2 | 30 | 0 |
+| r8 | 16 | 61 | 1 | 22 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -713,3 +714,103 @@
 | r7 | 1136400058 | Verbal Ability | unchanged | key fine; added teaching fields |
 | r7 | 1360294987 | Verbal Ability | unchanged | key fine; added teaching fields |
 | r7 | 1961119059 | Verbal Ability | unchanged | key fine; added teaching fields |
+| r8 | 997900159 | Analytical Ability | rewritten | 'paint : painting' was a word-match giveaway and 'Coloring' was a second defensible answer; rewritten as tool : worker |
+| r8 | 1387077245 | Analytical Ability | rewritten | a stove fits Cooking, Boiling and Frying alike (no single answer); rewritten with an appliance that has one clear function |
+| r8 | 1572436242 | Analytical Ability | rewritten | 'negligent : requirement' had no clear relation and negligent/remiss are synonyms, so duty/task/care all fit; rewritten as a 'lacks' analogy |
+| r8 | 2022670371 | Analytical Ability | rewritten | keyed soldier:warrior is not a clear 'honored term' pair; lawyer:advocate and teacher:educator fit as well; rewritten as a degree analogy |
+| r8 | 1918022796 | Analytical Ability | rewritten | banned Both/None options and neither listed option was a clean assumption; rewritten with one clean assumption |
+| r8 | 1988342223 | Analytical Ability | rewritten | near-duplicate of 694184605 (same three-day average); rewritten as a percent-increase data item |
+| r8 | 690156220 | Analytical Ability | rewritten | third copy of the same 'gaps grow by 1' pattern in this batch; rewritten as a x2 - 1 series |
+| r8 | 1242023609 | General Information | rewritten | Option D 'All above' is banned and C (President, Congress, Supreme Court) is arguably defensible; rebuilt with clean distractors, same key. |
+| r8 | 379682279 | General Information | rewritten | 'Solar' in the stem gave the answer away; rewritten to the photovoltaic effect on the same subtopic. |
+| r8 | 758915308 | General Information | rewritten | Second answer: oxygen is also used in oxy-acetylene welding and CO2 is a common MIG shielding gas; stem narrowed to the fuel gas. |
+| r8 | 1383073297 | Numerical Ability | rewritten | near-duplicate of 1291586413 (plain a = b + c); now a two-operation substitution |
+| r8 | 338613393 | Numerical Ability | rewritten | near-duplicate of 70033427 (x/10 to decimal); now 3/8, a real conversion |
+| r8 | 1486412531 | Numerical Ability | rewritten | trivia (sides of a rectangle) rewritten into a rectangle perimeter problem |
+| r8 | 1630710049 | Numerical Ability | rewritten | near-duplicate of the other plain discount items; now a reverse-discount problem |
+| r8 | 1882087395 | Numerical Ability | rewritten | near-duplicate of 1167311905 (10% of N); now a 'what percent' problem |
+| r8 | 1520624502 | Numerical Ability | rewritten | 6 km in 1 hour was trivial (answer = given number); now needs a time conversion |
+| r8 | 2051560334 | Numerical Ability | rewritten | near-duplicate of 1177479934 (doubling to 160, same options); now ×4 |
+| r8 | 1989361240 | Numerical Ability | rewritten | trivia (days in a week) rewritten into a weeks-and-days word problem |
+| r8 | 1380766250 | Numerical Ability | rewritten | near-duplicate of the N-workers-N-jobs-N-days items; now a plain inverse-proportion problem |
+| r8 | 1771433287 | Numerical Ability | rewritten | near-duplicate of the N-workers-N-jobs-N-days items; now workers and output both change |
+| r8 | 757285429 | Verbal Ability | rewritten | Near-duplicate of 161155379 (also 'eloquent'); rewritten to 'succinct' on the same vocab subtopic. |
+| r8 | 1572810276 | Verbal Ability | rewritten | Banned 'Both A and B'/'None' option set; rewritten as a context item for 'right'. |
+| r8 | 951150844 | Verbal Ability | key fixed | Old key 2-4-1-3 put 'However, it requires dedication' after the schedule step, where 2-1-4-3 reads better; rewrote sentences so 2-1-4-3 is the only coherent order. |
+| r8 | 292186588 | Analytical Ability | minor edit | 'Drawing' is also a real ruler use (drawing straight lines); replaced with 'Writing' so only Measuring fits the tool's main function |
+| r8 | 694184605 | Analytical Ability | minor edit | awkward 'data interpretation graph' wording with no graph; reworded as a recorded table; key correct |
+| r8 | 33206014 | General Information | minor edit | Key correct; set difficulty to Subprofessional level and added teaching fields. |
+| r8 | 602591236 | General Information | minor edit | Key correct; 'visible for centuries' overstated, explanation tightened; added teaching fields. |
+| r8 | 754206978 | General Information | minor edit | Key correct; set difficulty to Subprofessional level and added teaching fields. |
+| r8 | 764249826 | General Information | minor edit | Key correct; set difficulty to Subprofessional level and added teaching fields. |
+| r8 | 1263506978 | General Information | minor edit | Key correct; height updated to the current survey figure; added teaching fields. |
+| r8 | 1994483470 | General Information | minor edit | Key correct; set difficulty to Subprofessional level and added teaching fields. |
+| r8 | 2115698073 | General Information | minor edit | Key correct; set difficulty to Subprofessional level and added teaching fields. |
+| r8 | 367111671 | General Information | minor edit | Key correct; the Walled City is Intramuros, a district of Manila, so stem now names Intramuros; added teaching fields. |
+| r8 | 1489654682 | General Information | minor edit | Key correct; stem lacked 'Philippine' (July 4 is US Independence Day); added history and teaching fields. |
+| r8 | 440919046 | Numerical Ability | minor edit | key OK; set difficulty 1, added steps/hint/whys/Taglish |
+| r8 | 929664260 | Numerical Ability | minor edit | key OK; × sign, difficulty 1, whys/Taglish added |
+| r8 | 1291586413 | Numerical Ability | minor edit | key OK; stem spacing, difficulty 1, whys/Taglish added |
+| r8 | 1318363438 | Numerical Ability | minor edit | key OK; difficulty 1, explanation fuller, Taglish added |
+| r8 | 1907526426 | Numerical Ability | minor edit | explanation lost the × sign ("x = 54 = 20"); fixed, added teaching fields |
+| r8 | 70033427 | Numerical Ability | minor edit | key OK; difficulty 1, whys made specific, Taglish added |
+| r8 | 878196308 | Numerical Ability | minor edit | key OK; steps/whys made specific, difficulty 1, Taglish added |
+| r8 | 1089880767 | Numerical Ability | minor edit | options A (1/2) and C (2/4) were BOTH correct; C changed to 2/8 |
+| r8 | 1433273404 | Numerical Ability | minor edit | explanation lost × signs; added units and teaching fields |
+| r8 | 1582492509 | Numerical Ability | minor edit | key OK; added units, difficulty 1, teaching fields |
+| r8 | 222866672 | Numerical Ability | minor edit | key OK; difficulty 1, Taglish added |
+| r8 | 425277101 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, Taglish added |
+| r8 | 734121756 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, Taglish added |
+| r8 | 1167311905 | Numerical Ability | minor edit | key OK; difficulty 1, Taglish added |
+| r8 | 1326332900 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, Taglish added |
+| r8 | 1338857299 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, Taglish added; fixed "a 8%" grammar |
+| r8 | 1840313242 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, Taglish added; replaced 13.3333%-style whys |
+| r8 | 263928250 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 1802624888 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 1874609057 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 2121797046 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 273930774 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 427974349 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 671024720 | Numerical Ability | minor edit | garbled explanation ("2=2-1") rewritten; added steps/hint/whys/Taglish |
+| r8 | 799606978 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 861080332 | Numerical Ability | minor edit | explanation lost × ("1893 = 567"); fixed, whys/Taglish added |
+| r8 | 1177479934 | Numerical Ability | minor edit | explanation lost × ("802 = 160"); fixed, whys/Taglish added |
+| r8 | 1254511877 | Numerical Ability | minor edit | explanation lost × ("642 = 128"); fixed, whys/Taglish added |
+| r8 | 1709679520 | Numerical Ability | minor edit | explanation lost × ("543 = 162"); fixed, whys/Taglish added |
+| r8 | 1750758624 | Numerical Ability | minor edit | key OK; steps said 'multiplied by 0.5' — now 'divided by 2'; whys/Taglish added |
+| r8 | 1787589291 | Numerical Ability | minor edit | key OK; stem wording, difficulty 1, whys/Taglish added |
+| r8 | 2139960336 | Numerical Ability | minor edit | key OK; steps said 'multiplied by 0.3333' — now 'divided by 3'; whys/Taglish added |
+| r8 | 185642614 | Numerical Ability | minor edit | explanation lost × and used a rounded 16.67; rewritten as clean ratio; units added |
+| r8 | 468619307 | Numerical Ability | minor edit | key OK; difficulty, whys and Taglish added |
+| r8 | 881178821 | Numerical Ability | minor edit | key OK; added steps/hint/whys/Taglish |
+| r8 | 892836642 | Numerical Ability | minor edit | key OK; trimmed stem, added steps/hint/whys/Taglish |
+| r8 | 1358651343 | Numerical Ability | minor edit | key OK; difficulty, whys and Taglish added |
+| r8 | 1402275905 | Verbal Ability | minor edit | Key right; easy item set to difficulty 1, teaching fields added. |
+| r8 | 815096725 | Verbal Ability | minor edit | Key right; very easy item set to difficulty 1, teaching fields added. |
+| r8 | 820638102 | Verbal Ability | minor edit | Key right; set to difficulty 1, teaching fields added. |
+| r8 | 1424710915 | Verbal Ability | minor edit | 'and' also fit the old sentence; changed stem verb to 'prefers' and replaced 'and' with 'so' so only 'but' works. |
+| r8 | 1447532309 | Verbal Ability | minor edit | Key right; stem reworded to 'conditional form' (conditional is a mood, not a true tense), teaching fields added. |
+| r8 | 27092131 | Verbal Ability | minor edit | Key right; set to difficulty 1, teaching fields added. |
+| r8 | 689865808 | Verbal Ability | minor edit | Key right; distractors were all synonyms of each other (authentic/true/verified), a giveaway; replaced options with plausible confusions. |
+| r8 | 727461905 | Verbal Ability | minor edit | Key right; distractors were three synonyms of 'admirable', a giveaway; replaced C and D with plausible confusions. |
+| r8 | 1244700752 | Verbal Ability | minor edit | Key right; distractors were three synonyms of 'simple', a giveaway; replaced C and D. |
+| r8 | 1342924581 | Verbal Ability | minor edit | Key right; distractors were three synonyms of 'weak', a giveaway; replaced C and D. |
+| r8 | 1419020812 | Verbal Ability | minor edit | Key right; distractors were three synonyms of 'solitary', a giveaway; replaced C and D. |
+| r8 | 1526410949 | Verbal Ability | minor edit | Key right; swapped the real-person sentence for a neutral one and replaced 'loud' (can also mean showy) with 'spacious'. |
+| r8 | 2065415615 | Verbal Ability | minor edit | Key right; replaced silly 'Fruit' with 'Produce' (as in 'bear fruit'). |
+| r8 | 538271447 | Analytical Ability | unchanged | quantity : SI unit; one clean answer; added teaching fields |
+| r8 | 637008230 | Analytical Ability | unchanged | instrument : what it measures; clean; added teaching fields |
+| r8 | 1189549097 | Analytical Ability | unchanged | quantity : SI unit; clean; added teaching fields |
+| r8 | 145369577 | Analytical Ability | unchanged | n^2+3n (gaps 6, 8, 10) gives 28; added teaching fields |
+| r8 | 1507188177 | Analytical Ability | unchanged | rose is the only non-tree; clean; added teaching fields |
+| r8 | 283642176 | Analytical Ability | unchanged | gaps 7, 8, 9, 10 give 45; added missing teaching fields |
+| r8 | 583791673 | Analytical Ability | unchanged | gaps 5, 6, 7, 8 give 29; added missing teaching fields |
+| r8 | 1932774891 | General Information | unchanged | Key correct; added citation and teaching fields. |
+| r8 | 354291116 | General Information | unchanged | Key correct; added teaching fields. |
+| r8 | 1301197882 | General Information | unchanged | Key correct; added teaching fields. |
+| r8 | 1689606369 | General Information | unchanged | Key correct; added teaching fields. |
+| r8 | 117669853 | Verbal Ability | unchanged | Key correct; teaching fields added. |
+| r8 | 1251069734 | Verbal Ability | unchanged | Key correct; teaching fields added. |
+| r8 | 1814613962 | Verbal Ability | unchanged | Key correct ('is' not offered, 'is being' unidiomatic); teaching fields added. |
+| r8 | 161155379 | Verbal Ability | unchanged | Key correct; teaching fields added. |
+| r8 | 434904680 | Verbal Ability | unchanged | Key correct; teaching fields added. |
