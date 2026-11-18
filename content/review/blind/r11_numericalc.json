@@ -1,0 +1,502 @@
+[
+ {
+  "id": 981269248,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 10% of 200?",
+  "optionA": "20",
+  "optionB": "10",
+  "optionC": "30",
+  "optionD": "40"
+ },
+ {
+  "id": 1034163153,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A suitcase is Php 2000 with 10% discount. Final price?",
+  "optionA": "1800",
+  "optionB": "1900",
+  "optionC": "1700",
+  "optionD": "2100"
+ },
+ {
+  "id": 1046167917,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A shirt is Php 500 with 10% discount. Final price?",
+  "optionA": "450",
+  "optionB": "460",
+  "optionC": "440",
+  "optionD": "470"
+ },
+ {
+  "id": 1128962153,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A dress is Php 1200 with 35% discount. Final price?",
+  "optionA": "780",
+  "optionB": "800",
+  "optionC": "840",
+  "optionD": "900"
+ },
+ {
+  "id": 1239217986,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A product is sold at 15% discount on Php 200. Final price?",
+  "optionA": "170",
+  "optionB": "180",
+  "optionC": "185",
+  "optionD": "190"
+ },
+ {
+  "id": 1239572957,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A book bag is Php 800 with 5% discount. Final price?",
+  "optionA": "760",
+  "optionB": "780",
+  "optionC": "750",
+  "optionD": "770"
+ },
+ {
+  "id": 1258482156,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A lamp is Php 1000 with 5% discount. Final price?",
+  "optionA": "950",
+  "optionB": "900",
+  "optionC": "975",
+  "optionD": "925"
+ },
+ {
+  "id": 1280563863,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 5% of 400?",
+  "optionA": "20",
+  "optionB": "15",
+  "optionC": "25",
+  "optionD": "30"
+ },
+ {
+  "id": 1581340133,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 25% of 200?",
+  "optionA": "50",
+  "optionB": "40",
+  "optionC": "60",
+  "optionD": "45"
+ },
+ {
+  "id": 1721921059,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 90% of 200?",
+  "optionA": "180",
+  "optionB": "170",
+  "optionC": "190",
+  "optionD": "160"
+ },
+ {
+  "id": 1722694396,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A chair is Php 800 with 25% discount. Final price?",
+  "optionA": "600",
+  "optionB": "650",
+  "optionC": "550",
+  "optionD": "700"
+ },
+ {
+  "id": 1874868955,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A tablet is Php 6000 with 12% discount. Final price?",
+  "optionA": "5280",
+  "optionB": "5400",
+  "optionC": "5500",
+  "optionD": "5200"
+ },
+ {
+  "id": 1894759780,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A printer is Php 5000 with 10% discount. Final price?",
+  "optionA": "4500",
+  "optionB": "4600",
+  "optionC": "4800",
+  "optionD": "4700"
+ },
+ {
+  "id": 1944936683,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 25% of 80?",
+  "optionA": "20",
+  "optionB": "25",
+  "optionC": "30",
+  "optionD": "40"
+ },
+ {
+  "id": 2002118777,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A desk is Php 2500 with 20% discount. Final price?",
+  "optionA": "2000",
+  "optionB": "2100",
+  "optionC": "1900",
+  "optionD": "2200"
+ },
+ {
+  "id": 2026231194,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A shirt is Php 400 with 30% discount. Final price?",
+  "optionA": "280",
+  "optionB": "300",
+  "optionC": "320",
+  "optionD": "350"
+ },
+ {
+  "id": 2142351537,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 28% of 250?",
+  "optionA": "70",
+  "optionB": "60",
+  "optionC": "80",
+  "optionD": "90"
+ },
+ {
+  "id": 2144379484,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 15% of 300?",
+  "optionA": "45",
+  "optionB": "40",
+  "optionC": "50",
+  "optionD": "55"
+ },
+ {
+  "id": 21637000,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a train travels 150 km in 2.5 hours, speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "80"
+ },
+ {
+  "id": 616752205,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a train travels 180 km in 3 hours, speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "40"
+ },
+ {
+  "id": 819016037,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a runner runs 5 km in 30 minutes, speed in km/h?",
+  "optionA": "10",
+  "optionB": "5",
+  "optionC": "15",
+  "optionD": "20"
+ },
+ {
+  "id": 1168844396,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a ship sails 100 km in 5 hours, speed in km/h?",
+  "optionA": "20",
+  "optionB": "25",
+  "optionC": "15",
+  "optionD": "30"
+ },
+ {
+  "id": 1450218721,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a train covers 150 km in 3 hours, speed in km/h?",
+  "optionA": "50",
+  "optionB": "45",
+  "optionC": "55",
+  "optionD": "60"
+ },
+ {
+  "id": 1583697436,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a bike travels 45 km in 3 hours, speed in km/h?",
+  "optionA": "15",
+  "optionB": "10",
+  "optionC": "20",
+  "optionD": "25"
+ },
+ {
+  "id": 1616971220,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a rocket travels 1000 km in 5 hours, speed in km/h?",
+  "optionA": "200",
+  "optionB": "150",
+  "optionC": "250",
+  "optionD": "300"
+ },
+ {
+  "id": 1662033560,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a bird flies 60 km in 2 hours, speed in km/h?",
+  "optionA": "30",
+  "optionB": "40",
+  "optionC": "20",
+  "optionD": "50"
+ },
+ {
+  "id": 1727789032,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a boat sails 50 km in 2.5 hours, what is its speed in km/h?",
+  "optionA": "20",
+  "optionB": "25",
+  "optionC": "15",
+  "optionD": "30"
+ },
+ {
+  "id": 1795293669,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a vehicle travels 80 km in 2 hours, speed in km/h?",
+  "optionA": "40",
+  "optionB": "30",
+  "optionC": "50",
+  "optionD": "60"
+ },
+ {
+  "id": 1844218369,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a walker walks 4 km in 1 hour, speed in km/h?",
+  "optionA": "4",
+  "optionB": "5",
+  "optionC": "3",
+  "optionD": "6"
+ },
+ {
+  "id": 61612099,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 11, 22, 33, 44?",
+  "optionA": "55",
+  "optionB": "50",
+  "optionC": "60",
+  "optionD": "66"
+ },
+ {
+  "id": 71613500,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 2, 3, 5, 8, ?",
+  "optionA": "13",
+  "optionB": "11",
+  "optionC": "12",
+  "optionD": "10"
+ },
+ {
+  "id": 229668329,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 5, 10, 20, 40, 80?",
+  "optionA": "160",
+  "optionB": "120",
+  "optionC": "100",
+  "optionD": "200"
+ },
+ {
+  "id": 295236567,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 9, 18, 27, 36?",
+  "optionA": "45",
+  "optionB": "40",
+  "optionC": "50",
+  "optionD": "54"
+ },
+ {
+  "id": 313706109,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 5, 25, 125, 625, ?",
+  "optionA": "3125",
+  "optionB": "2500",
+  "optionC": "1875",
+  "optionD": "3750"
+ },
+ {
+  "id": 708795230,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 5, 12, 19, 26?",
+  "optionA": "33",
+  "optionB": "30",
+  "optionC": "35",
+  "optionD": "28"
+ },
+ {
+  "id": 771212884,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 9, 16, 25, 36?",
+  "optionA": "49",
+  "optionB": "45",
+  "optionC": "40",
+  "optionD": "50"
+ },
+ {
+  "id": 843768879,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 7, 14, 21, 28, 35?",
+  "optionA": "42",
+  "optionB": "40",
+  "optionC": "45",
+  "optionD": "38"
+ },
+ {
+  "id": 976181267,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 2, 4, 8, 16, 32, 64?",
+  "optionA": "128",
+  "optionB": "96",
+  "optionC": "80",
+  "optionD": "112"
+ },
+ {
+  "id": 994011568,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 3, 6, 9, 12, 15?",
+  "optionA": "18",
+  "optionB": "16",
+  "optionC": "17",
+  "optionD": "20"
+ },
+ {
+  "id": 1004781068,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 9, 27, 81, 243, ?",
+  "optionA": "324",
+  "optionB": "567",
+  "optionC": "729",
+  "optionD": "810"
+ },
+ {
+  "id": 1009460950,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 6, 11, 16, 21?",
+  "optionA": "26",
+  "optionB": "25",
+  "optionC": "27",
+  "optionD": "22"
+ },
+ {
+  "id": 1082197594,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 2, 4, 8, 16?",
+  "optionA": "20",
+  "optionB": "24",
+  "optionC": "32",
+  "optionD": "18"
+ },
+ {
+  "id": 1128166657,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 4, 7, 11, 16, 22?",
+  "optionA": "29",
+  "optionB": "28",
+  "optionC": "30",
+  "optionD": "27"
+ },
+ {
+  "id": 1330807307,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 4, 16, 64, 256?",
+  "optionA": "1024",
+  "optionB": "512",
+  "optionC": "768",
+  "optionD": "1280"
+ },
+ {
+  "id": 1426312682,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 15, 30, 45, 60?",
+  "optionA": "75",
+  "optionB": "70",
+  "optionC": "80",
+  "optionD": "65"
+ },
+ {
+  "id": 1671064592,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 6, 9, 12, 15?",
+  "optionA": "18",
+  "optionB": "16",
+  "optionC": "17",
+  "optionD": "20"
+ },
+ {
+  "id": 1756506514,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 4, 10, 16, 22, ?",
+  "optionA": "28",
+  "optionB": "26",
+  "optionC": "30",
+  "optionD": "24"
+ },
+ {
+  "id": 1932086141,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 4, 6, 9, 13, 18?",
+  "optionA": "24",
+  "optionB": "22",
+  "optionC": "25",
+  "optionD": "20"
+ },
+ {
+  "id": 1337583559,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 5 cleaners clean 5 rooms in 5 hours, how many hours for 10 cleaners to clean 10 rooms?",
+  "optionA": "5",
+  "optionB": "10",
+  "optionC": "2.5",
+  "optionD": "7.5"
+ },
+ {
+  "id": 1359859362,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 9 gardeners plant 9 trees in 9 hours, how many hours for 3 gardeners to plant 3 trees?",
+  "optionA": "9",
+  "optionB": "3",
+  "optionC": "27",
+  "optionD": "6"
+ }
+]

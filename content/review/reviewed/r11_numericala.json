@@ -1,0 +1,871 @@
+[
+ {
+  "id": 16622609,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 10 from both sides to get 5x = 25, then divide both sides by 5: x = 5.",
+   "explanationTl": "Ibawas ang 10 sa magkabilang side para maging 5x = 25, tapos i-divide sa 5: x = 5.",
+   "stepsTl": "1. Ibawas ang 10 sa magkabilang side: 5x = 25.\n2. I-divide sa 5: x = 25 ÷ 5 = 5.\n3. I-check: 5(5) + 10 = 35 ✓",
+   "steps": "1. Subtract 10 from both sides: 5x = 25.\n2. Divide both sides by 5: x = 25 ÷ 5 = 5.\n3. Check: 5(5) + 10 = 35 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 18736513,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If d = e × f and e=9, f=2, what is d?",
+   "explanation": "Substitute the given values: d = 9 × 2 = 18.",
+   "steps": "1. Write the formula: d = e × f.\n2. Substitute: d = 9 × 2.\n3. Compute: d = 18.",
+   "stepsTl": "1. Isulat ang formula: d = e × f.\n2. I-substitute ang values: d = 9 × 2.\n3. I-compute: d = 18.",
+   "explanationTl": "I-substitute lang ang values: d = 9 × 2 = 18.",
+   "hint": "Replace each letter with its value, then multiply.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-multiply.",
+   "whyB": "11 is what you get if you add instead of multiply.",
+   "whyC": "7 is what you get if you subtract instead of multiply.",
+   "whyD": "4.5 is what you get if you divide instead of multiply.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 43362612,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Divide both sides by 6: x = 42 ÷ 6 = 7.",
+   "explanationTl": "I-divide ang magkabilang side sa 6: x = 42 ÷ 6 = 7.",
+   "hint": "Undo the multiplication by dividing both sides by the same number.",
+   "hintTl": "I-undo ang multiplication: i-divide ang magkabilang side sa parehong number.",
+   "stepsTl": "1. I-divide sa 6 ang magkabilang side: x = 42 ÷ 6 = 7.\n2. I-check: 6 × 7 = 42 ✓",
+   "steps": "1. Divide both sides by 6: x = 42 ÷ 6 = 7.\n2. Check: 6 × 7 = 42 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 44635576,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If o = p × q and p=5, q=5, what is o?",
+   "explanation": "Substitute the given values: o = 5 × 5 = 25.",
+   "steps": "1. Write the formula: o = p × q.\n2. Substitute: o = 5 × 5.\n3. Compute: o = 25.",
+   "stepsTl": "1. Isulat ang formula: o = p × q.\n2. I-substitute ang values: o = 5 × 5.\n3. I-compute: o = 25.",
+   "explanationTl": "I-substitute lang ang values: o = 5 × 5 = 25.",
+   "hint": "Replace each letter with its value, then multiply.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-multiply.",
+   "whyB": "10 is what you get if you add instead of multiply.",
+   "whyC": "0 is what you get if you subtract instead of multiply.",
+   "whyD": "30 is off by 5; recheck the arithmetic: the correct value is 25.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 97819574,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 8 from both sides to get 4x = 16, then divide both sides by 4: x = 4.",
+   "explanationTl": "Ibawas ang 8 sa magkabilang side para maging 4x = 16, tapos i-divide sa 4: x = 4.",
+   "stepsTl": "1. Ibawas ang 8 sa magkabilang side: 4x = 16.\n2. I-divide sa 4: x = 16 ÷ 4 = 4.\n3. I-check: 4(4) + 8 = 24 ✓",
+   "steps": "1. Subtract 8 from both sides: 4x = 16.\n2. Divide both sides by 4: x = 16 ÷ 4 = 4.\n3. Check: 4(4) + 8 = 24 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 131334821,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If a = b + c and b=10, c=5, what is a?",
+   "explanation": "Substitute the given values: a = 10 + 5 = 15.",
+   "steps": "1. Write the formula: a = b + c.\n2. Substitute: a = 10 + 5.\n3. Compute: a = 15.",
+   "stepsTl": "1. Isulat ang formula: a = b + c.\n2. I-substitute ang values: a = 10 + 5.\n3. I-compute: a = 15.",
+   "explanationTl": "I-substitute lang ang values: a = 10 + 5 = 15.",
+   "hint": "Replace each letter with its value, then add.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-add.",
+   "whyB": "5 is what you get if you subtract instead of add.",
+   "whyC": "20 is off by 5; recheck the arithmetic: the correct value is 15.",
+   "whyD": "0 would mean the values cancel out, but here you add: the result is 15.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 137008744,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic.",
+  "fields": {
+   "text": "The sum of two consecutive even numbers is 46. What is the larger number?",
+   "optionA": "22",
+   "optionB": "23",
+   "optionC": "26",
+   "optionD": "24",
+   "correctAnswer": "D",
+   "difficulty": 2,
+   "explanation": "Let the numbers be x and x + 2. Then 2x + 2 = 46, so x = 22 and the larger number is 24. Check: 22 + 24 = 46.",
+   "steps": "1. Let the numbers be x and x + 2.\n2. x + (x + 2) = 46, so 2x + 2 = 46.\n3. 2x = 44, so x = 22.\n4. Larger number = 22 + 2 = 24.\n5. Check: 22 + 24 = 46 ✓",
+   "hint": "Consecutive even numbers differ by 2.",
+   "whyA": "22 is the smaller number; the question asks for the larger one.",
+   "whyB": "23 is half of 46, and it is odd, so it cannot be one of two even numbers.",
+   "whyC": "26 skips an even number: check 22 + 26 = 48, not 46. The pair must be 22 and 24.",
+   "explanationTl": "Gawin nating x at x + 2 ang dalawang numbers. 2x + 2 = 46, so x = 22 at ang mas malaki ay 24. Pag chineck, 22 + 24 = 46.",
+   "stepsTl": "1. Ang numbers ay x at x + 2.\n2. x + (x + 2) = 46, so 2x + 2 = 46.\n3. 2x = 44, so x = 22.\n4. Mas malaki = 22 + 2 = 24.\n5. I-check: 22 + 24 = 46 ✓",
+   "hintTl": "Ang consecutive even numbers ay laging 2 ang pagitan."
+  }
+ },
+ {
+  "id": 163420006,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If p = q × r and q=3, r=7, what is p?",
+   "explanation": "Substitute the given values: p = 3 × 7 = 21.",
+   "steps": "1. Write the formula: p = q × r.\n2. Substitute: p = 3 × 7.\n3. Compute: p = 21.",
+   "stepsTl": "1. Isulat ang formula: p = q × r.\n2. I-substitute ang values: p = 3 × 7.\n3. I-compute: p = 21.",
+   "explanationTl": "I-substitute lang ang values: p = 3 × 7 = 21.",
+   "hint": "Replace each letter with its value, then multiply.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-multiply.",
+   "whyB": "10 is what you get if you add instead of multiply.",
+   "whyC": "4 is off by 17; recheck the arithmetic: the correct value is 21.",
+   "whyD": "14 is off by 7; recheck the arithmetic: the correct value is 21.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 275595171,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If a = b + c and b=8, c=7, what is a?",
+   "explanation": "Substitute the given values: a = 8 + 7 = 15.",
+   "steps": "1. Write the formula: a = b + c.\n2. Substitute: a = 8 + 7.\n3. Compute: a = 15.",
+   "stepsTl": "1. Isulat ang formula: a = b + c.\n2. I-substitute ang values: a = 8 + 7.\n3. I-compute: a = 15.",
+   "explanationTl": "I-substitute lang ang values: a = 8 + 7 = 15.",
+   "hint": "Replace each letter with its value, then add.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-add.",
+   "whyB": "1 is what you get if you subtract instead of add.",
+   "whyC": "16 is off by 1; recheck the arithmetic: the correct value is 15.",
+   "whyD": "14 is off by 1; recheck the arithmetic: the correct value is 15.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 312606242,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If s = t + u + v and t=1, u=2, v=3, what is s?",
+   "explanation": "Substitute the given values: s = 1 + 2 + 3 = 6.",
+   "steps": "1. Write the formula: s = t + u + v.\n2. Substitute: s = 1 + 2 + 3.\n3. Compute: s = 6.",
+   "stepsTl": "1. Isulat ang formula: s = t + u + v.\n2. I-substitute ang values: s = 1 + 2 + 3.\n3. I-compute: s = 6.",
+   "explanationTl": "I-substitute lang ang values: s = 1 + 2 + 3 = 6.",
+   "hint": "Replace each letter with its value, then add.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-add.",
+   "whyB": "5 is off by 1; 1 + 2 + 3 = 6.",
+   "whyC": "7 is off by 1; 1 + 2 + 3 = 6.",
+   "whyD": "4 is off by 2; 1 + 2 + 3 = 6.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 472782799,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 10 from both sides to get 2x = 20, then divide both sides by 2: x = 10.",
+   "explanationTl": "Ibawas ang 10 sa magkabilang side para maging 2x = 20, tapos i-divide sa 2: x = 10.",
+   "stepsTl": "1. Ibawas ang 10 sa magkabilang side: 2x = 20.\n2. I-divide sa 2: x = 20 ÷ 2 = 10.\n3. I-check: 2(10) + 10 = 30 ✓",
+   "steps": "1. Subtract 10 from both sides: 2x = 20.\n2. Divide both sides by 2: x = 20 ÷ 2 = 10.\n3. Check: 2(10) + 10 = 30 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 501653222,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Rewritten after bank-wide fuzzy duplicate scan: New age problem (younger sibling, sum 38) replaces duplicate Ana/brother item.",
+  "fields": {
+   "difficulty": 1,
+   "text": "Liza is 6 years younger than her sister Joy. The sum of their ages is 38. How old is Liza?",
+   "optionA": "22",
+   "optionB": "16",
+   "optionC": "19",
+   "optionD": "32",
+   "correctAnswer": "B",
+   "explanation": "Let Joy's age be x, so Liza is x − 6. Then x + (x − 6) = 38 gives x = 22, so Liza is 22 − 6 = 16.",
+   "steps": "1. Let Joy = x and Liza = x − 6.\n2. x + (x − 6) = 38\n3. 2x − 6 = 38, so 2x = 44 and x = 22.\n4. Liza = 22 − 6 = 16 years old.",
+   "hint": "Write both ages using one variable, then use the total.",
+   "whyA": "22 is Joy's age, not Liza's; you stopped after solving for x.",
+   "whyC": "19 is just 38 ÷ 2; it ignores the 6-year age difference.",
+   "whyD": "32 is 38 − 6; subtracting the difference from the sum does not give either age.",
+   "explanationTl": "Gawin nating x ang age ni Joy, so si Liza ay x − 6. Dahil x + (x − 6) = 38, x = 22, kaya si Liza ay 22 − 6 = 16.",
+   "stepsTl": "1. Joy = x, Liza = x − 6.\n2. x + (x − 6) = 38\n3. 2x − 6 = 38, kaya 2x = 44 at x = 22.\n4. Liza = 22 − 6 = 16 years old.",
+   "hintTl": "Isulat ang dalawang age gamit ang isang variable, tapos gamitin ang sum."
+  }
+ },
+ {
+  "id": 508694710,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Add 12 to both sides to get 6x = 36, then divide both sides by 6: x = 6.",
+   "explanationTl": "I-add ang 12 sa magkabilang side para maging 6x = 36, tapos i-divide sa 6: x = 6.",
+   "stepsTl": "1. I-add ang 12 sa magkabilang side: 6x = 36.\n2. I-divide sa 6: x = 36 ÷ 6 = 6.\n3. I-check: 6(6) − 12 = 24 ✓",
+   "steps": "1. Add 12 to both sides: 6x = 36.\n2. Divide both sides by 6: x = 36 ÷ 6 = 6.\n3. Check: 6(6) − 12 = 24 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 613514249,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If a = b − c and b=20, c=5, what is a?",
+   "explanation": "Substitute the given values: a = 20 − 5 = 15.",
+   "steps": "1. Write the formula: a = b − c.\n2. Substitute: a = 20 − 5.\n3. Compute: a = 15.",
+   "stepsTl": "1. Isulat ang formula: a = b − c.\n2. I-substitute ang values: a = 20 − 5.\n3. I-compute: a = 15.",
+   "explanationTl": "I-substitute lang ang values: a = 20 − 5 = 15.",
+   "hint": "Replace each letter with its value, then subtract.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos ibawas.",
+   "whyB": "25 is what you get if you add instead of subtract.",
+   "whyC": "10 is off by 5; recheck the arithmetic: the correct value is 15.",
+   "whyD": "5 is off by 10; recheck the arithmetic: the correct value is 15.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 643796901,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 4 from both sides to get 2x = 8, then divide both sides by 2: x = 4.",
+   "explanationTl": "Ibawas ang 4 sa magkabilang side para maging 2x = 8, tapos i-divide sa 2: x = 4.",
+   "stepsTl": "1. Ibawas ang 4 sa magkabilang side: 2x = 8.\n2. I-divide sa 2: x = 8 ÷ 2 = 4.\n3. I-check: 2(4) + 4 = 12 ✓",
+   "steps": "1. Subtract 4 from both sides: 2x = 8.\n2. Divide both sides by 2: x = 8 ÷ 2 = 4.\n3. Check: 2(4) + 4 = 12 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 712865075,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Add 10 to both sides to get 5x = 45, then divide both sides by 5: x = 9.",
+   "explanationTl": "I-add ang 10 sa magkabilang side para maging 5x = 45, tapos i-divide sa 5: x = 9.",
+   "stepsTl": "1. I-add ang 10 sa magkabilang side: 5x = 45.\n2. I-divide sa 5: x = 45 ÷ 5 = 9.\n3. I-check: 5(9) − 10 = 35 ✓",
+   "steps": "1. Add 10 to both sides: 5x = 45.\n2. Divide both sides by 5: x = 45 ÷ 5 = 9.\n3. Check: 5(9) − 10 = 35 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 764880434,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 4 from both sides to get 4x = 20, then divide both sides by 4: x = 5.",
+   "explanationTl": "Ibawas ang 4 sa magkabilang side para maging 4x = 20, tapos i-divide sa 4: x = 5.",
+   "stepsTl": "1. Ibawas ang 4 sa magkabilang side: 4x = 20.\n2. I-divide sa 4: x = 20 ÷ 4 = 5.\n3. I-check: 4(5) + 4 = 24 ✓",
+   "steps": "1. Subtract 4 from both sides: 4x = 20.\n2. Divide both sides by 4: x = 20 ÷ 4 = 5.\n3. Check: 4(5) + 4 = 24 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 765744058,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Divide both sides by 2: x = 10 ÷ 2 = 5.",
+   "explanationTl": "I-divide ang magkabilang side sa 2: x = 10 ÷ 2 = 5.",
+   "hint": "Undo the multiplication by dividing both sides by the same number.",
+   "hintTl": "I-undo ang multiplication: i-divide ang magkabilang side sa parehong number.",
+   "stepsTl": "1. I-divide sa 2 ang magkabilang side: x = 10 ÷ 2 = 5.\n2. I-check: 2 × 5 = 10 ✓",
+   "steps": "1. Divide both sides by 2: x = 10 ÷ 2 = 5.\n2. Check: 2 × 5 = 10 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 791680526,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If g = h − i and h=15, i=5, what is g?",
+   "explanation": "Substitute the given values: g = 15 − 5 = 10.",
+   "steps": "1. Write the formula: g = h − i.\n2. Substitute: g = 15 − 5.\n3. Compute: g = 10.",
+   "stepsTl": "1. Isulat ang formula: g = h − i.\n2. I-substitute ang values: g = 15 − 5.\n3. I-compute: g = 10.",
+   "explanationTl": "I-substitute lang ang values: g = 15 − 5 = 10.",
+   "hint": "Replace each letter with its value, then subtract.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos ibawas.",
+   "whyB": "20 is what you get if you add instead of subtract.",
+   "whyC": "5 is off by 5; recheck the arithmetic: the correct value is 10.",
+   "whyD": "0 would mean the values cancel out, but here you subtract: the result is 10.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 801306741,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic.",
+  "fields": {
+   "text": "When a number is multiplied by 4 and then decreased by 9, the result is 27. What is the number?",
+   "optionA": "4.5",
+   "optionB": "9",
+   "optionC": "36",
+   "optionD": "6.75",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "Write 4n − 9 = 27. Add 9 to both sides to get 4n = 36, then divide by 4: n = 9.",
+   "steps": "1. Write the equation: 4n − 9 = 27.\n2. Add 9 to both sides: 4n = 36.\n3. Divide by 4: n = 9.\n4. Check: 4 × 9 − 9 = 27 ✓",
+   "hint": "Turn the words into an equation, then undo the steps in reverse order.",
+   "whyA": "4.5 comes from subtracting 9 instead of adding it (4n = 18).",
+   "whyC": "36 is 4n; you still have to divide by 4.",
+   "whyD": "6.75 is 27 ÷ 4; it skips undoing the 'decreased by 9' first.",
+   "explanationTl": "Ang equation ay 4n − 9 = 27. I-add ang 9 sa magkabilang side para maging 4n = 36, tapos i-divide sa 4: n = 9.",
+   "stepsTl": "1. Isulat ang equation: 4n − 9 = 27.\n2. I-add ang 9 sa magkabilang side: 4n = 36.\n3. I-divide sa 4: n = 9.\n4. I-check: 4 × 9 − 9 = 27 ✓",
+   "hintTl": "Gawing equation ang sentence, tapos i-undo ang steps nang pabaliktad."
+  }
+ },
+ {
+  "id": 936579359,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If s = t ÷ u and t=30, u=5, what is s?",
+   "explanation": "Substitute the given values: s = 30 ÷ 5 = 6.",
+   "steps": "1. Write the formula: s = t ÷ u.\n2. Substitute: s = 30 ÷ 5.\n3. Compute: s = 6.",
+   "stepsTl": "1. Isulat ang formula: s = t ÷ u.\n2. I-substitute ang values: s = 30 ÷ 5.\n3. I-compute: s = 6.",
+   "explanationTl": "I-substitute lang ang values: s = 30 ÷ 5 = 6.",
+   "hint": "Replace each letter with its value, then divide.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-divide.",
+   "whyB": "150 is what you get if you multiply instead of divide.",
+   "whyC": "25 is what you get if you subtract instead of divide.",
+   "whyD": "35 is what you get if you add instead of divide.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 936690097,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic.",
+  "fields": {
+   "text": "If 3x − 7 = 2x + 5, what is x?",
+   "optionA": "2",
+   "optionB": "−2",
+   "optionC": "12",
+   "optionD": "−12",
+   "correctAnswer": "C",
+   "difficulty": 2,
+   "explanation": "Subtract 2x from both sides to get x − 7 = 5, then add 7 to both sides: x = 12. Check: 3(12) − 7 = 29 and 2(12) + 5 = 29.",
+   "steps": "1. Subtract 2x from both sides: x − 7 = 5.\n2. Add 7 to both sides: x = 12.\n3. Check: 3(12) − 7 = 29 and 2(12) + 5 = 29 ✓",
+   "hint": "Gather the x terms on one side and the plain numbers on the other.",
+   "whyA": "2 comes from subtracting 5 from 7 instead of adding 7 to 5 when moving the constants.",
+   "whyB": "−2 has both the wrong operation and the wrong sign: the constants must be combined as 5 + 7.",
+   "whyD": "−12 is the right size but the wrong sign; moving −7 to the other side makes it +7.",
+   "explanationTl": "Ibawas ang 2x sa magkabilang side para maging x − 7 = 5, tapos i-add ang 7 sa magkabilang side: x = 12. Pag chineck, parehong 29 ang dalawang side.",
+   "stepsTl": "1. Ibawas ang 2x sa magkabilang side: x − 7 = 5.\n2. I-add ang 7 sa magkabilang side: x = 12.\n3. I-check: 3(12) − 7 = 29 at 2(12) + 5 = 29 ✓",
+   "hintTl": "Ipunin ang mga x sa isang side at ang mga number sa kabila."
+  }
+ },
+ {
+  "id": 964210595,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If v = w × x and w=4, x=5, what is v?",
+   "explanation": "Substitute the given values: v = 4 × 5 = 20.",
+   "steps": "1. Write the formula: v = w × x.\n2. Substitute: v = 4 × 5.\n3. Compute: v = 20.",
+   "stepsTl": "1. Isulat ang formula: v = w × x.\n2. I-substitute ang values: v = 4 × 5.\n3. I-compute: v = 20.",
+   "explanationTl": "I-substitute lang ang values: v = 4 × 5 = 20.",
+   "hint": "Replace each letter with its value, then multiply.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-multiply.",
+   "whyB": "9 is what you get if you add instead of multiply.",
+   "whyC": "1 is off by 19; recheck the arithmetic: the correct value is 20.",
+   "whyD": "25 is off by 5; recheck the arithmetic: the correct value is 20.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 982197348,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If a = b + c and b=4, c=6, what is a?",
+   "explanation": "Substitute the given values: a = 4 + 6 = 10.",
+   "steps": "1. Write the formula: a = b + c.\n2. Substitute: a = 4 + 6.\n3. Compute: a = 10.",
+   "stepsTl": "1. Isulat ang formula: a = b + c.\n2. I-substitute ang values: a = 4 + 6.\n3. I-compute: a = 10.",
+   "explanationTl": "I-substitute lang ang values: a = 4 + 6 = 10.",
+   "hint": "Replace each letter with its value, then add.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-add.",
+   "whyB": "2 is off by 8; recheck the arithmetic: the correct value is 10.",
+   "whyC": "8 is off by 2; recheck the arithmetic: the correct value is 10.",
+   "whyD": "12 is off by 2; recheck the arithmetic: the correct value is 10.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1220452325,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Divide both sides by 2: x = 18 ÷ 2 = 9.",
+   "explanationTl": "I-divide ang magkabilang side sa 2: x = 18 ÷ 2 = 9.",
+   "hint": "Undo the multiplication by dividing both sides by the same number.",
+   "hintTl": "I-undo ang multiplication: i-divide ang magkabilang side sa parehong number.",
+   "stepsTl": "1. I-divide sa 2 ang magkabilang side: x = 18 ÷ 2 = 9.\n2. I-check: 2 × 9 = 18 ✓",
+   "steps": "1. Divide both sides by 2: x = 18 ÷ 2 = 9.\n2. Check: 2 × 9 = 18 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1238012456,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 4 from both sides to get 4x = 16, then divide both sides by 4: x = 4.",
+   "explanationTl": "Ibawas ang 4 sa magkabilang side para maging 4x = 16, tapos i-divide sa 4: x = 4.",
+   "stepsTl": "1. Ibawas ang 4 sa magkabilang side: 4x = 16.\n2. I-divide sa 4: x = 16 ÷ 4 = 4.\n3. I-check: 4(4) + 4 = 20 ✓",
+   "steps": "1. Subtract 4 from both sides: 4x = 16.\n2. Divide both sides by 4: x = 16 ÷ 4 = 4.\n3. Check: 4(4) + 4 = 20 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1255597869,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If a = b ÷ c and b=24, c=6, what is a?",
+   "explanation": "Substitute the given values: a = 24 ÷ 6 = 4.",
+   "steps": "1. Write the formula: a = b ÷ c.\n2. Substitute: a = 24 ÷ 6.\n3. Compute: a = 4.",
+   "stepsTl": "1. Isulat ang formula: a = b ÷ c.\n2. I-substitute ang values: a = 24 ÷ 6.\n3. I-compute: a = 4.",
+   "explanationTl": "I-substitute lang ang values: a = 24 ÷ 6 = 4.",
+   "hint": "Replace each letter with its value, then divide.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-divide.",
+   "whyB": "30 is what you get if you add instead of divide.",
+   "whyC": "18 is what you get if you subtract instead of divide.",
+   "whyD": "144 is what you get if you multiply instead of divide.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1382536928,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If r = s × t and s=8, t=2, what is r?",
+   "explanation": "Substitute the given values: r = 8 × 2 = 16.",
+   "steps": "1. Write the formula: r = s × t.\n2. Substitute: r = 8 × 2.\n3. Compute: r = 16.",
+   "stepsTl": "1. Isulat ang formula: r = s × t.\n2. I-substitute ang values: r = 8 × 2.\n3. I-compute: r = 16.",
+   "explanationTl": "I-substitute lang ang values: r = 8 × 2 = 16.",
+   "hint": "Replace each letter with its value, then multiply.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-multiply.",
+   "whyB": "10 is what you get if you add instead of multiply.",
+   "whyC": "6 is what you get if you subtract instead of multiply.",
+   "whyD": "4 is what you get if you divide instead of multiply.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1475965536,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic.",
+  "fields": {
+   "text": "If 2(x + 3) = 22, what is x?",
+   "optionA": "9.5",
+   "optionB": "11",
+   "optionC": "8",
+   "optionD": "14",
+   "correctAnswer": "C",
+   "difficulty": 1,
+   "explanation": "Divide both sides by 2 to get x + 3 = 11, then subtract 3: x = 8. Check: 2(8 + 3) = 22.",
+   "steps": "1. Divide both sides by 2: x + 3 = 11.\n2. Subtract 3 from both sides: x = 8.\n3. Check: 2(8 + 3) = 2 × 11 = 22 ✓",
+   "hint": "The 2 multiplies everything inside the parentheses. Undo it first.",
+   "whyA": "9.5 comes from multiplying only x by 2 (2x + 3 = 22); the 2 multiplies the 3 too.",
+   "whyB": "11 is x + 3; you still have to subtract 3.",
+   "whyD": "14 comes from adding 3 instead of subtracting it after dividing by 2.",
+   "explanationTl": "I-divide ang magkabilang side sa 2 para maging x + 3 = 11, tapos ibawas ang 3: x = 8. Pag chineck, 2(8 + 3) = 22.",
+   "stepsTl": "1. I-divide sa 2 ang magkabilang side: x + 3 = 11.\n2. Ibawas ang 3: x = 8.\n3. I-check: 2(8 + 3) = 2 × 11 = 22 ✓",
+   "hintTl": "Ang 2 ay naka-multiply sa lahat ng nasa loob ng parentheses. Unahin itong i-undo."
+  }
+ },
+ {
+  "id": 1508056161,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If a = b + c and b=5, c=5, what is a?",
+   "explanation": "Substitute the given values: a = 5 + 5 = 10.",
+   "steps": "1. Write the formula: a = b + c.\n2. Substitute: a = 5 + 5.\n3. Compute: a = 10.",
+   "stepsTl": "1. Isulat ang formula: a = b + c.\n2. I-substitute ang values: a = 5 + 5.\n3. I-compute: a = 10.",
+   "explanationTl": "I-substitute lang ang values: a = 5 + 5 = 10.",
+   "hint": "Replace each letter with its value, then add.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-add.",
+   "whyB": "0 is what you get if you subtract instead of add.",
+   "whyC": "15 is off by 5; recheck the arithmetic: the correct value is 10.",
+   "whyD": "5 is off by 5; recheck the arithmetic: the correct value is 10.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1545075671,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Divide both sides by 10: x = 100 ÷ 10 = 10.",
+   "explanationTl": "I-divide ang magkabilang side sa 10: x = 100 ÷ 10 = 10.",
+   "hint": "Undo the multiplication by dividing both sides by the same number.",
+   "hintTl": "I-undo ang multiplication: i-divide ang magkabilang side sa parehong number.",
+   "stepsTl": "1. I-divide sa 10 ang magkabilang side: x = 100 ÷ 10 = 10.\n2. I-check: 10 × 10 = 100 ✓",
+   "steps": "1. Divide both sides by 10: x = 100 ÷ 10 = 10.\n2. Check: 10 × 10 = 100 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1663256153,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If l = m + n and m=9, n=1, what is l?",
+   "explanation": "Substitute the given values: l = 9 + 1 = 10.",
+   "steps": "1. Write the formula: l = m + n.\n2. Substitute: l = 9 + 1.\n3. Compute: l = 10.",
+   "stepsTl": "1. Isulat ang formula: l = m + n.\n2. I-substitute ang values: l = 9 + 1.\n3. I-compute: l = 10.",
+   "explanationTl": "I-substitute lang ang values: l = 9 + 1 = 10.",
+   "hint": "Replace each letter with its value, then add.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos i-add.",
+   "whyB": "8 is what you get if you subtract instead of add.",
+   "whyC": "11 is off by 1; recheck the arithmetic: the correct value is 10.",
+   "whyD": "7 is off by 3; recheck the arithmetic: the correct value is 10.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1718274329,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added.",
+  "fields": {
+   "text": "If u = v − w and v=12, w=3, what is u?",
+   "explanation": "Substitute the given values: u = 12 − 3 = 9.",
+   "steps": "1. Write the formula: u = v − w.\n2. Substitute: u = 12 − 3.\n3. Compute: u = 9.",
+   "stepsTl": "1. Isulat ang formula: u = v − w.\n2. I-substitute ang values: u = 12 − 3.\n3. I-compute: u = 9.",
+   "explanationTl": "I-substitute lang ang values: u = 12 − 3 = 9.",
+   "hint": "Replace each letter with its value, then subtract.",
+   "hintTl": "Palitan ang bawat letra ng value nito, tapos ibawas.",
+   "whyB": "15 is what you get if you add instead of subtract.",
+   "whyC": "6 is off by 3; recheck the arithmetic: the correct value is 9.",
+   "whyD": "4 is what you get if you divide instead of subtract.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1742167135,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Divide both sides by 4: x = 20 ÷ 4 = 5.",
+   "explanationTl": "I-divide ang magkabilang side sa 4: x = 20 ÷ 4 = 5.",
+   "hint": "Undo the multiplication by dividing both sides by the same number.",
+   "hintTl": "I-undo ang multiplication: i-divide ang magkabilang side sa parehong number.",
+   "stepsTl": "1. I-divide sa 4 ang magkabilang side: x = 20 ÷ 4 = 5.\n2. I-check: 4 × 5 = 20 ✓",
+   "steps": "1. Divide both sides by 4: x = 20 ÷ 4 = 5.\n2. Check: 4 × 5 = 20 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1872729228,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 8 from both sides to get 2x = 10, then divide both sides by 2: x = 5.",
+   "explanationTl": "Ibawas ang 8 sa magkabilang side para maging 2x = 10, tapos i-divide sa 2: x = 5.",
+   "stepsTl": "1. Ibawas ang 8 sa magkabilang side: 2x = 10.\n2. I-divide sa 2: x = 10 ÷ 2 = 5.\n3. I-check: 2(5) + 8 = 18 ✓",
+   "steps": "1. Subtract 8 from both sides: 2x = 10.\n2. Divide both sides by 2: x = 10 ÷ 2 = 5.\n3. Check: 2(5) + 8 = 18 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1969649687,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 6 from both sides to get 2x = 8, then divide both sides by 2: x = 4.",
+   "explanationTl": "Ibawas ang 6 sa magkabilang side para maging 2x = 8, tapos i-divide sa 2: x = 4.",
+   "stepsTl": "1. Ibawas ang 6 sa magkabilang side: 2x = 8.\n2. I-divide sa 2: x = 8 ÷ 2 = 4.\n3. I-check: 2(4) + 6 = 14 ✓",
+   "steps": "1. Subtract 6 from both sides: 2x = 8.\n2. Divide both sides by 2: x = 8 ÷ 2 = 4.\n3. Check: 2(4) + 6 = 14 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1981433697,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Subtract 9 from both sides to get 3x = 21, then divide both sides by 3: x = 7.",
+   "explanationTl": "Ibawas ang 9 sa magkabilang side para maging 3x = 21, tapos i-divide sa 3: x = 7.",
+   "stepsTl": "1. Ibawas ang 9 sa magkabilang side: 3x = 21.\n2. I-divide sa 3: x = 21 ÷ 3 = 7.\n3. I-check: 3(7) + 9 = 30 ✓",
+   "steps": "1. Subtract 9 from both sides: 3x = 21.\n2. Divide both sides by 3: x = 21 ÷ 3 = 7.\n3. Check: 3(7) + 9 = 30 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 2068710754,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added.",
+  "fields": {
+   "explanation": "Divide both sides by 3: x = 21 ÷ 3 = 7.",
+   "explanationTl": "I-divide ang magkabilang side sa 3: x = 21 ÷ 3 = 7.",
+   "hint": "Undo the multiplication by dividing both sides by the same number.",
+   "hintTl": "I-undo ang multiplication: i-divide ang magkabilang side sa parehong number.",
+   "stepsTl": "1. I-divide sa 3 ang magkabilang side: x = 21 ÷ 3 = 7.\n2. I-check: 3 × 7 = 21 ✓",
+   "steps": "1. Divide both sides by 3: x = 21 ÷ 3 = 7.\n2. Check: 3 × 7 = 21 ✓",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 16020536,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "A fraction bar means 'divided by': 7 ÷ 10 = 0.7 (seven tenths).",
+   "whyB": "0.07 is 7/100 (seven hundredths), not 7/10.",
+   "whyC": "0.77 repeats the 7; 7/10 is only seven tenths.",
+   "whyD": "7.0 is 7 ÷ 1; dividing by 10 moves the decimal point one place left.",
+   "explanationTl": "Ang fraction bar ay 'divided by': 7 ÷ 10 = 0.7 (seven tenths).",
+   "hint": "A fraction bar means 'divided by'.",
+   "hintTl": "Ang fraction bar ay ibig sabihin ay 'divided by'."
+  }
+ },
+ {
+  "id": 28730643,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Divide the numerator by the denominator: 4 ÷ 5 = 0.8. (4/5 = 8/10.)",
+   "whyB": "0.4 just copies the numerator 4; 4/5 = 8/10 = 0.8.",
+   "whyC": "0.6 is 3/5, not 4/5.",
+   "whyD": "0.2 is 1/5; that is what is left over (1 − 4/5), not 4/5 itself.",
+   "explanationTl": "I-divide ang numerator sa denominator: 4 ÷ 5 = 0.8. (Ang 4/5 ay 8/10.)",
+   "hint": "A fraction bar means 'divided by'.",
+   "hintTl": "Ang fraction bar ay ibig sabihin ay 'divided by'."
+  }
+ },
+ {
+  "id": 31986401,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; key shown as unsimplified 8/8 and whyB described a missing option; options replaced with real error patterns; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "optionA": "1",
+   "optionB": "8/16",
+   "optionC": "15/64",
+   "optionD": "2/8",
+   "explanation": "The denominators are the same, so add the numerators: 3/8 + 5/8 = 8/8 = 1.",
+   "steps": "1. Same denominator (8), so add the numerators: 3 + 5 = 8.\n2. 3/8 + 5/8 = 8/8.\n3. Simplify: 8/8 = 1.",
+   "stepsTl": "1. Pareho ang denominator (8), so i-add lang ang numerators: 3 + 5 = 8.\n2. 3/8 + 5/8 = 8/8.\n3. I-simplify: 8/8 = 1.",
+   "hint": "When the denominators match, add only the numerators.",
+   "hintTl": "Kapag pareho ang denominator, numerators lang ang i-add.",
+   "whyB": "8/16 adds the denominators too; keep the denominator 8 when adding like fractions.",
+   "whyC": "15/64 multiplies the fractions (3 × 5 over 8 × 8) instead of adding them.",
+   "whyD": "2/8 subtracts (5 − 3) instead of adding.",
+   "explanationTl": "Pareho ang denominator, so i-add lang ang numerators: 3/8 + 5/8 = 8/8 = 1."
+  }
+ },
+ {
+  "id": 58987110,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; distractors 1/2 and 2/4 were equal; replaced with error-pattern options; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "optionB": "1/8",
+   "optionC": "2/6",
+   "optionD": "1/4",
+   "explanation": "Change 1/2 to 2/4 so the denominators match: 1/4 + 2/4 = 3/4.",
+   "steps": "1. Common denominator of 4 and 2 is 4.\n2. Rewrite 1/2 as 2/4.\n3. Add: 1/4 + 2/4 = 3/4.",
+   "stepsTl": "1. Ang common denominator ng 4 at 2 ay 4.\n2. Gawing 2/4 ang 1/2.\n3. I-add: 1/4 + 2/4 = 3/4.",
+   "whyB": "1/8 multiplies the fractions (1/4 × 1/2) instead of adding them.",
+   "whyC": "2/6 adds tops and bottoms straight across (1 + 1 over 4 + 2); you need a common denominator first.",
+   "whyD": "1/4 subtracts (1/2 − 1/4) instead of adding.",
+   "explanationTl": "Gawing 2/4 ang 1/2 para pareho ang denominator: 1/4 + 2/4 = 3/4.",
+   "hintTl": "Pagparehuhin muna ang denominators, saka i-add ang numerators."
+  }
+ },
+ {
+  "id": 79446630,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; steps ended at wrong 2/1 product line; fixed; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Dividing by 1/4 is the same as multiplying by 4: 1/2 × 4 = 4/2 = 2.",
+   "steps": "1. Keep 1/2, change ÷ to ×, flip 1/4 to 4/1.\n2. Multiply: 1/2 × 4/1 = 4/2.\n3. Simplify: 4/2 = 2.\n4. Check: 2 × 1/4 = 1/2 ✓",
+   "stepsTl": "1. Keep-change-flip: 1/2 × 4/1.\n2. I-multiply: 4/2.\n3. I-simplify: 4/2 = 2.\n4. I-check: 2 × 1/4 = 1/2 ✓",
+   "whyB": "0.5 comes from flipping the wrong fraction (1/4 ÷ 1/2 = 0.5).",
+   "whyC": "1 would mean the two fractions are equal, but 1/2 is twice 1/4.",
+   "whyD": "4 is 1 ÷ 1/4; it drops the 1/2 (1/2 × 4 = 2, not 4).",
+   "explanationTl": "Ang pag-divide sa 1/4 ay pareho lang ng pag-multiply sa 4: 1/2 × 4 = 4/2 = 2.",
+   "hintTl": "Sa division ng fractions: keep, change, flip, tapos i-multiply."
+  }
+ },
+ {
+  "id": 323040468,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Multiply by the reciprocal: 3/5 × 10/3 = 30/15 = 2. Check: 2 × 3/10 = 6/10 = 3/5.",
+   "steps": "1. Keep 3/5, change ÷ to ×, flip 3/10 to 10/3.\n2. Multiply: 3/5 × 10/3 = 30/15.\n3. Simplify: 30/15 = 2.\n4. Check: 2 × 3/10 = 6/10 = 3/5 ✓",
+   "stepsTl": "1. Keep-change-flip: 3/5 × 10/3.\n2. I-multiply: 30/15.\n3. I-simplify: 30/15 = 2.\n4. I-check: 2 × 3/10 = 6/10 = 3/5 ✓",
+   "whyB": "1.5 × 3/10 = 0.45, not 3/5 = 0.6; 3/5 is exactly twice 3/10.",
+   "whyC": "1 comes from cancelling the matching 3s and ignoring the denominators; the answer depends on 10 ÷ 5.",
+   "whyD": "2.5 × 3/10 = 0.75, not 3/5 = 0.6.",
+   "explanationTl": "I-multiply sa reciprocal: 3/5 × 10/3 = 30/15 = 2. Pag chineck, 2 × 3/10 = 6/10 = 3/5.",
+   "hintTl": "Sa division ng fractions: keep, change, flip, tapos i-multiply."
+  }
+ },
+ {
+  "id": 352841657,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; odd option 0/5 replaced with 8/25; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "optionC": "8/25",
+   "explanation": "The denominators are the same, so subtract the numerators: 4/5 − 2/5 = 2/5.",
+   "steps": "1. Same denominator (5), so subtract the numerators: 4 − 2 = 2.\n2. Keep the denominator: 2/5.",
+   "stepsTl": "1. Pareho ang denominator (5), so ibawas lang ang numerators: 4 − 2 = 2.\n2. Panatilihin ang denominator: 2/5.",
+   "whyB": "6/5 adds the fractions instead of subtracting.",
+   "whyC": "8/25 multiplies the fractions (4 × 2 over 5 × 5) instead of subtracting.",
+   "whyD": "3/5 is an off-by-one slip: 4 − 2 = 2, not 3.",
+   "explanationTl": "Pareho ang denominator, so ibawas lang ang numerators: 4/5 − 2/5 = 2/5.",
+   "hintTl": "Kapag pareho ang denominator, numerators lang ang i-subtract."
+  }
+ },
+ {
+  "id": 365959526,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Change 1/2 to 4/8 so the denominators match: 3/8 + 4/8 = 7/8.",
+   "steps": "1. Common denominator of 8 and 2 is 8.\n2. Rewrite 1/2 as 4/8.\n3. Add: 3/8 + 4/8 = 7/8.",
+   "stepsTl": "1. Ang common denominator ng 8 at 2 ay 8.\n2. Gawing 4/8 ang 1/2.\n3. I-add: 3/8 + 4/8 = 7/8.",
+   "whyB": "5/8 rewrites 1/2 as 2/8; but 1/2 = 4/8.",
+   "whyC": "9/8 rewrites 1/2 as 6/8; but 1/2 = 4/8.",
+   "whyD": "11/8 rewrites 1/2 as 8/8 (= 1); but 1/2 = 4/8.",
+   "explanationTl": "Gawing 4/8 ang 1/2 para pareho ang denominator: 3/8 + 4/8 = 7/8.",
+   "hintTl": "Pagparehuhin muna ang denominators, saka i-add ang numerators."
+  }
+ },
+ {
+  "id": 368572845,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; option B 4/10 equals the key 2/5 (two correct answers), replaced with 5/8; restored lost × in explanation; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "text": "1/2 × 4/5 = ?",
+   "optionB": "5/8",
+   "explanation": "Multiply straight across: (1 × 4)/(2 × 5) = 4/10, which simplifies to 2/5.",
+   "steps": "1. Multiply the numerators: 1 × 4 = 4.\n2. Multiply the denominators: 2 × 5 = 10.\n3. Simplify: 4/10 = 2/5.",
+   "stepsTl": "1. I-multiply ang numerators: 1 × 4 = 4.\n2. I-multiply ang denominators: 2 × 5 = 10.\n3. I-simplify: 4/10 = 2/5.",
+   "whyB": "5/8 is 1/2 ÷ 4/5 (dividing instead of multiplying).",
+   "whyC": "5/10 adds the numerators (1 + 4) but multiplies the denominators; multiply both.",
+   "whyD": "3/5 is off by one in the numerator; 1 × 4 = 4, and 4/10 = 2/5.",
+   "explanationTl": "I-multiply straight across: (1 × 4)/(2 × 5) = 4/10, na pag sinimplify ay 2/5.",
+   "hintTl": "Numerator × numerator, denominator × denominator, tapos i-simplify."
+  }
+ },
+ {
+  "id": 405571457,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "7 ÷ 8 = 0.875. Since 1/8 = 0.125, 7/8 = 7 × 0.125 = 0.875.",
+   "whyB": "0.75 is 6/8 (3/4), not 7/8.",
+   "whyC": "0.625 is 5/8, not 7/8.",
+   "whyD": "0.5 is 4/8 (1/2), not 7/8.",
+   "explanationTl": "7 ÷ 8 = 0.875. Kasi ang 1/8 ay 0.125, so 7/8 = 7 × 0.125 = 0.875.",
+   "steps": "1. 1/8 = 1 ÷ 8 = 0.125.\n2. 7/8 = 7 × 0.125 = 0.875.",
+   "stepsTl": "1. 1/8 = 1 ÷ 8 = 0.125.\n2. 7/8 = 7 × 0.125 = 0.875."
+  }
+ },
+ {
+  "id": 423969208,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Divide the numerator by the denominator: 3 ÷ 5 = 0.6. (3/5 = 6/10.)",
+   "whyB": "0.3 just copies the numerator 3; 3/5 = 6/10 = 0.6.",
+   "whyC": "0.5 is 1/2, not 3/5.",
+   "whyD": "0.4 is 2/5; that is what is left over (1 − 3/5), not 3/5 itself.",
+   "explanationTl": "I-divide ang numerator sa denominator: 3 ÷ 5 = 0.6. (Ang 3/5 ay 6/10.)",
+   "hint": "A fraction bar means 'divided by'.",
+   "hintTl": "Ang fraction bar ay ibig sabihin ay 'divided by'."
+  }
+ },
+ {
+  "id": 530139021,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; teaching fields and Taglish added.",
+  "fields": {
+   "difficulty": 2,
+   "explanation": "Use the common denominator 12: 5/6 = 10/12 and 1/4 = 3/12, so the sum is 13/12 (= 1 1/12).",
+   "steps": "1. LCD of 6 and 4 is 12.\n2. 5/6 = 10/12 and 1/4 = 3/12.\n3. Add: 10/12 + 3/12 = 13/12 = 1 1/12.",
+   "stepsTl": "1. Ang LCD ng 6 at 4 ay 12.\n2. 5/6 = 10/12 at 1/4 = 3/12.\n3. I-add: 10/12 + 3/12 = 13/12 = 1 1/12.",
+   "hint": "Find the least common denominator of 6 and 4 first.",
+   "hintTl": "Hanapin muna ang LCD ng 6 at 4.",
+   "whyA": "19/12 converts 1/4 to 9/12; but 1/4 = 3/12 (multiply top and bottom by 3).",
+   "whyC": "11/12 converts 5/6 to 8/12; but 5/6 = 10/12 (multiply top and bottom by 2).",
+   "whyD": "17/12 converts 1/4 to 7/12; but 1/4 = 3/12.",
+   "explanationTl": "Gamitin ang common denominator na 12: 5/6 = 10/12 at 1/4 = 3/12, so ang sum ay 13/12 (= 1 1/12)."
+  }
+ }
+]

@@ -126,13 +126,6 @@
   "note": "5*4"
  },
  {
-  "id": 338613393,
-  "answer": "B",
-  "confidence": "sure",
-  "ambiguous": false,
-  "note": "3/8=.375"
- },
- {
   "id": 878196308,
   "answer": "A",
   "confidence": "sure",
@@ -418,5 +411,12 @@
   "confidence": "sure",
   "ambiguous": false,
   "note": "endure"
+ },
+ {
+  "id": 338613393,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "final round rewrite: 13/16 = 0.8125"
  }
 ]

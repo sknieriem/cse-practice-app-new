@@ -1,0 +1,352 @@
+[
+ {
+  "id": 575327329,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 576568562,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 587468643,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 622723241,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 638882162,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 677809236,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 700053876,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 896153988,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1058231597,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1143157816,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1145987261,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1146810600,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1163252312,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": true,
+  "note": "sum is 1; A '1' and D '4/4' are equal"
+ },
+ {
+  "id": 1239435879,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "C 1/2 and D 2/4 equal (both wrong)"
+ },
+ {
+  "id": 1282675002,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1289525931,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1503529359,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1592472316,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1638683339,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1811722055,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1926436224,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1928932917,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2142799229,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 370958632,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1117933412,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2534123,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 3468809,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 7053621,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 17673390,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 109798819,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 129702408,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 151446441,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 233447895,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 359417545,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 361904332,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 371119905,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 396053749,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 412352093,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 472003763,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 486168981,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 502630425,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 524804337,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 544645056,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 560700723,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 563217599,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 665464439,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 750335784,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 784213915,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 809250212,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": true,
+  "note": "'(approx)' makes 400 (1/3 off) arguable"
+ },
+ {
+  "id": 962980247,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ }
+]

@@ -1,0 +1,830 @@
+[
+ {
+  "id": 18736513,
+  "category": "Numerical Ability",
+  "text": "If d = e × f and e=9, f=2, what is d?",
+  "optionA": "18",
+  "optionB": "11",
+  "optionC": "7",
+  "optionD": "4.5"
+ },
+ {
+  "id": 44635576,
+  "category": "Numerical Ability",
+  "text": "If o = p × q and p=5, q=5, what is o?",
+  "optionA": "25",
+  "optionB": "10",
+  "optionC": "0",
+  "optionD": "30"
+ },
+ {
+  "id": 137008744,
+  "category": "Numerical Ability",
+  "text": "The sum of two consecutive even numbers is 46. What is the larger number?",
+  "optionA": "22",
+  "optionB": "23",
+  "optionC": "26",
+  "optionD": "24"
+ },
+ {
+  "id": 163420006,
+  "category": "Numerical Ability",
+  "text": "If p = q × r and q=3, r=7, what is p?",
+  "optionA": "21",
+  "optionB": "10",
+  "optionC": "4",
+  "optionD": "14"
+ },
+ {
+  "id": 501653222,
+  "category": "Numerical Ability",
+  "text": "Ana is 4 years older than her brother. The sum of their ages is 30. How old is Ana?",
+  "optionA": "13",
+  "optionB": "15",
+  "optionC": "26",
+  "optionD": "17"
+ },
+ {
+  "id": 613514249,
+  "category": "Numerical Ability",
+  "text": "If a = b − c and b=20, c=5, what is a?",
+  "optionA": "15",
+  "optionB": "25",
+  "optionC": "10",
+  "optionD": "5"
+ },
+ {
+  "id": 791680526,
+  "category": "Numerical Ability",
+  "text": "If g = h − i and h=15, i=5, what is g?",
+  "optionA": "10",
+  "optionB": "20",
+  "optionC": "5",
+  "optionD": "0"
+ },
+ {
+  "id": 801306741,
+  "category": "Numerical Ability",
+  "text": "When a number is multiplied by 4 and then decreased by 9, the result is 27. What is the number?",
+  "optionA": "4.5",
+  "optionB": "9",
+  "optionC": "36",
+  "optionD": "6.75"
+ },
+ {
+  "id": 936579359,
+  "category": "Numerical Ability",
+  "text": "If s = t ÷ u and t=30, u=5, what is s?",
+  "optionA": "6",
+  "optionB": "150",
+  "optionC": "25",
+  "optionD": "35"
+ },
+ {
+  "id": 936690097,
+  "category": "Numerical Ability",
+  "text": "If 3x − 7 = 2x + 5, what is x?",
+  "optionA": "2",
+  "optionB": "−2",
+  "optionC": "12",
+  "optionD": "−12"
+ },
+ {
+  "id": 964210595,
+  "category": "Numerical Ability",
+  "text": "If v = w × x and w=4, x=5, what is v?",
+  "optionA": "20",
+  "optionB": "9",
+  "optionC": "1",
+  "optionD": "25"
+ },
+ {
+  "id": 1255597869,
+  "category": "Numerical Ability",
+  "text": "If a = b ÷ c and b=24, c=6, what is a?",
+  "optionA": "4",
+  "optionB": "30",
+  "optionC": "18",
+  "optionD": "144"
+ },
+ {
+  "id": 1382536928,
+  "category": "Numerical Ability",
+  "text": "If r = s × t and s=8, t=2, what is r?",
+  "optionA": "16",
+  "optionB": "10",
+  "optionC": "6",
+  "optionD": "4"
+ },
+ {
+  "id": 1475965536,
+  "category": "Numerical Ability",
+  "text": "If 2(x + 3) = 22, what is x?",
+  "optionA": "9.5",
+  "optionB": "11",
+  "optionC": "8",
+  "optionD": "14"
+ },
+ {
+  "id": 1718274329,
+  "category": "Numerical Ability",
+  "text": "If u = v − w and v=12, w=3, what is u?",
+  "optionA": "9",
+  "optionB": "15",
+  "optionC": "6",
+  "optionD": "4"
+ },
+ {
+  "id": 31986401,
+  "category": "Numerical Ability",
+  "text": "3/8 + 5/8 = ?",
+  "optionA": "1",
+  "optionB": "8/16",
+  "optionC": "15/64",
+  "optionD": "2/8"
+ },
+ {
+  "id": 58987110,
+  "category": "Numerical Ability",
+  "text": "1/4 + 1/2 = ?",
+  "optionA": "3/4",
+  "optionB": "1/8",
+  "optionC": "2/6",
+  "optionD": "1/4"
+ },
+ {
+  "id": 352841657,
+  "category": "Numerical Ability",
+  "text": "4/5 - 2/5 = ?",
+  "optionA": "2/5",
+  "optionB": "6/5",
+  "optionC": "8/25",
+  "optionD": "3/5"
+ },
+ {
+  "id": 368572845,
+  "category": "Numerical Ability",
+  "text": "1/2 × 4/5 = ?",
+  "optionA": "2/5",
+  "optionB": "5/8",
+  "optionC": "5/10",
+  "optionD": "3/5"
+ },
+ {
+  "id": 1058231597,
+  "category": "Numerical Ability",
+  "text": "1/3 × 3/1 = ?",
+  "optionA": "1",
+  "optionB": "1/3",
+  "optionC": "3",
+  "optionD": "0"
+ },
+ {
+  "id": 1163252312,
+  "category": "Numerical Ability",
+  "text": "3/4 + 5/6 = ?",
+  "optionA": "1 1/2",
+  "optionB": "4/5",
+  "optionC": "1 7/12",
+  "optionD": "1 5/12"
+ },
+ {
+  "id": 1239435879,
+  "category": "Numerical Ability",
+  "text": "1/2 + 1/4 = ?",
+  "optionA": "3/4",
+  "optionB": "1/4",
+  "optionC": "1/2",
+  "optionD": "2/6"
+ },
+ {
+  "id": 1503529359,
+  "category": "Numerical Ability",
+  "text": "Convert 7/20 to a decimal.",
+  "optionA": "0.035",
+  "optionB": "0.35",
+  "optionC": "3.5",
+  "optionD": "0.7"
+ },
+ {
+  "id": 370958632,
+  "category": "Numerical Ability",
+  "text": "What is the area of a circle with a radius of 5 cm? (Use π = 3.14.)",
+  "optionA": "78.5 cm²",
+  "optionB": "31.4 cm²",
+  "optionC": "15.7 cm²",
+  "optionD": "25 cm²"
+ },
+ {
+  "id": 1117933412,
+  "category": "Numerical Ability",
+  "text": "What is the sum of the interior angles of a nonagon (a 9-sided polygon)?",
+  "optionA": "1,080°",
+  "optionB": "1,440°",
+  "optionC": "1,620°",
+  "optionD": "1,260°"
+ },
+ {
+  "id": 2534123,
+  "category": "Numerical Ability",
+  "text": "A refrigerator priced at Php 20,000 is sold at a 15% discount. What is the final price?",
+  "optionA": "₱17,000",
+  "optionB": "₱18,000",
+  "optionC": "₱16,000",
+  "optionD": "₱19,000"
+ },
+ {
+  "id": 7053621,
+  "category": "Numerical Ability",
+  "text": "A bag priced at Php 1,500 is sold at a 20% discount. What is the final price?",
+  "optionA": "₱1,200",
+  "optionB": "₱1,300",
+  "optionC": "₱1,100",
+  "optionD": "₱1,400"
+ },
+ {
+  "id": 17673390,
+  "category": "Numerical Ability",
+  "text": "A ring marked Php 3,000 is sold for Php 2,400. What is the rate of discount?",
+  "optionA": "25%",
+  "optionB": "20%",
+  "optionC": "80%",
+  "optionD": "30%"
+ },
+ {
+  "id": 233447895,
+  "category": "Numerical Ability",
+  "text": "What is 30% of 40% of 900?",
+  "optionA": "630",
+  "optionB": "270",
+  "optionC": "360",
+  "optionD": "108"
+ },
+ {
+  "id": 359417545,
+  "category": "Numerical Ability",
+  "text": "A TV priced at Php 15,000 is sold at a 20% discount. What is the final price?",
+  "optionA": "₱12,000",
+  "optionB": "₱13,000",
+  "optionC": "₱11,000",
+  "optionD": "₱14,000"
+ },
+ {
+  "id": 361904332,
+  "category": "Numerical Ability",
+  "text": "20 is what percent of 80?",
+  "optionA": "400%",
+  "optionB": "20%",
+  "optionC": "25%",
+  "optionD": "75%"
+ },
+ {
+  "id": 371119905,
+  "category": "Numerical Ability",
+  "text": "A backpack priced at Php 900 is sold at a 10% discount. What is the final price?",
+  "optionA": "₱810",
+  "optionB": "₱800",
+  "optionC": "₱850",
+  "optionD": "₱820"
+ },
+ {
+  "id": 412352093,
+  "category": "Numerical Ability",
+  "text": "150 is 60% of what number?",
+  "optionA": "90",
+  "optionB": "250",
+  "optionC": "240",
+  "optionD": "225"
+ },
+ {
+  "id": 544645056,
+  "category": "Numerical Ability",
+  "text": "A toy priced at Php 200 is sold at a 25% discount. What is the final price?",
+  "optionA": "₱150",
+  "optionB": "₱160",
+  "optionC": "₱140",
+  "optionD": "₱170"
+ },
+ {
+  "id": 560700723,
+  "category": "Numerical Ability",
+  "text": "A ticket priced at Php 500 is sold at a 40% discount. What is the final price?",
+  "optionA": "₱300",
+  "optionB": "₱200",
+  "optionC": "₱400",
+  "optionD": "₱350"
+ },
+ {
+  "id": 665464439,
+  "category": "Numerical Ability",
+  "text": "A watch priced at Php 2,000 is marked up by 10%, then the new price is discounted by 10%. What is the final price?",
+  "optionA": "₱2,000",
+  "optionB": "₱1,800",
+  "optionC": "₱2,200",
+  "optionD": "₱1,980"
+ },
+ {
+  "id": 784213915,
+  "category": "Numerical Ability",
+  "text": "After a 15% discount, a table sells for Php 1,700. What was its original price?",
+  "optionA": "₱1,955",
+  "optionB": "₱1,445",
+  "optionC": "₱2,000",
+  "optionD": "₱2,125"
+ },
+ {
+  "id": 809250212,
+  "category": "Numerical Ability",
+  "text": "A vase priced at Php 600 is sold at a 33% discount. What is the final price?",
+  "optionA": "₱402",
+  "optionB": "₱400",
+  "optionC": "₱450",
+  "optionD": "₱500"
+ },
+ {
+  "id": 962980247,
+  "category": "Numerical Ability",
+  "text": "A book priced at Php 100 is sold at a 10% discount. What is the final price?",
+  "optionA": "₱90",
+  "optionB": "₱95",
+  "optionC": "₱85",
+  "optionD": "₱80"
+ },
+ {
+  "id": 1034163153,
+  "category": "Numerical Ability",
+  "text": "A suitcase priced at ₱2,000 is sold at a 10% discount. What is the final price?",
+  "optionA": "₱1,800",
+  "optionB": "₱1,900",
+  "optionC": "₱1,700",
+  "optionD": "₱2,100"
+ },
+ {
+  "id": 1046167917,
+  "category": "Numerical Ability",
+  "text": "A shirt priced at ₱500 is sold at a 10% discount. What is the final price?",
+  "optionA": "₱450",
+  "optionB": "₱460",
+  "optionC": "₱440",
+  "optionD": "₱470"
+ },
+ {
+  "id": 1128962153,
+  "category": "Numerical Ability",
+  "text": "A dress priced at ₱1,200 is sold at a 35% discount. What is the final price?",
+  "optionA": "₱780",
+  "optionB": "₱800",
+  "optionC": "₱840",
+  "optionD": "₱900"
+ },
+ {
+  "id": 1239217986,
+  "category": "Numerical Ability",
+  "text": "A product priced at ₱200 is sold at a 15% discount. What is the final price?",
+  "optionA": "₱170",
+  "optionB": "₱180",
+  "optionC": "₱185",
+  "optionD": "₱190"
+ },
+ {
+  "id": 1239572957,
+  "category": "Numerical Ability",
+  "text": "A book bag priced at ₱800 is sold at a 5% discount. What is the final price?",
+  "optionA": "₱760",
+  "optionB": "₱780",
+  "optionC": "₱750",
+  "optionD": "₱770"
+ },
+ {
+  "id": 1258482156,
+  "category": "Numerical Ability",
+  "text": "A lamp priced at ₱1,000 is sold at a 5% discount. What is the final price?",
+  "optionA": "₱950",
+  "optionB": "₱900",
+  "optionC": "₱975",
+  "optionD": "₱925"
+ },
+ {
+  "id": 1722694396,
+  "category": "Numerical Ability",
+  "text": "A chair priced at ₱800 is sold at a 25% discount. What is the final price?",
+  "optionA": "₱600",
+  "optionB": "₱650",
+  "optionC": "₱550",
+  "optionD": "₱700"
+ },
+ {
+  "id": 1874868955,
+  "category": "Numerical Ability",
+  "text": "A tablet priced at ₱6,000 is sold at a 12% discount. What is the final price?",
+  "optionA": "₱5,280",
+  "optionB": "₱5,400",
+  "optionC": "₱5,500",
+  "optionD": "₱5,200"
+ },
+ {
+  "id": 1894759780,
+  "category": "Numerical Ability",
+  "text": "A printer priced at ₱5,000 is sold at a 10% discount. What is the final price?",
+  "optionA": "₱4,500",
+  "optionB": "₱4,600",
+  "optionC": "₱4,800",
+  "optionD": "₱4,700"
+ },
+ {
+  "id": 2002118777,
+  "category": "Numerical Ability",
+  "text": "A desk priced at ₱2,500 is sold at a 20% discount. What is the final price?",
+  "optionA": "₱2,000",
+  "optionB": "₱2,100",
+  "optionC": "₱1,900",
+  "optionD": "₱2,200"
+ },
+ {
+  "id": 2026231194,
+  "category": "Numerical Ability",
+  "text": "A shirt priced at ₱400 is sold at a 30% discount. What is the final price?",
+  "optionA": "₱280",
+  "optionB": "₱300",
+  "optionC": "₱320",
+  "optionD": "₱350"
+ },
+ {
+  "id": 21637000,
+  "category": "Numerical Ability",
+  "text": "A train travels 150 km in 2.5 hours. What is the average speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "80"
+ },
+ {
+  "id": 616752205,
+  "category": "Numerical Ability",
+  "text": "A train travels 180 km in 3 hours. What is the average speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "40"
+ },
+ {
+  "id": 819016037,
+  "category": "Numerical Ability",
+  "text": "A runner runs 5 km in 30 minutes. What is the average speed in km/h?",
+  "optionA": "10",
+  "optionB": "5",
+  "optionC": "15",
+  "optionD": "20"
+ },
+ {
+  "id": 1168844396,
+  "category": "Numerical Ability",
+  "text": "A ship sails 100 km in 5 hours. What is the average speed in km/h?",
+  "optionA": "20",
+  "optionB": "25",
+  "optionC": "15",
+  "optionD": "30"
+ },
+ {
+  "id": 1450218721,
+  "category": "Numerical Ability",
+  "text": "A train covers 150 km in 3 hours. What is the average speed in km/h?",
+  "optionA": "50",
+  "optionB": "45",
+  "optionC": "55",
+  "optionD": "60"
+ },
+ {
+  "id": 1583697436,
+  "category": "Numerical Ability",
+  "text": "A bike travels 45 km in 3 hours. What is the average speed in km/h?",
+  "optionA": "15",
+  "optionB": "10",
+  "optionC": "20",
+  "optionD": "25"
+ },
+ {
+  "id": 1616971220,
+  "category": "Numerical Ability",
+  "text": "A small plane flies 1,000 km in 5 hours. What is the average speed in km/h?",
+  "optionA": "200",
+  "optionB": "150",
+  "optionC": "250",
+  "optionD": "300"
+ },
+ {
+  "id": 1662033560,
+  "category": "Numerical Ability",
+  "text": "A bird flies 60 km in 2 hours. What is the average speed in km/h?",
+  "optionA": "30",
+  "optionB": "40",
+  "optionC": "20",
+  "optionD": "50"
+ },
+ {
+  "id": 1727789032,
+  "category": "Numerical Ability",
+  "text": "A boat sails 50 km in 2.5 hours. What is the average speed in km/h?",
+  "optionA": "20",
+  "optionB": "25",
+  "optionC": "15",
+  "optionD": "30"
+ },
+ {
+  "id": 1795293669,
+  "category": "Numerical Ability",
+  "text": "A vehicle travels 80 km in 2 hours. What is the average speed in km/h?",
+  "optionA": "40",
+  "optionB": "30",
+  "optionC": "50",
+  "optionD": "60"
+ },
+ {
+  "id": 1844218369,
+  "category": "Numerical Ability",
+  "text": "A person walks 6 km in 1.5 hours. What is the average speed in km/h?",
+  "optionA": "4",
+  "optionB": "9",
+  "optionC": "6",
+  "optionD": "3"
+ },
+ {
+  "id": 61612099,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 11, 22, 33, 44, ___?",
+  "optionA": "55",
+  "optionB": "50",
+  "optionC": "60",
+  "optionD": "66"
+ },
+ {
+  "id": 71613500,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 2, 3, 5, 8, 13, ___?",
+  "optionA": "21",
+  "optionB": "18",
+  "optionC": "20",
+  "optionD": "26"
+ },
+ {
+  "id": 229668329,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 5, 10, 20, 40, 80, ___?",
+  "optionA": "160",
+  "optionB": "120",
+  "optionC": "100",
+  "optionD": "200"
+ },
+ {
+  "id": 295236567,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 9, 18, 27, 36, ___?",
+  "optionA": "45",
+  "optionB": "40",
+  "optionC": "50",
+  "optionD": "54"
+ },
+ {
+  "id": 313706109,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 5, 25, 125, 625, ___?",
+  "optionA": "3125",
+  "optionB": "2500",
+  "optionC": "1875",
+  "optionD": "3750"
+ },
+ {
+  "id": 708795230,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 5, 12, 19, 26, ___?",
+  "optionA": "33",
+  "optionB": "30",
+  "optionC": "35",
+  "optionD": "28"
+ },
+ {
+  "id": 771212884,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 9, 16, 25, 36, ___?",
+  "optionA": "49",
+  "optionB": "45",
+  "optionC": "40",
+  "optionD": "50"
+ },
+ {
+  "id": 843768879,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 7, 14, 21, 28, 35, ___?",
+  "optionA": "42",
+  "optionB": "40",
+  "optionC": "45",
+  "optionD": "38"
+ },
+ {
+  "id": 976181267,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 2, 4, 8, 16, 32, 64, ___?",
+  "optionA": "128",
+  "optionB": "96",
+  "optionC": "80",
+  "optionD": "112"
+ },
+ {
+  "id": 994011568,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 3, 6, 9, 12, 15, ___?",
+  "optionA": "18",
+  "optionB": "16",
+  "optionC": "17",
+  "optionD": "20"
+ },
+ {
+  "id": 1004781068,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 9, 27, 81, 243, ___?",
+  "optionA": "324",
+  "optionB": "567",
+  "optionC": "729",
+  "optionD": "810"
+ },
+ {
+  "id": 1009460950,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 6, 11, 16, 21, ___?",
+  "optionA": "26",
+  "optionB": "25",
+  "optionC": "27",
+  "optionD": "22"
+ },
+ {
+  "id": 1082197594,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 3, 6, 12, 24, ___?",
+  "optionA": "36",
+  "optionB": "30",
+  "optionC": "48",
+  "optionD": "42"
+ },
+ {
+  "id": 1128166657,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 4, 7, 11, 16, 22, ___?",
+  "optionA": "29",
+  "optionB": "28",
+  "optionC": "30",
+  "optionD": "27"
+ },
+ {
+  "id": 1330807307,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 4, 16, 64, 256, ___?",
+  "optionA": "1024",
+  "optionB": "512",
+  "optionC": "768",
+  "optionD": "1280"
+ },
+ {
+  "id": 1426312682,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 15, 30, 45, 60, ___?",
+  "optionA": "75",
+  "optionB": "70",
+  "optionC": "80",
+  "optionD": "65"
+ },
+ {
+  "id": 1671064592,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 6, 9, 14, 21, ___?",
+  "optionA": "30",
+  "optionB": "28",
+  "optionC": "29",
+  "optionD": "31"
+ },
+ {
+  "id": 1756506514,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 4, 10, 16, 22, ___?",
+  "optionA": "28",
+  "optionB": "26",
+  "optionC": "30",
+  "optionD": "24"
+ },
+ {
+  "id": 1932086141,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 4, 6, 9, 13, 18, ___?",
+  "optionA": "24",
+  "optionB": "22",
+  "optionC": "25",
+  "optionD": "20"
+ },
+ {
+  "id": 1337583559,
+  "category": "Numerical Ability",
+  "text": "If 5 cleaners can clean 5 rooms in 5 hours, how many hours will 10 cleaners take to clean 10 rooms, working at the same rate?",
+  "optionA": "5",
+  "optionB": "10",
+  "optionC": "2.5",
+  "optionD": "7.5"
+ },
+ {
+  "id": 1359859362,
+  "category": "Numerical Ability",
+  "text": "If 9 gardeners can plant 9 trees in 9 hours, how many hours will 3 gardeners take to plant 3 trees, working at the same rate?",
+  "optionA": "9",
+  "optionB": "3",
+  "optionC": "27",
+  "optionD": "6"
+ },
+ {
+  "id": 88038315,
+  "category": "Verbal Ability",
+  "text": "What does 'ring' mean in the sentence 'The ring of the phone woke the baby.'?",
+  "optionA": "Jewelry",
+  "optionB": "Sound",
+  "optionC": "Circle",
+  "optionD": "Arena"
+ },
+ {
+  "id": 270441497,
+  "category": "Verbal Ability",
+  "text": "Tempestuous times preceded the EDSA People Power Revolution.\n\nIn this sentence, 'tempestuous' most nearly means:",
+  "optionA": "turbulent",
+  "optionB": "temperate",
+  "optionC": "prosperous",
+  "optionD": "peaceful"
+ },
+ {
+  "id": 348158755,
+  "category": "Verbal Ability",
+  "text": "She took a heuristic approach to learning the new software.\n\nIn this sentence, 'heuristic' most nearly means:",
+  "optionA": "Trial-and-error",
+  "optionB": "Rule-bound",
+  "optionC": "Theoretical",
+  "optionD": "Hesitant"
+ },
+ {
+  "id": 512802694,
+  "category": "Verbal Ability",
+  "text": "The evidence is circumstantial.\n\nIn this sentence, 'circumstantial' most nearly means:",
+  "optionA": "Direct",
+  "optionB": "Indirect",
+  "optionC": "Fabricated",
+  "optionD": "Irrelevant"
+ },
+ {
+  "id": 887175825,
+  "category": "Verbal Ability",
+  "text": "The old water pipes were made of lead, so the city replaced them.\n\nIn this sentence, 'lead' most nearly means:",
+  "optionA": "A heavy metal",
+  "optionB": "To guide",
+  "optionC": "First place",
+  "optionD": "A clue"
+ },
+ {
+  "id": 1789195763,
+  "category": "Verbal Ability",
+  "text": "The leader was charismatic.\n\nIn this sentence, 'charismatic' most nearly means:",
+  "optionA": "Dull",
+  "optionB": "Charming",
+  "optionC": "Strict",
+  "optionD": "Wealthy"
+ },
+ {
+  "id": 1998902051,
+  "category": "Verbal Ability",
+  "text": "His argument was fallacious.\n\nIn this sentence, 'fallacious' most nearly means:",
+  "optionA": "Logical",
+  "optionB": "Misleading",
+  "optionC": "Lengthy",
+  "optionD": "Persuasive"
+ },
+ {
+  "id": 2007151308,
+  "category": "Verbal Ability",
+  "text": "The remark was facetious.\n\nIn this sentence, 'facetious' most nearly means:",
+  "optionA": "Serious",
+  "optionB": "Flippant",
+  "optionC": "Bitter",
+  "optionD": "Thoughtful"
+ },
+ {
+  "id": 2022023427,
+  "category": "Verbal Ability",
+  "text": "He is meticulous about cleanliness.\n\nIn this sentence, 'meticulous' most nearly means:",
+  "optionA": "Careless",
+  "optionB": "Fastidious",
+  "optionC": "Anxious",
+  "optionD": "Boastful"
+ },
+ {
+  "id": 2101568615,
+  "category": "Verbal Ability",
+  "text": "The accused was promised a fair trial.\n\nIn this sentence, 'fair' most nearly means:",
+  "optionA": "Impartial",
+  "optionB": "Carnival",
+  "optionC": "Light-colored",
+  "optionD": "Average"
+ }
+]

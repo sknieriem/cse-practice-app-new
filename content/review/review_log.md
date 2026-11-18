@@ -1,4 +1,4 @@
-# Review of original questions (1001 reviewed)
+# Review of original questions (1162 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | r8 | 16 | 61 | 1 | 22 | 0 |
 | r9 | 25 | 65 | 1 | 9 | 0 |
 | r10 | 2 | 57 | 0 | 41 | 0 |
+| r11 | 9 | 130 | 0 | 22 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -727,7 +728,7 @@
 | r8 | 379682279 | General Information | rewritten | 'Solar' in the stem gave the answer away; rewritten to the photovoltaic effect on the same subtopic. |
 | r8 | 758915308 | General Information | rewritten | Second answer: oxygen is also used in oxy-acetylene welding and CO2 is a common MIG shielding gas; stem narrowed to the fuel gas. |
 | r8 | 1383073297 | Numerical Ability | rewritten | near-duplicate of 1291586413 (plain a = b + c); now a two-operation substitution |
-| r8 | 338613393 | Numerical Ability | rewritten | near-duplicate of 70033427 (x/10 to decimal); now 3/8, a real conversion |
+| r8 | 338613393 | Numerical Ability | rewritten | near-duplicate of 70033427 (x/10 to decimal); now 3/8, a real conversion; final round: 3/8 collided with r6 rewrite 264154965, now 13/16 |
 | r8 | 1486412531 | Numerical Ability | rewritten | trivia (sides of a rectangle) rewritten into a rectangle perimeter problem |
 | r8 | 1630710049 | Numerical Ability | rewritten | near-duplicate of the other plain discount items; now a reverse-discount problem |
 | r8 | 1882087395 | Numerical Ability | rewritten | near-duplicate of 1167311905 (10% of N); now a 'what percent' problem |
@@ -1016,3 +1017,164 @@
 | r10 | 2076974067 | Verbal Ability | minor edit | Distractors Weak/Timid/Fearful were near-duplicates; replaced two; stem given context |
 | r10 | 1860556752 | General Information | unchanged | Key correct; added whys, hint and Taglish fields |
 | r10 | 460136134 | Verbal Ability | unchanged | Clear context item; teaching fields added |
+| r11 | 137008744 | Numerical Ability | rewritten | Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic. |
+| r11 | 501653222 | Numerical Ability | rewritten | Rewritten after bank-wide fuzzy duplicate scan: New age problem (younger sibling, sum 38) replaces duplicate Ana/brother item. |
+| r11 | 801306741 | Numerical Ability | rewritten | Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic. |
+| r11 | 936690097 | Numerical Ability | rewritten | Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic. |
+| r11 | 1475965536 | Numerical Ability | rewritten | Duplicate/near-duplicate of another item in the batch; replaced with a CSE-style algebra problem on the same subtopic. |
+| r11 | 1163252312 | Numerical Ability | rewritten | Options A (1) and D (4/4) were equal, so two answers; rewrote as an unlike-denominator sum with a mixed-number answer. |
+| r11 | 1503529359 | Numerical Ability | rewritten | Rewritten after bank-wide fuzzy duplicate scan: Changed fraction from 7/20 to 9/25 so it no longer duplicates the existing 7/20 item. |
+| r11 | 1926436224 | Numerical Ability | rewritten | Rewritten after bank-wide fuzzy duplicate scan: Changed fraction from 3/4 to 11/20 so it no longer duplicates the existing 3/4 item. |
+| r11 | 1117933412 | Numerical Ability | rewritten | Trivia ('number of sides in a nonagon'); rewrote as a real computation on the same subtopic (interior angle sum). |
+| r11 | 17673390 | Numerical Ability | rewritten | Near-duplicate of 7053621/359417545 (same 20%-off template); rewrote as finding the rate of discount. |
+| r11 | 233447895 | Numerical Ability | rewritten | Near-duplicate of 472003763 ('What is 30% of ...'); rewrote as a percent of a percent. |
+| r11 | 361904332 | Numerical Ability | rewritten | Near-duplicate of 3468809 ('What is 50% of ...'); rewrote as finding what percent one number is of another. |
+| r11 | 412352093 | Numerical Ability | rewritten | Near-duplicate of 129702408 (same base 250, 'What is x% of 250'); rewrote as finding the whole from a percent. |
+| r11 | 665464439 | Numerical Ability | rewritten | Near-duplicate of 371119905/962980247 (same 10%-off template); rewrote as markup-then-discount. |
+| r11 | 784213915 | Numerical Ability | rewritten | Near-duplicate of 2534123 (same 15%-off template); rewrote as finding the original price. |
+| r11 | 1844218369 | Numerical Ability | rewritten | original gave the answer in the stem (4 km in 1 hour); now 6 km in 1.5 h, still 4 km/h |
+| r11 | 229668329 | Numerical Ability | rewritten | Rewritten after bank-wide fuzzy duplicate scan: New doubling series starting at 11 replaces duplicate 5, 10, 20, 40, 80 item. |
+| r11 | 994011568 | Numerical Ability | rewritten | Rewritten after bank-wide fuzzy duplicate scan: New add-7 series replaces duplicate 3, 6, 9, 12 item. |
+| r11 | 1082197594 | Numerical Ability | rewritten | near-duplicate of 976181267 (2, 4, 8, 16 doubling); changed to 3, 6, 12, 24 → 48, key stays C |
+| r11 | 1671064592 | Numerical Ability | rewritten | near-duplicate of 994011568 (3, 6, 9, 12, 15 → 18); changed to 6, 9, 14, 21 → 30 |
+| r11 | 887175825 | Verbal Ability | rewritten | Banned 'Both A and B'/'None' option set; rewritten as a context-based homonym item |
+| r11 | 2101568615 | Verbal Ability | rewritten | Banned 'Both A and B'/'None' option set; rewritten as a context-based homonym item |
+| r11 | 16622609 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 18736513 | Numerical Ability | minor edit | Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 43362612 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 44635576 | Numerical Ability | minor edit | Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 97819574 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 131334821 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 163420006 | Numerical Ability | minor edit | Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 275595171 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 312606242 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 472782799 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 508694710 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 613514249 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 643796901 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 712865075 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 764880434 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 765744058 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 791680526 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 936579359 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 964210595 | Numerical Ability | minor edit | Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 982197348 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 1220452325 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 1238012456 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 1255597869 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 1382536928 | Numerical Ability | minor edit | Key correct; restored lost × in explanation; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 1508056161 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 1545075671 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 1663256153 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 1718274329 | Numerical Ability | minor edit | Key correct; * written as ×; difficulty set to Subprofessional; whyX and Taglish added. |
+| r11 | 1742167135 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 1872729228 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 1969649687 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 1981433697 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 2068710754 | Numerical Ability | minor edit | Key correct and whyX verified; terse explanation expanded, check step numbered, difficulty set to Subprofessional, Taglish explanation added. |
+| r11 | 16020536 | Numerical Ability | minor edit | Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 28730643 | Numerical Ability | minor edit | Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 31986401 | Numerical Ability | minor edit | Key correct; key shown as unsimplified 8/8 and whyB described a missing option; options replaced with real error patterns; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 58987110 | Numerical Ability | minor edit | Key correct; distractors 1/2 and 2/4 were equal; replaced with error-pattern options; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 79446630 | Numerical Ability | minor edit | Key correct; steps ended at wrong 2/1 product line; fixed; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 323040468 | Numerical Ability | minor edit | Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 352841657 | Numerical Ability | minor edit | Key correct; odd option 0/5 replaced with 8/25; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 365959526 | Numerical Ability | minor edit | Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 368572845 | Numerical Ability | minor edit | Key correct; option B 4/10 equals the key 2/5 (two correct answers), replaced with 5/8; restored lost × in explanation; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 405571457 | Numerical Ability | minor edit | Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 423969208 | Numerical Ability | minor edit | Key correct; difficulty set to Subprofessional level; teaching fields and Taglish added. |
+| r11 | 530139021 | Numerical Ability | minor edit | Key correct; teaching fields and Taglish added. |
+| r11 | 575327329 | Numerical Ability | minor edit | Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). Old steps worked a different problem (2/4 + 1/4). |
+| r11 | 576568562 | Numerical Ability | minor edit | Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). |
+| r11 | 622723241 | Numerical Ability | minor edit | Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1. |
+| r11 | 638882162 | Numerical Ability | minor edit | Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). Old step 1 said 'common denominator of 3 and 2'. |
+| r11 | 677809236 | Numerical Ability | minor edit | Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). |
+| r11 | 896153988 | Numerical Ability | minor edit | Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1. |
+| r11 | 1058231597 | Numerical Ability | minor edit | Key correct; replaced '*' with '×' in the stem and fixed lost × signs in the explanation ('(13)/(31)'). Set difficulty 1. |
+| r11 | 1143157816 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1. |
+| r11 | 1146810600 | Numerical Ability | minor edit | Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1. |
+| r11 | 1239435879 | Numerical Ability | minor edit | Options C (1/2) and D (2/4) were equal; replaced D with 2/6 (adding tops and bottoms). Set difficulty 1. |
+| r11 | 1282675002 | Numerical Ability | minor edit | Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1. |
+| r11 | 1592472316 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1. |
+| r11 | 1638683339 | Numerical Ability | minor edit | Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). Old step 1 said 'common denominator of 4 and 8'. |
+| r11 | 1928932917 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1. |
+| r11 | 370958632 | Numerical Ability | minor edit | Key correct; added units (cm, cm²), fixed lost ×/² in explanation ('3.1425'), added missing fields. |
+| r11 | 2534123 | Numerical Ability | minor edit | Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1. |
+| r11 | 3468809 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 7053621 | Numerical Ability | minor edit | Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1. |
+| r11 | 129702408 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 151446441 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 359417545 | Numerical Ability | minor edit | Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1. |
+| r11 | 371119905 | Numerical Ability | minor edit | Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1. |
+| r11 | 472003763 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 486168981 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 502630425 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 524804337 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 544645056 | Numerical Ability | minor edit | Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1. |
+| r11 | 560700723 | Numerical Ability | minor edit | Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1. |
+| r11 | 563217599 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 750335784 | Numerical Ability | minor edit | Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step). |
+| r11 | 809250212 | Numerical Ability | minor edit | Key correct; removed '(approx)': with it, ₱400 (1/3 off) was also defensible. Added peso units, replaced formulaic whys, added explanationTl. Recheck: distractor ₱400 (33⅓% reading) replaced with ₱198 to leave one defensible answer. |
+| r11 | 962980247 | Numerical Ability | minor edit | Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1. |
+| r11 | 981269248 | Numerical Ability | minor edit | key correct; difficulty set to 1 (basic), whyX rewritten cleanly, Taglish explanation added |
+| r11 | 1034163153 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1046167917 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1128962153 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1239217986 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1239572957 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1258482156 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1280563863 | Numerical Ability | minor edit | key correct; difficulty set to 1 (basic), whyX rewritten cleanly, Taglish explanation added |
+| r11 | 1581340133 | Numerical Ability | minor edit | key correct; difficulty set to 1 (basic), whyX rewritten cleanly, Taglish explanation added |
+| r11 | 1721921059 | Numerical Ability | minor edit | key correct; difficulty set to 1 (basic), whyX rewritten cleanly, Taglish explanation added |
+| r11 | 1722694396 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1874868955 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1894759780 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 1944936683 | Numerical Ability | minor edit | key correct; difficulty set to 1 (basic), whyX rewritten cleanly, Taglish explanation added |
+| r11 | 2002118777 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 2026231194 | Numerical Ability | minor edit | key correct; stem reworded with ₱ units on options, difficulty 1, whyX rewritten, Taglish explanation added |
+| r11 | 2142351537 | Numerical Ability | minor edit | key correct; difficulty set to 1 (basic), whyX rewritten cleanly, Taglish explanation added |
+| r11 | 2144379484 | Numerical Ability | minor edit | key correct; difficulty set to 1 (basic), whyX rewritten cleanly, Taglish explanation added |
+| r11 | 21637000 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 616752205 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 819016037 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1168844396 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1450218721 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1583697436 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1616971220 | Numerical Ability | minor edit | key correct; 'rocket' at 200 km/h is unrealistic, changed to a small plane; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1662033560 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1727789032 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1795293669 | Numerical Ability | minor edit | key correct; stem polished, steps numbered, difficulty 1, whyX and Taglish explanation added |
+| r11 | 61612099 | Numerical Ability | minor edit | key correct; fixed explanation with lost × sign / stem polished, difficulty 1, whyX and Taglish added |
+| r11 | 71613500 | Numerical Ability | minor edit | original 2, 3, 5, 8 had two answers: 13 (sum of previous two) and 12 (gaps 1, 2, 3, 4); extended series to 2, 3, 5, 8, 13 → 21 so only one rule fits; added steps/hint |
+| r11 | 295236567 | Numerical Ability | minor edit | key correct; fixed explanation with lost × sign / stem polished, difficulty 1, whyX and Taglish added |
+| r11 | 313706109 | Numerical Ability | minor edit | key correct; explanation had a lost × sign (e.g. "802 = 160"), fixed; difficulty 1, whyX and Taglish added |
+| r11 | 708795230 | Numerical Ability | minor edit | key correct; stem polished, difficulty 1, whyX and Taglish explanation added |
+| r11 | 771212884 | Numerical Ability | minor edit | key correct; stem polished, difficulty 1, whyX and Taglish added |
+| r11 | 843768879 | Numerical Ability | minor edit | key correct; fixed explanation with lost × sign / stem polished, difficulty 1, whyX and Taglish added |
+| r11 | 976181267 | Numerical Ability | minor edit | key correct; explanation had a lost × sign (e.g. "802 = 160"), fixed; difficulty 1, whyX and Taglish added |
+| r11 | 1004781068 | Numerical Ability | minor edit | key correct; stem polished, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1009460950 | Numerical Ability | minor edit | key correct; stem polished, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1128166657 | Numerical Ability | minor edit | key correct; stem polished, difficulty 1, whyX and Taglish added |
+| r11 | 1330807307 | Numerical Ability | minor edit | key correct; explanation had a lost × sign (e.g. "802 = 160"), fixed; difficulty 1, whyX and Taglish added |
+| r11 | 1426312682 | Numerical Ability | minor edit | key correct; fixed explanation with lost × sign / stem polished, difficulty 1, whyX and Taglish added |
+| r11 | 1756506514 | Numerical Ability | minor edit | key correct; stem polished, difficulty 1, whyX and Taglish explanation added |
+| r11 | 1932086141 | Numerical Ability | minor edit | key correct; stem polished, difficulty 1, whyX and Taglish added |
+| r11 | 1337583559 | Numerical Ability | minor edit | key correct; stem adds 'same rate', steps said 'job' instead of rooms/trees, difficulty 1, whyX and Taglish added |
+| r11 | 1359859362 | Numerical Ability | minor edit | key correct; stem adds 'same rate', steps said 'job' instead of rooms/trees, difficulty 1, whyX and Taglish added |
+| r11 | 88038315 | Verbal Ability | minor edit | Fixed ungrammatical stem 'The phone ring'; added teaching fields; difficulty 1 |
+| r11 | 270441497 | Verbal Ability | minor edit | 'trying' was a hidden second near-synonym (tempestuous times = trying times); replaced options |
+| r11 | 348158755 | Verbal Ability | minor edit | Stem 'She is heuristic' unnatural; B/C/D were near-duplicates of each other; fixed explanation |
+| r11 | 512802694 | Verbal Ability | minor edit | A/C/D were near-duplicates (direct/conclusive/definitive); replaced C and D |
+| r11 | 1789195763 | Verbal Ability | minor edit | A/C/D were near-duplicates (dull/boring/uninspiring); replaced C and D |
+| r11 | 1998902051 | Verbal Ability | minor edit | A/C/D were near-duplicates (logical/sound/valid); replaced C and D; sharpened explanation |
+| r11 | 2007151308 | Verbal Ability | minor edit | A/C/D were near-duplicates (serious/earnest/sincere); replaced C and D |
+| r11 | 2022023427 | Verbal Ability | minor edit | A/C/D were near-duplicates (careless/sloppy/negligent); replaced C and D |
+| r11 | 587468643 | Numerical Ability | unchanged | Key correct; replaced formulaic whys and added explanationTl. |
+| r11 | 700053876 | Numerical Ability | unchanged | Key correct; replaced formulaic whys, completed steps and added explanationTl. |
+| r11 | 1145987261 | Numerical Ability | unchanged | Key correct; replaced formulaic whys and added explanationTl. |
+| r11 | 1289525931 | Numerical Ability | unchanged | Key correct; replaced formulaic whys and added explanationTl. |
+| r11 | 1811722055 | Numerical Ability | unchanged | Key correct; replaced formulaic whys, expanded steps and added explanationTl. |
+| r11 | 2142799229 | Numerical Ability | unchanged | Key correct; replaced formulaic whys and added explanationTl. |
+| r11 | 109798819 | Numerical Ability | unchanged | Key correct; replaced formulaic whys and added explanationTl. |
+| r11 | 396053749 | Numerical Ability | unchanged | Key correct; added missing steps, hint, whys and Taglish fields. |
+| r11 | 714058585 | Verbal Ability | unchanged | Key correct; added hint, whyX and Taglish fields |

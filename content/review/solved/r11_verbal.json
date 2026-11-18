@@ -1,0 +1,13 @@
+[
+ {"id": 88038315, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "stem grammar awkward: 'phone ring'"},
+ {"id": 270441497, "answer": "A", "confidence": "unsure", "ambiguous": true, "note": "turbulent; 'trying' also near-synonym"},
+ {"id": 348158755, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "stem 'She is heuristic' unnatural"},
+ {"id": 512802694, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "indirect evidence"},
+ {"id": 714058585, "answer": "D", "confidence": "sure", "ambiguous": false, "note": "vengeful"},
+ {"id": 887175825, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "banned Both/None option set"},
+ {"id": 1789195763, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "charming"},
+ {"id": 1998902051, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "misleading/false"},
+ {"id": 2007151308, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "flippant"},
+ {"id": 2022023427, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "fastidious"},
+ {"id": 2101568615, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "banned Both/None option set"}
+]
