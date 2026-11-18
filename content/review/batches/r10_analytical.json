@@ -1,0 +1,32 @@
+[
+ {
+  "id": 778774309,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Caution is to ________ as radar is to ________.",
+  "optionA": "signal: wave",
+  "optionB": "warning: detection",
+  "optionC": "care: speed",
+  "optionD": "alert: track",
+  "correctAnswer": "B",
+  "explanation": "Caution is a warning, radar is for detection.",
+  "difficulty": 2,
+  "timeSensitive": false,
+  "source": "original"
+ },
+ {
+  "id": 1628467119,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Knife is to slicing as hammer is to:",
+  "optionA": "Pounding",
+  "optionB": "Cutting",
+  "optionC": "Shaping",
+  "optionD": "Drilling",
+  "correctAnswer": "A",
+  "explanation": "A knife is used for slicing, a hammer is used for pounding.",
+  "difficulty": 2,
+  "timeSensitive": false,
+  "source": "original"
+ }
+]

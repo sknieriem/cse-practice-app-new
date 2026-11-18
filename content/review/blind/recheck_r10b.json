@@ -1,0 +1,137 @@
+[
+ {
+  "id": 468761394,
+  "category": "Numerical Ability",
+  "text": "If m = 3n − o, n = 8 and o = 5, what is m?",
+  "optionA": "29",
+  "optionB": "19",
+  "optionC": "9",
+  "optionD": "3"
+ },
+ {
+  "id": 627273582,
+  "category": "Numerical Ability",
+  "text": "If u = v² − 2w, v = 6 and w = 4, what is u?",
+  "optionA": "28",
+  "optionB": "4",
+  "optionC": "44",
+  "optionD": "20"
+ },
+ {
+  "id": 716680736,
+  "category": "Numerical Ability",
+  "text": "3/8 + 1/6 = ?",
+  "optionA": "2/7",
+  "optionB": "11/24",
+  "optionC": "13/24",
+  "optionD": "1/16"
+ },
+ {
+  "id": 1562413787,
+  "category": "Numerical Ability",
+  "text": "Convert 7/16 to a decimal.",
+  "optionA": "0.716",
+  "optionB": "0.4375",
+  "optionC": "2.29",
+  "optionD": "0.04375"
+ },
+ {
+  "id": 1549142526,
+  "category": "Numerical Ability",
+  "text": "A rice cooker is priced at Php 1,850. It is sold at a 24% discount. What is the sale price?",
+  "optionA": "Php 444",
+  "optionB": "Php 1,826",
+  "optionC": "Php 2,294",
+  "optionD": "Php 1,406"
+ },
+ {
+  "id": 1902257128,
+  "category": "Numerical Ability",
+  "text": "A bus travels 180 km at 60 km/h, then another 100 km at 50 km/h. What is its average speed for the whole trip?",
+  "optionA": "55 km/h",
+  "optionB": "140 km/h",
+  "optionC": "56 km/h",
+  "optionD": "60 km/h"
+ },
+ {
+  "id": 635494380,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 9, 18, 36, 72, ?",
+  "optionA": "144",
+  "optionB": "108",
+  "optionC": "90",
+  "optionD": "216"
+ },
+ {
+  "id": 661880960,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 9, 36, 81, 144, ?",
+  "optionA": "169",
+  "optionB": "288",
+  "optionC": "207",
+  "optionD": "225"
+ },
+ {
+  "id": 770513269,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 4, 7, 11, 18, 29, ?",
+  "optionA": "40",
+  "optionB": "47",
+  "optionC": "41",
+  "optionD": "58"
+ },
+ {
+  "id": 865016039,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 12, 13, 15, 18, 22, ?",
+  "optionA": "26",
+  "optionB": "28",
+  "optionC": "27",
+  "optionD": "44"
+ },
+ {
+  "id": 1292926292,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 0, 7, 26, 63, 124, ?",
+  "optionA": "185",
+  "optionB": "216",
+  "optionC": "248",
+  "optionD": "215"
+ },
+ {
+  "id": 1802591182,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 1, 2, 5, 14, 41, ?",
+  "optionA": "123",
+  "optionB": "82",
+  "optionC": "122",
+  "optionD": "68"
+ },
+ {
+  "id": 1803517715,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 3, 3, 6, 18, 72, ?",
+  "optionA": "360",
+  "optionB": "144",
+  "optionC": "288",
+  "optionD": "432"
+ },
+ {
+  "id": 418793752,
+  "category": "Numerical Ability",
+  "text": "Six masons can build 15 meters of wall in 5 days. At the same rate, how many days will 9 masons need to build 63 meters of wall?",
+  "optionA": "14",
+  "optionB": "21",
+  "optionC": "31.5",
+  "optionD": "7"
+ },
+ {
+  "id": 1263322842,
+  "category": "Numerical Ability",
+  "text": "A pipe can fill a tank in 2 hours, and a drain can empty the full tank in 5 hours. If both are open, how many hours will it take to fill the empty tank?",
+  "optionA": "1 3/7 hours",
+  "optionB": "3 1/3 hours",
+  "optionC": "7 hours",
+  "optionD": "3 hours"
+ }
+]

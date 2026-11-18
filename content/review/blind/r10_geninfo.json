@@ -1,0 +1,82 @@
+[
+ {
+  "id": 436266256,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "It states that “no person shall be deprived of life, liberty, or property without due process of law, nor any person be denied the equal protection of the laws.”",
+  "optionA": "Article VI",
+  "optionB": "Bill of Rights",
+  "optionC": "Republic Act",
+  "optionD": "Court Order"
+ },
+ {
+  "id": 426608202,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the primary source of vitamin D for humans?",
+  "optionA": "Sunlight",
+  "optionB": "Fish",
+  "optionC": "Milk",
+  "optionD": "Vegetables"
+ },
+ {
+  "id": 1002934770,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the capital of India?",
+  "optionA": "Mumbai",
+  "optionB": "New Delhi",
+  "optionC": "Kolkata",
+  "optionD": "Chennai"
+ },
+ {
+  "id": 1232785604,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the longest river in the world?",
+  "optionA": "Amazon River",
+  "optionB": "Nile River",
+  "optionC": "Yangtze River",
+  "optionD": "Mississippi River"
+ },
+ {
+  "id": 1309736213,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is known for the Great Wall?",
+  "optionA": "Japan",
+  "optionB": "China",
+  "optionC": "India",
+  "optionD": "Korea"
+ },
+ {
+  "id": 1486950759,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which planet is known as the 'Blue Planet'?",
+  "optionA": "Mars",
+  "optionB": "Earth",
+  "optionC": "Neptune",
+  "optionD": "Uranus"
+ },
+ {
+  "id": 1892985328,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is known for the Leaning Tower of Pisa?",
+  "optionA": "France",
+  "optionB": "Italy",
+  "optionC": "Spain",
+  "optionD": "Greece"
+ },
+ {
+  "id": 1860556752,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Which Philippine city is known as the 'City of Smiles'?",
+  "optionA": "Bacolod",
+  "optionB": "Iloilo",
+  "optionC": "Cebu",
+  "optionD": "Davao"
+ }
+]

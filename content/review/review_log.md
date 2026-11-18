@@ -1,4 +1,4 @@
-# Review of original questions (901 reviewed)
+# Review of original questions (1001 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | r7 | 23 | 45 | 2 | 30 | 0 |
 | r8 | 16 | 61 | 1 | 22 | 0 |
 | r9 | 25 | 65 | 1 | 9 | 0 |
+| r10 | 2 | 57 | 0 | 41 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -915,3 +916,103 @@
 | r9 | 1381718224 | Verbal Ability | unchanged | Key correct; added teaching fields. |
 | r9 | 1502510258 | Verbal Ability | unchanged | Key correct; added teaching fields. |
 | r9 | 1632983908 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r10 | 778774309 | Analytical Ability | rewritten | Original pair relation was vague (caution 'is' a warning vs radar 'is for' detection) and D 'alert: track' was arguable; rebuilt as a clean device-to-function analogy. |
+| r10 | 1232785604 | General Information | rewritten | 'Longest river in the world' is contested (some measurements put the Amazon longer); rewritten to the undisputed longest river in Africa |
+| r10 | 468761394 | Numerical Ability | rewritten | duplicate of 964210595; rewritten as m = 3n − o with n = 8, o = 5 (19) |
+| r10 | 627273582 | Numerical Ability | rewritten | duplicate of 929664260; rewritten as u = v² − 2w with v = 6, w = 4 (28) |
+| r10 | 981421886 | Numerical Ability | rewritten | Near-duplicate of 455073463 (one-step equation, same answer 6 and identical options); rewritten with x on both sides. |
+| r10 | 1272126336 | Numerical Ability | rewritten | Near-duplicate of 468761394 (5×4 vs 4×5, same options); rewritten to a two-operation substitution. |
+| r10 | 1531476128 | Numerical Ability | rewritten | Bare “2 + 3” substitution was a near-twin of 1748332835; rewritten to solving a two-variable equation for one unknown. |
+| r10 | 2107212005 | Numerical Ability | rewritten | Duplicate of 1902781639 (9 + 6 vs 6 + 9, both 15); rewritten as a CSE-style age word problem. |
+| r10 | 532042059 | Numerical Ability | rewritten | Converting 5/5 to a decimal is trivial (any n/n = 1); rewritten as a real fraction-to-decimal conversion. |
+| r10 | 716680736 | Numerical Ability | rewritten | duplicate of 2036006001; rewritten as unlike fractions 3/8 + 1/6 (13/24) |
+| r10 | 1250321385 | Numerical Ability | rewritten | Near-duplicate of 716680736 (same-denominator fifths addition); rewritten as a fraction-multiplication word problem. |
+| r10 | 1562413787 | Numerical Ability | rewritten | duplicate of 338613393; rewritten as 7/16 to a decimal (answer 0.4375) |
+| r10 | 1369233030 | Numerical Ability | rewritten | Near-duplicate of 1330301019/1588117470 (same 25%-off template); rewritten as successive discounts. |
+| r10 | 1549142526 | Numerical Ability | rewritten | duplicate of 560700723; rewritten as Php 1,850 at 24% off (Php 1,406) |
+| r10 | 1588117470 | Numerical Ability | rewritten | Near-duplicate of 1330301019 (same 25%-off template); rewritten as finding the original price. |
+| r10 | 2067454542 | Numerical Ability | rewritten | Near-duplicate of 1449902385 ('75% of n'); rewritten as 'what percent'. |
+| r10 | 632765567 | Numerical Ability | rewritten | Near-duplicate of the other plain distance÷time items; rewritten to find time with a minutes conversion. |
+| r10 | 1046041473 | Numerical Ability | rewritten | Near-duplicate of the other plain distance÷time items; rewritten to find distance with mixed hours/minutes. |
+| r10 | 1902257128 | Numerical Ability | rewritten | duplicate of 1460080057; rewritten as 180 km at 60 km/h then 100 km at 50 km/h (56 km/h) |
+| r10 | 1963987721 | Numerical Ability | rewritten | Near-duplicate of the other plain distance÷time items; rewritten as a meeting (relative speed) problem. |
+| r10 | 509072912 | Numerical Ability | rewritten | Trivial and near-duplicate of other constant-difference series; rewritten with growing differences. |
+| r10 | 635494380 | Numerical Ability | rewritten | duplicate of 229668329; rewritten as doubling from 9 (9, 18, 36, 72 → 144) |
+| r10 | 661880960 | Numerical Ability | rewritten | duplicate of 36851876; rewritten as squares of multiples of 3 (9, 36, 81, 144 → 225) |
+| r10 | 770513269 | Numerical Ability | rewritten | duplicate of 188829606; rewritten as a Fibonacci-type series 4, 7, 11, 18, 29 (→ 47) |
+| r10 | 865016039 | Numerical Ability | rewritten | duplicate of 1716003426; rewritten as differences +1, +2, +3, +4 (12, 13, 15, 18, 22 → 27) |
+| r10 | 1146505215 | Numerical Ability | rewritten | Trivial multiples-of-8 series, near-duplicate of other +d series, explanation lost × ('68'); rewritten as alternating +3/−2. |
+| r10 | 1292926292 | Numerical Ability | rewritten | duplicate of 277354909; rewritten as cubes minus 1 (0, 7, 26, 63, 124 → 215) |
+| r10 | 1802591182 | Numerical Ability | rewritten | duplicate of 279001731; rewritten as ×3 − 1 (1, 2, 5, 14, 41 → 122) |
+| r10 | 1803517715 | Numerical Ability | rewritten | duplicate of 1147076984; rewritten as multiply by 1, 2, 3, 4, 5 (3, 3, 6, 18, 72 → 360) |
+| r10 | 2063263445 | Numerical Ability | rewritten | Duplicate of 1802591182 (doubling 4, 8, 16, 32), explanation lost × ('322'); rewritten as alternating ×2, −2. |
+| r10 | 4878478 | Numerical Ability | rewritten | One of ten near-identical 'n workers, n items, n time' items; rewritten as a worker-hours rate problem. |
+| r10 | 162122677 | Numerical Ability | rewritten | One of ten near-identical 'n workers, n items, n time' items; rewritten as a working-together problem. |
+| r10 | 418793752 | Numerical Ability | rewritten | duplicate of 1123632898; rewritten as 6 masons, 15 m in 5 days; 9 masons, 63 m (14 days) |
+| r10 | 476935905 | Numerical Ability | rewritten | One of ten near-identical 'n workers, n items, n time' items; rewritten as inverse proportion. |
+| r10 | 1135634573 | Numerical Ability | rewritten | One of ten near-identical 'n workers, n items, n time' items; rewritten as workers leaving midway. |
+| r10 | 1263322842 | Numerical Ability | rewritten | duplicate of 1773526566; rewritten as pipe fills in 2 h, drain empties in 5 h (3 1/3 h) |
+| r10 | 1401786136 | Numerical Ability | rewritten | Exact duplicate of 476935905's original (5 workers, 5 jobs, 5 days, same options); rewritten as finding one worker's time. |
+| r10 | 1436675309 | Numerical Ability | rewritten | One of ten near-identical 'n workers, n items, n time' items; rewritten to find the workers needed. |
+| r10 | 1698747624 | Numerical Ability | rewritten | One of ten near-identical 'n workers, n items, n time' items ('studying chapters' isn't shared work); rewritten as a join-midway problem. |
+| r10 | 169103939 | Verbal Ability | rewritten | Banned 'Both A and B'/'None' option set; rewritten as context item with one answer |
+| r10 | 2016744308 | Verbal Ability | rewritten | 'Typical' was a weak synonym and distractors near-duplicates; rewritten as context item |
+| r10 | 1628467119 | Analytical Ability | minor edit | Key correct; simple tool-to-function analogy, so difficulty lowered to 1; teaching fields added. |
+| r10 | 436266256 | General Information | minor edit | Stem had no question and misquoted Art. III Sec. 1 (missing 'shall'); C/D were not parts of the Constitution, replaced with real articles |
+| r10 | 426608202 | General Information | minor edit | Key correct; added teaching fields and lowered difficulty to 1 (basic recall) |
+| r10 | 1002934770 | General Information | minor edit | Key correct; added teaching fields and lowered difficulty to 1 |
+| r10 | 1309736213 | General Information | minor edit | Key correct; added teaching fields and lowered difficulty to 1 |
+| r10 | 1486950759 | General Information | minor edit | Key correct; added teaching fields and lowered difficulty to 1 |
+| r10 | 1892985328 | General Information | minor edit | Key correct; added teaching fields and lowered difficulty to 1 |
+| r10 | 48936996 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 95241723 | Numerical Ability | minor edit | Key correct; explanation lost its × ("43 - 2"); fixed, numbered steps, whys and Taglish added. |
+| r10 | 149457248 | Numerical Ability | minor edit | Key correct; explanation lost its × ("24 + 3"); fixed, numbered steps, whys and Taglish added. |
+| r10 | 167037648 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 455073463 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 1195899441 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 1227521737 | Numerical Ability | minor edit | Key correct; explanation lost its × ("q = 35"); fixed, whys and Taglish added. |
+| r10 | 1274851834 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 1422898652 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 1612124591 | Numerical Ability | minor edit | Key correct; ^ written as a superscript, whys, steps and Taglish added. |
+| r10 | 1748332835 | Numerical Ability | minor edit | Key correct; distractors 6 and 2 had no mistake behind them, replaced with 21 (multiplied) and −4 (subtracted); whys and Taglish added. |
+| r10 | 1902781639 | Numerical Ability | minor edit | Key correct; distractors 12 and 10 had no mistake behind them, replaced with 54 (multiplied) and −3 (subtracted); whys and Taglish added. |
+| r10 | 1944687388 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 1962128926 | Numerical Ability | minor edit | Key correct; added explanationTl; difficulty set to Subprofessional level. |
+| r10 | 272929341 | Numerical Ability | minor edit | Key correct; whys now name the mistake; explanationTl added. |
+| r10 | 793479081 | Numerical Ability | minor edit | Key correct; whys name the mistake, explanationTl added. |
+| r10 | 1438251685 | Numerical Ability | minor edit | Key correct; whys name the mistake, explanationTl added. |
+| r10 | 1526225953 | Numerical Ability | minor edit | Key correct; added steps, hint, whys and Taglish. |
+| r10 | 1609627815 | Numerical Ability | minor edit | Key correct; option D “4/6” equalled option B “2/3”; replaced with 4/3 (subtracting tops and bottoms). |
+| r10 | 1901748516 | Numerical Ability | minor edit | Key correct; added steps, hint, whys and Taglish. |
+| r10 | 212560043 | Numerical Ability | minor edit | Key correct; stem had no units and was a fragment; units added, weak distractors replaced with real mistakes. |
+| r10 | 175430033 | Numerical Ability | minor edit | Key correct; telegraphic stem reworded with peso formatting; explanationTl added. |
+| r10 | 642718894 | Numerical Ability | minor edit | Key correct; explanation used * for ×; explanationTl added. |
+| r10 | 746988882 | Numerical Ability | minor edit | Key correct; explanation used * for ×; added steps, hint, whys and Taglish. |
+| r10 | 956455038 | Numerical Ability | minor edit | Key correct; telegraphic stem reworded with peso formatting; explanationTl added. |
+| r10 | 984747048 | Numerical Ability | minor edit | Key correct; stem reworded; whyC said “a -10% discount”, now names the real mistake. |
+| r10 | 1330301019 | Numerical Ability | minor edit | Key correct; set difficulty 1 (one-step discount) and added explanationTl. |
+| r10 | 1449902385 | Numerical Ability | minor edit | Key correct; set difficulty 1; '*' changed to '×'; added explanationTl. |
+| r10 | 2032354139 | Numerical Ability | minor edit | Key correct; set difficulty 1; replaced whys that had ugly decimals; added explanationTl. |
+| r10 | 314588616 | Numerical Ability | minor edit | Key correct; numbered the steps, set difficulty 1, added whys and explanationTl. |
+| r10 | 596817163 | Numerical Ability | minor edit | Key correct; completed the stem, set difficulty 1, added all missing teaching fields. |
+| r10 | 826343827 | Numerical Ability | minor edit | Key correct; set difficulty 1, added whys and explanationTl. |
+| r10 | 1475387472 | Numerical Ability | minor edit | Key correct; fixed lost × in explanation ('1353 = 405'); added whys and explanationTl. |
+| r10 | 452878008 | Numerical Ability | minor edit | Key correct; clarified explanation and steps, added whys and explanationTl. |
+| r10 | 349762090 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; teaching fields added |
+| r10 | 278068728 | Verbal Ability | minor edit | Two distractors were near-synonyms of 'generous' making B the odd one out; replaced C and D |
+| r10 | 1211190181 | Verbal Ability | minor edit | Distractors replaced (Intense/Significant were near-synonyms); explanation sharpened |
+| r10 | 2011472146 | Verbal Ability | minor edit | Distractors replaced (Insufficient/Sparse duplicated Scanty) |
+| r10 | 912913487 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; explanation clarified |
+| r10 | 1543207476 | Verbal Ability | minor edit | Key correct; options put in sentence order; explanation clarified; difficulty 1 |
+| r10 | 126493021 | Verbal Ability | minor edit | Distractors were three synonyms of 'stupid' (giveaway); replaced with plausible confusions |
+| r10 | 378807078 | Verbal Ability | minor edit | Distractors Concrete/Tangible/Physical were near-duplicates; replaced two; difficulty 1 |
+| r10 | 587011399 | Verbal Ability | minor edit | Distractors Reasoned/Planned/Thoughtful were near-duplicates; replaced two |
+| r10 | 660998088 | Verbal Ability | minor edit | Distractors Original/Innovative/Creative were near-duplicates; replaced two |
+| r10 | 980534720 | Verbal Ability | minor edit | Distractors Virtuous/Good/Moral were near-duplicates; replaced two |
+| r10 | 1147913419 | Verbal Ability | minor edit | Option A 'divided' (adjective) changed to noun 'division' to match part of speech |
+| r10 | 1336110813 | Verbal Ability | minor edit | Removed joke politician name from stem; 'change' replaced by plausible trap 'amend' |
+| r10 | 1428156746 | Verbal Ability | minor edit | Distractors Verbose/Talkative/Loquacious were near-duplicates; replaced two; stem given context |
+| r10 | 1913331231 | Verbal Ability | minor edit | Distractors Barren/Scarce/Sparse were near-duplicates; replaced two |
+| r10 | 2076974067 | Verbal Ability | minor edit | Distractors Weak/Timid/Fearful were near-duplicates; replaced two; stem given context |
+| r10 | 1860556752 | General Information | unchanged | Key correct; added whys, hint and Taglish fields |
+| r10 | 460136134 | Verbal Ability | unchanged | Clear context item; teaching fields added |

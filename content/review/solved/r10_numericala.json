@@ -1,0 +1,254 @@
+[
+ {
+  "id": 48936996,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 5"
+ },
+ {
+  "id": 95241723,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 10"
+ },
+ {
+  "id": 149457248,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 11"
+ },
+ {
+  "id": 167037648,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 8"
+ },
+ {
+  "id": 455073463,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 6"
+ },
+ {
+  "id": 468761394,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 20"
+ },
+ {
+  "id": 627273582,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 20"
+ },
+ {
+  "id": 981421886,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 6"
+ },
+ {
+  "id": 1195899441,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 5"
+ },
+ {
+  "id": 1227521737,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 15"
+ },
+ {
+  "id": 1272126336,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 20"
+ },
+ {
+  "id": 1274851834,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 5"
+ },
+ {
+  "id": 1422898652,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 5"
+ },
+ {
+  "id": 1531476128,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 5"
+ },
+ {
+  "id": 1612124591,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 16"
+ },
+ {
+  "id": 1748332835,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 10"
+ },
+ {
+  "id": 1902781639,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 15"
+ },
+ {
+  "id": 1944687388,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 4"
+ },
+ {
+  "id": 1962128926,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 3"
+ },
+ {
+  "id": 2107212005,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 15"
+ },
+ {
+  "id": 272929341,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 11/10"
+ },
+ {
+  "id": 532042059,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 1.0"
+ },
+ {
+  "id": 716680736,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 3/5"
+ },
+ {
+  "id": 793479081,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 0.6"
+ },
+ {
+  "id": 1250321385,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 4/5"
+ },
+ {
+  "id": 1438251685,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 0.2"
+ },
+ {
+  "id": 1526225953,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 4/5"
+ },
+ {
+  "id": 1562413787,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 0.4"
+ },
+ {
+  "id": 1609627815,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": true,
+  "note": "1/2; D 4/6 duplicates B 2/3 in value"
+ },
+ {
+  "id": 1901748516,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 0.166..."
+ },
+ {
+  "id": 212560043,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "25; no units in stem"
+ },
+ {
+  "id": 175430033,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 47500"
+ },
+ {
+  "id": 642718894,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 50"
+ },
+ {
+  "id": 746988882,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 10"
+ },
+ {
+  "id": 956455038,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 6800"
+ },
+ {
+  "id": 984747048,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed; 45"
+ }
+]

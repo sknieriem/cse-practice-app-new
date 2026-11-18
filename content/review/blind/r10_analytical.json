@@ -1,0 +1,22 @@
+[
+ {
+  "id": 778774309,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Caution is to ________ as radar is to ________.",
+  "optionA": "signal: wave",
+  "optionB": "warning: detection",
+  "optionC": "care: speed",
+  "optionD": "alert: track"
+ },
+ {
+  "id": 1628467119,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Knife is to slicing as hammer is to:",
+  "optionA": "Pounding",
+  "optionB": "Cutting",
+  "optionC": "Shaping",
+  "optionD": "Drilling"
+ }
+]
