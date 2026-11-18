@@ -124,8 +124,9 @@ fun AppRoot(vm: AppViewModel, onExit: () -> Unit) {
         }
     }
     val shareReq by vm.shareRequest.collectAsState()
+    val shareLang = vm.user.collectAsState().value?.language ?: "en"
     shareReq?.let { req ->
-        ShareDialog(req.card, req.card.lang, onShare = { f -> vm.shareNow(req.card, req.name, f) }, onDismiss = { vm.dismissShare() })
+        ShareDialog(req.card, shareLang, onShare = { f -> vm.shareNow(req.card, req.name, f) }, onDismiss = { vm.dismissShare() })
     }
 }
 

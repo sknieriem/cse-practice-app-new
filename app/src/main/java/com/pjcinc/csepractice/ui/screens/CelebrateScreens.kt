@@ -64,7 +64,7 @@ import kotlin.random.Random
 fun PasadoScreen(vm: AppViewModel, r: SessionResult) {
     val user by vm.user.collectAsState()
     val lang = user?.language ?: "en"
-    val card = ShareCards.pasadoMock(r.percent, user?.firstName ?: "", lang)
+    val card = ShareCards.pasadoMock(r.percent, user?.firstName ?: "")
     CelebrationLayout(
         emoji = "🎉",
         title = Encourage.t(lang, "PASSING LEVEL!", "PASADO LEVEL!"),
@@ -72,6 +72,7 @@ fun PasadoScreen(vm: AppViewModel, r: SessionResult) {
             "You scored ${r.percent}% on a timed mock exam. The passing rating is ${Planner.PASS_MARK}%. This is what all your practice built. Tell the people cheering for you!",
             "${r.percent}% ang nakuha mo sa timed mock exam. Ang pasado ay ${Planner.PASS_MARK}%. Bunga 'yan ng lahat ng pag-aaral mo. Ibalita mo sa pamilya mo!"),
         card = card,
+        lang = lang,
         shareLabel = Encourage.t(lang, "Share with family 📤", "I-share sa pamilya 📤"),
         onShare = { f -> vm.shareNow(card, "pasado", f) },
         continueLabel = Encourage.t(lang, "See my results", "Tingnan ang resulta"),
@@ -85,7 +86,7 @@ fun PassedExamScreen(vm: AppViewModel, level: String) {
     val user by vm.user.collectAsState()
     val lang = user?.language ?: "en"
     val name = user?.firstName ?: ""
-    val card = ShareCards.passedExam(level, name, lang)
+    val card = ShareCards.passedExam(level, name)
     CelebrationLayout(
         emoji = "🎓",
         title = Encourage.t(lang, "PASADO! Congratulations${if (name.isNotBlank()) ", $name" else ""}!", "PASADO! Congrats${if (name.isNotBlank()) ", $name" else ""}!"),
@@ -93,6 +94,7 @@ fun PassedExamScreen(vm: AppViewModel, level: String) {
             "You passed the Civil Service Exam ($level). All those days of practice paid off. This one is yours — celebrate it with everyone who believed in you.",
             "Pumasa ka sa Civil Service Exam ($level)! Nagbunga ang lahat ng pagod at pag-aaral mo. Sa'yo 'to — i-celebrate kasama ang lahat ng naniwala sa'yo."),
         card = card,
+        lang = lang,
         shareLabel = Encourage.t(lang, "Share the good news 📤", "Ibalita sa lahat 📤"),
         onShare = { f -> vm.shareNow(card, "passed", f) },
         continueLabel = Encourage.t(lang, "Done", "Tapos"),
@@ -106,6 +108,7 @@ private fun CelebrationLayout(
     title: String,
     body: String,
     card: ShareCards.Card,
+    lang: String,
     shareLabel: String,
     onShare: (ShareCards.Format) -> Unit,
     continueLabel: String,
@@ -123,7 +126,7 @@ private fun CelebrationLayout(
             Spacer(Modifier.height(10.dp))
             Text(body, color = Color.White, style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center)
             Spacer(Modifier.height(20.dp))
-            SharePreview(card, format, { format = it }, card.lang, Modifier.fillMaxWidth(), onDark = true)
+            SharePreview(card, format, { format = it }, lang, Modifier.fillMaxWidth(), onDark = true)
             Spacer(Modifier.height(20.dp))
             Button(
                 onClick = { onShare(format) },

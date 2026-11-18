@@ -111,7 +111,7 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                 Text(Encourage.cheer(lang, r.percent), color = Color.White, style = MaterialTheme.typography.titleLarge, textAlign = TextAlign.Center)
                 if (ShareCards.isPerfect(r.correct, r.total)) {
                     Button(
-                        onClick = { vm.share(ShareCards.perfect(r.total, firstName, lang), "perfect") },
+                        onClick = { vm.share(ShareCards.perfect(r.total, firstName), "perfect") },
                         colors = ButtonDefaults.buttonColors(containerColor = Sun, contentColor = Navy),
                         modifier = Modifier.padding(top = 8.dp).testTag("share_perfect")
                     ) { Text(ShareLabels.perfect(lang), textAlign = TextAlign.Center) }
@@ -152,14 +152,14 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                     Bar(lp.fraction, MaterialTheme.colorScheme.secondary)
                     if (reward.leveledUp) {
                         OutlinedButton(
-                            onClick = { vm.share(ShareCards.levelUp(lp.level, lp.title, firstName, lang), "level_up") },
+                            onClick = { vm.share(ShareCards.levelUp(lp.level, lp.title, firstName), "level_up") },
                             modifier = Modifier.fillMaxWidth().padding(top = 8.dp).testTag("share_level_up")
                         ) { Text(ShareLabels.levelUp(lang), textAlign = TextAlign.Center) }
                     }
                     val streakDays = reward.newState.streak
                     if (reward.streakExtended && streakDays in ShareCards.STREAK_MILESTONES) {
                         OutlinedButton(
-                            onClick = { vm.share(ShareCards.streak(streakDays, firstName, lang), "streak_$streakDays") },
+                            onClick = { vm.share(ShareCards.streak(streakDays, firstName), "streak_$streakDays") },
                             modifier = Modifier.fillMaxWidth().padding(top = 8.dp).testTag("share_streak")
                         ) { Text(ShareLabels.streak(lang, streakDays), textAlign = TextAlign.Center) }
                     }
@@ -186,7 +186,7 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                     CelebrationCard(c, Modifier.padding(vertical = 4.dp))
                     if (c.id == "first_mock") {
                         OutlinedButton(
-                            onClick = { vm.share(ShareCards.firstMock(firstName, lang), "first_mock") },
+                            onClick = { vm.share(ShareCards.firstMock(firstName), "first_mock") },
                             modifier = Modifier.fillMaxWidth().testTag("share_first_mock")
                         ) { Text(ShareLabels.firstMock(lang), textAlign = TextAlign.Center) }
                     }
@@ -210,7 +210,7 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                             }
                         }
                         TextButton(
-                            onClick = { vm.share(ShareCards.badge(b, firstName, lang), "badge_${b.id}") },
+                            onClick = { vm.share(ShareCards.badge(b, firstName), "badge_${b.id}") },
                             modifier = Modifier.padding(start = 4.dp, bottom = 4.dp).testTag("share_badge_${b.id}")
                         ) { Text(ShareLabels.badge(lang)) }
                     }
@@ -248,7 +248,7 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                     val u = user ?: return@OutlinedButton
                     val rd = r.readiness
                     vm.share(ShareCards.progress(u.firstName, rd?.takeIf { it.shown }?.overall, r.weeklyGain,
-                        r.reward.newState.streak, Game.titleFor(Game.levelFor(r.reward.newState.xp)), rd?.answered ?: 0, lang), "progress")
+                        r.reward.newState.streak, Game.titleFor(Game.levelFor(r.reward.newState.xp)), rd?.answered ?: 0), "progress")
                 },
                 modifier = Modifier.fillMaxWidth().padding(top = 8.dp)
             ) { Text(Encourage.t(lang, "Share my progress 📤", "I-share ang progress ko 📤")) }

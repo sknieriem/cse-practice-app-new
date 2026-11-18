@@ -59,7 +59,7 @@ abstract class ShareWrapBase(private val fontScale: Float, private val tag: Stri
                 MaterialTheme {
                     Surface {
                         Column(Modifier.fillMaxWidth().verticalScroll(rememberScrollState()).padding(16.dp)) {
-                            SharePreview(ShareCards.streak(30, "Pearl", lang), format, {}, lang, Modifier.fillMaxWidth())
+                            SharePreview(ShareCards.streak(30, "Pearl"), format, {}, lang, Modifier.fillMaxWidth())
                             ShareLabels.all(lang).forEach {
                                 OutlinedButton(onClick = {}, modifier = Modifier.fillMaxWidth().padding(top = 8.dp)) {
                                     Text(it, textAlign = TextAlign.Center)

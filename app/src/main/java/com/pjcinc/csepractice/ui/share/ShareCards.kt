@@ -28,6 +28,9 @@ import java.io.File
  * Every card carries the app name, a one-line invite and an offline QR code to the Play Store page,
  * so a family member who sees the post can find the app. Only the user's own achievement is shown —
  * never a rank or a comparison — and the only personal data is the first name the user chose to show.
+ *
+ * Cards are always in English, whatever the app language: the CSE itself is in English, and many
+ * users speak Bisaya rather than Tagalog.
  */
 object ShareCards {
 
@@ -47,105 +50,102 @@ object ShareCards {
     data class Card(
         val emoji: String,
         val headline: String,
-        val lines: List<String>,
-        /** "en" or "tl" — picks the language of the branding line. */
-        val lang: String = "en"
+        val lines: List<String>
     )
 
-    private fun t(lang: String, en: String, tl: String) = if (lang == "tl") tl else en
     private fun nameLine(name: String) = name.trim().takeIf { it.isNotEmpty() }
 
     // ---- the cards ---------------------------------------------------------------------------
 
-    fun pasadoMock(percent: Int, name: String, lang: String) = Card(
+    fun pasadoMock(percent: Int, name: String) = Card(
         "🎉",
-        t(lang, "PASSING LEVEL!", "PASADO LEVEL!"),
+        "PASSING LEVEL!",
         listOfNotNull(
             nameLine(name),
-            t(lang, "$percent% on a timed CSE mock exam", "$percent% sa isang timed CSE mock exam"),
-            t(lang, "The passing rating is 80%. Still reviewing! 💪", "Ang passing rating ay 80%. Tuloy ang review! 💪")
-        ), lang
+            "$percent% on a timed CSE mock exam",
+            "The passing rating is 80%. Still reviewing! 💪"
+        )
     )
 
-    fun passedExam(level: String, name: String, lang: String) = Card(
+    fun passedExam(level: String, name: String) = Card(
         "🎓",
-        "PASADO!",
+        "I PASSED!",
         listOfNotNull(
             nameLine(name),
-            t(lang, "I passed the Civil Service Exam ($level)!", "Pumasa ako sa Civil Service Exam ($level)!"),
-            t(lang, "Thank you to everyone who supported me 🙏", "Salamat sa lahat ng sumuporta 🙏")
-        ), lang
+            "I passed the Civil Service Exam ($level)!",
+            "Thank you to everyone who supported me 🙏"
+        )
     )
 
     fun progress(
-        name: String, estimate: Int?, weeklyGain: Int?, streak: Int, levelTitle: String, answered: Int, lang: String
+        name: String, estimate: Int?, weeklyGain: Int?, streak: Int, levelTitle: String, answered: Int
     ) = Card(
         "📈",
-        t(lang, "My CSE review", "Ang aking CSE review"),
+        "My CSE review",
         listOfNotNull(
             nameLine(name),
-            estimate?.let { t(lang, "Estimated score: $it% (passing: 80%)", "Estimated score: $it% (pasado: 80%)") },
-            weeklyGain?.takeIf { it > 0 }?.let { t(lang, "+$it points this week", "+$it points ngayong linggo") },
+            estimate?.let { "Estimated score: $it% (passing: 80%)" },
+            weeklyGain?.takeIf { it > 0 }?.let { "+$it points this week" },
             if (streak > 0) "🔥 $streak-day streak · $levelTitle" else levelTitle,
-            t(lang, "$answered questions answered", "$answered tanong na nasagot")
-        ), lang
+            "$answered questions answered"
+        )
     )
 
-    fun levelUp(level: Int, title: String, name: String, lang: String) = Card(
+    fun levelUp(level: Int, title: String, name: String) = Card(
         "🌟",
         "LEVEL UP!",
         listOfNotNull(
             nameLine(name),
-            t(lang, "I'm now Level $level · $title", "Level $level na ako · $title"),
-            t(lang, "One step closer to passing the CSE 💪", "Isang hakbang palapit sa pagpasa sa CSE 💪")
-        ), lang
+            "I'm now Level $level · $title",
+            "One step closer to passing the CSE 💪"
+        )
     )
 
-    fun badge(b: Game.Badge, name: String, lang: String) = Card(
+    fun badge(b: Game.Badge, name: String) = Card(
         b.emoji,
-        t(lang, "New badge!", "Bagong badge!"),
+        "New badge!",
         listOfNotNull(
             nameLine(name),
             b.title,
             b.description,
-            t(lang, "Hard work, one day at a time 🙌", "Sipag at tiyaga, araw-araw 🙌")
-        ), lang
+            "Hard work, one day at a time 🙌"
+        )
     )
 
     /** Streak days that get their own share moment. */
     val STREAK_MILESTONES = setOf(7, 30, 100)
 
-    fun streak(days: Int, name: String, lang: String) = Card(
+    fun streak(days: Int, name: String) = Card(
         "🔥",
-        t(lang, "$days-DAY STREAK!", "$days ARAW NA STREAK!"),
+        "$days-DAY STREAK!",
         listOfNotNull(
             nameLine(name),
-            t(lang, "$days days in a row of CSE review", "$days araw na tuloy-tuloy ang CSE review ko"),
-            t(lang, "Small steps, every single day 💪", "Paunti-unti, pero araw-araw 💪")
-        ), lang
+            "$days days in a row of CSE review",
+            "Small steps, every single day 💪"
+        )
     )
 
     /** Same bar as the "Perfect!" badge: 100% on 10 or more questions. */
     fun isPerfect(correct: Int, total: Int) = total >= 10 && correct == total
 
-    fun perfect(total: Int, name: String, lang: String) = Card(
+    fun perfect(total: Int, name: String) = Card(
         "⭐",
-        t(lang, "PERFECT SCORE!", "PERFECT SCORE!"),
+        "PERFECT SCORE!",
         listOfNotNull(
             nameLine(name),
-            t(lang, "$total out of $total correct — 100%", "$total sa $total ang tama — 100%"),
-            t(lang, "All that practice is paying off 🙌", "Nagbubunga na ang sipag ko 🙌")
-        ), lang
+            "$total out of $total correct — 100%",
+            "All that practice is paying off 🙌"
+        )
     )
 
-    fun firstMock(name: String, lang: String) = Card(
+    fun firstMock(name: String) = Card(
         "⏱️",
-        t(lang, "First mock exam done!", "Unang mock exam, tapos!"),
+        "First mock exam done!",
         listOfNotNull(
             nameLine(name),
-            t(lang, "I finished my first timed CSE mock exam", "Natapos ko ang una kong timed CSE mock exam"),
-            t(lang, "The road to PASADO has started 💪", "Simula na ng daan papuntang PASADO 💪")
-        ), lang
+            "I finished my first timed CSE mock exam",
+            "The road to passing the CSE has begun 💪"
+        )
     )
 
     // ---- layout ------------------------------------------------------------------------------
@@ -209,8 +209,8 @@ object ShareCards {
         val scanP = TextPaint(Paint.ANTI_ALIAS_FLAG).apply { color = BLUE; textSize = (if (story) 34f else 29f) * s; typeface = BOLD }
         val brandTexts = listOf(
             APP_NAME to nameP,
-            t(card.lang, "Practice free for the Civil Service Exam", "Libreng practice para sa Civil Service Exam") to inviteP,
-            t(card.lang, "Scan to get the app 📲", "I-scan para makuha ang app 📲") to scanP
+            "Practice app for the Civil Service Exam" to inviteP,
+            "Scan to get the app 📲" to scanP
         )
         var brandScale = 1f
         var brand: List<Placed>
