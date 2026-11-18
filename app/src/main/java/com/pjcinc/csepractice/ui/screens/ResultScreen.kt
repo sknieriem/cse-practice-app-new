@@ -68,6 +68,9 @@ import com.pjcinc.csepractice.domain.Encourage
 import com.pjcinc.csepractice.ui.components.CelebrationCard
 import com.pjcinc.csepractice.ui.components.InspirationCard
 import com.pjcinc.csepractice.ui.share.ShareCards
+import com.pjcinc.csepractice.ui.share.ShareLabels
+import androidx.compose.material3.ButtonDefaults
+import androidx.compose.ui.platform.testTag
 import com.pjcinc.csepractice.viewmodel.AppViewModel
 
 @Composable
@@ -76,6 +79,7 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
     val wrong = r.items.count { !it.isCorrect }
     val pass = r.percent >= Game.PASS_PERCENT
     val lang = user?.language ?: "en"
+    val firstName = user?.firstName ?: ""
     val anim = remember { Animatable(0f) }
     LaunchedEffect(r) { anim.animateTo(r.percent / 100f, tween(900)) }
 
@@ -105,6 +109,13 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                 }
                 Spacer(Modifier.height(12.dp))
                 Text(Encourage.cheer(lang, r.percent), color = Color.White, style = MaterialTheme.typography.titleLarge, textAlign = TextAlign.Center)
+                if (ShareCards.isPerfect(r.correct, r.total)) {
+                    Button(
+                        onClick = { vm.share(ShareCards.perfect(r.total, firstName, lang), "perfect") },
+                        colors = ButtonDefaults.buttonColors(containerColor = Sun, contentColor = Navy),
+                        modifier = Modifier.padding(top = 8.dp).testTag("share_perfect")
+                    ) { Text(ShareLabels.perfect(lang), textAlign = TextAlign.Center) }
+                }
                 Text(
                     "Time ${formatClock(r.timeMs / 1000)} · pass mark ${Game.PASS_PERCENT}%",
                     color = Color.White.copy(alpha = 0.75f),
@@ -139,6 +150,19 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                     )
                     Spacer(Modifier.height(6.dp))
                     Bar(lp.fraction, MaterialTheme.colorScheme.secondary)
+                    if (reward.leveledUp) {
+                        OutlinedButton(
+                            onClick = { vm.share(ShareCards.levelUp(lp.level, lp.title, firstName, lang), "level_up") },
+                            modifier = Modifier.fillMaxWidth().padding(top = 8.dp).testTag("share_level_up")
+                        ) { Text(ShareLabels.levelUp(lang), textAlign = TextAlign.Center) }
+                    }
+                    val streakDays = reward.newState.streak
+                    if (reward.streakExtended && streakDays in ShareCards.STREAK_MILESTONES) {
+                        OutlinedButton(
+                            onClick = { vm.share(ShareCards.streak(streakDays, firstName, lang), "streak_$streakDays") },
+                            modifier = Modifier.fillMaxWidth().padding(top = 8.dp).testTag("share_streak")
+                        ) { Text(ShareLabels.streak(lang, streakDays), textAlign = TextAlign.Center) }
+                    }
                 }
             }
 
@@ -158,7 +182,15 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
             }
             if (r.celebrations.isNotEmpty()) {
                 SectionTitle(Encourage.t(lang, "Milestones", "Mga milestone"))
-                r.celebrations.forEach { CelebrationCard(it, Modifier.padding(vertical = 4.dp)) }
+                r.celebrations.forEach { c ->
+                    CelebrationCard(c, Modifier.padding(vertical = 4.dp))
+                    if (c.id == "first_mock") {
+                        OutlinedButton(
+                            onClick = { vm.share(ShareCards.firstMock(firstName, lang), "first_mock") },
+                            modifier = Modifier.fillMaxWidth().testTag("share_first_mock")
+                        ) { Text(ShareLabels.firstMock(lang), textAlign = TextAlign.Center) }
+                    }
+                }
             }
             // hard day? remind them who they're doing this for
             if (r.percent < 60) {
@@ -177,6 +209,10 @@ fun ResultScreen(vm: AppViewModel, r: SessionResult) {
                                 Text(b.description, style = MaterialTheme.typography.bodySmall)
                             }
                         }
+                        TextButton(
+                            onClick = { vm.share(ShareCards.badge(b, firstName, lang), "badge_${b.id}") },
+                            modifier = Modifier.padding(start = 4.dp, bottom = 4.dp).testTag("share_badge_${b.id}")
+                        ) { Text(ShareLabels.badge(lang)) }
                     }
                 }
             }

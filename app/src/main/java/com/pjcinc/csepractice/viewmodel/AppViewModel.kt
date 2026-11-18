@@ -233,9 +233,26 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
 
     fun snoozeExamQuestion() = viewModelScope.launch { repo.prefs.snoozeOutcome(repo.today() + 7) }
 
+    /** A card waiting in the Square / Story preview dialog (null = no dialog). */
+    data class ShareRequest(val card: com.pjcinc.csepractice.ui.share.ShareCards.Card, val name: String)
+    private val _shareRequest = MutableStateFlow<ShareRequest?>(null)
+    val shareRequest: StateFlow<ShareRequest?> = _shareRequest.asStateFlow()
+
+    /** Every Share button: open the preview so the user can pick Square or Story. */
     fun share(card: com.pjcinc.csepractice.ui.share.ShareCards.Card, name: String) {
+        _shareRequest.value = ShareRequest(card, name)
+    }
+
+    fun dismissShare() { _shareRequest.value = null }
+
+    /** Opens the Android share sheet with the chosen format. */
+    fun shareNow(
+        card: com.pjcinc.csepractice.ui.share.ShareCards.Card, name: String,
+        format: com.pjcinc.csepractice.ui.share.ShareCards.Format
+    ) {
+        _shareRequest.value = null
         try {
-            com.pjcinc.csepractice.ui.share.ShareCards.share(getApplication(), card, name)
+            com.pjcinc.csepractice.ui.share.ShareCards.share(getApplication(), card, name, format)
         } catch (e: Exception) {
             Log.w(TAG, "Share failed", e)
             _messages.tryEmit("Couldn't open sharing on this phone.")
