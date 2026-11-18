@@ -48,6 +48,10 @@ import com.pjcinc.csepractice.domain.Encourage
 import com.pjcinc.csepractice.domain.Planner
 import com.pjcinc.csepractice.domain.SessionResult
 import com.pjcinc.csepractice.ui.share.ShareCards
+import com.pjcinc.csepractice.ui.share.SharePreview
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.setValue
 import com.pjcinc.csepractice.ui.theme.Blue
 import com.pjcinc.csepractice.ui.theme.Navy
 import com.pjcinc.csepractice.ui.theme.Sun
@@ -60,7 +64,7 @@ import kotlin.random.Random
 fun PasadoScreen(vm: AppViewModel, r: SessionResult) {
     val user by vm.user.collectAsState()
     val lang = user?.language ?: "en"
-    val card = ShareCards.pasadoMock(r.percent, user?.firstName ?: "", lang)
+    val card = ShareCards.pasadoMock(r.percent, user?.firstName ?: "")
     CelebrationLayout(
         emoji = "🎉",
         title = Encourage.t(lang, "PASSING LEVEL!", "PASADO LEVEL!"),
@@ -68,8 +72,9 @@ fun PasadoScreen(vm: AppViewModel, r: SessionResult) {
             "You scored ${r.percent}% on a timed mock exam. The passing rating is ${Planner.PASS_MARK}%. This is what all your practice built. Tell the people cheering for you!",
             "${r.percent}% ang nakuha mo sa timed mock exam. Ang pasado ay ${Planner.PASS_MARK}%. Bunga 'yan ng lahat ng pag-aaral mo. Ibalita mo sa pamilya mo!"),
         card = card,
+        lang = lang,
         shareLabel = Encourage.t(lang, "Share with family 📤", "I-share sa pamilya 📤"),
-        onShare = { vm.share(card, "pasado") },
+        onShare = { f -> vm.shareNow(card, "pasado", f) },
         continueLabel = Encourage.t(lang, "See my results", "Tingnan ang resulta"),
         onContinue = { vm.onBack() }
     )
@@ -81,7 +86,7 @@ fun PassedExamScreen(vm: AppViewModel, level: String) {
     val user by vm.user.collectAsState()
     val lang = user?.language ?: "en"
     val name = user?.firstName ?: ""
-    val card = ShareCards.passedExam(level, name, lang)
+    val card = ShareCards.passedExam(level, name)
     CelebrationLayout(
         emoji = "🎓",
         title = Encourage.t(lang, "PASADO! Congratulations${if (name.isNotBlank()) ", $name" else ""}!", "PASADO! Congrats${if (name.isNotBlank()) ", $name" else ""}!"),
@@ -89,8 +94,9 @@ fun PassedExamScreen(vm: AppViewModel, level: String) {
             "You passed the Civil Service Exam ($level). All those days of practice paid off. This one is yours — celebrate it with everyone who believed in you.",
             "Pumasa ka sa Civil Service Exam ($level)! Nagbunga ang lahat ng pagod at pag-aaral mo. Sa'yo 'to — i-celebrate kasama ang lahat ng naniwala sa'yo."),
         card = card,
+        lang = lang,
         shareLabel = Encourage.t(lang, "Share the good news 📤", "Ibalita sa lahat 📤"),
-        onShare = { vm.share(card, "passed") },
+        onShare = { f -> vm.shareNow(card, "passed", f) },
         continueLabel = Encourage.t(lang, "Done", "Tapos"),
         onContinue = { vm.onBack() }
     )
@@ -102,12 +108,13 @@ private fun CelebrationLayout(
     title: String,
     body: String,
     card: ShareCards.Card,
+    lang: String,
     shareLabel: String,
-    onShare: () -> Unit,
+    onShare: (ShareCards.Format) -> Unit,
     continueLabel: String,
     onContinue: () -> Unit
 ) {
-    val preview = remember(card) { ShareCards.render(card, 720).asImageBitmap() }
+    var format by rememberSaveable { mutableStateOf(ShareCards.Format.SQUARE) }
     Box(Modifier.fillMaxSize().background(Brush.verticalGradient(listOf(Navy, Blue)))) {
         Confetti(Modifier.fillMaxSize())
         Column(
@@ -119,10 +126,10 @@ private fun CelebrationLayout(
             Spacer(Modifier.height(10.dp))
             Text(body, color = Color.White, style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center)
             Spacer(Modifier.height(20.dp))
-            Image(preview, contentDescription = "Card to share", modifier = Modifier.size(260.dp).clip(RoundedCornerShape(16.dp)))
+            SharePreview(card, format, { format = it }, lang, Modifier.fillMaxWidth(), onDark = true)
             Spacer(Modifier.height(20.dp))
             Button(
-                onClick = onShare,
+                onClick = { onShare(format) },
                 colors = ButtonDefaults.buttonColors(containerColor = Sun, contentColor = Navy),
                 modifier = Modifier.fillMaxWidth().heightIn(min = 52.dp)
             ) { Text(shareLabel, style = MaterialTheme.typography.titleMedium) }

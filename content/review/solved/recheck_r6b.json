@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1698968893,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Jupiter is a gas giant"
+ },
+ {
+  "id": 277746663,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Ati-Atihan, Kalibo"
+ },
+ {
+  "id": 1246744583,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Philippine Eagle, Proc. 615 (1995)"
+ },
+ {
+  "id": 1070144002,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x+3=13 -> x=10"
+ },
+ {
+  "id": 1955258917,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x=21"
+ }
+]

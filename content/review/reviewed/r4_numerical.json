@@ -1,0 +1,505 @@
+[
+ {
+  "id": 172219452,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1 (one-step substitution); numbered steps; added whys and explanationTl.",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Substitute f = 20 and g = 8: e = 20 − 8.\n2. Subtract: e = 12.",
+   "stepsTl": "1. Ipalit ang f = 20 at g = 8: e = 20 − 8.\n2. I-subtract: e = 12.",
+   "explanation": "Substitute the values: e = f − g = 20 − 8 = 12.",
+   "explanationTl": "I-substitute lang ang values: e = 20 − 8 = 12.",
+   "whyB": "28 is f + g; you added instead of subtracting.",
+   "whyC": "10 is a subtraction slip; 20 − 8 is 12, not 10.",
+   "whyD": "16 is 2 × g; you doubled g instead of subtracting it from f."
+  }
+ },
+ {
+  "id": 207501616,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Explanation lost its × sign ('b = 73 = 21'); stem '*' changed to '×'; difficulty 1; added whys/Taglish.",
+  "fields": {
+   "text": "If b = c × d and c = 7, d = 3, what is b?",
+   "difficulty": 1,
+   "explanation": "Substitute the values: b = c × d = 7 × 3 = 21.",
+   "explanationTl": "I-substitute ang values: b = 7 × 3 = 21.",
+   "steps": "1. Substitute c = 7 and d = 3: b = 7 × 3.\n2. Multiply: b = 21.",
+   "stepsTl": "1. Ipalit ang c = 7 at d = 3: b = 7 × 3.\n2. I-multiply: b = 21.",
+   "whyB": "10 is 7 + 3; you added instead of multiplying.",
+   "whyC": "4 is 7 − 3; you subtracted instead of multiplying.",
+   "whyD": "24 is 8 × 3; a multiplication slip, since 7 × 3 is 21."
+  }
+ },
+ {
+  "id": 612824269,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Hint talked about undoing +/− (there is none here); stepsTl was cut short; difficulty 1; added explanationTl.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "x is being multiplied by 8. What operation undoes multiplication?",
+   "hintTl": "Naka-multiply ang x sa 8. Ano ang kabaligtaran ng multiplication?",
+   "steps": "1. Divide both sides by 8: x = 64 ÷ 8.\n2. x = 8.\n3. Check: 8 × 8 = 64 ✓",
+   "stepsTl": "1. I-divide ang both sides sa 8: x = 64 ÷ 8.\n2. x = 8.\n3. I-check: 8 × 8 = 64 ✓",
+   "explanation": "Divide both sides by 8: x = 64 ÷ 8 = 8.",
+   "explanationTl": "I-divide ang both sides sa 8, kaya x = 64 ÷ 8 = 8."
+  }
+ },
+ {
+  "id": 389516047,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem reworded; difficulty 1; added steps, hint, whys and Taglish.",
+  "fields": {
+   "difficulty": 1,
+   "text": "What is 1/3 written as a decimal?",
+   "explanation": "A fraction means numerator ÷ denominator: 1 ÷ 3 = 0.333..., with the 3 repeating forever.",
+   "explanationTl": "Ang fraction ay numerator ÷ denominator: 1 ÷ 3 = 0.333..., paulit-ulit ang 3.",
+   "steps": "1. Divide the numerator by the denominator: 1 ÷ 3.\n2. 3 goes into 10 three times with remainder 1, again and again.\n3. 1/3 = 0.333...",
+   "stepsTl": "1. I-divide ang numerator sa denominator: 1 ÷ 3.\n2. Ang 3 sa 10 ay 3 beses, may tirang 1, paulit-ulit.\n3. 1/3 = 0.333...",
+   "hint": "Divide the top number by the bottom number.",
+   "hintTl": "I-divide ang nasa itaas sa nasa ibaba.",
+   "whyB": "0.5 is 1/2, not 1/3.",
+   "whyC": "0.25 is 1/4, not 1/3.",
+   "whyD": "0.666... is 2/3, double the correct value."
+  }
+ },
+ {
+  "id": 466426449,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia ('number of sides in a hexagon') rewritten into a perimeter problem on the same subtopic.",
+  "fields": {
+   "text": "A regular hexagon has sides of 8 cm each. What is its perimeter?",
+   "optionA": "40 cm",
+   "optionB": "48 cm",
+   "optionC": "56 cm",
+   "optionD": "64 cm",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "A hexagon has 6 equal sides, so the perimeter is 6 × 8 cm = 48 cm.",
+   "explanationTl": "Ang hexagon ay may 6 na sides, kaya ang perimeter ay 6 × 8 cm = 48 cm.",
+   "steps": "1. A hexagon has 6 sides.\n2. Perimeter = number of sides × side length.\n3. 6 × 8 cm = 48 cm.",
+   "stepsTl": "1. Ang hexagon ay may 6 na sides.\n2. Perimeter = bilang ng sides × haba ng isang side.\n3. 6 × 8 cm = 48 cm.",
+   "hint": "Perimeter is the total length around the shape. Count how many sides a hexagon has.",
+   "hintTl": "Ang perimeter ay kabuuang haba sa paligid. Ilan ba ang sides ng hexagon?",
+   "whyA": "40 cm uses 5 sides (a pentagon).",
+   "whyC": "56 cm uses 7 sides (a heptagon).",
+   "whyD": "64 cm uses 8 sides (an octagon)."
+  }
+ },
+ {
+  "id": 605251264,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia ('number of sides in a heptagon') rewritten into an interior-angle-sum problem.",
+  "fields": {
+   "text": "What is the sum of the interior angles of a heptagon (7 sides)?",
+   "optionA": "720°",
+   "optionB": "1,080°",
+   "optionC": "900°",
+   "optionD": "1,260°",
+   "correctAnswer": "C",
+   "difficulty": 2,
+   "explanation": "The interior angles of an n-sided polygon add up to (n − 2) × 180°, so a heptagon has (7 − 2) × 180° = 900°.",
+   "explanationTl": "Ang sum ng interior angles ng polygon ay (n − 2) × 180°. Sa heptagon: (7 − 2) × 180° = 900°.",
+   "steps": "1. Use the formula: sum = (n − 2) × 180°.\n2. n = 7, so n − 2 = 5.\n3. 5 × 180° = 900°.",
+   "stepsTl": "1. Gamitin ang formula: sum = (n − 2) × 180°.\n2. n = 7, kaya n − 2 = 5.\n3. 5 × 180° = 900°.",
+   "hint": "A polygon can be split into triangles from one corner; count the triangles.",
+   "hintTl": "Puwedeng hatiin ang polygon sa mga triangle mula sa isang corner. Ilan ang triangles?",
+   "whyA": "720° is (6 − 2) × 180°, the hexagon's total.",
+   "whyB": "1,080° is (8 − 2) × 180°, the octagon's total.",
+   "whyD": "1,260° is 7 × 180°; you forgot to subtract 2 from the number of sides."
+  }
+ },
+ {
+  "id": 98467538,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; explanation now uses ×; added explanationTl.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "65% of 200 = 0.65 × 200 = 130.",
+   "explanationTl": "Ang 65% ng 200 ay 0.65 × 200 = 130.",
+   "hint": "“Percent” means “out of 100”. Change the % to a decimal or a simple fraction, then multiply.",
+   "hintTl": "Ang “percent” ay “sa bawat 100”. Gawing decimal o fraction muna, tapos i-multiply."
+  }
+ },
+ {
+  "id": 411712212,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; explanation now uses ×; added explanationTl.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "6% of 200 = 0.06 × 200 = 12.",
+   "explanationTl": "Ang 6% ng 200 ay 0.06 × 200 = 12.",
+   "hint": "“Percent” means “out of 100”. Change the % to a decimal or a simple fraction, then multiply.",
+   "hintTl": "Ang “percent” ay “sa bawat 100”. Gawing decimal o fraction muna, tapos i-multiply."
+  }
+ },
+ {
+  "id": 1059750230,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; explanation now uses ×; added explanationTl.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "55% of 200 = 0.55 × 200 = 110.",
+   "explanationTl": "Ang 55% ng 200 ay 0.55 × 200 = 110.",
+   "hint": "“Percent” means “out of 100”. Change the % to a decimal or a simple fraction, then multiply.",
+   "hintTl": "Ang “percent” ay “sa bawat 100”. Gawing decimal o fraction muna, tapos i-multiply."
+  }
+ },
+ {
+  "id": 1752148487,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; explanation now uses ×; added explanationTl; replaced weak whys (odd decimals like 21.875%) with the actual mistakes.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "25% of 160 = 0.25 × 160 = 40. Shortcut: 25% = 1/4, so 160 ÷ 4 = 40.",
+   "explanationTl": "Ang 25% ng 160 ay 0.25 × 160 = 40. Shortcut: ang 25% ay 1/4, so 160 ÷ 4 = 40.",
+   "hint": "“Percent” means “out of 100”. Change the % to a decimal or a simple fraction, then multiply.",
+   "hintTl": "Ang “percent” ay “sa bawat 100”. Gawing decimal o fraction muna, tapos i-multiply.",
+   "whyB": "35 is a division slip: 25% is one quarter, and 160 ÷ 4 = 40.",
+   "whyC": "45 is too big: 4 × 45 = 180, not 160.",
+   "whyD": "50 is 25% of 200, not of 160."
+  }
+ },
+ {
+  "id": 2021100914,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; explanation now uses ×; added explanationTl; replaced weak whys (odd decimals like 21.875%) with the actual mistakes.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "12% of 150 = 0.12 × 150 = 18.",
+   "explanationTl": "Ang 12% ng 150 ay 0.12 × 150 = 18.",
+   "hint": "“Percent” means “out of 100”. Change the % to a decimal or a simple fraction, then multiply.",
+   "hintTl": "Ang “percent” ay “sa bawat 100”. Gawing decimal o fraction muna, tapos i-multiply.",
+   "whyB": "15 is only 10% of 150; you still need to add 2% (which is 3).",
+   "whyC": "20 is too big: 10% is 15 and 2% is 3, so 12% is 15 + 3 = 18.",
+   "whyD": "12 just repeats the percent number; 12% of 150 is 18."
+  }
+ },
+ {
+  "id": 2097167053,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty 1; explanation now uses ×; added explanationTl.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "12.5% of 400 = 0.125 × 400 = 50. Shortcut: 12.5% = 1/8, so 400 ÷ 8 = 50.",
+   "explanationTl": "Ang 12.5% ng 400 ay 0.125 × 400 = 50. Shortcut: ang 12.5% ay 1/8, so 400 ÷ 8 = 50.",
+   "hint": "“Percent” means “out of 100”. Change the % to a decimal or a simple fraction, then multiply.",
+   "hintTl": "Ang “percent” ay “sa bawat 100”. Gawing decimal o fraction muna, tapos i-multiply."
+  }
+ },
+ {
+  "id": 539613295,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Stem gave the answer away (20 km in 1 hour = 20 km/h); rewritten as a real speed problem needing a time conversion.",
+  "fields": {
+   "text": "A cyclist rides 30 km in 1 hour 30 minutes. What is the average speed in km/h?",
+   "optionA": "20",
+   "optionB": "45",
+   "optionC": "30",
+   "optionD": "15",
+   "correctAnswer": "A",
+   "difficulty": 1,
+   "explanation": "1 hour 30 minutes = 1.5 hours, so speed = 30 km ÷ 1.5 h = 20 km/h.",
+   "explanationTl": "Ang 1 hour 30 minutes ay 1.5 hours. Speed = 30 ÷ 1.5 = 20 km/h.",
+   "steps": "1. Convert time to hours: 1 h 30 min = 1.5 h.\n2. Speed = distance ÷ time = 30 km ÷ 1.5 h.\n3. Speed = 20 km/h.",
+   "stepsTl": "1. Gawing hours ang oras: 1 h 30 min = 1.5 h.\n2. Speed = distance ÷ time = 30 ÷ 1.5.\n3. Speed = 20 km/h.",
+   "hint": "Speed = distance ÷ time, with the time written in hours.",
+   "hintTl": "Bilis = layo ÷ oras. Siguraduhing nasa hours ang oras.",
+   "whyB": "45 is 30 × 1.5; you multiplied instead of dividing.",
+   "whyC": "30 ignores the extra 30 minutes and divides by 1 hour only.",
+   "whyD": "15 divides by 2 hours; 1 h 30 min is 1.5 h, not 2 h."
+  }
+ },
+ {
+  "id": 1446253096,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; numbered the steps; added whys and explanationTl.",
+  "fields": {
+   "steps": "1. Convert time to hours: 45 min = 45/60 = 0.75 h.\n2. Speed = distance ÷ time = 60 km ÷ 0.75 h.\n3. Speed = 80 km/h.",
+   "stepsTl": "1. Gawing hours ang oras: 45 min = 45/60 = 0.75 h.\n2. Speed = 60 ÷ 0.75.\n3. Speed = 80 km/h.",
+   "explanation": "45 minutes = 0.75 hour, so speed = 60 km ÷ 0.75 h = 80 km/h.",
+   "explanationTl": "Ang 45 minutes ay 0.75 hour, kaya 60 ÷ 0.75 = 80 km/h.",
+   "whyB": "At 90 km/h the train would cover 67.5 km in 45 minutes, not 60 km.",
+   "whyC": "At 70 km/h the train would cover only 52.5 km in 45 minutes.",
+   "whyD": "100 km/h comes from treating 45 minutes as 0.6 hour; 45 minutes is 0.75 hour."
+  }
+ },
+ {
+  "id": 277354909,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Stem ended '125?' (blank unclear), now '125, ?'; difficulty 1; added steps, hint, whys, Taglish.",
+  "fields": {
+   "text": "What is the next number in the sequence: 1, 8, 27, 64, 125, ?",
+   "difficulty": 1,
+   "explanation": "The terms are cubes: 1³, 2³, 3³, 4³, 5³. The next is 6³ = 216.",
+   "explanationTl": "Cubes ang mga numero: 1³, 2³, 3³, 4³, 5³. Kaya ang susunod ay 6³ = 216.",
+   "steps": "1. 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³, 125 = 5³.\n2. Next: 6³ = 6 × 6 × 6 = 216.",
+   "stepsTl": "1. 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³, 125 = 5³.\n2. Susunod: 6³ = 6 × 6 × 6 = 216.",
+   "hint": "Each term is a whole number multiplied by itself more than once.",
+   "hintTl": "Bawat term ay isang number na minultiply sa sarili niya nang ilang beses.",
+   "whyB": "150 adds 25, but the gaps (7, 19, 37, 61) keep growing, so the next gap is 91.",
+   "whyC": "100 is smaller than 125; the sequence is increasing.",
+   "whyD": "175 adds 50; the next gap is 91, not 50."
+  }
+ },
+ {
+  "id": 1260676570,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Stem ended '17?' (blank unclear), now '17, ?'; difficulty 1; added whys and explanationTl.",
+  "fields": {
+   "text": "What is the next number in the sequence: 1, 5, 9, 13, 17, ?",
+   "difficulty": 1,
+   "explanation": "Each term is 4 more than the one before: 17 + 4 = 21.",
+   "explanationTl": "Dagdag 4 bawat term: 17 + 4 = 21.",
+   "whyB": "19 adds only 2; the pattern adds 4.",
+   "whyC": "23 adds 6; the pattern adds 4.",
+   "whyD": "15 goes down, but the sequence increases by 4."
+  }
+ },
+ {
+  "id": 1570412187,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Explanation lost its × sign ('813 = 243'); difficulty 1; added whys and explanationTl.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Each term is 3 times the one before: 81 × 3 = 243.",
+   "explanationTl": "Bawat term ay × 3: 81 × 3 = 243.",
+   "whyB": "162 is 81 × 2; the ratio is 3, not 2.",
+   "whyC": "108 is 81 + 27; the pattern multiplies, it does not add the previous term.",
+   "whyD": "324 is 81 × 4; the ratio is 3, not 4."
+  }
+ },
+ {
+  "id": 1677984835,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Explanation lost its × sign ('562 = 112'); unclear stem fixed; difficulty 1; added whys and explanationTl.",
+  "fields": {
+   "text": "What is the next number in the sequence: 7, 14, 28, 56, ?",
+   "difficulty": 1,
+   "explanation": "Each term is double the one before: 56 × 2 = 112.",
+   "explanationTl": "Dino-double ang bawat term: 56 × 2 = 112.",
+   "whyB": "84 is 56 + 28; the pattern doubles, it does not add the previous term.",
+   "whyC": "70 is 56 + 14; the pattern doubles each term.",
+   "whyD": "98 is 56 + 42; the gaps double too (7, 14, 28), so the next gap is 56."
+  }
+ },
+ {
+  "id": 1911138141,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; silly distractor 0 replaced with 7 (the next gap, a real mistake); difficulty 1; added whys and explanationTl.",
+  "fields": {
+   "optionD": "7",
+   "difficulty": 1,
+   "explanation": "The terms are squares going down: 7², 6², 5², 4², so the next is 3² = 9.",
+   "explanationTl": "Squares ito na pababa: 7², 6², 5², 4², kaya ang susunod ay 3² = 9.",
+   "steps": "1. 49 = 7², 36 = 6², 25 = 5², 16 = 4².\n2. Next: 3² = 9.\n3. Check with gaps: −13, −11, −9, so the next gap is −7, and 16 − 7 = 9.",
+   "stepsTl": "1. 49 = 7², 36 = 6², 25 = 5², 16 = 4².\n2. Susunod: 3² = 9.\n3. I-check sa gaps: −13, −11, −9, kaya ang next gap ay −7, at 16 − 7 = 9.",
+   "whyB": "4 is 2²; it skips 3² and comes one step too far.",
+   "whyC": "1 is 1², two steps too far.",
+   "whyD": "7 is the size of the next gap, not the next term; 16 − 7 = 9."
+  }
+ },
+ {
+  "id": 2022239685,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Stem ended '25?' (blank unclear); distractors 25 and 20 just repeated terms, replaced with 50 and 125; difficulty 1.",
+  "fields": {
+   "text": "What is the next number in the sequence: 5, 10, 15, 20, 25, ?",
+   "difficulty": 1,
+   "optionB": "50",
+   "optionD": "125",
+   "explanation": "Each term is 5 more than the one before: 25 + 5 = 30.",
+   "explanationTl": "Dagdag 5 bawat term: 25 + 5 = 30.",
+   "whyB": "50 doubles 25; the pattern adds 5 each time.",
+   "whyC": "35 adds 10; the pattern adds 5.",
+   "whyD": "125 multiplies by 5; the pattern adds 5."
+  }
+ },
+ {
+  "id": 53623703,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Sports trivia ('players in a soccer team') rewritten into a multiplication word problem.",
+  "fields": {
+   "text": "A barangay sports fest has 6 soccer teams. Each team has 11 players on the field and 5 substitutes. How many players are there in all?",
+   "optionA": "66",
+   "optionB": "71",
+   "optionC": "96",
+   "optionD": "30",
+   "correctAnswer": "C",
+   "difficulty": 1,
+   "explanation": "Each team has 11 + 5 = 16 players, so 6 teams have 6 × 16 = 96 players.",
+   "explanationTl": "Bawat team ay may 11 + 5 = 16 players. Sa 6 teams: 6 × 16 = 96.",
+   "steps": "1. Players per team: 11 + 5 = 16.\n2. Total: 6 × 16 = 96.",
+   "stepsTl": "1. Players kada team: 11 + 5 = 16.\n2. Total: 6 × 16 = 96.",
+   "hint": "Find how many players ONE team has first.",
+   "hintTl": "Alamin muna kung ilan ang players ng ISANG team.",
+   "whyA": "66 counts only the 11 players on the field and forgets the substitutes.",
+   "whyB": "71 is 6 × 11 + 5; the 5 substitutes are per team, not for the whole fest.",
+   "whyD": "30 counts only the substitutes (6 × 5)."
+  }
+ },
+ {
+  "id": 1111574015,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia with a second arguable answer (a year is 52 1/7 weeks, so 53 is defensible) rewritten into a savings word problem.",
+  "fields": {
+   "text": "Lito saves ₱75 every week. Counting a year as 52 weeks, how much does he save in one year?",
+   "optionA": "₱3,600",
+   "optionB": "₱3,900",
+   "optionC": "₱900",
+   "optionD": "₱3,975",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "₱75 × 52 weeks = ₱3,900.",
+   "explanationTl": "₱75 × 52 weeks = ₱3,900.",
+   "steps": "1. Total = weekly savings × number of weeks.\n2. ₱75 × 52 = ₱75 × 50 + ₱75 × 2 = ₱3,750 + ₱150.\n3. Total = ₱3,900.",
+   "stepsTl": "1. Total = ipon kada linggo × bilang ng linggo.\n2. ₱75 × 52 = ₱75 × 50 + ₱75 × 2 = ₱3,750 + ₱150.\n3. Total = ₱3,900.",
+   "hint": "Multiply the weekly amount by the number of weeks. Break 52 into 50 + 2 to make it easy.",
+   "hintTl": "I-multiply ang weekly na ipon sa bilang ng weeks. Hatiin ang 52 sa 50 + 2 para madali.",
+   "whyA": "₱3,600 uses 48 weeks (4 weeks × 12 months); the stem says 52 weeks.",
+   "whyC": "₱900 is ₱75 × 12, as if he saved once a month.",
+   "whyD": "₱3,975 uses 53 weeks; the stem says 52."
+  }
+ },
+ {
+  "id": 1407941946,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia with a second arguable answer (bass and 7-string guitars exist) rewritten into a word problem that states the string counts.",
+  "fields": {
+   "text": "A music teacher restrings 9 six-string guitars and 4 four-string bass guitars. How many strings does she need in all?",
+   "optionA": "78",
+   "optionB": "54",
+   "optionC": "52",
+   "optionD": "70",
+   "correctAnswer": "D",
+   "difficulty": 1,
+   "explanation": "9 × 6 = 54 strings for the guitars and 4 × 4 = 16 for the basses, so 54 + 16 = 70 strings.",
+   "explanationTl": "9 × 6 = 54 para sa guitars, 4 × 4 = 16 para sa bass. Total: 54 + 16 = 70 strings.",
+   "steps": "1. Guitars: 9 × 6 = 54 strings.\n2. Bass guitars: 4 × 4 = 16 strings.\n3. Total: 54 + 16 = 70 strings.",
+   "stepsTl": "1. Guitars: 9 × 6 = 54 strings.\n2. Bass guitars: 4 × 4 = 16 strings.\n3. Total: 54 + 16 = 70 strings.",
+   "hint": "Work out each type of guitar separately, then add.",
+   "hintTl": "I-compute muna ang bawat klase ng guitar, tapos i-add.",
+   "whyA": "78 treats all 13 instruments as six-string (13 × 6).",
+   "whyB": "54 counts only the six-string guitars and forgets the basses.",
+   "whyC": "52 treats all 13 instruments as four-string (13 × 4)."
+  }
+ },
+ {
+  "id": 1511106379,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia ('wheels on a car') rewritten into a counting word problem with Philippine context. Wheel counts stated in the stem (second blind check had to assume them).",
+  "fields": {
+   "text": "A parking area has 15 cars (4 wheels each) and 8 tricycles (3 wheels each). How many wheels are there in all?",
+   "optionA": "76",
+   "optionB": "84",
+   "optionC": "92",
+   "optionD": "69",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "Cars: 15 × 4 = 60 wheels. Tricycles: 8 × 3 = 24 wheels. Total: 60 + 24 = 84.",
+   "explanationTl": "Cars: 15 × 4 = 60. Tricycles: 8 × 3 = 24. Total: 60 + 24 = 84 wheels.",
+   "steps": "1. Cars: 15 × 4 = 60 wheels.\n2. Tricycles: 8 × 3 = 24 wheels.\n3. Total: 60 + 24 = 84 wheels.",
+   "stepsTl": "1. Cars: 15 × 4 = 60 wheels.\n2. Tricycles: 8 × 3 = 24 wheels.\n3. Total: 60 + 24 = 84 wheels.",
+   "hint": "Count the wheels for each kind of vehicle separately, then add.",
+   "hintTl": "Bilangin muna ang gulong ng bawat klase ng sasakyan, tapos i-add.",
+   "whyA": "76 gives each tricycle only 2 wheels (8 × 2 = 16).",
+   "whyC": "92 gives each tricycle 4 wheels like a car.",
+   "whyD": "69 gives every vehicle 3 wheels (23 × 3)."
+  }
+ },
+ {
+  "id": 161148794,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; steps said 'job' for products, reworded; added whys and explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Each machine makes 1 product in 2 hours. 4 machines working at the same time make 4 products in the same 2 hours.",
+   "explanationTl": "Bawat machine ay gumagawa ng 1 product sa 2 hours. Kaya ang 4 machines ay gagawa ng 4 products sa 2 hours din.",
+   "steps": "1. 2 machines make 2 products in 2 hours, so 1 machine makes 1 product in 2 hours.\n2. 4 machines each make 1 product at the same time.\n3. Time = 2 hours.",
+   "stepsTl": "1. 2 machines, 2 products, 2 hours: kaya 1 machine = 1 product sa 2 hours.\n2. Sabay-sabay gumagawa ang 4 machines, tig-iisang product.\n3. Time = 2 hours.",
+   "hintTl": "Alamin muna ang kaya ng ISANG tao kada oras o araw.",
+   "whyB": "4 hours doubles the time because the products doubled, but the machines doubled too.",
+   "whyC": "1 hour halves the time because the machines doubled, but the products doubled too.",
+   "whyD": "3 hours has no basis; each machine still takes 2 hours per product."
+  }
+ },
+ {
+  "id": 436461011,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; steps reworded; added whys and explanationTl; difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Each teacher grades 1 paper in 6 hours. 12 teachers grade 12 papers at the same time, so it still takes 6 hours.",
+   "explanationTl": "Bawat teacher ay naka-grade ng 1 paper sa 6 hours. Sabay-sabay ang 12 teachers, kaya 6 hours pa rin.",
+   "steps": "1. 6 teachers grade 6 papers in 6 hours, so 1 teacher grades 1 paper in 6 hours.\n2. 12 teachers each grade 1 paper at the same time.\n3. Time = 6 hours.",
+   "stepsTl": "1. 6 teachers, 6 papers, 6 hours: kaya 1 teacher = 1 paper sa 6 hours.\n2. Sabay-sabay ang 12 teachers, tig-iisang paper.\n3. Time = 6 hours.",
+   "hintTl": "Alamin muna ang kaya ng ISANG tao kada oras o araw.",
+   "whyB": "12 hours doubles the time for double the papers, but the teachers doubled too.",
+   "whyC": "3 hours halves the time for double the teachers, but the papers doubled too.",
+   "whyD": "9 hours has no basis; each teacher still takes 6 hours per paper."
+  }
+ },
+ {
+  "id": 1495293733,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "4 items shared one 'answer stays the same' template; changed to 6 walls so the rate must actually be used; key now C (12).",
+  "fields": {
+   "text": "If 6 workers build 6 walls in 6 days, how many days will 3 workers take to build 6 walls?",
+   "correctAnswer": "C",
+   "difficulty": 2,
+   "explanation": "Each worker builds 1 wall in 6 days. 3 workers build 3 walls every 6 days, so 6 walls take 2 × 6 = 12 days.",
+   "explanationTl": "Bawat worker ay 1 wall sa 6 days. Ang 3 workers ay 3 walls kada 6 days, kaya ang 6 walls ay 12 days.",
+   "steps": "1. 1 worker builds 1 wall in 6 days.\n2. 3 workers build 3 walls in 6 days.\n3. 6 walls is twice as many: 2 × 6 = 12 days.",
+   "stepsTl": "1. 1 worker = 1 wall sa 6 days.\n2. 3 workers = 3 walls sa 6 days.\n3. Doble ang walls (6), kaya 2 × 6 = 12 days.",
+   "hintTl": "Alamin muna ang kaya ng ISANG tao kada oras o araw.",
+   "whyA": "6 days is the time for 3 workers to build 3 walls; here they must build 6.",
+   "whyB": "3 days halves the time, but fewer workers means MORE time, not less.",
+   "whyD": "9 days adds only half again; with half the workers and the same walls, the time doubles."
+  }
+ },
+ {
+  "id": 2043291122,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Same 'answer stays the same' template; changed to 4 cars so the rate must be used; key now C (8).",
+  "fields": {
+   "text": "If 4 mechanics fix 4 cars in 4 hours, how many hours will 2 mechanics take to fix 4 cars?",
+   "correctAnswer": "C",
+   "difficulty": 2,
+   "explanation": "Each mechanic fixes 1 car in 4 hours. 2 mechanics fix 2 cars every 4 hours, so 4 cars take 2 × 4 = 8 hours.",
+   "explanationTl": "Bawat mechanic ay 1 car sa 4 hours. Ang 2 mechanics ay 2 cars kada 4 hours, kaya ang 4 cars ay 8 hours.",
+   "steps": "1. 1 mechanic fixes 1 car in 4 hours.\n2. 2 mechanics fix 2 cars in 4 hours.\n3. 4 cars is twice as many: 2 × 4 = 8 hours.",
+   "stepsTl": "1. 1 mechanic = 1 car sa 4 hours.\n2. 2 mechanics = 2 cars sa 4 hours.\n3. Doble ang cars (4), kaya 2 × 4 = 8 hours.",
+   "hintTl": "Alamin muna ang kaya ng ISANG tao kada oras o araw.",
+   "whyA": "4 hours is the time for 4 mechanics; with half the mechanics it takes longer.",
+   "whyB": "2 hours halves the time, but fewer mechanics means MORE time, not less.",
+   "whyD": "6 hours adds only half again; with half the mechanics and the same cars, the time doubles."
+  }
+ }
+]

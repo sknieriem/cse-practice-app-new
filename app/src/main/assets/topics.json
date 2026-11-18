@@ -240,6 +240,14 @@
   "tipTl": "Magandang background. Pero ang focus ng General Information ay Constitution, RA 6713, human rights at environment."
  },
  {
+  "id": "gi_current",
+  "category": "General Information",
+  "name": "Current events (PH)",
+  "syllabus": true,
+  "tip": "Recent laws, programs and events (2024 onward). The real CSE often asks about them. Each item is dated: facts are as of the month shown in the explanation.",
+  "tipTl": "Mga bagong batas, programa at events (2024 pataas). Madalas itong lumabas sa totoong CSE. May petsa ang bawat item: totoo ang facts as of sa buwan na nakasulat sa explanation."
+ },
+ {
   "id": "gi_general",
   "category": "General Information",
   "name": "General knowledge",

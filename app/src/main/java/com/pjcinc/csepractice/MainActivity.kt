@@ -62,6 +62,7 @@ import com.pjcinc.csepractice.ui.theme.CSEPracticeAppTheme
 import com.pjcinc.csepractice.viewmodel.AppViewModel
 import com.pjcinc.csepractice.viewmodel.Boot
 import com.pjcinc.csepractice.viewmodel.Overlay
+import com.pjcinc.csepractice.ui.share.ShareDialog
 import com.pjcinc.csepractice.viewmodel.Tab
 
 class MainActivity : ComponentActivity() {
@@ -121,6 +122,11 @@ fun AppRoot(vm: AppViewModel, onExit: () -> Unit) {
                 Overlay.None -> TabsScaffold(vm, tab, snackbar)
             }
         }
+    }
+    val shareReq by vm.shareRequest.collectAsState()
+    val shareLang = vm.user.collectAsState().value?.language ?: "en"
+    shareReq?.let { req ->
+        ShareDialog(req.card, shareLang, onShare = { f -> vm.shareNow(req.card, req.name, f) }, onDismiss = { vm.dismissShare() })
     }
 }
 

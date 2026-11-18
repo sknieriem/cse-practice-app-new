@@ -1,0 +1,485 @@
+[
+ {
+  "id": 459095800,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "brush is the tool for painting; needle for sewing"
+ },
+ {
+  "id": 545690631,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "instrument to the object it observes"
+ },
+ {
+  "id": 393079391,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "umbrella advice assumes possible rain"
+ },
+ {
+  "id": 509479997,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "posting online assumes residents see the page"
+ },
+ {
+  "id": 773023119,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "reward plan assumes rewards motivate punctuality"
+ },
+ {
+  "id": 927696584,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "assumes regular review improves performance; B too strong"
+ },
+ {
+  "id": 1889889922,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "ad assumes some qualified seekers read it"
+ },
+ {
+  "id": 1786808757,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "n^2+(2n-1): 36+11=47; differences 9,11,13"
+ },
+ {
+  "id": 59516148,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "1950/3=650"
+ },
+ {
+  "id": 135614298,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "(1400-1000)/1000=40%"
+ },
+ {
+  "id": 842249061,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "65000/200000=32.5%"
+ },
+ {
+  "id": 1472321946,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+50/yr: 900+3*50=1050"
+ },
+ {
+  "id": 93208581,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "T is S's mother, R is S's father; T is R's wife"
+ },
+ {
+  "id": 1388460149,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "mother of Paolo's mother"
+ },
+ {
+  "id": 1612824738,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "only daughter of Ana's mother is Ana herself"
+ },
+ {
+  "id": 1987065153,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "F is E's sister, D is E's mother, F is a girl"
+ },
+ {
+  "id": 161847378,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "bungalows are houses, no houses are tents"
+ },
+ {
+  "id": 620005274,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Dina>Ana>Ben>Carlo"
+ },
+ {
+  "id": 843201365,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Olive>Nora>Liza>Mia"
+ },
+ {
+  "id": 961695495,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "only if: joining requires passing"
+ },
+ {
+  "id": 1313182667,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "modus tollens"
+ },
+ {
+  "id": 1336245471,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "chained modus ponens"
+ },
+ {
+  "id": 1529806093,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "some students are scholars does not make all scholars students"
+ },
+ {
+  "id": 1690573639,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "modus tollens"
+ },
+ {
+  "id": 1958573007,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "those officials who are employees do not smoke"
+ },
+ {
+  "id": 2000706559,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "negation of all = at least one not"
+ },
+ {
+  "id": 2024482281,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "exclusive or, not Monday"
+ },
+ {
+  "id": 2075441765,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "affirming the consequent is invalid"
+ },
+ {
+  "id": 838510846,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "shark is a fish, others mammals; but stem lists Seal while option D is Porpoise, fix the mismatch [stem fixed to list Porpoise; answer C unchanged]"
+ },
+ {
+  "id": 1716003426,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "triangular numbers, +5"
+ },
+ {
+  "id": 1356525952,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 6713 is the Code of Conduct and Ethical Standards"
+ },
+ {
+  "id": 243976649,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Asia"
+ },
+ {
+  "id": 655272907,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 9003 is the Ecological Solid Waste Management Act of 2000"
+ },
+ {
+  "id": 1437646706,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Edison, 1879"
+ },
+ {
+  "id": 1611602806,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Saturn"
+ },
+ {
+  "id": 1734665666,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Batangas (Lipa)"
+ },
+ {
+  "id": 2099166841,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "compressed air"
+ },
+ {
+  "id": 1130747386,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Luzon, Visayas, Mindanao"
+ },
+ {
+  "id": 1941911883,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Luzon"
+ },
+ {
+  "id": 808390217,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "7x=49"
+ },
+ {
+  "id": 1315932955,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "9x=81"
+ },
+ {
+  "id": 1599644349,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "98-24=74"
+ },
+ {
+  "id": 1622807356,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "35/5"
+ },
+ {
+  "id": 2057492189,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3x-12=2x+5"
+ },
+ {
+  "id": 179913215,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "0.25"
+ },
+ {
+  "id": 65727337,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "4*5"
+ },
+ {
+  "id": 1260396501,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "4/3*3.14=4.19"
+ },
+ {
+  "id": 273774303,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "0.33*300"
+ },
+ {
+  "id": 1450369977,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "40/2"
+ },
+ {
+  "id": 2105375501,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "45/1.5"
+ },
+ {
+  "id": 160379009,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "halve"
+ },
+ {
+  "id": 279001731,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x2+1"
+ },
+ {
+  "id": 751710091,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x2"
+ },
+ {
+  "id": 910365878,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+2,+3,+4,+5,+6"
+ },
+ {
+  "id": 1055551722,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+6"
+ },
+ {
+  "id": 1585438389,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x3"
+ },
+ {
+  "id": 268008055,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "sorted 2,4,5,7,9,12 -> (5+7)/2"
+ },
+ {
+  "id": 514582134,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2s+20=80, s=30, noodles 50"
+ },
+ {
+  "id": 667265545,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "31 days = 3 mod 7, Monday+3"
+ },
+ {
+  "id": 1923875964,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3s+12=2(s+12), s=12"
+ },
+ {
+  "id": 1128821398,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "one mechanic, one car, 6 h"
+ },
+ {
+  "id": 1398123625,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "one farmer, one field, 4 days"
+ },
+ {
+  "id": 1365313027,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "password opens an account as key opens a lock"
+ },
+ {
+  "id": 1296110569,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "third-person singular"
+ },
+ {
+  "id": 1762188624,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "nearer subject employees takes are"
+ },
+ {
+  "id": 464245615,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "The stars are shining"
+ },
+ {
+  "id": 1490974169,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "The birds are flying"
+ },
+ {
+  "id": 182894093,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "persevered = continued despite difficulty"
+ },
+ {
+  "id": 331725529,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "fast = abstain from food"
+ }
+]

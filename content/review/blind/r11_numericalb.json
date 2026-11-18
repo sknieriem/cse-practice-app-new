@@ -1,0 +1,502 @@
+[
+ {
+  "id": 575327329,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "4/8 + 2/8 = ?",
+  "optionA": "6/8",
+  "optionB": "2/8",
+  "optionC": "8/8",
+  "optionD": "3/8"
+ },
+ {
+  "id": 576568562,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "2/3 - 1/3 = ?",
+  "optionA": "1/3",
+  "optionB": "0",
+  "optionC": "2/3",
+  "optionD": "3/3"
+ },
+ {
+  "id": 587468643,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "1/2 + 1/3 = ?",
+  "optionA": "5/6",
+  "optionB": "2/5",
+  "optionC": "3/5",
+  "optionD": "4/6"
+ },
+ {
+  "id": 622723241,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 0.25 to fraction.",
+  "optionA": "1/4",
+  "optionB": "1/2",
+  "optionC": "3/4",
+  "optionD": "1/5"
+ },
+ {
+  "id": 638882162,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "2/6 + 3/6 = ?",
+  "optionA": "5/6",
+  "optionB": "1/6",
+  "optionC": "4/6",
+  "optionD": "6/6"
+ },
+ {
+  "id": 677809236,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "2/4 + 1/4 = ?",
+  "optionA": "3/4",
+  "optionB": "1/2",
+  "optionC": "1/4",
+  "optionD": "4/4"
+ },
+ {
+  "id": 700053876,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "3/4 ÷ 1/2 = ?",
+  "optionA": "1.5",
+  "optionB": "0.75",
+  "optionC": "1",
+  "optionD": "2"
+ },
+ {
+  "id": 896153988,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 0.6 to fraction.",
+  "optionA": "3/5",
+  "optionB": "2/5",
+  "optionC": "4/5",
+  "optionD": "1/5"
+ },
+ {
+  "id": 1058231597,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "1/3 * 3/1 = ?",
+  "optionA": "1",
+  "optionB": "1/3",
+  "optionC": "3",
+  "optionD": "0"
+ },
+ {
+  "id": 1143157816,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 9/10 to decimal.",
+  "optionA": "0.9",
+  "optionB": "0.09",
+  "optionC": "9.0",
+  "optionD": "0.99"
+ },
+ {
+  "id": 1145987261,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "1/3 + 1/6 = ?",
+  "optionA": "1/2",
+  "optionB": "1/3",
+  "optionC": "1/6",
+  "optionD": "2/3"
+ },
+ {
+  "id": 1146810600,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 0.75 to fraction.",
+  "optionA": "3/4",
+  "optionB": "1/2",
+  "optionC": "1/4",
+  "optionD": "2/3"
+ },
+ {
+  "id": 1163252312,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "3/4 + 1/4 = ?",
+  "optionA": "1",
+  "optionB": "1/2",
+  "optionC": "3/4",
+  "optionD": "4/4"
+ },
+ {
+  "id": 1239435879,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "1/2 + 1/4 = ?",
+  "optionA": "3/4",
+  "optionB": "1/4",
+  "optionC": "1/2",
+  "optionD": "2/4"
+ },
+ {
+  "id": 1282675002,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 0.4 to fraction.",
+  "optionA": "2/5",
+  "optionB": "1/2",
+  "optionC": "3/5",
+  "optionD": "1/5"
+ },
+ {
+  "id": 1289525931,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "1/4 + 3/8 = ?",
+  "optionA": "5/8",
+  "optionB": "1/2",
+  "optionC": "7/8",
+  "optionD": "3/4"
+ },
+ {
+  "id": 1503529359,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 2/10 to decimal.",
+  "optionA": "0.2",
+  "optionB": "0.02",
+  "optionC": "2.0",
+  "optionD": "0.22"
+ },
+ {
+  "id": 1592472316,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 310/50 to a decimal.",
+  "optionA": "6.2",
+  "optionB": "3.1",
+  "optionC": "0.62",
+  "optionD": "6.1"
+ },
+ {
+  "id": 1638683339,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "2/8 + 3/8 = ?",
+  "optionA": "5/8",
+  "optionB": "1/8",
+  "optionC": "4/8",
+  "optionD": "6/8"
+ },
+ {
+  "id": 1811722055,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 5/8 to decimal.",
+  "optionA": "0.625",
+  "optionB": "0.5",
+  "optionC": "0.75",
+  "optionD": "0.8"
+ },
+ {
+  "id": 1926436224,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 3/4 to decimal.",
+  "optionA": "0.75",
+  "optionB": "0.5",
+  "optionC": "0.25",
+  "optionD": "1.0"
+ },
+ {
+  "id": 1928932917,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 1/10 to decimal.",
+  "optionA": "0.1",
+  "optionB": "0.01",
+  "optionC": "1.0",
+  "optionD": "0.11"
+ },
+ {
+  "id": 2142799229,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "2/3 - 1/6 = ?",
+  "optionA": "1/2",
+  "optionB": "1/3",
+  "optionC": "1/6",
+  "optionD": "5/6"
+ },
+ {
+  "id": 370958632,
+  "category": "Numerical Ability",
+  "subtopic": "num_geometry",
+  "text": "Area of circle with radius 5 (use π=3.14)?",
+  "optionA": "78.5",
+  "optionB": "31.4",
+  "optionC": "15.7",
+  "optionD": "25"
+ },
+ {
+  "id": 1117933412,
+  "category": "Numerical Ability",
+  "subtopic": "num_geometry",
+  "text": "Number of sides in a nonagon?",
+  "optionA": "9",
+  "optionB": "8",
+  "optionC": "10",
+  "optionD": "7"
+ },
+ {
+  "id": 2534123,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A fridge is Php 20000 with 15% discount. Final price?",
+  "optionA": "17000",
+  "optionB": "18000",
+  "optionC": "16000",
+  "optionD": "19000"
+ },
+ {
+  "id": 3468809,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 50% of 60?",
+  "optionA": "30",
+  "optionB": "25",
+  "optionC": "35",
+  "optionD": "40"
+ },
+ {
+  "id": 7053621,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A bag costs Php 1500 with 20% discount. Final price?",
+  "optionA": "1200",
+  "optionB": "1300",
+  "optionC": "1100",
+  "optionD": "1400"
+ },
+ {
+  "id": 17673390,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A ring is Php 3000 with 20% discount. Final price?",
+  "optionA": "2400",
+  "optionB": "2500",
+  "optionC": "2200",
+  "optionD": "2600"
+ },
+ {
+  "id": 109798819,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 22% of 150?",
+  "optionA": "33",
+  "optionB": "30",
+  "optionC": "35",
+  "optionD": "32"
+ },
+ {
+  "id": 129702408,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 40% of 250?",
+  "optionA": "100",
+  "optionB": "90",
+  "optionC": "110",
+  "optionD": "80"
+ },
+ {
+  "id": 151446441,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 4% of 1000?",
+  "optionA": "40",
+  "optionB": "30",
+  "optionC": "50",
+  "optionD": "20"
+ },
+ {
+  "id": 233447895,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 30% of 90?",
+  "optionA": "27",
+  "optionB": "25",
+  "optionC": "30",
+  "optionD": "35"
+ },
+ {
+  "id": 359417545,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A TV is Php 15000 with 20% discount. Final price?",
+  "optionA": "12000",
+  "optionB": "13000",
+  "optionC": "11000",
+  "optionD": "14000"
+ },
+ {
+  "id": 361904332,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 50% of 40?",
+  "optionA": "20",
+  "optionB": "15",
+  "optionC": "25",
+  "optionD": "30"
+ },
+ {
+  "id": 371119905,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A backpack is Php 900 with 10% discount. Final price?",
+  "optionA": "810",
+  "optionB": "800",
+  "optionC": "850",
+  "optionD": "820"
+ },
+ {
+  "id": 396053749,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "45 increased by what percent of itself gives 90?",
+  "optionA": "50%",
+  "optionB": "100%",
+  "optionC": "200%",
+  "optionD": "150%"
+ },
+ {
+  "id": 412352093,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 60% of 250?",
+  "optionA": "150",
+  "optionB": "140",
+  "optionC": "160",
+  "optionD": "130"
+ },
+ {
+  "id": 472003763,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 30% of 150?",
+  "optionA": "45",
+  "optionB": "50",
+  "optionC": "40",
+  "optionD": "55"
+ },
+ {
+  "id": 486168981,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 45% of 400?",
+  "optionA": "180",
+  "optionB": "160",
+  "optionC": "200",
+  "optionD": "190"
+ },
+ {
+  "id": 502630425,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 40% of 125?",
+  "optionA": "50",
+  "optionB": "45",
+  "optionC": "55",
+  "optionD": "60"
+ },
+ {
+  "id": 524804337,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 16% of 250?",
+  "optionA": "40",
+  "optionB": "35",
+  "optionC": "45",
+  "optionD": "50"
+ },
+ {
+  "id": 544645056,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A toy is Php 200 with 25% discount. Final price?",
+  "optionA": "150",
+  "optionB": "160",
+  "optionC": "140",
+  "optionD": "170"
+ },
+ {
+  "id": 560700723,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A ticket is Php 500 with 40% discount. Final price?",
+  "optionA": "300",
+  "optionB": "200",
+  "optionC": "400",
+  "optionD": "350"
+ },
+ {
+  "id": 563217599,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 2% of 5000?",
+  "optionA": "100",
+  "optionB": "90",
+  "optionC": "110",
+  "optionD": "80"
+ },
+ {
+  "id": 665464439,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A watch is Php 2000 with 10% discount. Final price?",
+  "optionA": "1800",
+  "optionB": "1900",
+  "optionC": "1700",
+  "optionD": "2100"
+ },
+ {
+  "id": 750335784,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 25% of 120?",
+  "optionA": "30",
+  "optionB": "25",
+  "optionC": "35",
+  "optionD": "40"
+ },
+ {
+  "id": 784213915,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A table is Php 2000 with 15% discount. Final price?",
+  "optionA": "1700",
+  "optionB": "1800",
+  "optionC": "1600",
+  "optionD": "1900"
+ },
+ {
+  "id": 809250212,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A vase is Php 600 with 33% discount. Final price? (approx)",
+  "optionA": "402",
+  "optionB": "400",
+  "optionC": "450",
+  "optionD": "500"
+ },
+ {
+  "id": 962980247,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A book is Php 100 with 10% discount. Final price?",
+  "optionA": "90",
+  "optionB": "95",
+  "optionC": "85",
+  "optionD": "80"
+ }
+]

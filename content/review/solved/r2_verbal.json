@@ -1,0 +1,18 @@
+[
+{"id": 379343669, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "knife cuts"},
+{"id": 964282408, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "workplace"},
+{"id": 1365313027, "answer": "A", "confidence": "unsure", "ambiguous": true, "note": "relation lock:key vs code:password is loose; best guess A"},
+{"id": 1556267642, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "descend"},
+{"id": 2029505828, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "lazy"},
+{"id": 649091033, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "needs adverb carefully"},
+{"id": 705733641, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "committed to"},
+{"id": 1092394360, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "allergic to"},
+{"id": 1296110569, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "B and D both correct"},
+{"id": 1762188624, "answer": "C", "confidence": "unsure", "ambiguous": true, "note": "C clear error; A also arguable (team ... are)"},
+{"id": 464245615, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "C inversion also valid; capital 'Stars' in prompt"},
+{"id": 1490974169, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "C inversion also valid"},
+{"id": 182894093, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "persevered"},
+{"id": 331725529, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "both meanings; weak 'Both' format"},
+{"id": 1459368517, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "natural liking"},
+{"id": 1718825358, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "obscure"}
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "id": 603358645,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Opaque : Clear :: Fancy :",
+  "optionA": "Simple",
+  "optionB": "Complex",
+  "optionC": "Elegant",
+  "optionD": "Plain"
+ },
+ {
+  "id": 868996614,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Pencil is to sketching as knife is to:",
+  "optionA": "Cutting",
+  "optionB": "Writing",
+  "optionC": "Drawing",
+  "optionD": "Sharpening"
+ },
+ {
+  "id": 999651903,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Teacher is to instructing as chef is to:",
+  "optionA": "Cooking",
+  "optionB": "Serving",
+  "optionC": "Eating",
+  "optionD": "Cleaning"
+ },
+ {
+  "id": 292444038,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To pass the exam, students must review notes.",
+  "optionA": "Reviewing notes guarantees passing",
+  "optionB": "Not reviewing notes leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 887779386,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To solve puzzles, one must think logically.",
+  "optionA": "Thinking logically guarantees solving puzzles",
+  "optionB": "Not thinking logically leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 576071044,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 1=1, 2=4, 3=9, 4=16, 5=?",
+  "optionA": "25",
+  "optionB": "20",
+  "optionC": "30",
+  "optionD": "15"
+ },
+ {
+  "id": 1891877001,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=5, 3=10, 4=17, 5=?",
+  "optionA": "26",
+  "optionB": "25",
+  "optionC": "20",
+  "optionD": "22"
+ },
+ {
+  "id": 2092232111,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 4=20, 5=30, 6=42, 7=?",
+  "optionA": "56",
+  "optionB": "58",
+  "optionC": "60",
+  "optionD": "62"
+ },
+ {
+  "id": 1024818016,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing sales: Week 1 300, Week 2 350, Week 3 400. What is the average sales?",
+  "optionA": "340",
+  "optionB": "350",
+  "optionC": "360",
+  "optionD": "370"
+ },
+ {
+  "id": 1385056419,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing revenue: Q1 900, Q2 950, Q3 1000. What is the average revenue?",
+  "optionA": "940",
+  "optionB": "950",
+  "optionC": "960",
+  "optionD": "970"
+ },
+ {
+  "id": 1466426645,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing attendance: Day 1 200, Day 2 250, Day 3 300. What is the average attendance?",
+  "optionA": "240",
+  "optionB": "250",
+  "optionC": "260",
+  "optionD": "270"
+ },
+ {
+  "id": 1209863589,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "X is Y's brother, Y is Z's sister, and Z is a boy. Z is X's:",
+  "optionA": "Brother",
+  "optionB": "Sister",
+  "optionC": "Uncle",
+  "optionD": "Self"
+ },
+ {
+  "id": 1608258047,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "J is K's brother, K is L's sister, and L is a girl. L is J's:",
+  "optionA": "Brother",
+  "optionB": "Sister",
+  "optionC": "Father",
+  "optionD": "Mother"
+ },
+ {
+  "id": 1744376656,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If P is Q’s father, Q is R’s daughter, R is P’s:",
+  "optionA": "Son",
+  "optionB": "Daughter",
+  "optionC": "Wife",
+  "optionD": "Mother"
+ },
+ {
+  "id": 86297828,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All roses are red. Some flowers are roses. So some flowers are red.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 896911754,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All dancers perform. Some people are dancers. So some people perform.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 1165843484,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If it is rainy tomorrow, I will not visit my friend’s house. If I will visit my friend’s house, then ___________________",
+  "optionA": "tomorrow is rainy",
+  "optionB": "tomorrow is not rainy",
+  "optionC": "it will rain later",
+  "optionD": "I will stay home"
+ },
+ {
+  "id": 1175081634,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all Bloops are Razzies and some Razzies are Lalas, then:",
+  "optionA": "All Bloops are LaLAS",
+  "optionB": "Some Bloops are LaLas",
+  "optionC": "No Bloops are LaLas",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1384668205,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all stars shine and some celestial bodies are stars, then:",
+  "optionA": "All celestial bodies shine",
+  "optionB": "Some celestial bodies shine",
+  "optionC": "No celestial bodies shine",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1401712706,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all chairs have legs and some furniture are chairs, then:",
+  "optionA": "All furniture have legs",
+  "optionB": "Some furniture have legs",
+  "optionC": "No furniture have legs",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1493632564,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All teachers educate. Some professionals are teachers. So some professionals educate.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 1632913086,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all rivers flow and some waterways are rivers, then:",
+  "optionA": "All waterways flow",
+  "optionB": "Some waterways flow",
+  "optionC": "No waterways flow",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1636377641,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "Only confident people are actors. All actors are wealthy. Ben is wealthy. Is 'Ben is a confident person' undoubtedly true?",
+  "optionA": "Yes",
+  "optionB": "No",
+  "optionC": "Maybe",
+  "optionD": "Always"
+ },
+ {
+  "id": 1910565425,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All birds fly. Penguins do not fly. So penguins are not birds.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 2065221890,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All architects design. Some professionals are architects. So some professionals design.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 2120519826,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All pilots fly. Some people are pilots. So some people fly.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 910327409,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Fork, Spoon, Knife, Plate",
+  "optionA": "Fork",
+  "optionB": "Spoon",
+  "optionC": "Knife",
+  "optionD": "Plate"
+ },
+ {
+  "id": 1136389625,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Guitar, Violin, Piano, Flute",
+  "optionA": "Guitar",
+  "optionB": "Violin",
+  "optionC": "Piano",
+  "optionD": "Flute"
+ },
+ {
+  "id": 1174300165,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Rose, Tulip, Daisy, Oak",
+  "optionA": "Rose",
+  "optionB": "Tulip",
+  "optionC": "Daisy",
+  "optionD": "Oak"
+ },
+ {
+  "id": 1209780052,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Pen, Pencil, Marker, Eraser",
+  "optionA": "Pen",
+  "optionB": "Pencil",
+  "optionC": "Marker",
+  "optionD": "Eraser"
+ },
+ {
+  "id": 1694141845,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Book, Magazine, Newspaper, Pen",
+  "optionA": "Book",
+  "optionB": "Magazine",
+  "optionC": "Newspaper",
+  "optionD": "Pen"
+ },
+ {
+  "id": 1910354685,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Dog, Cat, Horse, Bird",
+  "optionA": "Dog",
+  "optionB": "Cat",
+  "optionC": "Horse",
+  "optionD": "Bird"
+ },
+ {
+  "id": 2093024008,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Which is odd one out: Apple, Banana, Carrot, Orange",
+  "optionA": "Apple",
+  "optionB": "Banana",
+  "optionC": "Carrot",
+  "optionD": "Orange"
+ },
+ {
+  "id": 93725730,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 10, 17, 25, 34, ____",
+  "optionA": "42",
+  "optionB": "43",
+  "optionC": "44",
+  "optionD": "45"
+ },
+ {
+  "id": 458469050,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 3, 7, 12, 18, ____",
+  "optionA": "24",
+  "optionB": "25",
+  "optionC": "26",
+  "optionD": "27"
+ },
+ {
+  "id": 1623350365,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 6, 13, 21, 30, ____",
+  "optionA": "38",
+  "optionB": "39",
+  "optionC": "40",
+  "optionD": "41"
+ },
+ {
+  "id": 2036881895,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 5, 11, 18, 26, ____",
+  "optionA": "34",
+  "optionB": "35",
+  "optionC": "36",
+  "optionD": "37"
+ }
+]

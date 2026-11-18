@@ -1,0 +1,401 @@
+[
+ {
+  "id": 30964422,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 80115330,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 269539567,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 399223859,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 401138244,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1541189285,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1552137391,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1709508975,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1711590104,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1785779591,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1845148216,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 3630601,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 24143042,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 869811056,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1015392083,
+  "answer": "A",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "B 12/12, C 7/7, D 1/1 all equal 1"
+ },
+ {
+  "id": 1148606973,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1752561608,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2036006001,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2134528283,
+  "answer": "A",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "D 3/3 also equals 1"
+ },
+ {
+  "id": 444838310,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 607748819,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 636091509,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 944048397,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1256121476,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 58950500,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 557427307,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1161601848,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1512852403,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1574272955,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 93140923,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 99115311,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 208871148,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 230155382,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 288502493,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 465554006,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 477662742,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 900470789,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1058068768,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1076032827,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1147458080,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1276097534,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1286839637,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "divide by 3"
+ },
+ {
+  "id": 1394905072,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "duplicate of 465554006"
+ },
+ {
+  "id": 1826184778,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1874968719,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1940139030,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1966001898,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1973072366,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1981300329,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1073181394,
+  "answer": "A",
+  "confidence": "unsure",
+  "ambiguous": false,
+  "note": "trivia, not math; 7-continent model"
+ },
+ {
+  "id": 712363549,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 822405742,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1073969172,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1397387693,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 1560003315,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2057559314,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ },
+ {
+  "id": 2060097319,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "computed"
+ }
+]

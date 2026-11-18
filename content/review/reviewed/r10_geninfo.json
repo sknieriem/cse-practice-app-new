@@ -1,0 +1,139 @@
+[
+ {
+  "id": 436266256,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Stem had no question and misquoted Art. III Sec. 1 (missing 'shall'); C/D were not parts of the Constitution, replaced with real articles",
+  "fields": {
+   "text": "The provision \"No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws\" is found in which part of the 1987 Constitution?",
+   "optionA": "Article II, Declaration of Principles and State Policies",
+   "optionB": "Article III, Bill of Rights",
+   "optionC": "Article VI, Legislative Department",
+   "optionD": "Article XIII, Social Justice and Human Rights",
+   "explanation": "The due process and equal protection clause is Article III, Section 1 of the 1987 Constitution, the first section of the Bill of Rights.",
+   "hint": "Due process and equal protection are individual rights protected against the State.",
+   "whyA": "Article II lists state principles and policies, not enforceable individual rights like due process.",
+   "whyC": "Article VI deals with Congress and its powers, not individual rights.",
+   "whyD": "Article XIII covers social justice and the Commission on Human Rights, not the due process clause.",
+   "explanationTl": "Ang due process at equal protection clause ay nasa Article III, Section 1 ng 1987 Constitution, yung pinaka-unang section ng Bill of Rights.",
+   "hintTl": "Ang due process at equal protection ay mga karapatan ng bawat tao laban sa State. Saang article nakalista ang mga rights natin?"
+  }
+ },
+ {
+  "id": 426608202,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields and lowered difficulty to 1 (basic recall)",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The skin makes vitamin D when exposed to the ultraviolet B rays of sunlight, which is the main source for most people; food supplies only smaller amounts.",
+   "hint": "Think of the 'sunshine vitamin'.",
+   "whyB": "Fatty fish do contain vitamin D, but diet supplies less than skin synthesis from sunlight.",
+   "whyC": "Milk is often fortified with vitamin D, but it is a dietary supplement source, not the primary one.",
+   "whyD": "Most vegetables contain little or no vitamin D.",
+   "explanationTl": "Gumagawa ng vitamin D ang skin natin kapag naarawan, dahil sa UVB rays ng sunlight. Ito ang main source; maliit lang ang galing sa pagkain.",
+   "hintTl": "Ito yung tinatawag na 'sunshine vitamin'."
+  }
+ },
+ {
+  "id": 1002934770,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields and lowered difficulty to 1",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "New Delhi is the capital of India and the seat of its national government.",
+   "hint": "The capital shares part of its name with the larger city that surrounds it.",
+   "whyA": "Mumbai is India's largest city and financial center, but not its capital.",
+   "whyC": "Kolkata (Calcutta) was the capital under British rule until 1911, not today.",
+   "whyD": "Chennai is a major city in southern India, not the national capital.",
+   "explanationTl": "Ang capital ng India ay New Delhi, dito naka-base ang national government nila.",
+   "hintTl": "Kapangalan ito ng mas malaking lungsod na nakapaligid dito."
+  }
+ },
+ {
+  "id": 1232785604,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "'Longest river in the world' is contested (some measurements put the Amazon longer); rewritten to the undisputed longest river in Africa",
+  "fields": {
+   "text": "What is the longest river in Africa?",
+   "optionA": "Congo River",
+   "optionB": "Nile River",
+   "optionC": "Niger River",
+   "optionD": "Zambezi River",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "The Nile, about 6,650 km long, is the longest river in Africa; it flows north through northeastern Africa and empties into the Mediterranean Sea through Egypt.",
+   "hint": "This river flows through Egypt and was the lifeline of the ancient Egyptians.",
+   "whyA": "The Congo is Africa's second-longest river and the deepest, but shorter than the Nile.",
+   "whyC": "The Niger is West Africa's main river, clearly shorter than the Nile.",
+   "whyD": "The Zambezi, home of Victoria Falls, is much shorter than the Nile.",
+   "explanationTl": "Ang Nile, mga 6,650 km ang haba, ang pinakamahabang ilog sa Africa. Dumadaloy ito pa-north hanggang Egypt at lumalabas sa Mediterranean Sea.",
+   "hintTl": "Dumadaan ito sa Egypt, at dito umasa ang mga sinaunang Egyptian."
+  }
+ },
+ {
+  "id": 1309736213,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields and lowered difficulty to 1",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The Great Wall of China is a series of fortifications built across northern China over many dynasties to defend against invasions from the north.",
+   "hint": "It was built over many dynasties, including the Qin and the Ming.",
+   "whyA": "Japan is known for landmarks like Mount Fuji, not the Great Wall.",
+   "whyC": "India is known for the Taj Mahal, not the Great Wall.",
+   "whyD": "Korea had its own fortresses, but the Great Wall is in China.",
+   "explanationTl": "Ang Great Wall of China ay mga pader at fortifications sa northern China na ginawa ng iba't ibang dynasty para depensahan ang bansa laban sa mga mananakop mula sa north.",
+   "hintTl": "Ginawa ito sa loob ng maraming dynasty, kasama ang Qin at Ming."
+  }
+ },
+ {
+  "id": 1486950759,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields and lowered difficulty to 1",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Earth is called the 'Blue Planet' because about 71% of its surface is covered by water, making it look blue from space.",
+   "hint": "Think of the planet whose surface is mostly oceans.",
+   "whyA": "Mars is nicknamed the 'Red Planet' because of iron oxide on its surface.",
+   "whyC": "Neptune looks blue because of methane in its atmosphere, but the nickname 'Blue Planet' belongs to Earth.",
+   "whyD": "Uranus is blue-green from methane, but it is not the planet called the 'Blue Planet'.",
+   "explanationTl": "Earth ang tinatawag na 'Blue Planet' kasi mga 71% ng surface nito ay tubig, kaya mukhang blue kapag tiningnan mula sa space.",
+   "hintTl": "Isipin mo kung aling planeta ang halos puro karagatan ang surface."
+  }
+ },
+ {
+  "id": 1892985328,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added teaching fields and lowered difficulty to 1",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The Leaning Tower of Pisa is the bell tower of Pisa Cathedral in the city of Pisa, in the Tuscany region of Italy.",
+   "hint": "Pisa is in the same country as Rome and Venice.",
+   "whyA": "France is known for the Eiffel Tower, not the Leaning Tower.",
+   "whyC": "Spain is known for landmarks like the Sagrada Familia, not the Leaning Tower.",
+   "whyD": "Greece is known for the Parthenon, not the Leaning Tower.",
+   "explanationTl": "Ang Leaning Tower of Pisa ay bell tower ng Pisa Cathedral, nasa lungsod ng Pisa sa Tuscany, Italy.",
+   "hintTl": "Ang Pisa ay nasa parehong bansa ng Rome at Venice."
+  }
+ },
+ {
+  "id": 1860556752,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added whys, hint and Taglish fields",
+  "fields": {
+   "explanation": "Bacolod City in Negros Occidental is called the 'City of Smiles' because of its MassKara Festival, known for its smiling masks.",
+   "hint": "Think of the city famous for a festival of colorful smiling masks.",
+   "whyB": "Iloilo is known as the 'City of Love', not the 'City of Smiles'.",
+   "whyC": "Cebu is known as the 'Queen City of the South'.",
+   "whyD": "Davao is known for Mount Apo and the Kadayawan Festival, not the 'City of Smiles' title.",
+   "explanationTl": "Ang Bacolod City sa Negros Occidental ang 'City of Smiles' dahil sa MassKara Festival nila, sikat sa mga nakangiting maskara.",
+   "hintTl": "Isipin mo yung lungsod na may festival ng makukulay at nakangiting maskara."
+  }
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "id": 120164668,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "The Philippine Constitution was ratified in:",
+  "optionA": "1987",
+  "optionB": "1973",
+  "optionC": "1935",
+  "optionD": "1899"
+ },
+ {
+  "id": 523885028,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "What branch of government includes the President and Vice President?",
+  "optionA": "Executive",
+  "optionB": "Legislative",
+  "optionC": "Judicial",
+  "optionD": "Local"
+ },
+ {
+  "id": 1357790381,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "What is the state policy on labor?",
+  "optionA": "Full protection to labor",
+  "optionB": "Promotion of full employment",
+  "optionC": "Both A and B",
+  "optionD": "None"
+ },
+ {
+  "id": 165664840,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the currency of Mexico?",
+  "optionA": "Peso",
+  "optionB": "Dollar",
+  "optionC": "Real",
+  "optionD": "Euro"
+ },
+ {
+  "id": 442539199,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the primary source of energy for geothermal power?",
+  "optionA": "Sun",
+  "optionB": "Wind",
+  "optionC": "Earth’s heat",
+  "optionD": "Water"
+ },
+ {
+  "id": 561712936,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which river flows through Paris?",
+  "optionA": "Thames",
+  "optionB": "Seine",
+  "optionC": "Danube",
+  "optionD": "Rhine"
+ },
+ {
+  "id": 651558414,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the primary source of energy for wind power?",
+  "optionA": "Sun",
+  "optionB": "Wind",
+  "optionC": "Water",
+  "optionD": "Geothermal"
+ },
+ {
+  "id": 888262152,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for gold?",
+  "optionA": "Ag",
+  "optionB": "Au",
+  "optionC": "Fe",
+  "optionD": "Cu"
+ },
+ {
+  "id": 1130976751,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which river is the longest in South America?",
+  "optionA": "Amazon River",
+  "optionB": "Parana River",
+  "optionC": "Orinoco River",
+  "optionD": "Magdalena River"
+ },
+ {
+  "id": 1232696367,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the capital of South Africa?",
+  "optionA": "Cape Town",
+  "optionB": "Pretoria",
+  "optionC": "Johannesburg",
+  "optionD": "Durban"
+ },
+ {
+  "id": 1355532793,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas is used in refrigeration systems?",
+  "optionA": "Freon",
+  "optionB": "Helium",
+  "optionC": "Nitrogen",
+  "optionD": "Oxygen"
+ },
+ {
+  "id": 1516273769,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who developed the periodic table?",
+  "optionA": "Dmitri Mendeleev",
+  "optionB": "Marie Curie",
+  "optionC": "John Dalton",
+  "optionD": "Antoine Lavoisier"
+ },
+ {
+  "id": 1595912791,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who discovered the theory of gravity?",
+  "optionA": "Albert Einstein",
+  "optionB": "Isaac Newton",
+  "optionC": "Galileo Galilei",
+  "optionD": "Stephen Hawking"
+ },
+ {
+  "id": 1774245905,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is famous for its pyramids?",
+  "optionA": "Mexico",
+  "optionB": "Egypt",
+  "optionC": "Peru",
+  "optionD": "Sudan"
+ },
+ {
+  "id": 1923130828,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who wrote 'Romeo and Juliet'?",
+  "optionA": "William Shakespeare",
+  "optionB": "Charles Dickens",
+  "optionC": "Jane Austen",
+  "optionD": "Mark Twain"
+ },
+ {
+  "id": 1929580637,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for carbon?",
+  "optionA": "C",
+  "optionB": "Ca",
+  "optionC": "Co",
+  "optionD": "Cr"
+ },
+ {
+  "id": 2043994268,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the longest mountain range in the world?",
+  "optionA": "Himalayas",
+  "optionB": "Andes",
+  "optionC": "Rocky Mountains",
+  "optionD": "Alps"
+ },
+ {
+  "id": 1788748540,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national emblem of the Philippines?",
+  "optionA": "Sampaguita",
+  "optionB": "Philippine Eagle",
+  "optionC": "Three Stars and a Sun",
+  "optionD": "Carabao"
+ }
+]

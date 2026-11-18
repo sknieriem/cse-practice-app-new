@@ -1,0 +1,322 @@
+[
+ {
+  "id": 349762090,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; teaching fields added",
+  "fields": {
+   "difficulty": 1,
+   "hint": "First name the relationship between big and small, then apply the same relationship to tall.",
+   "whyA": "'Large' is a synonym of big; it does not relate to tall at all.",
+   "whyC": "'Wide' measures breadth, not height, so it is not the opposite of tall.",
+   "whyD": "'High' is close in meaning to tall, not its opposite.",
+   "explanationTl": "Magkasalungat ang big at small, kaya ang kasalungat ng tall ay short. Same relationship lang, opposites.",
+   "hintTl": "Alamin muna kung ano ang relationship ng big at small, tapos i-apply mo sa tall."
+  }
+ },
+ {
+  "id": 278068728,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Two distractors were near-synonyms of 'generous' making B the odd one out; replaced C and D",
+  "fields": {
+   "optionC": "Humble",
+   "optionD": "Wealthy",
+   "hint": "Think of how you would describe someone who hates to share or spend.",
+   "whyA": "'Kind' is close in meaning to generous, not its opposite.",
+   "whyC": "'Humble' is about modesty, not about willingness to give.",
+   "whyD": "A wealthy person can be generous or stingy; wealth is not the opposite of generosity.",
+   "explanationTl": "Ang generous ay yung mahilig magbigay. Ang kabaligtaran nito ay stingy, yung kuripot o ayaw mag-share.",
+   "hintTl": "Isipin mo kung paano mo ide-describe yung taong ayaw magbigay o gumastos."
+  }
+ },
+ {
+  "id": 1211190181,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors replaced (Intense/Significant were near-synonyms); explanation sharpened",
+  "fields": {
+   "optionC": "Complicated",
+   "optionD": "Silent",
+   "explanation": "'Profound' means deep or showing great insight, so its opposite is 'superficial', meaning shallow or concerned only with the surface.",
+   "hint": "Profound comes from 'deep'; look for the word that means only on the surface.",
+   "whyA": "'Deep' is a synonym of profound, not an antonym.",
+   "whyC": "'Complicated' describes difficulty, not depth; a profound idea can be simple or complicated.",
+   "whyD": "'Silent' relates to sound, not to depth of thought or feeling.",
+   "explanationTl": "Ang profound ay malalim o may malalim na insight. Ang kabaligtaran nito ay superficial, ibig sabihin mababaw o surface-level lang.",
+   "hintTl": "Ang profound ay related sa 'deep'. Hanapin mo yung word na ang ibig sabihin ay mababaw."
+  }
+ },
+ {
+  "id": 2011472146,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors replaced (Insufficient/Sparse duplicated Scanty)",
+  "fields": {
+   "optionC": "Expensive",
+   "optionD": "Simple",
+   "hint": "Meager describes a very small amount. What word describes a very large amount?",
+   "whyA": "'Scanty' is a synonym of meager, not its opposite.",
+   "whyC": "'Expensive' is about cost, not quantity.",
+   "whyD": "'Simple' is about complexity; a meal can be simple yet plentiful.",
+   "explanationTl": "Ang meager ay kakaunti o kulang. Ang kabaligtaran nito ay abundant, ibig sabihin sobrang dami o sagana.",
+   "hintTl": "Ang meager ay maliit na dami. Ano naman ang word para sa napakaraming dami?"
+  }
+ },
+ {
+  "id": 912913487,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; explanation clarified",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The correct spelling is 'argument': the silent 'e' of 'argue' is dropped before adding '-ment'.",
+   "hint": "Check the word formed by adding a suffix to a verb ending in 'e'.",
+   "whyA": "'The' is spelled correctly.",
+   "whyC": "'Was' is spelled correctly.",
+   "whyD": "'Heated' is spelled correctly.",
+   "explanationTl": "Ang tamang spelling ay 'argument'. Tinatanggal yung 'e' ng 'argue' bago idagdag ang '-ment'.",
+   "hintTl": "Tingnan mo yung word na galing sa verb na nagtatapos sa 'e' tapos dinagdagan ng suffix."
+  }
+ },
+ {
+  "id": 1543207476,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key correct; options put in sentence order; explanation clarified; difficulty 1",
+  "fields": {
+   "optionA": "The",
+   "optionB": "patient",
+   "optionC": "concious",
+   "optionD": "is",
+   "difficulty": 1,
+   "explanation": "The correct spelling is 'conscious' (c-o-n-s-c-i-o-u-s); the misspelling drops the 's' after 'con'.",
+   "hint": "One word is missing a letter in its first syllable.",
+   "whyA": "'The' is spelled correctly.",
+   "whyB": "'Patient' is spelled correctly.",
+   "whyD": "'Is' is spelled correctly.",
+   "explanationTl": "Ang tamang spelling ay 'conscious' (c-o-n-s-c-i-o-u-s). Nawala yung 's' pagkatapos ng 'con'.",
+   "hintTl": "May isang word na kulang ng letter sa unang syllable."
+  }
+ },
+ {
+  "id": 126493021,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors were three synonyms of 'stupid' (giveaway); replaced with plausible confusions",
+  "fields": {
+   "optionA": "Complicated",
+   "optionC": "Obvious",
+   "optionD": "Accidental",
+   "hint": "Ingenious is related to 'genius'. What quality does a genius solution show?",
+   "whyA": "'Complicated' confuses cleverness with complexity; ingenious solutions are often simple.",
+   "whyC": "'Obvious' is nearly the opposite; an ingenious solution is one others did not think of.",
+   "whyD": "'Accidental' implies luck, but ingenious stresses skill and inventiveness.",
+   "explanationTl": "Ang ingenious ay matalino, malikhain at inventive. Kaya ang ingenious na solution ay clever na solution.",
+   "hintTl": "Ang ingenious ay kahawig ng 'genius'. Anong quality ang meron sa solution na galing sa genius?"
+  }
+ },
+ {
+  "id": 169103939,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "Banned 'Both A and B'/'None' option set; rewritten as context item with one answer",
+  "fields": {
+   "text": "The dog's loud bark woke the whole barangay.\n\nIn this sentence, 'bark' means:",
+   "optionA": "The outer covering of a tree trunk",
+   "optionB": "The sharp cry of a dog",
+   "optionC": "A small sailing ship",
+   "optionD": "A loud argument between neighbors",
+   "correctAnswer": "B",
+   "explanation": "'Bark' has several meanings, but the context (the dog's loud bark woke people) shows it means the sharp sound a dog makes.",
+   "hint": "Look at who or what is making the bark in the sentence.",
+   "whyA": "Tree covering is a real meaning of 'bark', but a tree trunk cannot wake anyone up.",
+   "whyC": "'Bark' (also 'barque') can mean a sailing ship, but that does not fit a dog.",
+   "whyD": "An argument can be loud, but 'bark' here belongs to the dog, not to neighbors.",
+   "explanationTl": "Maraming meaning ang 'bark', pero sa context, yung dog ang may loud bark kaya ito yung tahol ng aso.",
+   "hintTl": "Tingnan mo kung sino o ano ang gumagawa ng bark sa sentence."
+  }
+ },
+ {
+  "id": 378807078,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors Concrete/Tangible/Physical were near-duplicates; replaced two; difficulty 1",
+  "fields": {
+   "optionC": "Summarized",
+   "optionD": "Artistic",
+   "difficulty": 1,
+   "hint": "An abstract concept exists as an idea, not as something you can touch.",
+   "whyA": "'Concrete' is the opposite of abstract.",
+   "whyC": "'Summarized' confuses the adjective with the noun 'abstract' (a summary of a paper).",
+   "whyD": "'Artistic' comes from 'abstract art', but a concept is not described that way here.",
+   "explanationTl": "Ang abstract ay idea lang, hindi mo nahahawakan. Kaya ang abstract na concept ay theoretical.",
+   "hintTl": "Ang abstract na concept ay nasa isip lang, hindi physical na bagay."
+  }
+ },
+ {
+  "id": 460136134,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Clear context item; teaching fields added",
+  "fields": {
+   "hint": "What do you do when you ask a database for information?",
+   "whyB": "Deleting removes records; a query only asks for them.",
+   "whyC": "Saving stores data; a query retrieves it.",
+   "whyD": "Ignoring is the opposite of asking the database anything.",
+   "explanationTl": "Sa computing, ang query ay pagtatanong o pag-request ng information sa database. Kaya 'question' ang meaning.",
+   "hintTl": "Ano ang ginagawa mo kapag humihingi ka ng info sa database?"
+  }
+ },
+ {
+  "id": 587011399,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors Reasoned/Planned/Thoughtful were near-duplicates; replaced two",
+  "fields": {
+   "optionC": "Final",
+   "optionD": "Unanimous",
+   "hint": "An arbitrary choice is not based on any reason or system.",
+   "whyA": "'Reasoned' is the opposite; arbitrary decisions lack reasons.",
+   "whyC": "'Final' confuses arbitrary with 'arbiter', who makes a final ruling.",
+   "whyD": "'Unanimous' is about how many agreed, not how the decision was made.",
+   "explanationTl": "Ang arbitrary ay ginawa nang walang malinaw na dahilan, basta trip lang o random. Kaya 'random' ang sagot.",
+   "hintTl": "Ang arbitrary na desisyon ay walang basehan o system."
+  }
+ },
+ {
+  "id": 660998088,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors Original/Innovative/Creative were near-duplicates; replaced two",
+  "fields": {
+   "optionC": "Offensive",
+   "optionD": "Lengthy",
+   "hint": "A banal movie has a story you feel you have seen many times before.",
+   "whyA": "'Original' is the opposite of banal.",
+   "whyC": "'Offensive' describes something insulting; banal is merely dull and unoriginal.",
+   "whyD": "'Lengthy' is about running time; a short movie can still be banal.",
+   "explanationTl": "Ang banal ay gasgas na, walang originality, boring. Kaya 'trite' ang synonym.",
+   "hintTl": "Ang banal na movie ay parang napanood mo na nang maraming beses."
+  }
+ },
+ {
+  "id": 980534720,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors Virtuous/Good/Moral were near-duplicates; replaced two",
+  "fields": {
+   "optionC": "Numerous",
+   "optionD": "Mysterious",
+   "hint": "Nefarious is often used for criminal plots and villains.",
+   "whyA": "'Virtuous' is the opposite of nefarious.",
+   "whyC": "'Numerous' may be confused by sound with 'nefarious', but it means many.",
+   "whyD": "Nefarious schemes may be secret, but the word itself means evil, not mysterious.",
+   "explanationTl": "Ang nefarious ay masama, wicked, o kriminal. Ginagamit ito sa mga kontrabida at masamang plano.",
+   "hintTl": "Madalas gamitin ang nefarious para sa mga kontrabida at criminal plots."
+  }
+ },
+ {
+  "id": 1147913419,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "Option A 'divided' (adjective) changed to noun 'division' to match part of speech",
+  "fields": {
+   "optionA": "division",
+   "hint": "A consensus is reached when the members share the same view.",
+   "whyA": "'Division' is the opposite; consensus means people are not divided.",
+   "whyB": "'Controversy' means dispute, the opposite of consensus.",
+   "whyC": "'Gathering' confuses consensus with a meeting; a meeting does not guarantee agreement.",
+   "explanationTl": "Ang consensus ay general agreement, ibig sabihin halos lahat ay magkakapareho ang opinion. Kaya 'agreement' ang sagot.",
+   "hintTl": "May consensus kapag pareho ang pananaw ng mga miyembro."
+  }
+ },
+ {
+  "id": 1336110813,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Removed joke politician name from stem; 'change' replaced by plausible trap 'amend'",
+  "fields": {
+   "text": "The city council voted to rescind the curfew ordinance.\n\nIn this sentence, 'rescind' most nearly means:",
+   "optionB": "amend",
+   "explanation": "'Rescind' means to revoke or repeal, that is, to cancel a law or order officially.",
+   "hint": "Rescinding a law makes it no longer in effect.",
+   "whyA": "'Revive' means to bring back, the opposite of rescind.",
+   "whyB": "'Amend' means to modify a law while keeping it; rescinding cancels it entirely.",
+   "whyD": "'Rescue' only looks similar to 'rescind'; it means to save.",
+   "explanationTl": "Ang rescind ay i-revoke o i-repeal, ibig sabihin kanselahin officially ang batas o order.",
+   "hintTl": "Kapag ni-rescind ang isang batas, wala na itong bisa."
+  }
+ },
+ {
+  "id": 1428156746,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors Verbose/Talkative/Loquacious were near-duplicates; replaced two; stem given context",
+  "fields": {
+   "text": "She gave a laconic reply to the reporters' questions.\n\nIn this sentence, 'laconic' most nearly means:",
+   "optionC": "Lazy",
+   "optionD": "Gloomy",
+   "hint": "A laconic reply uses very few words.",
+   "whyA": "'Verbose' means wordy, the opposite of laconic.",
+   "whyC": "'Lazy' confuses laconic with 'lackadaisical'; laconic is about few words, not effort.",
+   "whyD": "A short reply may sound cold, but laconic means brief, not sad.",
+   "explanationTl": "Ang laconic ay maikli magsalita, kaunting words lang. Kaya ang laconic na sagot ay concise.",
+   "hintTl": "Ang laconic na sagot ay gumagamit ng kaunting salita lang."
+  }
+ },
+ {
+  "id": 1913331231,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors Barren/Scarce/Sparse were near-duplicates; replaced two",
+  "fields": {
+   "optionC": "Talented",
+   "optionD": "Famous",
+   "explanation": "'Prolific' means producing a large amount (of work, fruit or offspring), so its synonym is 'productive'.",
+   "hint": "A prolific writer publishes many books.",
+   "whyA": "'Barren' means producing nothing, the opposite of prolific.",
+   "whyC": "A prolific writer produces a lot, but that says nothing about talent.",
+   "whyD": "Prolific people may become famous, but the word refers to output, not fame.",
+   "explanationTl": "Ang prolific ay maraming nagagawa o napo-produce, kaya ang synonym ay productive.",
+   "hintTl": "Ang prolific na writer ay maraming librong nailalabas."
+  }
+ },
+ {
+  "id": 2016744308,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "'Typical' was a weak synonym and distractors near-duplicates; rewritten as context item",
+  "fields": {
+   "text": "Adobo is the quintessential Filipino dish.\n\nIn this sentence, 'quintessential' most nearly means:",
+   "optionA": "Rarest",
+   "optionB": "Most representative",
+   "optionC": "Most expensive",
+   "optionD": "Oldest",
+   "explanation": "'Quintessential' means being the most perfect or representative example of something; adobo stands for Filipino cooking.",
+   "hint": "The sentence says adobo is the best example of what Filipino food is like.",
+   "whyA": "'Rarest' is the opposite; a quintessential example is the standard one.",
+   "whyC": "Being a perfect example has nothing to do with price.",
+   "whyD": "Quintessential is about how well something represents a type, not its age.",
+   "explanationTl": "Ang quintessential ay ang pinaka-perfect o pinaka-representative na example. Ang adobo ang pinaka-representative ng Filipino food.",
+   "hintTl": "Sinasabi ng sentence na ang adobo ang best example ng pagkaing Pinoy."
+  }
+ },
+ {
+  "id": 2076974067,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Distractors Weak/Timid/Fearful were near-duplicates; replaced two; stem given context",
+  "fields": {
+   "text": "Despite many setbacks, she remained indomitable.\n\nIn this sentence, 'indomitable' most nearly means:",
+   "optionC": "Unpredictable",
+   "optionD": "Homebound",
+   "hint": "Someone indomitable cannot be defeated or subdued.",
+   "whyA": "'Weak' is the opposite of indomitable.",
+   "whyC": "'Unpredictable' also starts with a 'not' prefix, but indomitable means not able to be tamed or beaten.",
+   "whyD": "'Homebound' confuses 'domitable' with 'domestic' (home); the root means to tame.",
+   "explanationTl": "Ang indomitable ay hindi matalo o hindi mapasuko. Kahit maraming problema, lumaban pa rin siya, kaya unconquerable.",
+   "hintTl": "Ang taong indomitable ay hindi napapasuko o natatalo."
+  }
+ }
+]

@@ -1,0 +1,154 @@
+[
+ {
+  "id": 336675233,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct (tool : function); added teaching fields.",
+  "fields": {
+   "hint": "Ask what each instrument is mainly used to do.",
+   "whyB": "Measuring is what rulers and gauges do; a telescope's job is to let you see distant objects.",
+   "whyC": "Recording is the job of a camera or recorder, not a telescope.",
+   "whyD": "Navigating uses a compass or map; a telescope may help, but its function is observing.",
+   "explanationTl": "Ang calculator ay ginagamit sa computing, at ang telescope naman ay ginagamit sa observing ng malalayong bagay.",
+   "hintTl": "Isipin kung ano ang pangunahing gamit ng bawat instrument."
+  }
+ },
+ {
+  "id": 1044464886,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct (object : activity it is used for); added teaching fields.",
+  "fields": {
+   "hint": "What activity do you use each object for?",
+   "whyA": "Drawing is done with a pencil or crayon, not a fork.",
+   "whyC": "Writing pairs with a pen; it echoes the book theme but not the fork.",
+   "whyD": "Cooking is done with a pan or spatula; a fork is used mainly for eating.",
+   "explanationTl": "Ang book ay ginagamit sa pagbabasa (reading), at ang fork naman ay ginagamit sa pagkain (eating).",
+   "hintTl": "Ano ang activity na ginagamitan ng bawat object?"
+  }
+ },
+ {
+  "id": 1241605545,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct (quantity : SI unit); added teaching fields.",
+  "fields": {
+   "hint": "Pair each physical quantity with the unit used to measure it.",
+   "whyB": "Meters measure length, not mass.",
+   "whyC": "Seconds measure time, not mass.",
+   "whyD": "Liters measure volume, the quantity already in the first pair, not mass.",
+   "explanationTl": "Ang volume ay sinusukat in cubic meters, at ang mass naman ay sinusukat in kilograms.",
+   "hintTl": "I-match ang bawat quantity sa unit na ginagamit pang-sukat dito."
+  }
+ },
+ {
+  "id": 1550681737,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct (instrument : what it measures); added teaching fields.",
+  "fields": {
+   "hint": "Name exactly what each instrument shows a reading of.",
+   "whyA": "Heat is energy; a thermometer reads temperature, not the amount of heat.",
+   "whyC": "Weather has many parts; a thermometer measures only one of them.",
+   "whyD": "Pressure is measured by a barometer or gauge, not a thermometer.",
+   "explanationTl": "Ang clock ay sumusukat ng time, at ang thermometer naman ay sumusukat ng temperature.",
+   "hintTl": "Ano mismo ang binabasa o sinusukat ng bawat instrument?"
+  }
+ },
+ {
+  "id": 1902616705,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct (tool : medium it applies); added teaching fields.",
+  "fields": {
+   "hint": "What substance does each tool put onto a surface?",
+   "whyB": "Canvas is the surface painted on, matching paper, not ink.",
+   "whyC": "Paper is the surface a pen writes on, not the substance it uses.",
+   "whyD": "Wood may be what a brush handle is made of; it is not what the brush applies.",
+   "explanationTl": "Ang pen ay gumagamit ng ink para magsulat, at ang brush naman ay gumagamit ng paint para magpinta.",
+   "hintTl": "Anong substance ang inilalagay ng bawat tool sa surface?"
+  }
+ },
+ {
+  "id": 462985586,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key 34 correct, but explanation formula n^2+n+4 fails (gives 10 for n=2); fixed to n^2+2n-1.",
+  "fields": {
+   "explanation": "The results go up by 7, 9, then 11 (each gap grows by 2), which fits n^2 + 2n - 1. So 5 = 25 + 10 - 1 = 34.",
+   "steps": "1. Gaps: 14 - 7 = 7, 23 - 14 = 9.\n2. The gaps grow by 2, so the next gap is 11.\n3. 23 + 11 = 34.\n4. Check with n^2 + 2n - 1: 2 gives 7, 3 gives 14, 4 gives 23, 5 gives 34.",
+   "hint": "Look at how much the right-hand numbers increase each time.",
+   "whyA": "32 adds 9 again instead of letting the gap grow to 11.",
+   "whyB": "33 comes from adding 10, a gap that grows by only 1.",
+   "whyD": "35 comes from adding 12; the gaps are odd numbers 7, 9, 11.",
+   "explanationTl": "Tumataas ang sagot ng 7, 9, tapos 11 (lumalaki ng 2 ang gap), kaya fit ang n^2 + 2n - 1. Kaya ang 5 = 25 + 10 - 1 = 34.",
+   "stepsTl": "1. Gaps: 14 - 7 = 7, 23 - 14 = 9.\n2. Lumalaki ng 2 ang gap, kaya 11 ang susunod na gap.\n3. 23 + 11 = 34.\n4. I-check gamit ang n^2 + 2n - 1: 2 → 7, 3 → 14, 4 → 23, 5 → 34.",
+   "hintTl": "Tingnan kung gaano tumataas ang numbers sa kanan bawat step."
+  }
+ },
+ {
+  "id": 1572732000,
+  "blind": "A",
+  "verdict": "key fixed",
+  "reason": "Keyed 44 via n^2+3n+4, which gives 14 for n=2; correct rule n^2+4n-3 (gaps 9, 11, 13) gives 42 = A.",
+  "fields": {
+   "correctAnswer": "A",
+   "explanation": "The results go up by 9, 11, then 13 (each gap grows by 2), which fits n^2 + 4n - 3. So 5 = 25 + 20 - 3 = 42.",
+   "steps": "1. Gaps: 18 - 9 = 9, 29 - 18 = 11.\n2. The gaps grow by 2, so the next gap is 13.\n3. 29 + 13 = 42.\n4. Check with n^2 + 4n - 3: 2 gives 9, 3 gives 18, 4 gives 29, 5 gives 42.",
+   "hint": "Look at how much the right-hand numbers increase each time.",
+   "whyB": "43 comes from adding 14, a gap that does not follow the +2 growth.",
+   "whyC": "44 comes from forcing a formula like n^2 + 3n + 4 that doesn't fit 2 = 9.",
+   "whyD": "45 comes from adding 16; the gaps are odd numbers 9, 11, 13.",
+   "explanationTl": "Tumataas ang sagot ng 9, 11, tapos 13 (lumalaki ng 2 ang gap), kaya fit ang n^2 + 4n - 3. Kaya ang 5 = 25 + 20 - 3 = 42.",
+   "stepsTl": "1. Gaps: 18 - 9 = 9, 29 - 18 = 11.\n2. Lumalaki ng 2 ang gap, kaya 13 ang susunod na gap.\n3. 29 + 13 = 42.\n4. I-check gamit ang n^2 + 4n - 3: 2 → 9, 3 → 18, 4 → 29, 5 → 42.",
+   "hintTl": "Tingnan kung gaano tumataas ang numbers sa kanan bawat step."
+  }
+ },
+ {
+  "id": 965276504,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem reworded naturally and units (°C) added; difficulty lowered to 1.",
+  "fields": {
+   "text": "A table shows the temperatures recorded on three days: Monday 20°C, Tuesday 22°C, Wednesday 24°C. What is the average temperature for the three days?",
+   "optionA": "20°C",
+   "optionB": "21°C",
+   "optionC": "22°C",
+   "optionD": "23°C",
+   "difficulty": 1,
+   "explanation": "Average = (20 + 22 + 24) / 3 = 66 / 3 = 22°C.",
+   "steps": "1. Add the temperatures: 20 + 22 + 24 = 66.\n2. Divide by the number of days: 66 / 3 = 22.\n3. Average = 22°C.",
+   "hint": "Add all the values, then divide by how many days there are.",
+   "whyA": "20°C is just the lowest reading, not the average.",
+   "whyB": "21°C averages only Monday and Tuesday.",
+   "whyD": "23°C averages only Tuesday and Wednesday.",
+   "explanationTl": "Average = (20 + 22 + 24) / 3 = 66 / 3 = 22°C.",
+   "stepsTl": "1. I-add ang temperatures: 20 + 22 + 24 = 66.\n2. I-divide sa bilang ng days: 66 / 3 = 22.\n3. Average = 22°C.",
+   "hintTl": "I-add lahat ng values, tapos i-divide sa dami ng days."
+  }
+ },
+ {
+  "id": 700928295,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct (gaps +4,+5,+6,+7); added whyX and explanationTl.",
+  "fields": {
+   "whyA": "27 adds 6 again instead of increasing the gap to 7.",
+   "whyC": "29 adds 8, skipping the gap of 7.",
+   "whyD": "30 adds 9, as if the gaps grew by more than 1.",
+   "explanationTl": "Ang pagitan ay 4, 5, 6, kaya 7 ang susunod: 21 + 7 = 28."
+  }
+ },
+ {
+  "id": 1574729397,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct (gaps +4,+5,+6,+7); added whyX and explanationTl.",
+  "fields": {
+   "whyA": "23 adds 6 again instead of increasing the gap to 7.",
+   "whyC": "25 adds 8, skipping the gap of 7.",
+   "whyD": "26 adds 9, as if the gaps grew by more than 1.",
+   "explanationTl": "Ang pagitan ay 4, 5, 6, kaya 7 ang susunod: 17 + 7 = 24."
+  }
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {"id": 259095705, "answer": "D", "confidence": "sure", "ambiguous": false, "note": "Art VI Sec 2: 24 senators"},
+ {"id": 731025093, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "Art XIV Sec 6: Filipino"},
+ {"id": 1628749749, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "Art VI Sec 23(1): two-thirds"},
+ {"id": 1686675808, "answer": "D", "confidence": "sure", "ambiguous": false, "note": "Art VI Sec 4: 6 years; stem wording garbled"},
+ {"id": 1842092208, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "separation of powers"},
+ {"id": 1137112436, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "Art II Sec 16 balanced and healthful ecology; stem vague"},
+ {"id": 1276088687, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "RA 6713 Sec 4(b) professionalism"},
+ {"id": 176394152, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "N"},
+ {"id": 951529665, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "Fleming 1928"},
+ {"id": 1404617270, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "argon is the standard fill; krypton also used in some bulbs"},
+ {"id": 1497615111, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "helium"},
+ {"id": 1734316344, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "Yangtze"},
+ {"id": 1785343423, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "Bangkok"},
+ {"id": 1822712201, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "Bell 1876 patent"},
+ {"id": 1996658139, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "yen"},
+ {"id": 2132758750, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "Canberra"},
+ {"id": 113688723, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "July 4, 1946"},
+ {"id": 416474926, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "Boracay is itself an island in Aklan, Western Visayas; Visayas is an island group, not an island; stem broken"},
+ {"id": 982838073, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "sampaguita"},
+ {"id": 1503912089, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "Baguio"},
+ {"id": 2022609578, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "Siargao (island, not province) is 'Surfing Capital of the Philippines'; La Union 'Surfing Capital of the North'"}
+]

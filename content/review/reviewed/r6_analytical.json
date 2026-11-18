@@ -1,0 +1,438 @@
+[
+ {
+  "id": 50632873,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Ask: what is the unit used to measure the first word? Find the matching unit for the second word.",
+   "hintTl": "Tanungin mo: anong unit ang ginagamit sa unang salita? Hanapin ang katapat na unit para sa pangalawa.",
+   "explanationTl": "Ang velocity ay sinusukat sa meters per second, at ang acceleration naman ay sa meters per second squared.",
+   "whyB": "Newtons measure force, not acceleration.",
+   "whyC": "Joules measure energy or work.",
+   "whyD": "Watts measure power."
+  }
+ },
+ {
+  "id": 542674740,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Ask: what is the unit used to measure the first word? Find the matching unit for the second word.",
+   "hintTl": "Tanungin mo: anong unit ang ginagamit sa unang salita? Hanapin ang katapat na unit para sa pangalawa.",
+   "explanationTl": "Ang mass ay sinusukat sa kilograms, kaya ang time ay sinusukat sa seconds.",
+   "whyB": "Meters measure length, not time.",
+   "whyC": "Liters measure volume.",
+   "whyD": "Newtons measure force."
+  }
+ },
+ {
+  "id": 1098361223,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Ask: what is the unit used to measure the first word? Find the matching unit for the second word.",
+   "hintTl": "Tanungin mo: anong unit ang ginagamit sa unang salita? Hanapin ang katapat na unit para sa pangalawa.",
+   "explanationTl": "Ang density ay sinusukat sa kilograms per cubic meter, at ang speed ay sa meters per second.",
+   "whyB": "Newtons measure force, not speed.",
+   "whyC": "Joules measure energy or work.",
+   "whyD": "Watts measure power."
+  }
+ },
+ {
+  "id": 1236757594,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Ask: what is the unit used to measure the first word? Find the matching unit for the second word.",
+   "hintTl": "Tanungin mo: anong unit ang ginagamit sa unang salita? Hanapin ang katapat na unit para sa pangalawa.",
+   "explanationTl": "Ang speed ay sinusukat sa kilometers per hour, at ang force naman ay sa newtons.",
+   "whyB": "Joules measure energy or work, not force.",
+   "whyC": "Watts measure power.",
+   "whyD": "Pascals measure pressure (force per area), not force itself."
+  }
+ },
+ {
+  "id": 1369622238,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "key correct; added teaching fields",
+  "fields": {
+   "hint": "Ask: what is the unit used to measure the first word? Find the matching unit for the second word.",
+   "hintTl": "Tanungin mo: anong unit ang ginagamit sa unang salita? Hanapin ang katapat na unit para sa pangalawa.",
+   "explanationTl": "Ang voltage ay sinusukat sa volts, at ang power naman ay sa watts.",
+   "whyB": "Joules measure energy; power is energy per second.",
+   "whyC": "Amperes measure electric current.",
+   "whyD": "Ohms measure resistance."
+  }
+ },
+ {
+  "id": 16495850,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "'Both'/'None' options banned; replaced with four single assumptions, key stays B",
+  "fields": {
+   "text": "Statement: \"To build a house, one must have a plan.\" Which assumption does this statement make?",
+   "optionA": "Having a plan guarantees that the house will be built well.",
+   "optionB": "A house cannot be built properly without a plan.",
+   "optionC": "Only engineers are allowed to build houses.",
+   "optionD": "Houses built with a plan cost less.",
+   "explanation": "\"Must have a plan\" means a plan is necessary, so the statement assumes a house cannot be built properly without one. It does not claim a plan is enough to guarantee success.",
+   "hint": "\"Must\" points to something necessary, not something that guarantees the result.",
+   "whyA": "Confuses necessary with sufficient: the statement says a plan is needed, not that it guarantees success.",
+   "whyC": "Engineers are never mentioned; this adds a new idea.",
+   "whyD": "Cost is never mentioned; this goes beyond the statement.",
+   "explanationTl": "Ang \"must have a plan\" ay ibig sabihin kailangan ang plan. Kaya ang assumption ay hindi maayos na maitatayo ang bahay kung walang plan. Hindi nito sinasabing guaranteed ang success kapag may plan.",
+   "hintTl": "Ang \"must\" ay tumutukoy sa kailangan, hindi sa sigurado nang magtatagumpay."
+  }
+ },
+ {
+  "id": 1728884847,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "'Both'/'None' options banned; replaced with four single assumptions, key stays B",
+  "fields": {
+   "text": "Statement: \"To succeed in business, one must take risks.\" Which assumption does this statement make?",
+   "optionA": "Taking risks guarantees success in business.",
+   "optionB": "A business is unlikely to succeed if its owner never takes risks.",
+   "optionC": "Most businesses fail within their first year.",
+   "optionD": "Only large businesses take risks.",
+   "explanation": "\"Must take risks\" means risk-taking is necessary, so the statement assumes that a business that never takes risks is unlikely to succeed. It does not say risk-taking guarantees success.",
+   "hint": "\"Must\" points to something necessary, not something that guarantees the result.",
+   "whyA": "Confuses necessary with sufficient: risk is needed, but the statement never says it guarantees success.",
+   "whyC": "Failure rates are never mentioned; this adds a new claim.",
+   "whyD": "Business size is never mentioned; the statement applies to anyone in business.",
+   "explanationTl": "Ang \"must take risks\" ay ibig sabihin kailangan ang risk. Kaya ang assumption ay malabong mag-succeed ang business kung hindi ka magte-take ng risk. Pero hindi nito sinasabing guaranteed ang success kapag nag-risk ka.",
+   "hintTl": "Ang \"must\" ay tumutukoy sa kailangan, hindi sa sigurado nang magtatagumpay."
+  }
+ },
+ {
+  "id": 855153085,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "key C (42) wrong and explanation formula/39 wrong; differences 9, 11, 13 give 41 (B)",
+  "fields": {
+   "correctAnswer": "B",
+   "explanation": "The results go up by 9, 11, then 13 (each gap grows by 2), so 5 = 28 + 13 = 41. Check: the rule is n² + 4n − 4, and 25 + 20 − 4 = 41.",
+   "steps": "1. Gaps: 17 − 8 = 9, 28 − 17 = 11.\n2. The gaps grow by 2, so the next gap is 13.\n3. 28 + 13 = 41.\n4. Check with n² + 4n − 4: 5² + 20 − 4 = 41.",
+   "stepsTl": "1. Pagitan: 17 − 8 = 9, 28 − 17 = 11.\n2. Lumalaki ng 2 ang pagitan, kaya ang susunod ay 13.\n3. 28 + 13 = 41.\n4. I-check gamit ang n² + 4n − 4: 5² + 20 − 4 = 41.",
+   "hint": "Look at how much the right-hand numbers increase each time.",
+   "hintTl": "Tingnan kung magkano ang dagdag sa mga sagot bawat hakbang.",
+   "whyA": "Adds 12 instead of 13, as if the gaps grew by only 1 after 11.",
+   "whyC": "Adds 14: miscounts the next gap.",
+   "whyD": "Adds 15: skips a step in the growing gaps.",
+   "explanationTl": "Ang dagdag ay 9, 11, tapos 13 (lumalaki ng 2 bawat beses), kaya 28 + 13 = 41."
+  }
+ },
+ {
+  "id": 1851378890,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "key correct; cleaned awkward stem and added fields",
+  "fields": {
+   "text": "A graph shows Ana's scores on three tests: Test 1 = 80, Test 2 = 85, Test 3 = 90. What is her average score?",
+   "steps": "1. Add the scores: 80 + 85 + 90 = 255.\n2. Divide by the number of tests: 255 ÷ 3 = 85.",
+   "stepsTl": "1. I-add ang scores: 80 + 85 + 90 = 255.\n2. I-divide sa bilang ng tests: 255 ÷ 3 = 85.",
+   "hint": "Average = total of the scores ÷ number of scores.",
+   "hintTl": "Average = kabuuan ng scores ÷ ilan ang scores.",
+   "whyA": "Arithmetic slip; 83 × 3 = 249, not 255.",
+   "whyC": "87 × 3 = 261, more than the 255 total.",
+   "whyD": "89 is close to the highest score, not the average.",
+   "explanationTl": "I-add ang tatlong scores (255) tapos i-divide sa 3, kaya 85 ang average."
+  }
+ },
+ {
+  "id": 540910788,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; genders stated (father/mother, daughter); added fields",
+  "fields": {
+   "explanation": "L is M's father and M is N's daughter, so N is M's mother. M's mother is the father's wife, so N is L's wife.",
+   "steps": "1. L is M's father.\n2. M is N's daughter, so N is M's other parent.\n3. So N is M's mother, which makes N L's wife.",
+   "stepsTl": "1. Si L ang tatay ni M.\n2. Anak na babae si M ni N, kaya si N ang isa pang magulang ni M.\n3. Kaya si N ang nanay ni M, at wife ni L.",
+   "hint": "M has two parents. One is L; who is the other?",
+   "hintTl": "Dalawa ang magulang ni M. Isa si L; sino ang isa pa?",
+   "explanationTl": "Si L ang tatay ni M, at anak din ni N si M, kaya si N ang nanay ni M. Ibig sabihin, asawa (wife) ni L si N.",
+   "whyA": "N is M's parent, not L's child.",
+   "whyC": "N is M's parent, not L's daughter; this mixes up the generations.",
+   "whyD": "N is in L's generation, not the one before."
+  }
+ },
+ {
+  "id": 593413974,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; genders stated (father/mother, daughter); added fields",
+  "fields": {
+   "explanation": "A is B's father and B is C's daughter, so C is B's mother. B's mother is the father's wife, so C is A's wife.",
+   "steps": "1. A is B's father.\n2. B is C's daughter, so C is B's other parent.\n3. So C is B's mother, which makes C A's wife.",
+   "stepsTl": "1. Si A ang tatay ni B.\n2. Anak na babae si B ni C, kaya si C ang isa pang magulang ni B.\n3. Kaya si C ang nanay ni B, at wife ni A.",
+   "hint": "B has two parents. One is A; who is the other?",
+   "hintTl": "Dalawa ang magulang ni B. Isa si A; sino ang isa pa?",
+   "explanationTl": "Si A ang tatay ni B, at anak din ni C si B, kaya si C ang nanay ni B. Ibig sabihin, asawa (wife) ni A si C.",
+   "whyA": "C is B's parent, not A's child.",
+   "whyC": "C is B's parent, not A's daughter; this mixes up the generations.",
+   "whyD": "C is in A's generation, not the one before."
+  }
+ },
+ {
+  "id": 1325356238,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; genders stated (father/mother, daughter); added fields",
+  "fields": {
+   "explanation": "S is T's father and T is U's daughter, so U is T's mother. T's mother is the father's wife, so U is S's wife.",
+   "steps": "1. S is T's father.\n2. T is U's daughter, so U is T's other parent.\n3. So U is T's mother, which makes U S's wife.",
+   "stepsTl": "1. Si S ang tatay ni T.\n2. Anak na babae si T ni U, kaya si U ang isa pang magulang ni T.\n3. Kaya si U ang nanay ni T, at wife ni S.",
+   "hint": "T has two parents. One is S; who is the other?",
+   "hintTl": "Dalawa ang magulang ni T. Isa si S; sino ang isa pa?",
+   "explanationTl": "Si S ang tatay ni T, at anak din ni U si T, kaya si U ang nanay ni T. Ibig sabihin, asawa (wife) ni S si U.",
+   "whyA": "U is T's parent, not S's child.",
+   "whyC": "U is T's parent, not S's daughter; this mixes up the generations.",
+   "whyD": "U is in S's generation, not the one before."
+  }
+ },
+ {
+  "id": 1905306631,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; genders stated (father/mother, daughter); added fields",
+  "fields": {
+   "explanation": "M is N's mother and N is O's daughter, so O is N's father. N's father is the mother's husband, so O is M's husband.",
+   "steps": "1. M is N's mother.\n2. N is O's daughter, so O is N's other parent.\n3. So O is N's father, which makes O M's husband.",
+   "stepsTl": "1. Si M ang nanay ni N.\n2. Anak na babae si N ni O, kaya si O ang isa pang magulang ni N.\n3. Kaya si O ang tatay ni N, at husband ni M.",
+   "hint": "N has two parents. One is M; who is the other?",
+   "hintTl": "Dalawa ang magulang ni N. Isa si M; sino ang isa pa?",
+   "explanationTl": "Si M ang nanay ni N, at anak din ni O si N, kaya si O ang tatay ni N. Ibig sabihin, asawa (husband) ni M si O.",
+   "whyA": "O is N's parent, not M's child.",
+   "whyC": "O is N's parent, not M's daughter; this mixes up the generations.",
+   "whyD": "O is in M's generation, not the one before."
+  }
+ },
+ {
+  "id": 118610683,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "'Valid/Invalid/True/False' option set banned; options rewritten, key stays A",
+  "fields": {
+   "text": "Is this argument valid? \"All scientists do research. Some people are scientists. Therefore, some people do research.\"",
+   "optionA": "Valid: the conclusion must follow from the premises.",
+   "optionB": "Invalid: the scientists might not be among the people.",
+   "optionC": "Invalid: the conclusion should say all people do research.",
+   "optionD": "Valid only if every person is a scientist.",
+   "explanation": "The people who are scientists all do research, so at least some people do research. The conclusion follows necessarily.",
+   "steps": "1. Some people are scientists.\n2. Every scientist does research.\n3. So those people do research: some people do research. Valid.",
+   "stepsTl": "1. May mga tao na scientists.\n2. Lahat ng scientists ay nagre-research.\n3. Kaya ang mga taong iyon ay nagre-research: some people do research. Valid.",
+   "hint": "Ask whether the conclusion MUST follow if the premises are true, not whether it sounds true.",
+   "hintTl": "Tanungin mo: kung totoo ang premises, siguradong susunod ba ang conclusion? Hindi kung mukhang totoo lang.",
+   "whyB": "The premise itself says some people ARE scientists, so the groups overlap.",
+   "whyC": "Only some people are scientists, so 'all people' would go too far.",
+   "whyD": "The argument needs only some people to be scientists, not all.",
+   "explanationTl": "Yung mga tao na scientists ay nagre-research lahat, kaya siguradong may mga tao na nagre-research. Valid ang argument."
+  }
+ },
+ {
+  "id": 188497522,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; valid 'some' conclusion; added fields",
+  "fields": {
+   "steps": "1. Some celestial bodies are planets.\n2. All planets orbit the sun.\n3. So those celestial bodies orbit the sun: some celestial bodies orbit the sun.\n4. Nothing is said about the other celestial bodies, so 'all' cannot be concluded.",
+   "stepsTl": "1. May ilang celestial bodies na planets.\n2. Lahat ng planets ay umiikot sa araw.\n3. Kaya ang mga celestial bodies na iyon ay umiikot sa araw: some celestial bodies orbit the sun.\n4. Walang sinabi tungkol sa ibang celestial bodies, kaya hindi pwedeng 'all'.",
+   "hint": "Only part of the first group is inside the second. How much can you say for sure?",
+   "hintTl": "Bahagi lang ng isang grupo ang kasama sa kabila. Gaano karami lang ang sigurado?",
+   "whyA": "Overgeneralizes: only some celestial bodies are planets; the rest are unknown.",
+   "whyC": "Contradicts the premises: the celestial bodies that are planets do orbit the sun.",
+   "whyD": "A definite conclusion does follow: at least some do.",
+   "explanationTl": "Dahil lahat ng planets ay umiikot sa araw at may ilang celestial bodies na planets, siguradong some celestial bodies orbit the sun. Hindi pwedeng 'all' kasi hindi lahat ng celestial bodies ay planets."
+  }
+ },
+ {
+  "id": 992826696,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "'Valid/Invalid/True/False' option set banned; options rewritten, key stays B",
+  "fields": {
+   "text": "Is this argument valid? \"All birds sing. Sparky sings. Therefore, Sparky is a bird.\"",
+   "optionA": "Valid: Sparky sings, so Sparky must be a bird.",
+   "optionB": "Invalid: things other than birds may also sing.",
+   "optionC": "Valid: only birds can sing.",
+   "optionD": "Invalid: the premises contradict each other.",
+   "explanation": "The premise says all birds sing, not that only birds sing. Sparky could be a singer that is not a bird, so the conclusion does not necessarily follow (affirming the consequent).",
+   "steps": "1. All birds are singers.\n2. Sparky is a singer.\n3. Singers may include non-birds, so Sparky may or may not be a bird.\n4. The conclusion does not have to follow: invalid.",
+   "stepsTl": "1. Lahat ng birds ay kumakanta.\n2. Kumakanta si Sparky.\n3. Pwedeng may kumakanta na hindi bird, kaya hindi sigurado na bird si Sparky.\n4. Hindi kailangang sumunod ang conclusion: invalid.",
+   "hint": "Ask whether the conclusion MUST follow if the premises are true, not whether it sounds true.",
+   "hintTl": "Tanungin mo: kung totoo ang premises, siguradong susunod ba ang conclusion? Hindi kung mukhang totoo lang.",
+   "whyA": "Affirming the consequent: 'all birds sing' does not mean every singer is a bird.",
+   "whyC": "The premises never say ONLY birds sing; that reverses 'all birds sing'.",
+   "whyD": "The premises are consistent; the problem is that the conclusion does not follow.",
+   "explanationTl": "Sinabi lang na lahat ng birds ay kumakanta, hindi na birds lang ang kumakanta. Kaya pwedeng hindi bird si Sparky. Invalid ang argument."
+  }
+ },
+ {
+  "id": 1087625655,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; valid 'some' conclusion; added fields",
+  "fields": {
+   "steps": "1. Some machines are vehicles.\n2. All vehicles have engines.\n3. So those machines have engines: some machines have engines.\n4. Nothing is said about the other machines, so 'all' cannot be concluded.",
+   "stepsTl": "1. May ilang machines na vehicles.\n2. Lahat ng vehicles ay may engine.\n3. Kaya ang mga machines na iyon ay may engine: some machines have engines.\n4. Walang sinabi tungkol sa ibang machines, kaya hindi pwedeng 'all'.",
+   "hint": "Only part of the first group is inside the second. How much can you say for sure?",
+   "hintTl": "Bahagi lang ng isang grupo ang kasama sa kabila. Gaano karami lang ang sigurado?",
+   "whyA": "Overgeneralizes: only some machines are vehicles; the rest are unknown.",
+   "whyC": "Contradicts the premises: the machines that are vehicles do have engines.",
+   "whyD": "A definite conclusion does follow: at least some do.",
+   "explanationTl": "Dahil lahat ng vehicles ay may engine at may ilang machines na vehicles, siguradong some machines have engines. Hindi pwedeng 'all' kasi hindi lahat ng machines ay vehicles."
+  }
+ },
+ {
+  "id": 1769855880,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key correct; stem asked 'true' for a validity question",
+  "fields": {
+   "text": "\"If A, then B. If B, then C. Therefore, if A, then C.\" Is this argument valid?",
+   "explanation": "This is a hypothetical syllogism: chaining A→B and B→C gives A→C, a valid form.",
+   "steps": "1. A leads to B.\n2. B leads to C.\n3. So A leads to C (hypothetical syllogism): valid.",
+   "stepsTl": "1. Kapag A, B.\n2. Kapag B, C.\n3. Kaya kapag A, C (hypothetical syllogism): valid.",
+   "hint": "Follow the chain: where does A lead, and where does that lead?",
+   "hintTl": "Sundan ang chain: saan papunta ang A, at saan naman papunta iyon?",
+   "whyB": "The chain A→B→C always gives A→C; there is no gap.",
+   "whyC": "The conditional A→C holds whether or not A is actually true.",
+   "whyD": "The form is valid regardless of what C says.",
+   "explanationTl": "Hypothetical syllogism ito: kung A→B at B→C, siguradong A→C. Valid ang form."
+  }
+ },
+ {
+  "id": 2045818122,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; valid 'some' conclusion; added fields",
+  "fields": {
+   "steps": "1. Some weather patterns are clouds.\n2. All clouds produce rain.\n3. So those weather patterns produce rain: some weather patterns produce rain.\n4. Nothing is said about the other weather patterns, so 'all' cannot be concluded.",
+   "stepsTl": "1. May ilang weather patterns na clouds.\n2. Lahat ng clouds ay nagdadala ng ulan.\n3. Kaya ang mga weather patterns na iyon ay nagdadala ng ulan: some weather patterns produce rain.\n4. Walang sinabi tungkol sa ibang weather patterns, kaya hindi pwedeng 'all'.",
+   "hint": "Only part of the first group is inside the second. How much can you say for sure?",
+   "hintTl": "Bahagi lang ng isang grupo ang kasama sa kabila. Gaano karami lang ang sigurado?",
+   "whyA": "Overgeneralizes: only some weather patterns are clouds; the rest are unknown.",
+   "whyC": "Contradicts the premises: the weather patterns that are clouds do produce rain.",
+   "whyD": "A definite conclusion does follow: at least some do.",
+   "explanationTl": "Dahil lahat ng clouds ay nagdadala ng ulan at may ilang weather patterns na clouds, siguradong some weather patterns produce rain. Hindi pwedeng 'all' kasi hindi lahat ng weather patterns ay clouds."
+  }
+ },
+ {
+  "id": 844066916,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "second valid answer (socks: feet; hat: head; shirt: upper body only); new set with one clear odd",
+  "fields": {
+   "text": "Odd one out: Sandals, Boots, Slippers, Cap",
+   "optionA": "Sandals",
+   "optionB": "Boots",
+   "optionC": "Slippers",
+   "optionD": "Cap",
+   "explanation": "Sandals, boots and slippers are footwear worn on the feet; a cap is worn on the head.",
+   "hint": "Find what three of them have in common, then check that the fourth does NOT share it.",
+   "hintTl": "Hanapin kung ano ang pagkakapareho ng tatlo, tapos tingnan kung wala iyon sa pang-apat.",
+   "whyA": "Sandals are footwear like boots and slippers.",
+   "whyB": "Boots are footwear; covering the ankle does not change the category.",
+   "whyC": "Slippers are footwear like sandals and boots.",
+   "explanationTl": "Ang sandals, boots at slippers ay sinusuot sa paa. Ang cap lang ang sinusuot sa ulo."
+  }
+ },
+ {
+  "id": 1604296376,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "key correct; explanation sharpened to fruit vs tuber",
+  "fields": {
+   "explanation": "Apple, orange and banana are fruits; a potato is a tuber (an underground stem), eaten as a vegetable.",
+   "hint": "Find what three of them have in common, then check that the fourth does NOT share it.",
+   "hintTl": "Hanapin kung ano ang pagkakapareho ng tatlo, tapos tingnan kung wala iyon sa pang-apat.",
+   "whyA": "Apple is a fruit like orange and banana.",
+   "whyB": "Orange is a fruit; being a citrus does not make it the odd one.",
+   "whyC": "Banana is a fruit like apple and orange.",
+   "explanationTl": "Prutas ang apple, orange at banana. Ang potato ay tuber na tumutubo sa ilalim ng lupa at kinakain bilang gulay."
+  }
+ },
+ {
+  "id": 1716691115,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "second valid answer: the Sun IS a star, so Sun/Star overlap; new set with one clear odd",
+  "fields": {
+   "text": "Odd one out: Mercury, Moon, Venus, Mars",
+   "optionA": "Mercury",
+   "optionB": "Moon",
+   "optionC": "Venus",
+   "optionD": "Mars",
+   "explanation": "Mercury, Venus and Mars are planets that orbit the Sun; the Moon is a natural satellite that orbits the Earth.",
+   "hint": "Find what three of them have in common, then check that the fourth does NOT share it.",
+   "hintTl": "Hanapin kung ano ang pagkakapareho ng tatlo, tapos tingnan kung wala iyon sa pang-apat.",
+   "whyA": "Mercury is a planet like Venus and Mars.",
+   "whyC": "Venus is a planet like Mercury and Mars.",
+   "whyD": "Mars is a planet like Mercury and Venus.",
+   "explanationTl": "Planets ang Mercury, Venus at Mars na umiikot sa Sun. Ang Moon ay satellite na umiikot sa Earth."
+  }
+ },
+ {
+  "id": 68112122,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "key correct; added missing fields",
+  "fields": {
+   "whyA": "Adds 2 instead of 3.",
+   "whyC": "Adds only 1 to 13.",
+   "whyD": "Adds 4 instead of 3.",
+   "explanationTl": "Dagdag ng 3 bawat beses, kaya 13 + 3 = 16."
+  }
+ },
+ {
+  "id": 1094724157,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "key correct; added missing fields",
+  "fields": {
+   "whyA": "Adds 6: reuses an earlier gap instead of the next gap, 8.",
+   "whyB": "Repeats the last gap of 7 instead of growing it to 8.",
+   "whyD": "Adds 9: skips a gap.",
+   "explanationTl": "Ang pagitan ay 5, 6, 7, kaya 8 ang susunod: 22 + 8 = 30."
+  }
+ },
+ {
+  "id": 1821169236,
+  "blind": "C",
+  "verdict": "key fixed",
+  "reason": "key B (37) wrong; gaps 7, 8, 9, 10 give 38 (C), as the explanation itself says",
+  "fields": {
+   "correctAnswer": "C",
+   "steps": "1. Gaps: 7, 8, 9 — they grow by 1, so the next gap is 10.\n2. 28 + 10 = 38.",
+   "stepsTl": "1. Pagitan: 7, 8, 9 — lumalaki ng 1, kaya 10 ang susunod.\n2. 28 + 10 = 38.",
+   "hint": "Write the difference between neighbours. If that isn't constant, try ratios or the differences of differences.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, tingnan kung paano nagbabago ang pagitan.",
+   "whyA": "Adds 8: reuses an earlier gap.",
+   "whyB": "Repeats the last gap of 9 instead of growing it to 10.",
+   "whyD": "Adds 11: skips a gap.",
+   "explanationTl": "Ang pagitan ay 7, 8, 9, kaya 10 ang susunod: 28 + 10 = 38."
+  }
+ },
+ {
+  "id": 1839757197,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "key C (24) wrong; gaps 4, 5, 6, 7 give 23 (B), as the explanation itself says",
+  "fields": {
+   "correctAnswer": "B",
+   "steps": "1. Gaps: 4, 5, 6 — they grow by 1, so the next gap is 7.\n2. 16 + 7 = 23.",
+   "stepsTl": "1. Pagitan: 4, 5, 6 — lumalaki ng 1, kaya 7 ang susunod.\n2. 16 + 7 = 23.",
+   "hint": "Write the difference between neighbours. If that isn't constant, try ratios or the differences of differences.",
+   "hintTl": "Isulat ang pagitan ng bawat numero. Kung hindi pare-pareho, tingnan kung paano nagbabago ang pagitan.",
+   "whyA": "Repeats the last gap of 6 instead of growing it to 7.",
+   "whyC": "Adds 8: skips a gap.",
+   "whyD": "Adds 9: skips two gaps.",
+   "explanationTl": "Ang pagitan ay 4, 5, 6, kaya 7 ang susunod: 16 + 7 = 23."
+  }
+ }
+]

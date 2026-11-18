@@ -1,0 +1,19 @@
+[
+ {"id": 14256358, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "eloquent speech captivates"},
+ {"id": 637573758, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "'jumped on' and 'jumped over' both standard"},
+ {"id": 800041561, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "news is singular -> is"},
+ {"id": 838470859, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "belong to"},
+ {"id": 904422609, "answer": "C", "confidence": "unsure", "ambiguous": true, "note": "team play is acceptable British plural collective"},
+ {"id": 986518591, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "scissors plural -> are"},
+ {"id": 1106854031, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "will + base verb"},
+ {"id": 1365006955, "answer": "C", "confidence": "unsure", "ambiguous": true, "note": "jury have is standard British usage"},
+ {"id": 1444166743, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "subject is impact (singular)"},
+ {"id": 1562931377, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "subject is results (plural)"},
+ {"id": 1142168602, "answer": "B", "confidence": "sure", "ambiguous": true, "note": "C inverted 'Beautiful are the flowers' also grammatical"},
+ {"id": 1691343255, "answer": "B", "confidence": "sure", "ambiguous": true, "note": "C inverted 'Sleeping is the cat' arguably valid"},
+ {"id": 1965033272, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "weak inference; 'No implication' option is sloppy"},
+ {"id": 83162521, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "astute = shrewd"},
+ {"id": 200646296, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "arduous = difficult"},
+ {"id": 1464501749, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "daunting = intimidating"},
+ {"id": 1697800269, "answer": "C", "confidence": "sure", "ambiguous": true, "note": "banned Both/None option set"}
+]

@@ -1,0 +1,309 @@
+[
+ {
+  "id": 1387829418, "blind": "C", "verdict": "rewritten",
+  "reason": "The Constitution sets no term for the Speaker, so 'Until replaced' vs '3 years' (one Congress) was disputable; rewritten to how the Speaker is chosen (Art. VI Sec. 16(1)).",
+  "fields": {
+   "text": "Under the 1987 Constitution, how is the Speaker of the House of Representatives chosen?",
+   "optionA": "Appointed by the President",
+   "optionB": "Elected by a majority vote of all the Members of the House",
+   "optionC": "Elected by the people in a nationwide vote",
+   "optionD": "The longest-serving Member automatically becomes Speaker",
+   "correctAnswer": "B",
+   "explanation": "Article VI, Section 16(1) of the 1987 Constitution provides that the House of Representatives elects its Speaker by a majority vote of all its Members. The Senate elects its President the same way.",
+   "hint": "Each chamber of Congress picks its own presiding officer.",
+   "whyA": "The President has no power to appoint the leaders of Congress; that would violate separation of powers.",
+   "whyC": "Only the President, Vice-President and senators are elected nationwide; the Speaker is chosen by fellow Members.",
+   "whyD": "Seniority does not decide it; the Constitution requires an election by majority vote of all Members.",
+   "explanationTl": "Sa Article VI, Section 16(1) ng 1987 Constitution, ang mga Members mismo ng House ang nag-e-elect ng Speaker, by majority vote of all Members. Ganun din sa Senate, sila ang pumipili ng Senate President.",
+   "hintTl": "Isipin mo: sino ang pumipili ng leader ng bawat chamber ng Congress?",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 2034682365, "blind": "A", "verdict": "minor edit",
+  "reason": "Key correct; option A sharpened to the constitutional wording and explanation now cites Art. IX-C Sec. 2(1).",
+  "fields": {
+   "text": "What is the main function of the Commission on Elections (COMELEC)?",
+   "optionA": "Enforce and administer all laws on the conduct of elections",
+   "optionB": "Audit the accounts of government agencies",
+   "optionC": "Appoint officials to government positions",
+   "optionD": "Enact laws",
+   "explanation": "Under Article IX-C, Section 2(1) of the 1987 Constitution, the COMELEC enforces and administers all laws and regulations relating to the conduct of elections, plebiscites, initiatives, referendums and recalls.",
+   "hint": "The answer is in the commission's name.",
+   "whyB": "Auditing government accounts is the job of the Commission on Audit (Art. IX-D).",
+   "whyC": "Appointments belong mainly to the President; the Civil Service Commission handles the civil service, not COMELEC.",
+   "whyD": "Making laws is the job of Congress (Art. VI), not a constitutional commission.",
+   "explanationTl": "Sa Article IX-C, Section 2(1) ng 1987 Constitution, ang COMELEC ang nag-e-enforce at nag-a-administer ng lahat ng election laws, pati plebiscite, initiative, referendum at recall.",
+   "hintTl": "Nasa pangalan na mismo ng commission ang sagot."
+  }
+ },
+ {
+  "id": 1489601512, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; explanation now cites Sec. 7(d) and notes the distractors are Sec. 4 norms of conduct.",
+  "fields": {
+   "explanation": "Section 7(d) of RA 6713 prohibits public officials and employees from soliciting or accepting gifts or anything of monetary value in connection with any transaction affected by the functions of their office. Political neutrality, professionalism and responsiveness are norms of conduct required under Section 4, not prohibited acts.",
+   "hint": "Three of the options are duties every public servant must follow.",
+   "whyA": "Political neutrality is a required norm of conduct under Section 4(h), not a prohibited act.",
+   "whyC": "Professionalism is a required norm of conduct under Section 4(b).",
+   "whyD": "Responsiveness to the public is a required norm of conduct under Section 4(e).",
+   "explanationTl": "Sa Section 7(d) ng RA 6713, bawal sa public officials at employees ang humingi o tumanggap ng regalo o anumang may halaga na konektado sa trabaho nila. Yung political neutrality, professionalism at responsiveness ay mga norms of conduct sa Section 4, ibig sabihin required yun, hindi bawal.",
+   "hintTl": "Tatlo sa choices ay mga dapat gawin ng public servant. Alin ang hindi?"
+  }
+ },
+ {
+  "id": 160158279, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; easy recall item lowered to difficulty 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "It is not Canada's biggest city; it sits in the province of Ontario on the border with Quebec.",
+   "whyA": "Toronto is Canada's largest city, but not its capital.",
+   "whyC": "Vancouver is a major west-coast city in British Columbia, not the capital.",
+   "whyD": "Montreal is the largest city in Quebec, not the national capital.",
+   "explanationTl": "Ottawa ang capital ng Canada, dito nakatayo ang Parliament nila. Madalas mapagkamalan ang Toronto kasi yun ang pinakamalaking city.",
+   "hintTl": "Hindi ito ang pinakamalaking city ng Canada."
+  }
+ },
+ {
+  "id": 300226883, "blind": "B", "verdict": "rewritten",
+  "reason": "'Largest country in Africa' changed in 2011 (Sudan split), a time-sensitive superlative; rewritten to a stable Africa geography fact.",
+  "fields": {
+   "text": "The Suez Canal, which links the Mediterranean Sea and the Red Sea, is located in which country?",
+   "optionA": "Sudan",
+   "optionB": "Egypt",
+   "optionC": "Libya",
+   "optionD": "Morocco",
+   "correctAnswer": "B",
+   "explanation": "The Suez Canal runs through Egypt, connecting the Mediterranean Sea to the Red Sea. It opened in 1869 and lets ships travel between Europe and Asia without sailing around Africa.",
+   "hint": "Think of the country that lies between the Mediterranean and the Red Sea, at the corner of Africa and Asia.",
+   "whyA": "Sudan borders the Red Sea but not the Mediterranean, so the canal cannot be there.",
+   "whyC": "Libya is on the Mediterranean but has no Red Sea coast.",
+   "whyD": "Morocco is at the far western end of North Africa, near the Strait of Gibraltar.",
+   "explanationTl": "Nasa Egypt ang Suez Canal, kinokonekta nito ang Mediterranean Sea at Red Sea. Binuksan ito noong 1869, kaya hindi na kailangang umikot ng barko sa buong Africa para makarating ng Asia mula Europe.",
+   "hintTl": "Aling bansa ang nasa pagitan ng Mediterranean at Red Sea?",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 317658505, "blind": "A", "verdict": "minor edit",
+  "reason": "Key correct; explanation said blue whales grow 'up to 100 meters' (false: about 30 m / 100 feet); fixed; difficulty set to 1.",
+  "fields": {
+   "explanation": "The blue whale is the largest mammal, and the largest animal known to have ever lived, reaching about 30 meters (about 100 feet) in length.",
+   "difficulty": 1,
+   "hint": "The biggest mammal does not live on land.",
+   "whyB": "The elephant is the largest LAND animal, but it is far smaller than the blue whale.",
+   "whyC": "The giraffe is the tallest animal, not the largest.",
+   "whyD": "The rhinoceros is large but smaller than both the elephant and the blue whale.",
+   "explanationTl": "Ang blue whale ang pinakamalaking mammal, at pinakamalaking hayop na nabuhay kailanman, umaabot ng mga 30 meters ang haba.",
+   "hintTl": "Hindi sa lupa nakatira ang pinakamalaking mammal."
+  }
+ },
+ {
+  "id": 369340607, "blind": "C", "verdict": "rewritten",
+  "reason": "'Father of Modern Physics' is attributed to both Galileo (most common, incl. by Einstein himself) and Einstein; keyed Einstein was disputable; rewritten to theory of relativity.",
+  "fields": {
+   "text": "Which scientist developed the theory of relativity?",
+   "correctAnswer": "B",
+   "explanation": "Albert Einstein developed the special theory of relativity (1905) and the general theory of relativity (1915), which changed how science understands space, time and gravity.",
+   "hint": "His famous equation is E = mc².",
+   "whyA": "Isaac Newton gave the laws of motion and universal gravitation, which relativity later refined.",
+   "whyC": "Galileo pioneered experiments and the telescope, centuries before relativity.",
+   "whyD": "Niels Bohr is known for his model of the atom and quantum theory, not relativity.",
+   "explanationTl": "Si Albert Einstein ang nag-develop ng theory of relativity, yung special relativity noong 1905 at general relativity noong 1915. Binago nito ang pagkaintindi natin sa space, time at gravity.",
+   "hintTl": "Siya yung may sikat na equation na E = mc²."
+  }
+ },
+ {
+  "id": 608952765, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "The nickname came from Europeans who knew little about this continent's interior.",
+   "whyA": "Asia was well known to European traders and was never given this nickname.",
+   "whyC": "South America is sometimes linked to the Amazon jungle, but it was not called the 'Dark Continent'.",
+   "whyD": "Australia is sometimes called the 'Island Continent' or 'Land Down Under', not the 'Dark Continent'.",
+   "explanationTl": "Africa ang tinawag na 'Dark Continent' noon kasi halos hindi pa na-e-explore ng mga Europeo ang loob nito, hindi dahil sa kulay ng mga tao.",
+   "hintTl": "Galing ang nickname sa mga Europeo na halos walang alam sa loob ng kontinenteng ito."
+  }
+ },
+ {
+  "id": 657782264, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "It is also the smallest planet and is named after the Roman messenger god.",
+   "whyA": "Venus is the second planet from the Sun (and the hottest), not the closest.",
+   "whyC": "Earth is the third planet from the Sun.",
+   "whyD": "Mars is the fourth planet from the Sun.",
+   "explanationTl": "Mercury ang pinakamalapit na planet sa Sun, mga 58 million kilometers ang layo. Second ang Venus, third ang Earth.",
+   "hintTl": "Ito rin ang pinakamaliit na planet."
+  }
+ },
+ {
+  "id": 1072534553, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "Brazil was a Portuguese colony, and its currency has a Portuguese name meaning 'royal'.",
+   "whyA": "The peso is used by Spanish-speaking neighbours like Argentina and Chile (and by the Philippines), not Brazil.",
+   "whyC": "The dollar is used by the US and others, not Brazil.",
+   "whyD": "The euro is the currency of many European Union countries, not Brazil.",
+   "explanationTl": "Real ang official currency ng Brazil. Peso ang gamit ng mga kapitbahay nilang Spanish-speaking tulad ng Argentina at Chile, pero Portuguese-speaking ang Brazil.",
+   "hintTl": "Portuguese ang language ng Brazil, at Portuguese din ang pangalan ng pera nila."
+  }
+ },
+ {
+  "id": 1509638371, "blind": "A", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "This continent is also a single country.",
+   "whyB": "Europe is the second smallest continent, about 10 million square kilometers.",
+   "whyC": "Antarctica is about 14 million square kilometers, bigger than both Europe and Australia.",
+   "whyD": "South America is about 17.8 million square kilometers, much larger.",
+   "explanationTl": "Australia ang pinakamaliit na continent, mga 7.7 million square kilometers. Second smallest ang Europe.",
+   "hintTl": "Ang continent na ito ay isang bansa lang din."
+  }
+ },
+ {
+  "id": 1521342287, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "The UK kept its own currency and never adopted the currency of the eurozone.",
+   "whyA": "The UK never adopted the euro, even while it was an EU member.",
+   "whyC": "The dollar is used by the US, Canada, Australia and others, not the UK.",
+   "whyD": "The yen is the currency of Japan.",
+   "explanationTl": "Pound Sterling ang official currency ng United Kingdom. Hindi sila nag-adopt ng euro kahit noong member pa sila ng EU.",
+   "hintTl": "Hindi nag-euro ang UK, may sarili silang pera."
+  }
+ },
+ {
+  "id": 1593956969, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "He was an Italian Renaissance artist and inventor who also painted 'The Last Supper'.",
+   "whyA": "Van Gogh was a 19th-century Dutch painter known for 'The Starry Night'.",
+   "whyC": "Picasso was a 20th-century Spanish painter known for Cubism and 'Guernica'.",
+   "whyD": "Michelangelo was a Renaissance artist too, but he is known for the Sistine Chapel ceiling and the statue of David.",
+   "explanationTl": "Si Leonardo da Vinci ang nagpinta ng Mona Lisa, isang sikat na Renaissance painting. Si Michelangelo naman ang sa Sistine Chapel, kaya madalas silang napagpapalit.",
+   "hintTl": "Siya rin ang nagpinta ng 'The Last Supper'."
+  }
+ },
+ {
+  "id": 1708134427, "blind": "A", "verdict": "minor edit",
+  "reason": "Key correct; option A lacked 'Their' from the official title; stem completed; explanation now gives the full title.",
+  "fields": {
+   "text": "Republic Act No. 9262 is also known as the:",
+   "optionA": "Anti-Violence Against Women and Their Children Act of 2004",
+   "optionB": "Anti-Graft and Corrupt Practices Act",
+   "optionC": "Ecological Solid Waste Management Act",
+   "optionD": "Labor Code of the Philippines",
+   "explanation": "RA 9262 is the Anti-Violence Against Women and Their Children Act of 2004 (Anti-VAWC Act), which defines and penalizes violence against women and their children.",
+   "hint": "Its common short name is 'VAWC'.",
+   "whyB": "The Anti-Graft and Corrupt Practices Act is RA 3019.",
+   "whyC": "The Ecological Solid Waste Management Act is RA 9003.",
+   "whyD": "The Labor Code is Presidential Decree No. 442, not a Republic Act.",
+   "explanationTl": "Ang RA 9262 ay ang Anti-Violence Against Women and Their Children Act of 2004, o mas kilala bilang Anti-VAWC Act. Pinoprotektahan nito ang mga babae at mga anak nila laban sa violence.",
+   "hintTl": "Ang kilalang short name nito ay 'VAWC'."
+  }
+ },
+ {
+  "id": 1854968706, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "He was a German astronomer who used Tycho Brahe's observations to show that orbits are ellipses.",
+   "whyA": "Newton later explained WHY Kepler's laws work using his law of universal gravitation.",
+   "whyC": "Galileo supported the Sun-centered model with telescope observations but did not formulate the laws of planetary motion.",
+   "whyD": "Copernicus proposed the Sun-centered (heliocentric) model, but with circular orbits; the laws came from Kepler.",
+   "explanationTl": "Si Johannes Kepler ang nag-formulate ng three laws of planetary motion noong early 1600s, kasama na yung elliptical ang orbit ng mga planeta. Si Newton ang nagpaliwanag kung bakit gumagana ang mga ito gamit ang gravity.",
+   "hintTl": "Siya ang nagsabing ellipse, hindi perfect circle, ang orbit ng mga planeta."
+  }
+ },
+ {
+  "id": 2055236491, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; explanation said euro 'adopted in 2002' (adopted 1999, notes and coins 2002); fixed.",
+  "fields": {
+   "explanation": "France uses the euro. It adopted the euro in 1999, and euro banknotes and coins replaced the French franc in 2002.",
+   "hint": "France belongs to the eurozone of the European Union.",
+   "whyA": "The franc was France's currency before it was replaced by the euro.",
+   "whyC": "The pound is the currency of the United Kingdom.",
+   "whyD": "The dollar is used by the US and others, not France.",
+   "explanationTl": "Euro ang currency ng France ngayon. In-adopt nila ito noong 1999, at noong 2002 pinalitan na ng euro bills at coins ang lumang French franc.",
+   "hintTl": "Ang franc ay dati nilang pera. Ano ang pumalit?"
+  }
+ },
+ {
+  "id": 2101546851, "blind": "B", "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "It is the same gas we breathe out and plants take in.",
+   "whyA": "Nitrogen is used in some beers and coffee for a creamy foam, but soda's fizz comes from another gas.",
+   "whyC": "Oxygen is not what is dissolved in soft drinks to make them fizz.",
+   "whyD": "Helium is used in balloons, not drinks.",
+   "explanationTl": "Carbon dioxide ang naka-dissolve sa soda under pressure. Pagbukas mo ng bote, lumalabas ito bilang bubbles, kaya may fizz.",
+   "hintTl": "Ito yung gas na nilalabas natin pag huminga tayo."
+  }
+ },
+ {
+  "id": 190778579, "blind": "A", "verdict": "minor edit",
+  "reason": "Key correct; foreign distractors (kimono, tuxedo, suit) were giveaways; replaced with Filipino garments; difficulty set to 1.",
+  "fields": {
+   "optionB": "Baro't saya",
+   "optionC": "Malong",
+   "optionD": "Salakot",
+   "explanation": "The barong Tagalog, an embroidered shirt often made of piña or jusi fabric and worn untucked, is the recognized national costume for Filipino men.",
+   "difficulty": 1,
+   "hint": "It is the embroidered formal shirt men wear to weddings and official events.",
+   "whyB": "The baro't saya is the traditional national costume for Filipino WOMEN.",
+   "whyC": "The malong is a tube-shaped wraparound cloth of Mindanao, worn by both men and women; it is not the national costume.",
+   "whyD": "The salakot is a traditional wide-brimmed hat, not a costume.",
+   "explanationTl": "Ang barong Tagalog ang kinikilalang national costume ng mga lalaking Pilipino. Embroidered na polo ito, madalas gawa sa piña o jusi, at hindi naka-tuck in.",
+   "hintTl": "Ito yung sinusuot ng mga lalaki sa kasal at formal events."
+  }
+ },
+ {
+  "id": 924282981, "blind": "A", "verdict": "minor edit",
+  "reason": "Key correct; explanation now cites PD 940 and the Quezon City trap; difficulty set to 1.",
+  "fields": {
+   "explanation": "Manila is the capital of the Philippines under Presidential Decree No. 940 (1976). Quezon City was the official capital from 1948 to 1976.",
+   "difficulty": 1,
+   "hint": "One option was a former capital; the current one is the historic city along the Pasig River.",
+   "whyB": "Cebu City is the oldest Spanish settlement and a major city, but not the capital.",
+   "whyC": "Davao City is the biggest city in Mindanao, but not the capital.",
+   "whyD": "Quezon City was the capital from 1948 to 1976, until PD 940 restored Manila.",
+   "explanationTl": "Manila ang capital ng Pilipinas, ayon sa Presidential Decree No. 940 noong 1976. Ang Quezon City ay naging capital mula 1948 hanggang 1976, kaya madalas yun ang trap.",
+   "hintTl": "Isa sa choices ay dating capital lang. Alin ang capital ngayon?"
+  }
+ },
+ {
+  "id": 1513413537, "blind": "B", "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "hint": "This hero lost the use of his legs to polio but became Aguinaldo's chief adviser.",
+   "whyA": "Jose Rizal is the national hero, known for 'Noli Me Tangere' and 'El Filibusterismo'.",
+   "whyC": "Andres Bonifacio is the 'Father of the Philippine Revolution' and founder of the Katipunan.",
+   "whyD": "Emilio Aguinaldo was the first President of the Philippine Republic; Mabini was his adviser.",
+   "explanationTl": "Si Apolinario Mabini ang 'Sublime Paralytic'. Naparalisa siya dahil sa polio, pero siya ang utak sa likod ng revolutionary government ni Aguinaldo, kaya tinawag din siyang 'Brains of the Revolution'.",
+   "hintTl": "Naparalisa siya pero naging chief adviser ni Aguinaldo."
+  }
+ },
+ {
+  "id": 1543417124, "blind": "A", "verdict": "rewritten",
+  "reason": "No law declares a national dance; Tinikling and Cariñosa are both widely cited as such, so two answers were defensible; rewritten to a stable folk-dance fact.",
+  "fields": {
+   "text": "Which Philippine folk dance is performed while balancing lighted oil lamps on the head and the backs of the hands?",
+   "optionA": "Tinikling",
+   "optionB": "Cariñosa",
+   "optionC": "Pandanggo sa Ilaw",
+   "optionD": "Singkil",
+   "correctAnswer": "C",
+   "explanation": "Pandanggo sa Ilaw, from Mindoro, is danced while balancing three oil lamps (tinghoy), one on the head and one on the back of each hand. 'Ilaw' means light.",
+   "hint": "This dance comes from Mindoro and is a version of the fandango.",
+   "whyA": "Tinikling is danced between two clapping bamboo poles, imitating the tikling bird.",
+   "whyB": "Cariñosa is a flirtatious courtship dance done with a fan and handkerchief.",
+   "whyD": "Singkil is a Maranao royal dance done with fans while stepping between crisscrossed bamboo poles.",
+   "explanationTl": "Ang Pandanggo sa Ilaw, galing Mindoro, ay sinasayaw habang may binabalanse na tatlong oil lamp o tinghoy: isa sa ulo at tig-isa sa likod ng kamay. Ang 'ilaw' ay light.",
+   "hintTl": "Galing Mindoro ang sayaw na ito, at version siya ng fandango.",
+   "difficulty": 2
+  }
+ }
+]

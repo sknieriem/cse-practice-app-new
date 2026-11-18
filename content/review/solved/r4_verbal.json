@@ -1,0 +1,20 @@
+[
+ {"id": 1136378611, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "opposites: light/dark"},
+ {"id": 2128945234, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "lucid = clear; opposite confusing"},
+ {"id": 209984142, "answer": "D", "confidence": "sure", "ambiguous": false, "note": "cattle has no -s plural; fragment, no verb"},
+ {"id": 238952314, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "all gerunds"},
+ {"id": 542674840, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "intricate = hard to predict; subtopic is vocab not grammar"},
+ {"id": 628174097, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "inadvertent = unintentional"},
+ {"id": 1307000080, "answer": "A", "confidence": "unsure", "ambiguous": true, "note": "is AND was both correct (tense not fixed)"},
+ {"id": 1980431187, "answer": "A", "confidence": "unsure", "ambiguous": true, "note": "is AND was both correct (tense not fixed)"},
+ {"id": 272174356, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "'yet' = contrast; option wording is a fragment"},
+ {"id": 386851684, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "calendar"},
+ {"id": 1602142674, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "i before e except after c"},
+ {"id": 162904311, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "eccentric = unconventional"},
+ {"id": 375555613, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "tenacious = persistent; 'Giving up' not a single word"},
+ {"id": 706599274, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "stringent = strict"},
+ {"id": 791835610, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "context: deposit money; 'group of fish' isn't a sense of bank (that's school/shoal)"},
+ {"id": 1266564199, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "sporadic = occasional"},
+ {"id": 1326619988, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "command; subtopic is grammar not vocab"},
+ {"id": 1813792302, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "barren = bare/unproductive; 'Empty' is loose but only non-antonym"}
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "id": 1387829418,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "What is the term for the House Speaker?",
+  "optionA": "3 years",
+  "optionB": "6 years",
+  "optionC": "Until replaced",
+  "optionD": "4 years"
+ },
+ {
+  "id": 2034682365,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "What is the role of the Commission on Elections?",
+  "optionA": "Conduct elections",
+  "optionB": "Audit finances",
+  "optionC": "Appoint officials",
+  "optionD": "Make laws"
+ },
+ {
+  "id": 1489601512,
+  "category": "General Information",
+  "subtopic": "gi_ethics",
+  "text": "Under RA 6713, what is a prohibited act for public officials?",
+  "optionA": "Political neutrality",
+  "optionB": "Accepting gifts that create conflict of interest",
+  "optionC": "Professionalism",
+  "optionD": "Responsiveness to public"
+ },
+ {
+  "id": 160158279,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the capital of Canada?",
+  "optionA": "Toronto",
+  "optionB": "Ottawa",
+  "optionC": "Vancouver",
+  "optionD": "Montreal"
+ },
+ {
+  "id": 300226883,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the largest country in Africa by land area?",
+  "optionA": "Nigeria",
+  "optionB": "Algeria",
+  "optionC": "South Africa",
+  "optionD": "Ethiopia"
+ },
+ {
+  "id": 317658505,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the largest mammal in the world?",
+  "optionA": "Blue Whale",
+  "optionB": "Elephant",
+  "optionC": "Giraffe",
+  "optionD": "Rhinoceros"
+ },
+ {
+  "id": 369340607,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who is known as the 'Father of Modern Physics'?",
+  "optionA": "Isaac Newton",
+  "optionB": "Albert Einstein",
+  "optionC": "Galileo Galilei",
+  "optionD": "Niels Bohr"
+ },
+ {
+  "id": 608952765,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which continent is known as the 'Dark Continent'?",
+  "optionA": "Asia",
+  "optionB": "Africa",
+  "optionC": "South America",
+  "optionD": "Australia"
+ },
+ {
+  "id": 657782264,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which planet is closest to the Sun?",
+  "optionA": "Venus",
+  "optionB": "Mercury",
+  "optionC": "Earth",
+  "optionD": "Mars"
+ },
+ {
+  "id": 1072534553,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the currency of Brazil?",
+  "optionA": "Peso",
+  "optionB": "Real",
+  "optionC": "Dollar",
+  "optionD": "Euro"
+ },
+ {
+  "id": 1509638371,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the smallest continent by land area?",
+  "optionA": "Australia",
+  "optionB": "Europe",
+  "optionC": "Antarctica",
+  "optionD": "South America"
+ },
+ {
+  "id": 1521342287,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the currency of the United Kingdom?",
+  "optionA": "Euro",
+  "optionB": "Pound Sterling",
+  "optionC": "Dollar",
+  "optionD": "Yen"
+ },
+ {
+  "id": 1593956969,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who painted the Mona Lisa?",
+  "optionA": "Vincent van Gogh",
+  "optionB": "Leonardo da Vinci",
+  "optionC": "Pablo Picasso",
+  "optionD": "Michelangelo"
+ },
+ {
+  "id": 1708134427,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "RA 9262 is:",
+  "optionA": "Anti-Violence Against Women and Children",
+  "optionB": "Anti-Corruption",
+  "optionC": "Environmental Law",
+  "optionD": "Labor Code"
+ },
+ {
+  "id": 1854968706,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who proposed the laws of planetary motion?",
+  "optionA": "Isaac Newton",
+  "optionB": "Johannes Kepler",
+  "optionC": "Galileo Galilei",
+  "optionD": "Nicolaus Copernicus"
+ },
+ {
+  "id": 2055236491,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the currency of France?",
+  "optionA": "Franc",
+  "optionB": "Euro",
+  "optionC": "Pound",
+  "optionD": "Dollar"
+ },
+ {
+  "id": 2101546851,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas gives soda its fizz?",
+  "optionA": "Nitrogen",
+  "optionB": "Carbon Dioxide",
+  "optionC": "Oxygen",
+  "optionD": "Helium"
+ },
+ {
+  "id": 190778579,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national costume of the Philippines for men?",
+  "optionA": "Barong Tagalog",
+  "optionB": "Kimono",
+  "optionC": "Tuxedo",
+  "optionD": "Suit"
+ },
+ {
+  "id": 924282981,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the capital of the Philippines?",
+  "optionA": "Manila",
+  "optionB": "Cebu",
+  "optionC": "Davao",
+  "optionD": "Quezon City"
+ },
+ {
+  "id": 1513413537,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Which Philippine hero is known as the 'Sublime Paralytic'?",
+  "optionA": "Jose Rizal",
+  "optionB": "Apolinario Mabini",
+  "optionC": "Andres Bonifacio",
+  "optionD": "Emilio Aguinaldo"
+ },
+ {
+  "id": 1543417124,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national dance of the Philippines?",
+  "optionA": "Tinikling",
+  "optionB": "Cariñosa",
+  "optionC": "Pandanggo",
+  "optionD": "Singkil"
+ }
+]

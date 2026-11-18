@@ -1,0 +1,341 @@
+[
+ {
+  "id": 120164668,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Stem said \"The Philippine Constitution\"; the 1935 and 1973 charters were also ratified. Specified the present Constitution; swapped 1899 for 1986.",
+  "fields": {
+   "text": "The present Philippine Constitution was ratified in a nationwide plebiscite held in what year?",
+   "optionD": "1986",
+   "explanation": "The present Constitution was ratified in the plebiscite of February 2, 1987, and under Article XVIII, Section 27 it took effect immediately upon ratification. It was drafted by the 1986 Constitutional Commission under President Corazon Aquino.",
+   "hint": "It is the year in the name we usually give the present Constitution.",
+   "whyB": "1973 is the Marcos-era Constitution that the present one replaced.",
+   "whyC": "1935 is the Commonwealth Constitution.",
+   "whyD": "1986 is when the Constitutional Commission drafted the text; ratification came the following year.",
+   "explanationTl": "Ang present Constitution ay na-ratify sa plebiscite noong February 2, 1987, at ayon sa Article XVIII, Section 27, effective agad ito upon ratification. Ang 1986 Constitutional Commission ang nag-draft nito.",
+   "hintTl": "Ito yung year na kasama sa tawag natin sa present Constitution."
+  }
+ },
+ {
+  "id": 523885028,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields and Article VII citation.",
+  "fields": {
+   "explanation": "Under Article VII, Section 1 of the 1987 Constitution, executive power is vested in the President; Section 3 provides for the Vice President, who belongs to the same Executive Department.",
+   "hint": "Think of the branch that implements and enforces the laws.",
+   "whyB": "The Legislative branch is Congress (Senate and House), which makes laws.",
+   "whyC": "The Judicial branch is the Supreme Court and lower courts, which interpret laws.",
+   "whyD": "Local governments are not a branch of the national government; they are political subdivisions under Article X.",
+   "explanationTl": "Sa Article VII, Section 1 ng 1987 Constitution, ang executive power ay nasa President; sa Section 3 naman ang Vice President, na parte rin ng Executive Department.",
+   "hintTl": "Isipin mo kung aling branch ang nag-i-implement at nag-e-enforce ng batas."
+  }
+ },
+ {
+  "id": 1357790381,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "\"Both A and B\"/\"None\" option set is banned. Rewrote on the same labor policy using Article II, Section 18 wording.",
+  "fields": {
+   "text": "Under Article II, Section 18 of the 1987 Constitution, the State affirms labor as:",
+   "optionA": "the backbone of national industrialization",
+   "optionB": "a primary social economic force",
+   "optionC": "an equal partner of capital in all enterprises",
+   "optionD": "the foundation of the nation",
+   "correctAnswer": "B",
+   "explanation": "Article II, Section 18 states that the State affirms labor as a primary social economic force and shall protect the rights of workers and promote their welfare. Article XIII, Section 3 adds full protection to labor and promotion of full employment.",
+   "hint": "The phrase pairs \"social\" and \"economic\" in one description.",
+   "whyA": "Sounds plausible, but this phrase is not in Article II, Section 18.",
+   "whyC": "The Constitution speaks of shared responsibility between workers and employers (Art. XIII, Sec. 3), not labor as an equal partner of capital in all enterprises.",
+   "whyD": "Article XV, Section 1 calls the family, not labor, the foundation of the nation.",
+   "explanationTl": "Sa Article II, Section 18, sinasabi na ina-affirm ng State ang labor bilang primary social economic force, at poprotektahan nito ang rights at welfare ng workers. Sa Article XIII, Section 3 naman yung full protection to labor at full employment.",
+   "hintTl": "Yung phrase ay may \"social\" at \"economic\" na magkasama."
+  }
+ },
+ {
+  "id": 165664840,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Foreign trivia (currency of Mexico); rewrote to the Philippine currency authority under Art. XII, Sec. 20.",
+  "fields": {
+   "text": "Which institution issues Philippine peso bills and coins and serves as the country’s independent central monetary authority?",
+   "optionA": "Department of Finance",
+   "optionB": "Bureau of the Treasury",
+   "optionC": "Land Bank of the Philippines",
+   "optionD": "Bangko Sentral ng Pilipinas",
+   "correctAnswer": "D",
+   "explanation": "Article XII, Section 20 of the 1987 Constitution requires an independent central monetary authority; Congress created the Bangko Sentral ng Pilipinas for this role through RA 7653, the New Central Bank Act of 1993. The BSP issues the national currency.",
+   "hint": "Look for the central bank.",
+   "whyA": "The Department of Finance handles fiscal policy (revenue and debt), not issuing currency.",
+   "whyB": "The Bureau of the Treasury manages government funds and borrowing; it does not issue money.",
+   "whyC": "Land Bank is a government-owned bank serving farmers and LGUs, not the central bank.",
+   "explanationTl": "Sa Article XII, Section 20 ng 1987 Constitution, kailangan ng independent central monetary authority; ang Congress ang gumawa ng Bangko Sentral ng Pilipinas through RA 7653 (New Central Bank Act, 1993). BSP ang nag-i-issue ng pera natin.",
+   "hintTl": "Hanapin mo yung central bank."
+  }
+ },
+ {
+  "id": 442539199,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Geothermal power uses heat from the Earth’s interior, usually as underground steam, to turn turbines. RA 9513, the Renewable Energy Act of 2008, lists geothermal among renewable energy resources.",
+   "hint": "\"Geo\" means earth and \"thermal\" means heat.",
+   "whyA": "The Sun powers solar energy, not geothermal.",
+   "whyB": "Wind drives wind turbines, not geothermal plants.",
+   "whyD": "Moving water powers hydroelectric plants; in geothermal plants water only carries the Earth’s heat.",
+   "explanationTl": "Ang geothermal power ay gumagamit ng init galing sa loob ng Earth, kadalasan steam sa ilalim ng lupa, para paikutin ang turbines. Kasama ito sa renewable energy sa RA 9513 (Renewable Energy Act of 2008).",
+   "hintTl": "Ang \"geo\" ay earth at ang \"thermal\" ay heat."
+  }
+ },
+ {
+  "id": 561712936,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Foreign trivia (river of Paris); rewrote to a Philippine river on the same subtopic.",
+  "fields": {
+   "text": "Which river flows through Manila and connects Laguna de Bay to Manila Bay?",
+   "optionA": "Marikina River",
+   "optionB": "Pasig River",
+   "optionC": "Pampanga River",
+   "optionD": "Cagayan River",
+   "correctAnswer": "B",
+   "explanation": "The Pasig River drains Laguna de Bay, flows through Metro Manila, and empties into Manila Bay.",
+   "hint": "Its name is also the name of a Metro Manila city.",
+   "whyA": "The Marikina River is a tributary that joins the Pasig; it does not come from Laguna de Bay.",
+   "whyC": "The Pampanga River flows through Central Luzon into Manila Bay but does not pass through Manila or Laguna de Bay.",
+   "whyD": "The Cagayan River is in northern Luzon and empties into the Babuyan Channel.",
+   "explanationTl": "Ang Pasig River ang lumalabas sa Laguna de Bay, dumadaan sa Metro Manila, at bumubuhos sa Manila Bay.",
+   "hintTl": "Pangalan din ito ng isang city sa Metro Manila."
+  }
+ },
+ {
+  "id": 651558414,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Option B repeated the stem (\"wind\" powers wind power), a giveaway; rewrote to the energy conversion in a wind turbine.",
+  "fields": {
+   "text": "A wind turbine converts which form of energy into electricity?",
+   "optionA": "Chemical energy",
+   "optionB": "Nuclear energy",
+   "optionC": "Kinetic energy",
+   "optionD": "Thermal energy",
+   "correctAnswer": "C",
+   "explanation": "Moving air has kinetic energy (energy of motion); it turns the turbine blades, and a generator converts that motion into electricity. RA 9513 (Renewable Energy Act of 2008) lists wind among renewable energy resources.",
+   "hint": "Think of the energy an object has because it is moving.",
+   "whyA": "Chemical energy is stored in fuels and batteries and is released by reactions, not by moving air.",
+   "whyB": "Nuclear energy comes from splitting atoms, as in nuclear power plants.",
+   "whyD": "Thermal energy (heat) is what geothermal and coal plants use, not wind turbines.",
+   "explanationTl": "Ang hangin na gumagalaw ay may kinetic energy (energy of motion); pinapaikot nito ang blades, tapos ang generator ang nagko-convert nito into electricity.",
+   "hintTl": "Isipin mo yung energy ng isang bagay dahil gumagalaw ito."
+  }
+ },
+ {
+  "id": 888262152,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Gold’s symbol is Au, from the Latin \"aurum.\"",
+   "hint": "The symbol comes from the Latin name of the metal, not the English one.",
+   "whyA": "Ag is silver (Latin \"argentum\").",
+   "whyC": "Fe is iron (Latin \"ferrum\").",
+   "whyD": "Cu is copper (Latin \"cuprum\").",
+   "explanationTl": "Ang symbol ng gold ay Au, galing sa Latin na \"aurum.\"",
+   "hintTl": "Galing ang symbol sa Latin name ng metal, hindi sa English."
+  }
+ },
+ {
+  "id": 1130976751,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Foreign trivia (South American river); rewrote to the longest river in the Philippines.",
+  "fields": {
+   "text": "What is the longest river in the Philippines?",
+   "optionA": "Rio Grande de Mindanao",
+   "optionB": "Agusan River",
+   "optionC": "Pampanga River",
+   "optionD": "Cagayan River",
+   "correctAnswer": "D",
+   "explanation": "The Cagayan River (Rio Grande de Cagayan) in northern Luzon is the longest river in the Philippines, flowing north through the Cagayan Valley to the Babuyan Channel.",
+   "hint": "It flows through the valley region in northeastern Luzon.",
+   "whyA": "The Rio Grande de Mindanao is the second-longest, and the longest in Mindanao.",
+   "whyB": "The Agusan River is a major Mindanao river but shorter than the Cagayan.",
+   "whyC": "The Pampanga River is the main river of Central Luzon but much shorter.",
+   "explanationTl": "Ang Cagayan River (Rio Grande de Cagayan) sa northern Luzon ang pinakamahabang ilog sa Pilipinas; dumadaloy ito pa-north sa Cagayan Valley papuntang Babuyan Channel.",
+   "hintTl": "Dumadaan ito sa valley region sa northeastern Luzon."
+  }
+ },
+ {
+  "id": 1232696367,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "South Africa has three capitals, so Cape Town is also defensible; rewrote to the Philippine capital.",
+  "fields": {
+   "text": "Which city is the capital of the Philippines?",
+   "optionA": "Quezon City",
+   "optionB": "Manila",
+   "optionC": "Makati City",
+   "optionD": "Pasay City",
+   "correctAnswer": "B",
+   "explanation": "Presidential Decree No. 940 (1976) restored Manila as the capital of the Philippines; Quezon City had held that status since 1948 under RA 333.",
+   "hint": "It is the city where Malacañang Palace stands.",
+   "whyA": "Quezon City was the capital from 1948 to 1976, but PD 940 restored Manila.",
+   "whyC": "Makati is the main business district, not the capital.",
+   "whyD": "Pasay hosts government offices such as the Senate but is not the capital.",
+   "explanationTl": "Sa Presidential Decree No. 940 (1976), ibinalik ang Manila bilang capital ng Pilipinas; dati, Quezon City ang capital mula 1948 under RA 333.",
+   "hintTl": "Dito nakatayo ang Malacañang Palace."
+  }
+ },
+ {
+  "id": 1355532793,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "\"Freon\" is a brand name and nitrogen is also used in cryogenic cooling; rewrote to the CFC refrigerant phase-out.",
+  "fields": {
+   "text": "Chlorofluorocarbons (CFCs), once common in refrigerators and air conditioners, are being phased out mainly because they:",
+   "optionA": "deplete the ozone layer",
+   "optionB": "cause acid rain",
+   "optionC": "are radioactive",
+   "optionD": "contaminate groundwater",
+   "correctAnswer": "A",
+   "explanation": "CFCs release chlorine in the upper atmosphere, which breaks down ozone. The Montreal Protocol, which the Philippines has joined, phases them out.",
+   "hint": "Think of the layer of the atmosphere that shields us from ultraviolet rays.",
+   "whyB": "Acid rain comes mainly from sulfur dioxide and nitrogen oxides, not CFCs.",
+   "whyC": "CFCs are not radioactive.",
+   "whyD": "CFCs are gases that rise into the atmosphere; groundwater contamination is not their main harm.",
+   "explanationTl": "Ang CFCs ay naglalabas ng chlorine sa upper atmosphere, at sinisira nito ang ozone. Kaya pine-phase out sila sa ilalim ng Montreal Protocol, na sinalihan din ng Pilipinas.",
+   "hintTl": "Isipin mo yung layer ng atmosphere na nagpo-protect sa atin sa UV rays."
+  }
+ },
+ {
+  "id": 1516273769,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Dmitri Mendeleev published his periodic table in 1869, arranging elements by atomic mass and leaving gaps for elements not yet discovered.",
+   "hint": "He was a Russian chemist who predicted elements that had not yet been found.",
+   "whyB": "Marie Curie discovered polonium and radium; she did not create the periodic table.",
+   "whyC": "John Dalton proposed the modern atomic theory.",
+   "whyD": "Antoine Lavoisier is called the father of modern chemistry for his work on combustion and conservation of mass.",
+   "explanationTl": "Si Dmitri Mendeleev ang nag-publish ng periodic table noong 1869; inayos niya ang elements by atomic mass at nag-iwan ng gaps para sa elements na hindi pa natutuklasan.",
+   "hintTl": "Russian chemist siya na naka-predict ng elements na hindi pa nadi-discover noon."
+  }
+ },
+ {
+  "id": 1595912791,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Einstein’s general relativity is also a theory of gravity; reworded the stem to the law of universal gravitation.",
+  "fields": {
+   "text": "Who formulated the law of universal gravitation?",
+   "explanation": "Isaac Newton stated the law of universal gravitation in his Principia (1687): every mass attracts every other mass.",
+   "hint": "He was an English scientist who also gave us three laws of motion.",
+   "whyA": "Einstein later explained gravity as curved spacetime (general relativity, 1915), but the law of universal gravitation is Newton’s.",
+   "whyC": "Galileo studied falling bodies before Newton but did not formulate universal gravitation.",
+   "whyD": "Stephen Hawking studied black holes and cosmology in the 20th century.",
+   "explanationTl": "Si Isaac Newton ang nag-formulate ng law of universal gravitation sa Principia (1687): lahat ng may mass ay nag-a-attract sa isa’t isa.",
+   "hintTl": "English scientist siya na may three laws of motion din."
+  }
+ },
+ {
+  "id": 1774245905,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Mexico, Peru and Sudan also have pyramids (Sudan has more than Egypt); rewrote to a Philippine landmark.",
+  "fields": {
+   "text": "The Banaue Rice Terraces are found in which province?",
+   "optionA": "Benguet",
+   "optionB": "Mountain Province",
+   "optionC": "Kalinga",
+   "optionD": "Ifugao",
+   "correctAnswer": "D",
+   "explanation": "The Banaue Rice Terraces are in Banaue, Ifugao, in the Cordillera Administrative Region, carved into the mountains by the Ifugao people.",
+   "hint": "The province shares its name with the people who built the terraces.",
+   "whyA": "Benguet is known for Baguio and highland vegetables, not the Banaue terraces.",
+   "whyB": "Mountain Province is a neighboring Cordillera province (home of Sagada), but Banaue is not there.",
+   "whyC": "Kalinga is another Cordillera province, north of Ifugao.",
+   "explanationTl": "Ang Banaue Rice Terraces ay nasa Banaue, Ifugao, sa Cordillera Administrative Region; ginawa ito ng mga Ifugao sa bundok.",
+   "hintTl": "Kapangalan ng province ang mga taong gumawa ng terraces."
+  }
+ },
+ {
+  "id": 1923130828,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Foreign literature trivia; rewrote to Philippine literature on the same subtopic.",
+  "fields": {
+   "text": "Who wrote the Tagalog metrical romance \"Florante at Laura\"?",
+   "optionA": "Jose Rizal",
+   "optionB": "Severino Reyes",
+   "optionC": "Francisco Balagtas",
+   "optionD": "Jose Corazon de Jesus",
+   "correctAnswer": "C",
+   "explanation": "\"Florante at Laura\" (1838) is the awit written by Francisco Balagtas (Francisco Baltazar), a classic of Tagalog poetry.",
+   "hint": "The Philippine debate in verse, the balagtasan, is named after him.",
+   "whyA": "Jose Rizal wrote the novels \"Noli Me Tangere\" and \"El Filibusterismo.\"",
+   "whyB": "Severino Reyes is known for the zarzuela \"Walang Sugat\" and the Lola Basyang stories.",
+   "whyD": "Jose Corazon de Jesus was the first \"Hari ng Balagtasan,\" a 20th-century poet.",
+   "explanationTl": "Ang \"Florante at Laura\" (1838) ay isinulat ni Francisco Balagtas (Francisco Baltazar); classic ito ng Tagalog poetry.",
+   "hintTl": "Sa kanya ipinangalan ang balagtasan."
+  }
+ },
+ {
+  "id": 1929580637,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Carbon’s chemical symbol is the single letter C.",
+   "hint": "Carbon’s symbol is just one letter.",
+   "whyB": "Ca is calcium.",
+   "whyC": "Co is cobalt.",
+   "whyD": "Cr is chromium.",
+   "explanationTl": "Ang chemical symbol ng carbon ay C, isang letter lang.",
+   "hintTl": "Isang letter lang ang symbol ng carbon."
+  }
+ },
+ {
+  "id": 2043994268,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Foreign trivia (and the mid-ocean ridge is longer than the Andes); rewrote to the longest Philippine mountain range.",
+  "fields": {
+   "text": "What is the longest mountain range in the Philippines?",
+   "optionA": "Cordillera Central",
+   "optionB": "Caraballo Mountains",
+   "optionC": "Zambales Mountains",
+   "optionD": "Sierra Madre",
+   "correctAnswer": "D",
+   "explanation": "The Sierra Madre is the longest mountain range in the Philippines, running along the eastern side of Luzon from Cagayan down to Quezon province.",
+   "hint": "It runs along Luzon’s Pacific coast and helps shield the island from typhoons.",
+   "whyA": "The Cordillera Central is the highest range in northern Luzon but shorter than the Sierra Madre.",
+   "whyB": "The Caraballo Mountains are a short range linking the Cordillera and the Sierra Madre.",
+   "whyC": "The Zambales Mountains run along western Luzon and are much shorter.",
+   "explanationTl": "Ang Sierra Madre ang pinakamahabang mountain range sa Pilipinas; dumadaan ito sa eastern side ng Luzon mula Cagayan hanggang Quezon.",
+   "hintTl": "Nasa Pacific side ito ng Luzon at nakakatulong mag-shield laban sa bagyo."
+  }
+ },
+ {
+  "id": 1788748540,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "Keyed 'fact' unsupported (no law names 'Three Stars and a Sun' the national emblem); first rewrite duplicated 1246744583, so rewritten to the Flag and Heraldic Code (RA 8491) on the same national-symbols subtopic.",
+  "fields": {
+   "text": "Which law is known as the Flag and Heraldic Code of the Philippines?",
+   "optionA": "Republic Act No. 8491",
+   "optionB": "Republic Act No. 6713",
+   "optionC": "Republic Act No. 9003",
+   "optionD": "Republic Act No. 7160",
+   "correctAnswer": "A",
+   "explanation": "Republic Act No. 8491 (1998), the Flag and Heraldic Code of the Philippines, prescribes the national flag, anthem, motto, coat of arms and other heraldic items.",
+   "hint": "This 1998 law covers the flag, the anthem and the coat of arms.",
+   "whyB": "RA 6713 is the Code of Conduct and Ethical Standards for Public Officials and Employees.",
+   "whyC": "RA 9003 is the Ecological Solid Waste Management Act of 2000.",
+   "whyD": "RA 7160 is the Local Government Code of 1991.",
+   "explanationTl": "Ang Republic Act No. 8491 (1998) ang Flag and Heraldic Code of the Philippines. Dito nakasaad ang rules sa national flag, anthem, motto, coat of arms at iba pang heraldic items.",
+   "hintTl": "Batas ito noong 1998 tungkol sa flag, anthem at coat of arms."
+  }
+ }
+]

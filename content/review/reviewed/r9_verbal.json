@@ -1,0 +1,331 @@
+[
+ {
+  "id": 453917633,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Exuberant' means full of lively energy and excitement. Its opposite is 'subdued', meaning quiet and restrained.",
+   "hint": "Look for the one option that does NOT describe a high-energy person.",
+   "whyA": "'Energetic' is a synonym of exuberant, not an antonym.",
+   "whyC": "'Vibrant' means full of energy and life, a synonym.",
+   "whyD": "'Lively' is close to exuberant in meaning, not its opposite.",
+   "explanationTl": "Ang 'exuberant' ay sobrang energetic at excited. Ang kabaligtaran niyan ay 'subdued', ibig sabihin tahimik at kalmado.",
+   "hintTl": "Hanapin mo yung isang option na HINDI naglalarawan ng taong punong-puno ng energy."
+  }
+ },
+ {
+  "id": 44855011,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Children' is a plural subject, so the verb must be the plural form 'sing'. The correct sentence is 'The children sing songs.'",
+   "hint": "Check whether the subject is singular or plural, then check the verb.",
+   "whyA": "'The' is a correct article; nothing is wrong with it.",
+   "whyB": "'Children' is the correct plural of 'child'; the error is in the verb that follows it.",
+   "whyD": "'Songs' is a correct plural object.",
+   "explanationTl": "Plural ang 'children', kaya dapat plural din ang verb: 'sing', hindi 'sings'. Tama: 'The children sing songs.'",
+   "hintTl": "Tingnan mo kung singular o plural ang subject, tapos i-check mo kung tugma ang verb."
+  }
+ },
+ {
+  "id": 861962027,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Interested' always takes the preposition 'in': interested in learning, interested in music.",
+   "hint": "Think of the fixed preposition that goes with 'interested'.",
+   "whyB": "'Interested on' is a common Filipino-English error; the standard preposition is 'in'.",
+   "whyC": "'At' goes with words like 'good at', not 'interested'.",
+   "whyD": "'For' goes with words like 'eager for', not 'interested'.",
+   "explanationTl": "Laging 'in' ang kasunod ng 'interested': 'interested in learning French'. Common mistake natin ang 'interested on'.",
+   "hintTl": "Isipin mo kung anong preposition ang laging kasama ng 'interested'."
+  }
+ },
+ {
+  "id": 402742710,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Original was ambiguous: stamping before or after sealing are both valid, so 4-3-2-1 (key) and 4-2-3-1 were both defensible. Rewrote with clear sequence cues.",
+  "fields": {
+   "text": "Arrange the sentences in logical order: (1) She dropped the envelope into the mailbox. (2) She folded the finished letter and sealed it inside an envelope. (3) She wrote a long letter to her lola in Iloilo. (4) She wrote the address on the sealed envelope and stuck on a stamp.",
+   "optionA": "3-4-2-1",
+   "optionB": "2-3-4-1",
+   "optionC": "3-2-4-1",
+   "optionD": "3-2-1-4",
+   "correctAnswer": "C",
+   "explanation": "She must first write the letter (3), then seal it in an envelope (2), then address and stamp the sealed envelope (4), and finally mail it (1).",
+   "steps": "1. The letter must exist before anything else: (3) comes first.\n2. 'The finished letter' is sealed in an envelope: (2) follows (3).\n3. (4) refers to 'the sealed envelope', so it comes after (2).\n4. Mailing is the last act: (1).\n5. Order: 3-2-4-1.",
+   "hint": "Look for words like 'finished' and 'sealed' that point back to an earlier step.",
+   "whyA": "Puts addressing the 'sealed envelope' (4) before the envelope is sealed (2).",
+   "whyB": "Seals the 'finished letter' (2) before the letter has been written (3).",
+   "whyD": "Mails the envelope (1) before it has an address and stamp (4).",
+   "explanationTl": "Una, isusulat muna ang letter (3), tapos ise-seal sa envelope (2), saka lalagyan ng address at stamp ang sealed envelope (4), at huli, ihuhulog sa mailbox (1).",
+   "stepsTl": "1. Kailangan munang may sulat bago lahat: (3) ang una.\n2. Yung 'finished letter' ang ise-seal sa envelope: (2) pagkatapos ng (3).\n3. Sinabi sa (4) na 'sealed envelope' na, kaya after (2) siya.\n4. Huli ang pag-mail: (1).\n5. Order: 3-2-4-1.",
+   "hintTl": "Hanapin mo yung mga salitang 'finished' at 'sealed', tinuturo nila kung ano ang naunang nangyari."
+  }
+ },
+ {
+  "id": 218706530,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Diligent' describes someone who works carefully and steadily, so its synonym is 'hardworking'.",
+   "hint": "Picture an employee who never slacks off.",
+   "whyA": "'Lazy' is the opposite of diligent.",
+   "whyC": "'Careless' is the opposite; a diligent person is careful.",
+   "whyD": "'Idle' means not working, the opposite of diligent.",
+   "explanationTl": "Ang 'diligent' ay masipag at maingat sa trabaho, kaya ang synonym niya ay 'hardworking'.",
+   "hintTl": "Isipin mo yung empleyadong hindi kailanman nagpapabaya sa trabaho."
+  }
+ },
+ {
+  "id": 277748706,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "A 'cavalier' attitude shows a careless lack of proper concern, so 'dismissive' is the closest meaning.",
+   "hint": "Think of someone who brushes off a serious matter with a shrug.",
+   "whyA": "'Serious' is the opposite; a cavalier person treats things too lightly.",
+   "whyC": "'Concerned' is the opposite of the offhand attitude cavalier describes.",
+   "whyD": "'Attentive' means paying close attention, which a cavalier person does not.",
+   "explanationTl": "Kapag 'cavalier' ang attitude, parang wala siyang pakialam o binabalewala lang niya ang mga bagay, kaya 'dismissive' ang pinakamalapit.",
+   "hintTl": "Isipin mo yung taong kibit-balikat lang kahit seryoso ang usapan."
+  }
+ },
+ {
+  "id": 297258727,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Plausible' means reasonable and likely to be true, so 'believable' is the closest meaning.",
+   "hint": "Would people accept this idea as possibly true?",
+   "whyA": "'Unbelievable' is the opposite of plausible.",
+   "whyC": "'Absurd' means clearly unreasonable, the opposite of plausible.",
+   "whyD": "'Ridiculous' means laughably unreasonable, the opposite of plausible.",
+   "explanationTl": "Ang 'plausible' ay kapani-paniwala o posibleng totoo, kaya 'believable' ang sagot.",
+   "hintTl": "Tanungin mo sarili mo: matatanggap ba ng tao na posibleng totoo ang idea na ito?"
+  }
+ },
+ {
+  "id": 358450392,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced distractor 'absence' (too close to a second answer) with 'moderation'; added teaching fields.",
+  "fields": {
+   "optionA": "moderation",
+   "explanation": "'Abstinence' is the deliberate act of refraining from something, so 'avoidance' is the closest meaning. 'Complete' abstinence means staying away from social media entirely.",
+   "hint": "The word 'complete' tells you this is about staying away entirely, by choice.",
+   "whyA": "'Moderation' means using something in limited amounts, not refraining from it completely.",
+   "whyC": "'Sickness' confuses the word with the depression being treated.",
+   "whyD": "'Prescription' is what a doctor orders; it does not mean refraining from something.",
+   "explanationTl": "Ang 'abstinence' ay sadyang pag-iwas o hindi paggamit ng isang bagay, kaya 'avoidance' ang sagot. 'Complete abstinence' ibig sabihin totally walang social media.",
+   "hintTl": "Yung salitang 'complete' ang clue: buong-buo kang lalayo, at sinasadya mo ito."
+  }
+ },
+ {
+  "id": 806934615,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Propensity' means a natural inclination or tendency toward something, so she naturally leans toward music.",
+   "hint": "Is she drawn toward music or away from it?",
+   "whyA": "'Dislike' is the opposite of a natural pull toward something.",
+   "whyC": "'Fear' has nothing to do with being naturally inclined to something.",
+   "whyD": "'Aversion' means strong dislike, the opposite of propensity.",
+   "explanationTl": "Ang 'propensity' ay natural na hilig o tendency, kaya ibig sabihin, likas siyang mahilig sa music.",
+   "hintTl": "Naaakit ba siya sa music o umiiwas siya rito?"
+  }
+ },
+ {
+  "id": 840852189,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced silly distractor 'Tree' with 'Deadline'; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "optionD": "Deadline",
+   "difficulty": 1,
+   "explanation": "In 'We have a date tonight', 'date' means a planned social or romantic meeting between two people.",
+   "hint": "Think about what two people 'have' together on an evening out.",
+   "whyA": "'Fruit' is a real meaning of date, but it does not fit 'have a date tonight'.",
+   "whyC": "A calendar day is not something you 'have' tonight; tonight is already a time.",
+   "whyD": "A deadline is a time limit for work, not an evening appointment between people.",
+   "explanationTl": "Sa 'We have a date tonight', ang 'date' ay planned na lakad o romantic na pagkikita ng dalawang tao.",
+   "hintTl": "Isipin mo kung ano ang 'meron' ang dalawang tao kapag lalabas sila ngayong gabi."
+  }
+ },
+ {
+  "id": 849748625,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Demure' describes someone reserved, quiet and modest in manner, so 'modest' is the closest meaning.",
+   "hint": "Picture a quiet, shy person who avoids drawing attention.",
+   "whyA": "'Bold' is the opposite of demure.",
+   "whyC": "'Brash' means loud and pushy, the opposite of demure.",
+   "whyD": "'Outspoken' means speaking out freely, the opposite of reserved.",
+   "explanationTl": "Ang 'demure' ay mahinhin, tahimik, at hindi pabida, kaya 'modest' ang sagot.",
+   "hintTl": "Isipin mo yung tahimik at mahiyaing tao na ayaw mapansin."
+  }
+ },
+ {
+  "id": 857551967,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Regressed' means went back to a worse or less developed state. Her health is declining, so 'deteriorated' fits.",
+   "hint": "The sentence says she may die soon; is her health getting better or worse?",
+   "whyA": "'Remembered' confuses the word with recalling the past.",
+   "whyB": "'Alluded' means referred to indirectly, unrelated to health.",
+   "whyD": "'Progressed' means moved forward or improved, the opposite of regressed.",
+   "explanationTl": "Ang 'regressed' ay bumalik sa mas malalang kalagayan. Humihina ang health ni Lola, kaya 'deteriorated' ang tama.",
+   "hintTl": "Sabi sa sentence baka mamatay na siya anytime. Gumaganda ba o lumalala ang health niya?"
+  }
+ },
+ {
+  "id": 953434823,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Benevolent' means well-meaning and kindly, so its closest synonym is 'kind'.",
+   "hint": "Think of someone who loves to help others.",
+   "whyA": "'Harsh' is the opposite of benevolent.",
+   "whyC": "'Distant' means aloof, which is not the warmth benevolent describes.",
+   "whyD": "'Cautious' means careful, unrelated to goodwill.",
+   "explanationTl": "Ang 'benevolent' ay mabait at may mabuting loob sa kapwa, kaya 'kind' ang sagot.",
+   "hintTl": "Isipin mo yung taong mahilig tumulong sa iba."
+  }
+ },
+ {
+  "id": 975653059,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; banned 'None' option replaced and options made parallel; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "optionA": "Flying mammal",
+   "optionB": "Club used to hit a ball",
+   "optionC": "To blink the eyes",
+   "optionD": "A player's turn in a game",
+   "difficulty": 1,
+   "explanation": "In 'He hit the ball with a bat', 'bat' is the object he used to hit the ball: a club used in sports like baseball.",
+   "hint": "'With a ...' tells you it is something held in the hand.",
+   "whyA": "A flying mammal is another meaning of bat, but you cannot hit a ball with one.",
+   "whyC": "'To blink' is a verb meaning; here 'bat' is a noun used as a tool.",
+   "whyD": "A turn ('at bat') is not something you hit a ball with.",
+   "explanationTl": "Sa 'He hit the ball with a bat', ang 'bat' ay yung ginamit niya para tamaan ang bola, yung club sa baseball.",
+   "hintTl": "Yung 'with a ...' ang clue: bagay ito na hawak sa kamay."
+  }
+ },
+ {
+  "id": 1381718224,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Beset' means surrounded or troubled on all sides, so a path beset by peril is surrounded by danger.",
+   "hint": "Imagine dangers on every side of the path.",
+   "whyA": "'Bested' only sounds like beset; it means defeated.",
+   "whyB": "'Frightened' is a feeling of the person, not what danger does to a path.",
+   "whyD": "'Chased' means pursued from behind, not hemmed in on all sides.",
+   "explanationTl": "Ang 'beset' ay napapaligiran o pinalilibutan ng problema o panganib, kaya 'surrounded' ang sagot.",
+   "hintTl": "Isipin mo na may panganib sa lahat ng gilid ng daan."
+  }
+ },
+ {
+  "id": 1502510258,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "A 'rendezvous' is a place where people agree to meet, so the cafe is a favorite meeting place of the titas.",
+   "hint": "What do the titas do when they all go to the same cafe?",
+   "whyA": "A rendezvous need not be hidden; this cafe is a popular public spot.",
+   "whyB": "'Hiding place' adds secrecy that the word does not require here.",
+   "whyD": "'Dining room' is a room in a house, not a place where friends agree to meet.",
+   "explanationTl": "Ang 'rendezvous' ay lugar na pinagkikitaan ng mga tao, kaya ang cafe ay favorite meeting place ng mga tita.",
+   "hintTl": "Ano ba ang ginagawa ng mga tita kapag sabay-sabay silang pumupunta sa iisang cafe?"
+  }
+ },
+ {
+  "id": 1561963653,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; easy item set to difficulty 1; added teaching fields.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "'Vivacious' means attractively full of life and spirit, so its synonym is 'lively'.",
+   "hint": "Think of the life of the party.",
+   "whyA": "'Dull' is the opposite of vivacious.",
+   "whyC": "'Boring' is the opposite of a lively, spirited person.",
+   "whyD": "'Lethargic' means sluggish and low on energy, the opposite.",
+   "explanationTl": "Ang 'vivacious' ay masigla at puno ng buhay, kaya 'lively' ang synonym.",
+   "hintTl": "Isipin mo yung 'life of the party' sa isang handaan."
+  }
+ },
+ {
+  "id": 1632983908,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "'Loquacious' means tending to talk a great deal, so the closest meaning is 'talkative'.",
+   "hint": "The root 'loqu-' relates to speaking.",
+   "whyA": "'Taciturn' means saying very little, the opposite.",
+   "whyC": "'Quiet' is the opposite of loquacious.",
+   "whyD": "'Reserved' means holding back, the opposite of a chatty person.",
+   "explanationTl": "Ang 'loquacious' ay madaldal o sobrang dami magsalita, kaya 'talkative' ang sagot.",
+   "hintTl": "Ang root na 'loqu-' ay may kinalaman sa pagsasalita."
+  }
+ },
+ {
+  "id": 1871424407,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added missing comma before 'especially'; added teaching fields.",
+  "fields": {
+   "text": "The garrulous taxi driver annoyed most of his passengers, especially the introverted ones.\n\nIn this sentence, 'garrulous' most nearly means:",
+   "explanation": "'Garrulous' means excessively talkative, which is why he annoyed introverted passengers who prefer quiet.",
+   "hint": "Why would introverts in particular be annoyed by a driver?",
+   "whyB": "'Gracious' only sounds similar; a gracious driver would not annoy passengers.",
+   "whyC": "'Sickly' has nothing to do with annoying passengers.",
+   "whyD": "'Grey' is a sound-alike trap and does not explain why introverts were annoyed.",
+   "explanationTl": "Ang 'garrulous' ay sobrang daldal, kaya nainis ang mga introvert na pasahero na gusto ng tahimik.",
+   "hintTl": "Bakit kaya lalo na ang mga introvert ang nainis sa driver?"
+  }
+ },
+ {
+  "id": 1942322852,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "Banned 'Both A and B' / 'None' option set; rewrote as a context item on the verb 'desert'.",
+  "fields": {
+   "text": "The soldier was court-martialed because he chose to desert his unit in the middle of the battle.\n\nIn this sentence, 'desert' most nearly means:",
+   "optionA": "guard",
+   "optionB": "lead",
+   "optionC": "dry up",
+   "optionD": "abandon",
+   "correctAnswer": "D",
+   "explanation": "Used as a verb, 'desert' means to leave someone or something behind when you have a duty to stay. The soldier was punished for abandoning his unit.",
+   "hint": "Why would a soldier be punished for what he did to his unit during battle?",
+   "whyA": "Guarding his unit is a duty he would not be court-martialed for.",
+   "whyB": "Leading his unit would not be a punishable act.",
+   "whyC": "'Dry up' comes from the noun 'desert' (arid land), which does not fit a verb about a soldier.",
+   "explanationTl": "Bilang verb, ang 'desert' ay ang pag-iwan sa isang tao o grupo kahit may obligasyon kang manatili. Pinarusahan ang sundalo kasi iniwan niya ang unit niya.",
+   "hintTl": "Bakit kaya paparusahan ang sundalo dahil sa ginawa niya sa unit niya habang may labanan?"
+  }
+ }
+]

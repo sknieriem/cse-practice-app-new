@@ -1,0 +1,660 @@
+[
+ {
+  "id": 53825126,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; one-step equation set to difficulty 1, hint matched to a one-step equation, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "What number times 3 gives 18? Check by multiplying back.",
+   "hintTl": "Anong number ang i-multiply sa 3 para maging 18? I-check sa pag-multiply pabalik.",
+   "explanationTl": "Hatiin ang 18 sa 3, kaya x = 6. Check: 3 × 6 = 18."
+  }
+ },
+ {
+  "id": 1070144002,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate of 53825126 (same answer 6, same options); rewritten as a two-step equation with real distractors.",
+  "fields": {
+   "text": "Solve for x: 2(x + 3) = 26.",
+   "optionA": "13",
+   "optionB": "11.5",
+   "optionC": "10",
+   "optionD": "16",
+   "correctAnswer": "C",
+   "explanation": "Divide both sides by 2 to get x + 3 = 13, then subtract 3: x = 10.",
+   "steps": "1. Divide both sides by 2: x + 3 = 13.\n2. Subtract 3 from both sides: x = 10.\nCheck: 2(10 + 3) = 2 × 13 = 26 ✓",
+   "hint": "Get rid of the 2 outside the parentheses first.",
+   "whyA": "13 is the value of x + 3; you still have to subtract 3.",
+   "whyB": "11.5 comes from writing 2x + 3 = 26; the 2 multiplies the 3 too (2x + 6).",
+   "whyD": "16 comes from adding 3 to 13 instead of subtracting it.",
+   "explanationTl": "Hatiin muna sa 2 kaya x + 3 = 13, tapos ibawas ang 3: x = 10.",
+   "stepsTl": "1. Hatiin sa 2 ang magkabilang side: x + 3 = 13.\n2. Ibawas ang 3: x = 10.\nCheck: 2(10 + 3) = 26 ✓",
+   "hintTl": "Tanggalin muna ang 2 na nasa labas ng parentheses.",
+   "difficulty": 2,
+   "whyC": ""
+  }
+ },
+ {
+  "id": 1372036468,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; set to difficulty 1, hint matched to a one-step equation, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "hint": "What number times 4 gives 36? Check by multiplying back.",
+   "hintTl": "Anong number ang i-multiply sa 4 para maging 36? I-check sa pag-multiply pabalik.",
+   "explanationTl": "Hatiin ang 36 sa 4, kaya x = 9. Check: 4 × 9 = 36."
+  }
+ },
+ {
+  "id": 1955258917,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Third near-identical ax = b item with '*' notation and no teaching fields; rewritten as a division equation.",
+  "fields": {
+   "text": "Solve for x: x ÷ 3 = 7.",
+   "optionA": "7/3",
+   "optionB": "21",
+   "optionC": "10",
+   "optionD": "4",
+   "correctAnswer": "B",
+   "explanation": "To undo dividing by 3, multiply both sides by 3: x = 7 × 3 = 21.",
+   "steps": "1. Multiply both sides by 3: x = 7 × 3.\n2. x = 21.\nCheck: 21 ÷ 3 = 7 ✓",
+   "hint": "The opposite of dividing is multiplying.",
+   "whyA": "7/3 divides 7 by 3 again instead of undoing the division.",
+   "whyC": "10 adds 3 to 7; the 3 is a divisor, not something added.",
+   "whyD": "4 subtracts 3 from 7; the 3 is a divisor, not something added.",
+   "explanationTl": "Para matanggal ang ÷ 3, i-multiply sa 3 ang magkabilang side: x = 7 × 3 = 21.",
+   "stepsTl": "1. I-multiply sa 3 ang magkabilang side: x = 7 × 3.\n2. x = 21.\nCheck: 21 ÷ 3 = 7 ✓",
+   "hintTl": "Ang kabaligtaran ng division ay multiplication.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 2104137613,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1, explanation expanded, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Add 15 to both sides to get 5x = 25, then divide by 5: x = 5.",
+   "explanationTl": "Idagdag ang 15 sa magkabilang side para 5x = 25, tapos hatiin sa 5: x = 5."
+  }
+ },
+ {
+  "id": 264154965,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "1/2 = 0.5 is recall, and the whys only said '≠'; rewritten as a CSE-level fraction-to-decimal item.",
+  "fields": {
+   "text": "Convert 3/8 to a decimal.",
+   "optionA": "0.0375",
+   "optionB": "0.375",
+   "optionC": "0.625",
+   "optionD": "2.667",
+   "correctAnswer": "B",
+   "explanation": "A fraction means top ÷ bottom: 3 ÷ 8 = 0.375.",
+   "steps": "1. Divide the numerator by the denominator: 3 ÷ 8.\n2. 3 ÷ 8 = 0.375.\nCheck: 0.375 × 8 = 3 ✓",
+   "hint": "A fraction bar means “divided by”. Which number goes inside the division?",
+   "whyA": "0.0375 has the decimal point one place too far left; 0.0375 × 8 = 0.3, not 3.",
+   "whyC": "0.625 is 5/8, the part left over (1 − 3/8), not 3/8.",
+   "whyD": "2.667 is 8 ÷ 3; the division was done upside down.",
+   "explanationTl": "Ang fraction ay top ÷ bottom: 3 ÷ 8 = 0.375.",
+   "stepsTl": "1. Hatiin ang numerator sa denominator: 3 ÷ 8.\n2. 3 ÷ 8 = 0.375.\nCheck: 0.375 × 8 = 3 ✓",
+   "hintTl": "Ang fraction bar ay “divided by”. Alin ang hahatiin, alin ang panghati?",
+   "difficulty": 1,
+   "whyB": ""
+  }
+ },
+ {
+  "id": 1172827180,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whyB/whyC/whyD were generic or wrong (whyD described adding denominators for '0'); fixed, difficulty 1, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "1/2 is the starting fraction; you still have to take away 1/4.",
+   "whyC": "3/4 is 1/2 + 1/4; you added instead of subtracting.",
+   "whyD": "0 comes from subtracting the tops (1 − 1) before making the denominators equal.",
+   "explanationTl": "Gawing 2/4 ang 1/2, tapos 2/4 − 1/4 = 1/4.",
+   "hintTl": "Gawing pareho muna ang denominator, saka i-subtract ang numerators."
+  }
+ },
+ {
+  "id": 1371794387,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whyC/whyD were not mistakes; fixed, difficulty 1, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "whyC": "2 adds the tops (1 + 1) but drops the denominator; 2/2 = 1.",
+   "whyD": "0 is what you get by subtracting, not adding.",
+   "explanationTl": "Pareho na ang denominator, kaya i-add lang ang numerators: 1/2 + 1/2 = 2/2 = 1.",
+   "hintTl": "Pareho na ang denominator, kaya i-add lang ang numerators."
+  }
+ },
+ {
+  "id": 1462491363,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Options C (15/15) and D (8/8) both equal 1, so three options were correct; explanation had lost × signs; rewritten.",
+  "fields": {
+   "text": "2/3 × 9/10 = ?",
+   "optionA": "20/27",
+   "optionB": "3/5",
+   "optionC": "11/13",
+   "optionD": "47/30",
+   "correctAnswer": "B",
+   "explanation": "Multiply tops and bottoms: (2 × 9)/(3 × 10) = 18/30 = 3/5.",
+   "steps": "1. Multiply the numerators: 2 × 9 = 18.\n2. Multiply the denominators: 3 × 10 = 30.\n3. Simplify 18/30 by dividing both by 6: 3/5.",
+   "hint": "Top × top, bottom × bottom, then simplify.",
+   "whyA": "20/27 is 2/3 ÷ 9/10; you flipped the second fraction, which is only for division.",
+   "whyC": "11/13 adds tops and bottoms straight across: (2 + 9)/(3 + 10).",
+   "whyD": "47/30 is 2/3 + 9/10; the sign is ×, not +.",
+   "explanationTl": "I-multiply ang tops at bottoms: (2 × 9)/(3 × 10) = 18/30 = 3/5.",
+   "stepsTl": "1. I-multiply ang numerators: 2 × 9 = 18.\n2. I-multiply ang denominators: 3 × 10 = 30.\n3. I-simplify, hatiin pareho sa 6: 3/5.",
+   "hintTl": "Sa multiplication, top × top at bottom × bottom, tapos i-simplify. Hindi kailangan ng common denominator.",
+   "difficulty": 1,
+   "whyB": ""
+  }
+ },
+ {
+  "id": 1569359555,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; option C 13/15 replaced with 3/8 (the classic add-straight-across error); whys now name the mistakes; Taglish explanation added.",
+  "fields": {
+   "optionC": "3/8",
+   "whyB": "7/15 changes 1/3 to 1/15 without multiplying the top by 5; 1/3 = 5/15.",
+   "whyC": "3/8 adds tops and bottoms straight across: (1 + 2)/(3 + 5).",
+   "whyD": "9/15 changes 1/3 to 3/15; the top must be multiplied by 5 (the same number as the bottom), giving 5/15.",
+   "explanationTl": "Gawing 15 ang denominator: 1/3 = 5/15 at 2/5 = 6/15, kaya 5/15 + 6/15 = 11/15.",
+   "hintTl": "Hanapin ang common denominator ng 3 at 5, saka i-add ang numerators."
+  }
+ },
+ {
+  "id": 1583391362,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; steps wrongly said 'common denominator of 2 and 3'; options C/D swapped for real mistakes; difficulty 1; Taglish explanation added.",
+  "fields": {
+   "optionC": "5/12",
+   "optionD": "6/36",
+   "steps": "1. The denominators are already the same (6).\n2. Add the numerators: 3 + 2 = 5.\n3. Keep the denominator: 5/6.",
+   "stepsTl": "1. Pareho na ang denominator (6).\n2. I-add ang numerators: 3 + 2 = 5.\n3. Panatilihin ang denominator: 5/6.",
+   "whyB": "1/6 subtracts the tops (3 − 2) instead of adding.",
+   "whyC": "5/12 also adds the denominators (6 + 6); keep the denominator when it is already the same.",
+   "whyD": "6/36 multiplies tops and bottoms; that is the rule for ×, not +.",
+   "hint": "When the denominators already match, what happens to the denominator?",
+   "hintTl": "Kapag pareho na ang denominator, ano ang gagawin sa denominator?",
+   "explanationTl": "Pareho na ang denominator, kaya i-add lang ang numerators: 3/6 + 2/6 = 5/6.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1861795099,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate of 1172827180 (same answer 1/4, same options); rewritten with unlike denominators that need an LCD.",
+  "fields": {
+   "text": "5/6 − 3/4 = ?",
+   "optionA": "1",
+   "optionB": "19/12",
+   "optionC": "1/5",
+   "optionD": "1/12",
+   "correctAnswer": "D",
+   "explanation": "The LCD of 6 and 4 is 12: 10/12 − 9/12 = 1/12.",
+   "steps": "1. LCD of 6 and 4 is 12.\n2. Rewrite: 5/6 = 10/12 and 3/4 = 9/12.\n3. Subtract: 10/12 − 9/12 = 1/12.",
+   "hint": "Find the smallest number both 6 and 4 divide into.",
+   "whyA": "1 subtracts straight across, (5 − 3)/(6 − 4) = 2/2; denominators are never subtracted.",
+   "whyB": "19/12 is 10/12 + 9/12; you added instead of subtracting.",
+   "whyC": "1/5 subtracts the tops but adds the bottoms, (5 − 3)/(6 + 4).",
+   "explanationTl": "Ang LCD ng 6 at 4 ay 12: 10/12 − 9/12 = 1/12.",
+   "stepsTl": "1. LCD ng 6 at 4 ay 12.\n2. Gawing 10/12 ang 5/6 at 9/12 ang 3/4.\n3. I-subtract: 10/12 − 9/12 = 1/12.",
+   "hintTl": "Hanapin ang pinakamaliit na number na mahahati ng 6 at ng 4.",
+   "difficulty": 2,
+   "whyD": ""
+  }
+ },
+ {
+  "id": 1561020875,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Recall stem with no units; rewritten into a computation using the triangle angle sum.",
+  "fields": {
+   "text": "Two angles of a triangle measure 48° and 67°. What is the measure of the third angle?",
+   "optionA": "115°",
+   "optionB": "65°",
+   "optionC": "245°",
+   "optionD": "75°",
+   "correctAnswer": "B",
+   "explanation": "The angles of a triangle add up to 180°, so the third angle is 180° − (48° + 67°) = 65°.",
+   "steps": "1. Angles of a triangle add up to 180°.\n2. Add the two given angles: 48° + 67° = 115°.\n3. Third angle: 180° − 115° = 65°.",
+   "hint": "What do the three angles of any triangle add up to?",
+   "whyA": "115° is the sum of the two given angles, not the third angle.",
+   "whyC": "245° uses 360°, which is the angle sum of a quadrilateral, not a triangle.",
+   "whyD": "75° is a subtraction slip: 180 − 115 = 65.",
+   "explanationTl": "Ang tatlong angles ng triangle ay 180° lahat, kaya 180° − (48° + 67°) = 65°.",
+   "stepsTl": "1. Ang sum ng angles ng triangle ay 180°.\n2. Pagsamahin ang dalawa: 48° + 67° = 115°.\n3. Ikatlong angle: 180° − 115° = 65°.",
+   "hintTl": "Ilan ang total ng tatlong angles ng kahit anong triangle?",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 408303764,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Gawing decimal ang 42% (0.42), tapos 0.42 × 50 = 21."
+  }
+ },
+ {
+  "id": 449688089,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem reworded and peso units added to options; difficulty 1; Taglish explanation added.",
+  "fields": {
+   "text": "A belt is priced at ₱400. It is sold at a 25% discount. What is the sale price?",
+   "optionA": "₱300",
+   "optionB": "₱350",
+   "optionC": "₱250",
+   "optionD": "₱320",
+   "difficulty": 1,
+   "explanationTl": "Ang 25% ng ₱400 ay ₱100, kaya ₱400 − ₱100 = ₱300."
+  }
+ },
+ {
+  "id": 691490361,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate of 1808046236 (single 10% discount); rewritten as a successive-discount problem.",
+  "fields": {
+   "text": "A microwave oven is priced at ₱4,000. The store gives 10% off, then another 5% off the reduced price. What is the final price?",
+   "optionA": "₱3,400",
+   "optionB": "₱3,600",
+   "optionC": "₱3,800",
+   "optionD": "₱3,420",
+   "correctAnswer": "D",
+   "explanation": "After 10% off the price is ₱4,000 × 0.90 = ₱3,600; 5% off that is ₱3,600 × 0.95 = ₱3,420.",
+   "steps": "1. First discount: ₱4,000 × 0.90 = ₱3,600.\n2. Second discount on the new price: ₱3,600 × 0.95 = ₱3,420.\n3. Final price: ₱3,420.",
+   "hint": "The second discount is taken from the already-reduced price.",
+   "whyA": "₱3,400 adds the discounts into one 15% off; the 5% applies to ₱3,600, not ₱4,000.",
+   "whyB": "₱3,600 stops after the first discount.",
+   "whyC": "₱3,800 applies only the 5% discount.",
+   "explanationTl": "Pagkatapos ng 10% off, ₱3,600 na. Ang 5% off ay sa ₱3,600: ₱3,600 × 0.95 = ₱3,420.",
+   "stepsTl": "1. Unang discount: ₱4,000 × 0.90 = ₱3,600.\n2. Pangalawang discount sa bagong presyo: ₱3,600 × 0.95 = ₱3,420.\n3. Final price: ₱3,420.",
+   "hintTl": "Ang pangalawang discount ay kinukuha sa bagong presyo, hindi sa original.",
+   "difficulty": 2,
+   "whyD": ""
+  }
+ },
+ {
+  "id": 709115724,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whys rewritten (were '33.3333%'-style decimals); difficulty 1; Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "25 is one-third of 75 (about 33%), not 40%.",
+   "whyC": "35 is about 47% of 75; 10% of 75 is 7.5, so 40% is 4 × 7.5 = 30.",
+   "whyD": "40 just repeats the percent; 40% of 75 is less than half of 75.",
+   "explanationTl": "Gawing decimal ang 40% (0.4), tapos 0.4 × 75 = 30."
+  }
+ },
+ {
+  "id": 1808046236,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem reworded and peso units added to options; difficulty 1; Taglish explanation added.",
+  "fields": {
+   "text": "A laptop bag is priced at ₱1,000. It is sold at a 10% discount. What is the sale price?",
+   "optionA": "₱900",
+   "optionB": "₱950",
+   "optionC": "₱850",
+   "optionD": "₱800",
+   "difficulty": 1,
+   "explanationTl": "Ang 10% ng ₱1,000 ay ₱100, kaya ₱1,000 − ₱100 = ₱900."
+  }
+ },
+ {
+  "id": 1814244649,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "50% of 50 is trivial and repeats the percent-of pattern; rewritten as a find-the-whole percent item.",
+  "fields": {
+   "text": "18 is 45% of what number?",
+   "optionA": "8.1",
+   "optionB": "36",
+   "optionC": "40",
+   "optionD": "26.1",
+   "correctAnswer": "C",
+   "explanation": "If 0.45 × N = 18, then N = 18 ÷ 0.45 = 40.",
+   "steps": "1. Write the equation: 0.45 × N = 18.\n2. Divide: N = 18 ÷ 0.45 = 40.\nCheck: 45% of 40 = 0.45 × 40 = 18 ✓",
+   "hint": "18 is the part; you are looking for the whole. Part ÷ percent = whole.",
+   "whyA": "8.1 is 45% of 18; that treats 18 as the whole.",
+   "whyB": "36 divides 18 by 0.50; the percent is 45%, not 50%.",
+   "whyD": "26.1 increases 18 by 45%; the whole is part ÷ 0.45.",
+   "explanationTl": "Kung 0.45 × N = 18, edi N = 18 ÷ 0.45 = 40.",
+   "stepsTl": "1. Isulat: 0.45 × N = 18.\n2. Hatiin: N = 18 ÷ 0.45 = 40.\nCheck: 0.45 × 40 = 18 ✓",
+   "hintTl": "Ang 18 ay part lang; hinahanap mo ang whole. Part ÷ percent = whole.",
+   "difficulty": 2,
+   "whyC": ""
+  }
+ },
+ {
+  "id": 149435379,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whys added, difficulty 1, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "20 km/h for 2 hours covers only 40 km, not 50 km.",
+   "whyC": "30 km/h for 2 hours covers 60 km, not 50 km.",
+   "whyD": "35 km/h for 2 hours covers 70 km, not 50 km.",
+   "explanationTl": "Speed = distance ÷ time: 50 km ÷ 2 h = 25 km/h."
+  }
+ },
+ {
+  "id": 789621836,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "600 km in 1 hour is division by 1 and repeats the jet item; rewritten with time in minutes.",
+  "fields": {
+   "text": "A jet flies 600 km in 45 minutes. What is its average speed in km/h?",
+   "optionA": "450",
+   "optionB": "800",
+   "optionC": "1,333",
+   "optionD": "13.3",
+   "correctAnswer": "B",
+   "explanation": "45 minutes = 0.75 hour, so speed = 600 km ÷ 0.75 h = 800 km/h.",
+   "steps": "1. Convert time to hours: 45 ÷ 60 = 0.75 h.\n2. Speed = distance ÷ time = 600 ÷ 0.75.\n3. Speed = 800 km/h.",
+   "hint": "Change the minutes to hours first.",
+   "whyA": "450 multiplies 600 by 0.75 instead of dividing.",
+   "whyC": "1,333 treats 45 minutes as 0.45 hour; 45 minutes is 45/60 = 0.75 hour.",
+   "whyD": "13.3 is 600 ÷ 45, which is km per minute, not km per hour.",
+   "explanationTl": "Ang 45 minutes ay 0.75 hour, kaya 600 km ÷ 0.75 h = 800 km/h.",
+   "stepsTl": "1. Gawing hours: 45 ÷ 60 = 0.75 h.\n2. Speed = layo ÷ oras = 600 ÷ 0.75.\n3. Speed = 800 km/h.",
+   "hintTl": "Gawing hours muna ang minutes.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 1460080057,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate distance÷time item; rewritten as an average-speed round trip.",
+  "fields": {
+   "text": "A van travels 120 km from Town A to Town B at 60 km/h and returns along the same road at 40 km/h. What is its average speed for the whole round trip?",
+   "optionA": "50 km/h",
+   "optionB": "24 km/h",
+   "optionC": "48 km/h",
+   "optionD": "100 km/h",
+   "correctAnswer": "C",
+   "explanation": "Total distance is 240 km and total time is 2 h + 3 h = 5 h, so average speed = 240 ÷ 5 = 48 km/h.",
+   "steps": "1. Time going: 120 ÷ 60 = 2 h.\n2. Time returning: 120 ÷ 40 = 3 h.\n3. Total distance: 120 + 120 = 240 km; total time: 5 h.\n4. Average speed: 240 ÷ 5 = 48 km/h.",
+   "hint": "Average speed = total distance ÷ total time, not the average of the two speeds.",
+   "whyA": "50 km/h averages the two speeds; the van spends more time at the slower speed.",
+   "whyB": "24 km/h divides only the one-way distance (120 km) by the total time.",
+   "whyD": "100 km/h adds the two speeds.",
+   "explanationTl": "Total distance 240 km, total time 2 h + 3 h = 5 h, kaya 240 ÷ 5 = 48 km/h.",
+   "stepsTl": "1. Papunta: 120 ÷ 60 = 2 h.\n2. Pabalik: 120 ÷ 40 = 3 h.\n3. Total: 240 km sa 5 h.\n4. Average speed: 240 ÷ 5 = 48 km/h.",
+   "hintTl": "Average speed = total distance ÷ total time, hindi average ng dalawang speed.",
+   "difficulty": 3
+  }
+ },
+ {
+  "id": 1839852171,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whys added, difficulty 1, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "50 km/h for 4 hours covers only 200 km, not 240 km.",
+   "whyC": "70 km/h for 4 hours covers 280 km, not 240 km.",
+   "whyD": "40 km/h for 4 hours covers 160 km, not 240 km.",
+   "explanationTl": "Speed = distance ÷ time: 240 km ÷ 4 h = 60 km/h."
+  }
+ },
+ {
+  "id": 1849687737,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate distance÷time item; rewritten as find-the-time with a decimal-hour conversion.",
+  "fields": {
+   "text": "A hiker walks at a steady 4 km/h. How long will it take to walk 10 km?",
+   "optionA": "2 hours 50 minutes",
+   "optionB": "24 minutes",
+   "optionC": "2 hours 30 minutes",
+   "optionD": "2 hours 5 minutes",
+   "correctAnswer": "C",
+   "explanation": "Time = distance ÷ speed = 10 ÷ 4 = 2.5 hours, which is 2 hours 30 minutes.",
+   "steps": "1. Time = distance ÷ speed = 10 ÷ 4 = 2.5 h.\n2. 0.5 h = 0.5 × 60 = 30 minutes.\n3. Time = 2 hours 30 minutes.",
+   "hint": "Time = distance ÷ speed. Then change the decimal part of an hour into minutes.",
+   "whyA": "2 hours 50 minutes reads 2.5 h as 2:50; 0.5 hour is 30 minutes.",
+   "whyB": "24 minutes is 4 ÷ 10 = 0.4 h; the division is upside down.",
+   "whyD": "2 hours 5 minutes reads 0.5 h as 5 minutes; 0.5 hour is 30 minutes.",
+   "explanationTl": "Time = layo ÷ bilis = 10 ÷ 4 = 2.5 hours, o 2 hours 30 minutes.",
+   "stepsTl": "1. Time = 10 ÷ 4 = 2.5 h.\n2. 0.5 h = 0.5 × 60 = 30 minutes.\n3. Kaya 2 hours 30 minutes.",
+   "hintTl": "Time = layo ÷ bilis. Tapos gawing minutes ang decimal na bahagi ng oras.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 1996436848,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whys added, difficulty 1, Taglish explanation added.",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "60 km/h for 3 hours covers only 180 km, not 210 km.",
+   "whyC": "80 km/h for 3 hours covers 240 km, not 210 km.",
+   "whyD": "50 km/h for 3 hours covers 150 km, not 210 km.",
+   "explanationTl": "Speed = distance ÷ time: 210 km ÷ 3 h = 70 km/h."
+  }
+ },
+ {
+  "id": 144562164,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem reworded; steps, hint, whys and Taglish fields added.",
+  "fields": {
+   "text": "What is the next number in the series: 1, 8, 27, 64, ?",
+   "explanation": "The terms are cubes: 1³, 2³, 3³, 4³, so the next is 5³ = 125.",
+   "steps": "1. 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³.\n2. Next: 5³ = 5 × 5 × 5 = 125.",
+   "hint": "Differences 7, 19, 37 aren't constant. Try powers of 1, 2, 3, 4.",
+   "whyB": "100 adds 36 to 64, guessing at the differences instead of seeing the cubes.",
+   "whyC": "81 is 9², a square; the series is cubes.",
+   "whyD": "121 is 11², a square; the series is cubes.",
+   "explanationTl": "Cubes ang series: 1³, 2³, 3³, 4³, kaya ang susunod ay 5³ = 125.",
+   "stepsTl": "1. 1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³.\n2. Susunod: 5³ = 5 × 5 × 5 = 125.",
+   "hintTl": "Hindi pare-pareho ang pagitan. Subukan ang powers ng 1, 2, 3, 4.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 642159861,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation had lost the × ('242 = 48'); options C/D replaced with real mistakes; whys added; difficulty 1.",
+  "fields": {
+   "optionC": "72",
+   "optionD": "30",
+   "explanation": "Each term is doubled: 24 × 2 = 48.",
+   "whyA": "36 adds 12 (the last difference) instead of doubling; the differences also double (3, 6, 12, 24).",
+   "whyC": "72 multiplies by 3; each term is twice the one before.",
+   "whyD": "30 adds 6, the difference between 3 and 6, instead of doubling.",
+   "explanationTl": "Bawat term ay doble ng nauna: 24 × 2 = 48.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1213713850,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Counting by 10s is trivial and repeats the +4 item; rewritten with growing differences.",
+  "fields": {
+   "text": "What is the next number in the series: 2, 5, 10, 17, 26, ?",
+   "optionA": "35",
+   "optionB": "36",
+   "optionC": "37",
+   "optionD": "52",
+   "correctAnswer": "C",
+   "explanation": "The differences are 3, 5, 7, 9 (odd numbers), so the next difference is 11: 26 + 11 = 37.",
+   "steps": "1. Differences: 5 − 2 = 3, 10 − 5 = 5, 17 − 10 = 7, 26 − 17 = 9.\n2. The differences go up by 2, so the next is 11.\n3. Next term: 26 + 11 = 37.",
+   "hint": "Write the difference between neighbours, then look at how the differences change.",
+   "whyA": "35 repeats the last difference (+9); the differences grow by 2 each time.",
+   "whyB": "36 adds 10; the differences are odd numbers, so the next is 11.",
+   "whyD": "52 doubles 26; the pattern is in the differences, not a ratio.",
+   "explanationTl": "Ang pagitan ay 3, 5, 7, 9 (odd numbers), kaya +11 ang susunod: 26 + 11 = 37.",
+   "stepsTl": "1. Pagitan: 3, 5, 7, 9.\n2. Tumataas ng 2 ang pagitan, kaya 11 ang susunod.\n3. 26 + 11 = 37.",
+   "hintTl": "Isulat ang pagitan ng bawat numero, tapos tingnan kung paano nagbabago ang mga pagitan.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 1691723446,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem reworded; whys and Taglish explanation added; difficulty 1.",
+  "fields": {
+   "text": "What is the next number in the series: 4, 8, 12, 16, 20, ?",
+   "difficulty": 1,
+   "whyB": "22 adds only 2; each term goes up by 4.",
+   "whyC": "26 adds 6; each term goes up by 4.",
+   "whyD": "18 goes backwards; the series is increasing by 4.",
+   "explanationTl": "Dagdag 4 bawat term: 20 + 4 = 24."
+  }
+ },
+ {
+  "id": 2013615148,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia ('minutes in an hour'); rewritten into a time-interval word problem.",
+  "fields": {
+   "text": "A seminar runs from 8:45 a.m. to 11:20 a.m. How many minutes long is it?",
+   "optionA": "275",
+   "optionB": "235",
+   "optionC": "155",
+   "optionD": "135",
+   "correctAnswer": "C",
+   "explanation": "From 8:45 to 11:00 is 2 hours 15 minutes (135 minutes); add the 20 minutes to 11:20 for 155 minutes.",
+   "steps": "1. 8:45 to 9:00 = 15 minutes.\n2. 9:00 to 11:00 = 2 hours = 120 minutes.\n3. 11:00 to 11:20 = 20 minutes.\n4. Total: 15 + 120 + 20 = 155 minutes.",
+   "hint": "Count up to the next full hour first; one hour has 60 minutes, not 100.",
+   "whyA": "275 subtracts the times as plain numbers (1120 − 845); clock time is base 60.",
+   "whyB": "235 writes 2 hours 35 minutes as '235'; 2 hours is 120 minutes.",
+   "whyD": "135 stops at 11:00 and leaves out the last 20 minutes.",
+   "explanationTl": "Mula 8:45 hanggang 11:00 ay 135 minutes; dagdag ang 20 minutes hanggang 11:20, kaya 155 minutes.",
+   "stepsTl": "1. 8:45 hanggang 9:00 = 15 minutes.\n2. 9:00 hanggang 11:00 = 120 minutes.\n3. 11:00 hanggang 11:20 = 20 minutes.\n4. Total: 155 minutes.",
+   "hintTl": "Bilangin muna hanggang sa susunod na buong oras; 60 minutes ang isang oras, hindi 100.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 270135001,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added whys, explanation wording, Taglish explanation.",
+  "fields": {
+   "explanation": "Doubling the painters doubles the work rate, and doubling the walls doubles the work, so the time stays 3 hours.",
+   "whyB": "6 doubles the time for twice the walls but ignores that the painters doubled too.",
+   "whyC": "1.5 halves the time for twice the painters but forgets the walls also doubled.",
+   "whyD": "4.5 adds half the time; the doubled work and doubled painters cancel out exactly.",
+   "explanationTl": "Doble ang painters at doble rin ang walls, kaya pareho lang ang oras: 3 hours."
+  }
+ },
+ {
+  "id": 974319781,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Same problem as 270135001 with gardeners (same numbers, options, answer); rewritten with unequal changes.",
+  "fields": {
+   "text": "If 3 gardeners plant 12 trees in 4 hours, how many trees can 5 gardeners plant in 6 hours at the same rate?",
+   "optionA": "18",
+   "optionB": "20",
+   "optionC": "30",
+   "optionD": "24",
+   "correctAnswer": "C",
+   "explanation": "One gardener plants 12 ÷ (3 × 4) = 1 tree per hour, so 5 gardeners in 6 hours plant 5 × 6 × 1 = 30 trees.",
+   "steps": "1. Gardener-hours used: 3 × 4 = 12.\n2. Rate: 12 trees ÷ 12 gardener-hours = 1 tree per gardener-hour.\n3. New gardener-hours: 5 × 6 = 30.\n4. Trees: 30 × 1 = 30.",
+   "hint": "Find how many trees ONE gardener plants in ONE hour.",
+   "whyA": "18 adjusts only for the longer time (12 × 6/4) and ignores the extra gardeners.",
+   "whyB": "20 adjusts only for the extra gardeners (12 × 5/3) and ignores the longer time.",
+   "whyD": "24 just doubles 12; the real factor is (5/3) × (6/4) = 2.5.",
+   "explanationTl": "Ang isang gardener ay 1 tree kada oras (12 ÷ 12). Kaya 5 gardeners × 6 hours = 30 trees.",
+   "stepsTl": "1. Gardener-hours: 3 × 4 = 12.\n2. Rate: 12 ÷ 12 = 1 tree kada gardener-hour.\n3. Bago: 5 × 6 = 30 gardener-hours.\n4. Trees: 30.",
+   "hintTl": "Alamin muna ilang tree ang natatanim ng ISANG gardener sa ISANG oras.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 839106954,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Original key 20 was wrong: each student takes their own test, so 5 students still need 10 minutes; rewritten as a true inverse-proportion item.",
+  "fields": {
+   "text": "Six encoders finish encoding a batch of forms in 10 hours. Working at the same rate, how many hours would 4 encoders take to encode the same batch?",
+   "optionA": "6.67",
+   "optionB": "15",
+   "optionC": "12",
+   "optionD": "8",
+   "correctAnswer": "B",
+   "explanation": "The job takes 6 × 10 = 60 encoder-hours, so 4 encoders need 60 ÷ 4 = 15 hours.",
+   "steps": "1. Total work: 6 encoders × 10 hours = 60 encoder-hours.\n2. With 4 encoders: 60 ÷ 4 = 15 hours.",
+   "hint": "Fewer workers on the same job means MORE time. Find the total worker-hours first.",
+   "whyA": "6.67 treats it as direct proportion (10 × 4/6); fewer encoders need more time, not less.",
+   "whyC": "12 adds 2 hours for the 2 fewer encoders; time scales by 6/4, not by subtraction.",
+   "whyD": "8 subtracts 2 hours; fewer encoders need more time.",
+   "explanationTl": "Ang trabaho ay 6 × 10 = 60 encoder-hours, kaya 60 ÷ 4 = 15 hours para sa 4 encoders.",
+   "stepsTl": "1. Total work: 6 × 10 = 60 encoder-hours.\n2. Sa 4 encoders: 60 ÷ 4 = 15 hours.",
+   "hintTl": "Mas kaunting tao sa parehong trabaho = mas mahabang oras. Kunin muna ang total worker-hours.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 1321192476,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Third copy of the 'n workers, n jobs, n time' pattern with an odd singing context; rewritten as a rate problem.",
+  "fields": {
+   "text": "If 4 typists type 4 pages in 4 minutes, how many pages can 8 typists type in 10 minutes at the same rate?",
+   "optionA": "10",
+   "optionB": "20",
+   "optionC": "80",
+   "optionD": "40",
+   "correctAnswer": "B",
+   "explanation": "Each typist types 1 page in 4 minutes, or 1/4 page per minute, so 8 typists in 10 minutes type 8 × 10 × 1/4 = 20 pages.",
+   "steps": "1. Rate: 4 pages ÷ (4 typists × 4 min) = 1/4 page per typist-minute.\n2. New typist-minutes: 8 × 10 = 80.\n3. Pages: 80 × 1/4 = 20.",
+   "hint": "Find how much ONE typist types in ONE minute.",
+   "whyA": "10 uses the group rate of 1 page per minute but ignores that the typists doubled.",
+   "whyC": "80 counts 1 page per typist per minute; each typist needs 4 minutes per page.",
+   "whyD": "40 doubles the typists but treats each one as typing 1 page every 2 minutes; the rate is 1 page every 4 minutes.",
+   "explanationTl": "Ang isang typist ay 1 page kada 4 minutes (1/4 page kada minute). Kaya 8 × 10 × 1/4 = 20 pages.",
+   "stepsTl": "1. Rate: 4 ÷ (4 × 4) = 1/4 page kada typist-minute.\n2. Bago: 8 × 10 = 80 typist-minutes.\n3. Pages: 80 × 1/4 = 20.",
+   "hintTl": "Alamin muna ilang page ang natatype ng ISANG typist sa ISANG minute.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 2141167408,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; option B 8 replaced with 3 (direct-proportion error); whys, steps, hint and Taglish fields added.",
+  "fields": {
+   "optionB": "3",
+   "explanation": "The job takes 8 × 6 = 48 worker-days, so 4 workers need 48 ÷ 4 = 12 days.",
+   "steps": "1. Total work: 8 workers × 6 days = 48 worker-days.\n2. With 4 workers: 48 ÷ 4 = 12 days.",
+   "hint": "Fewer workers on the same job means MORE days. Find the total worker-days first.",
+   "whyB": "3 treats it as direct proportion (6 × 4/8); fewer workers need more time, not less.",
+   "whyC": "10 adds 4 days for the 4 fewer workers; time scales by 8/4, not by addition.",
+   "whyD": "14 adds 8 to 6; halving the workers doubles the time.",
+   "explanationTl": "Ang trabaho ay 8 × 6 = 48 worker-days, kaya 48 ÷ 4 = 12 days para sa 4 workers.",
+   "stepsTl": "1. Total work: 8 × 6 = 48 worker-days.\n2. Sa 4 workers: 48 ÷ 4 = 12 days.",
+   "hintTl": "Mas kaunting workers = mas maraming araw. Kunin muna ang total worker-days.",
+   "difficulty": 1
+  }
+ }
+]

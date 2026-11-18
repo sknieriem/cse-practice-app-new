@@ -1,0 +1,623 @@
+[
+ {
+  "id": 459095800,
+  "category": "Analytical Ability",
+  "text": "Brush is to painting as needle is to:",
+  "optionA": "Sewing",
+  "optionB": "Weaving",
+  "optionC": "Threading",
+  "optionD": "Cutting"
+ },
+ {
+  "id": 545690631,
+  "category": "Analytical Ability",
+  "text": "Microscope is to bacteria as telescope is to:",
+  "optionA": "Stars",
+  "optionB": "Lenses",
+  "optionC": "Cells",
+  "optionD": "Light"
+ },
+ {
+  "id": 393079391,
+  "category": "Analytical Ability",
+  "text": "Statement: \"Bring an umbrella when you go to the palengke this afternoon.\" Which is assumed by the speaker?",
+  "optionA": "It may rain this afternoon.",
+  "optionB": "The palengke is closed in the afternoon.",
+  "optionC": "Umbrellas are sold at the palengke.",
+  "optionD": "It rained this morning."
+ },
+ {
+  "id": 509479997,
+  "category": "Analytical Ability",
+  "text": "Statement: \"The barangay will post the vaccination schedule on its Facebook page so residents will know when to come.\" Which is assumed?",
+  "optionA": "Many residents check the barangay's Facebook page.",
+  "optionB": "Residents dislike vaccines.",
+  "optionC": "The schedule will change every week.",
+  "optionD": "The health center has no bulletin board."
+ },
+ {
+  "id": 773023119,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To reduce late arrivals, the office will give a small reward to employees with perfect attendance.\" Which is assumed?",
+  "optionA": "Most employees are late every day.",
+  "optionB": "The office has a very large budget.",
+  "optionC": "Rewards can motivate employees to come on time.",
+  "optionD": "Late employees will be dismissed."
+ },
+ {
+  "id": 927696584,
+  "category": "Analytical Ability",
+  "text": "Statement: \"Review your CSE reviewer every night so you will pass the exam.\" Which is assumed?",
+  "optionA": "The exam is easy.",
+  "optionB": "Everyone who reviews nightly will pass.",
+  "optionC": "The reviewer is free.",
+  "optionD": "Regular reviewing helps a person do better on the exam."
+ },
+ {
+  "id": 1889889922,
+  "category": "Analytical Ability",
+  "text": "Statement: \"The company advertised its job opening in a national newspaper to attract qualified applicants.\" Which is assumed?",
+  "optionA": "The company has never hired anyone before.",
+  "optionB": "Some qualified job seekers read that newspaper.",
+  "optionC": "Only newspaper readers are qualified.",
+  "optionD": "Online job ads never work."
+ },
+ {
+  "id": 1786808757,
+  "category": "Analytical Ability",
+  "text": "If 3=14, 4=23, 5=34, 6=?",
+  "optionA": "46",
+  "optionB": "47",
+  "optionC": "48",
+  "optionD": "49"
+ },
+ {
+  "id": 59516148,
+  "category": "Analytical Ability",
+  "text": "A store's weekly sales were: Week 1, 600 units; Week 2, 650 units; Week 3, 700 units. What is the average weekly sales?",
+  "optionA": "640",
+  "optionB": "650",
+  "optionC": "660",
+  "optionD": "670"
+ },
+ {
+  "id": 135614298,
+  "category": "Analytical Ability",
+  "text": "A sari-sari store's daily sales were: Monday P1,200; Tuesday P1,500; Wednesday P1,000; Thursday P1,400. By what percent did sales increase from Wednesday to Thursday?",
+  "optionA": "28.6%",
+  "optionB": "30%",
+  "optionC": "35%",
+  "optionD": "40%"
+ },
+ {
+  "id": 842249061,
+  "category": "Analytical Ability",
+  "text": "An office's quarterly expenses were: Q1 P40,000; Q2 P45,000; Q3 P50,000; Q4 P65,000. What percent of the year's total expenses was spent in Q4?",
+  "optionA": "25%",
+  "optionB": "30%",
+  "optionC": "32.5%",
+  "optionD": "35%"
+ },
+ {
+  "id": 1472321946,
+  "category": "Analytical Ability",
+  "text": "A school's enrollment was 800 in 2021, 850 in 2022, and 900 in 2023. If enrollment keeps rising by the same amount each year, what will it be in 2026?",
+  "optionA": "1,050",
+  "optionB": "1,000",
+  "optionC": "1,100",
+  "optionD": "950"
+ },
+ {
+  "id": 93208581,
+  "category": "Analytical Ability",
+  "text": "R is S's father. S is the daughter of T, who is a woman. How is T related to R?",
+  "optionA": "Son",
+  "optionB": "Daughter",
+  "optionC": "Wife",
+  "optionD": "Mother"
+ },
+ {
+  "id": 1388460149,
+  "category": "Analytical Ability",
+  "text": "Lorna is the only daughter of Mr. and Mrs. Cruz. Paolo is Lorna's son. How is Mrs. Cruz related to Paolo?",
+  "optionA": "Aunt",
+  "optionB": "Grandmother",
+  "optionC": "Mother",
+  "optionD": "Sister"
+ },
+ {
+  "id": 1612824738,
+  "category": "Analytical Ability",
+  "text": "Ana, a woman, points to a man and says, \"His mother is the only daughter of my mother.\" How is Ana related to the man?",
+  "optionA": "Sister",
+  "optionB": "Aunt",
+  "optionC": "Mother",
+  "optionD": "Grandmother"
+ },
+ {
+  "id": 1987065153,
+  "category": "Analytical Ability",
+  "text": "D is E's mother, E is F's sister, and F is a girl. F is D's:",
+  "optionA": "Daughter",
+  "optionB": "Granddaughter",
+  "optionC": "Niece",
+  "optionD": "Sister"
+ },
+ {
+  "id": 161847378,
+  "category": "Analytical Ability",
+  "text": "No houses are tents. All bungalows are houses. Which of the following must be true?",
+  "optionA": "Some tents are bungalows.",
+  "optionB": "All houses are bungalows.",
+  "optionC": "No bungalows are tents.",
+  "optionD": "Some houses are tents."
+ },
+ {
+  "id": 620005274,
+  "category": "Analytical Ability",
+  "text": "Ana is taller than Ben. Carlo is shorter than Ben. Dina is taller than Ana. Who is the shortest?",
+  "optionA": "Ana",
+  "optionB": "Ben",
+  "optionC": "Dina",
+  "optionD": "Carlo"
+ },
+ {
+  "id": 843201365,
+  "category": "Analytical Ability",
+  "text": "Liza is older than Mia but younger than Nora. Olive is older than Nora. Who is the second oldest?",
+  "optionA": "Nora",
+  "optionB": "Olive",
+  "optionC": "Liza",
+  "optionD": "Mia"
+ },
+ {
+  "id": 961695495,
+  "category": "Analytical Ability",
+  "text": "A student may join the varsity team only if she passed the tryout. Grace joined the varsity team. Which must be true?",
+  "optionA": "Grace did not take the tryout.",
+  "optionB": "Grace is the team captain.",
+  "optionC": "Everyone who passed the tryout joined the team.",
+  "optionD": "Grace passed the tryout."
+ },
+ {
+  "id": 1313182667,
+  "category": "Analytical Ability",
+  "text": "All insects have six legs. Spiders do not have six legs. Which conclusion follows?",
+  "optionA": "Spiders are insects.",
+  "optionB": "Spiders are not insects.",
+  "optionC": "Some insects are spiders.",
+  "optionD": "Some spiders have six legs."
+ },
+ {
+  "id": 1336245471,
+  "category": "Analytical Ability",
+  "text": "If it rains, the game will be cancelled. If the game is cancelled, the players will go home early. It rained. Which must be true?",
+  "optionA": "The players stayed until evening.",
+  "optionB": "The game was played.",
+  "optionC": "It will rain again tomorrow.",
+  "optionD": "The players went home early."
+ },
+ {
+  "id": 1529806093,
+  "category": "Analytical Ability",
+  "text": "All students study. Some students are scholars. Conclusion: All scholars study. The conclusion is:",
+  "optionA": "Valid, because scholars are students",
+  "optionB": "Invalid, because some scholars may not be students",
+  "optionC": "Invalid, because some students may not study",
+  "optionD": "Valid, because students and scholars are the same group"
+ },
+ {
+  "id": 1690573639,
+  "category": "Analytical Ability",
+  "text": "Whenever the store is open, its lights are on. The lights are off. Which must be true?",
+  "optionA": "The store is open.",
+  "optionB": "The store is closed.",
+  "optionC": "The lights are broken.",
+  "optionD": "The owner is on vacation."
+ },
+ {
+  "id": 1958573007,
+  "category": "Analytical Ability",
+  "text": "No employee of the municipal office smokes. Some barangay officials are employees of the municipal office. Which must be true?",
+  "optionA": "No barangay official smokes.",
+  "optionB": "Some barangay officials do not smoke.",
+  "optionC": "All barangay officials smoke.",
+  "optionD": "Some employees of the municipal office smoke."
+ },
+ {
+  "id": 2000706559,
+  "category": "Analytical Ability",
+  "text": "The statement \"All the applicants passed the exam\" is false. Which must be true?",
+  "optionA": "No applicant passed the exam.",
+  "optionB": "At least one applicant did not pass the exam.",
+  "optionC": "Some applicants passed the exam.",
+  "optionD": "Exactly one applicant failed the exam."
+ },
+ {
+  "id": 2024482281,
+  "category": "Analytical Ability",
+  "text": "The seminar is either on Monday or on Friday, not both. It is not on Monday. Which must be true?",
+  "optionA": "The seminar is on Wednesday.",
+  "optionB": "The seminar is on both days.",
+  "optionC": "The seminar is cancelled.",
+  "optionD": "The seminar is on Friday."
+ },
+ {
+  "id": 2075441765,
+  "category": "Analytical Ability",
+  "text": "All nurses at the clinic wear white uniforms. Lito wears a white uniform. Which is correct?",
+  "optionA": "Lito is a nurse at the clinic.",
+  "optionB": "Lito is not a nurse at the clinic.",
+  "optionC": "Lito may or may not be a nurse at the clinic.",
+  "optionD": "Lito works at a hospital."
+ },
+ {
+  "id": 838510846,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Whale, Dolphin, Shark, Seal",
+  "optionA": "Whale",
+  "optionB": "Dolphin",
+  "optionC": "Shark",
+  "optionD": "Porpoise"
+ },
+ {
+  "id": 1716003426,
+  "category": "Analytical Ability",
+  "text": "Next in series: 1, 3, 6, 10, ____",
+  "optionA": "14",
+  "optionB": "15",
+  "optionC": "16",
+  "optionD": "17"
+ },
+ {
+  "id": 1356525952,
+  "category": "General Information",
+  "text": "Republic Act No. 6713 is known as the:",
+  "optionA": "Anti-Graft and Corrupt Practices Act",
+  "optionB": "Ombudsman Act of 1989",
+  "optionC": "Code of Conduct and Ethical Standards for Public Officials and Employees",
+  "optionD": "Act Defining and Penalizing the Crime of Plunder"
+ },
+ {
+  "id": 243976649,
+  "category": "General Information",
+  "text": "Which is the largest continent by land area?",
+  "optionA": "Africa",
+  "optionB": "Asia",
+  "optionC": "North America",
+  "optionD": "Europe"
+ },
+ {
+  "id": 655272907,
+  "category": "General Information",
+  "text": "Republic Act No. 9003 is known as the:",
+  "optionA": "Ecological Solid Waste Management Act",
+  "optionB": "Clean Air Act",
+  "optionC": "Water Code",
+  "optionD": "Forestry Code"
+ },
+ {
+  "id": 1437646706,
+  "category": "General Information",
+  "text": "Who is credited with developing the first commercially practical incandescent light bulb?",
+  "optionA": "Thomas Edison",
+  "optionB": "Nikola Tesla",
+  "optionC": "Alexander Graham Bell",
+  "optionD": "Guglielmo Marconi"
+ },
+ {
+  "id": 1611602806,
+  "category": "General Information",
+  "text": "Which planet is best known for its large, bright ring system?",
+  "optionA": "Mars",
+  "optionB": "Saturn",
+  "optionC": "Venus",
+  "optionD": "Mercury"
+ },
+ {
+  "id": 1734665666,
+  "category": "General Information",
+  "text": "Kapeng barako is a strong coffee traditionally associated with which Philippine province?",
+  "optionA": "Benguet",
+  "optionB": "Batangas",
+  "optionC": "Bukidnon",
+  "optionD": "Davao del Sur"
+ },
+ {
+  "id": 2099166841,
+  "category": "General Information",
+  "text": "Recreational scuba tanks are most commonly filled with:",
+  "optionA": "Pure oxygen",
+  "optionB": "Pure helium",
+  "optionC": "Compressed air",
+  "optionD": "Carbon dioxide"
+ },
+ {
+  "id": 1130747386,
+  "category": "General Information",
+  "text": "The three major island groups of the Philippines are:",
+  "optionA": "Luzon, Palawan, Mindanao",
+  "optionB": "Luzon, Visayas, Sulu",
+  "optionC": "Luzon, Samar, Mindanao",
+  "optionD": "Luzon, Visayas, Mindanao"
+ },
+ {
+  "id": 1941911883,
+  "category": "General Information",
+  "text": "Which is the largest island in the Philippines by land area?",
+  "optionA": "Luzon",
+  "optionB": "Mindanao",
+  "optionC": "Samar",
+  "optionD": "Palawan"
+ },
+ {
+  "id": 808390217,
+  "category": "Numerical Ability",
+  "text": "Solve for x: 7x + 7 = 56.",
+  "optionA": "8",
+  "optionB": "7",
+  "optionC": "9",
+  "optionD": "6"
+ },
+ {
+  "id": 1315932955,
+  "category": "Numerical Ability",
+  "text": "Solve for x: 9x - 9 = 72.",
+  "optionA": "7",
+  "optionB": "8",
+  "optionC": "9",
+  "optionD": "10"
+ },
+ {
+  "id": 1599644349,
+  "category": "Numerical Ability",
+  "text": "If a = 7 and b = 8, what is the value of 2a² − 3b?",
+  "optionA": "172",
+  "optionB": "4",
+  "optionC": "122",
+  "optionD": "74"
+ },
+ {
+  "id": 1622807356,
+  "category": "Numerical Ability",
+  "text": "Solve for x: 5x = 35.",
+  "optionA": "7",
+  "optionB": "30",
+  "optionC": "40",
+  "optionD": "175"
+ },
+ {
+  "id": 2057492189,
+  "category": "Numerical Ability",
+  "text": "Solve for x: 3(x − 4) = 2x + 5.",
+  "optionA": "9",
+  "optionB": "17",
+  "optionC": "−7",
+  "optionD": "7"
+ },
+ {
+  "id": 179913215,
+  "category": "Numerical Ability",
+  "text": "Convert 1/4 to a decimal.",
+  "optionA": "0.4",
+  "optionB": "0.75",
+  "optionC": "0.25",
+  "optionD": "0.14"
+ },
+ {
+  "id": 65727337,
+  "category": "Numerical Ability",
+  "text": "What is the perimeter of a square with a side of 5 cm?",
+  "optionA": "25 cm",
+  "optionB": "10 cm",
+  "optionC": "15 cm",
+  "optionD": "20 cm"
+ },
+ {
+  "id": 1260396501,
+  "category": "Numerical Ability",
+  "text": "What is the volume of a sphere with a radius of 1 cm? (Use π = 3.14.)",
+  "optionA": "4.19 cm³",
+  "optionB": "3.14 cm³",
+  "optionC": "12.56 cm³",
+  "optionD": "6.28 cm³"
+ },
+ {
+  "id": 273774303,
+  "category": "Numerical Ability",
+  "text": "What is 33% of 300?",
+  "optionA": "90",
+  "optionB": "99",
+  "optionC": "100",
+  "optionD": "9.9"
+ },
+ {
+  "id": 1450369977,
+  "category": "Numerical Ability",
+  "text": "A cyclist rides 40 km in 2 hours. What is the cyclist's average speed?",
+  "optionA": "80 km/h",
+  "optionB": "40 km/h",
+  "optionC": "20 km/h",
+  "optionD": "0.05 km/h"
+ },
+ {
+  "id": 2105375501,
+  "category": "Numerical Ability",
+  "text": "A jeepney travels 45 km in 1 hour and 30 minutes. What is its average speed?",
+  "optionA": "45 km/h",
+  "optionB": "34.6 km/h",
+  "optionC": "22.5 km/h",
+  "optionD": "30 km/h"
+ },
+ {
+  "id": 160379009,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 100, 50, 25, 12.5, ?",
+  "optionA": "6.25",
+  "optionB": "0",
+  "optionC": "6.5",
+  "optionD": "7.5"
+ },
+ {
+  "id": 279001731,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 2, 5, 11, 23, 47, ?",
+  "optionA": "94",
+  "optionB": "95",
+  "optionC": "71",
+  "optionD": "141"
+ },
+ {
+  "id": 751710091,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 3, 6, 12, 24, 48, ?",
+  "optionA": "72",
+  "optionB": "60",
+  "optionC": "96",
+  "optionD": "144"
+ },
+ {
+  "id": 910365878,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 3, 5, 8, 12, 17, ?",
+  "optionA": "22",
+  "optionB": "24",
+  "optionC": "20",
+  "optionD": "23"
+ },
+ {
+  "id": 1055551722,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 6, 12, 18, 24, ?",
+  "optionA": "30",
+  "optionB": "48",
+  "optionC": "36",
+  "optionD": "28"
+ },
+ {
+  "id": 1585438389,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 1, 3, 9, 27, ?",
+  "optionA": "54",
+  "optionB": "81",
+  "optionC": "36",
+  "optionD": "45"
+ },
+ {
+  "id": 268008055,
+  "category": "Numerical Ability",
+  "text": "What is the median of 9, 2, 7, 4, 12, 5?",
+  "optionA": "5.5",
+  "optionB": "6.5",
+  "optionC": "6",
+  "optionD": "7"
+ },
+ {
+  "id": 514582134,
+  "category": "Numerical Ability",
+  "text": "A plate of sisig rice and a bowl of beef noodles cost Php 80 in all. The beef noodles cost Php 20 more than the sisig rice. How much is the bowl of beef noodles?",
+  "optionA": "Php 30",
+  "optionB": "Php 50",
+  "optionC": "Php 60",
+  "optionD": "Php 40"
+ },
+ {
+  "id": 667265545,
+  "category": "Numerical Ability",
+  "text": "If January 1 falls on a Monday, on what day of the week does February 1 fall?",
+  "optionA": "Wednesday",
+  "optionB": "Monday",
+  "optionC": "Friday",
+  "optionD": "Thursday"
+ },
+ {
+  "id": 1923875964,
+  "category": "Numerical Ability",
+  "text": "Ana is 3 times as old as her son. In 12 years, she will be twice as old as her son. How old is Ana now?",
+  "optionA": "36",
+  "optionB": "12",
+  "optionC": "48",
+  "optionD": "24"
+ },
+ {
+  "id": 1128821398,
+  "category": "Numerical Ability",
+  "text": "If 6 mechanics can repair 6 cars in 6 hours, how many hours will 3 mechanics need to repair 3 cars?",
+  "optionA": "3",
+  "optionB": "6",
+  "optionC": "12",
+  "optionD": "1.5"
+ },
+ {
+  "id": 1398123625,
+  "category": "Numerical Ability",
+  "text": "If 4 farmers can harvest 4 fields in 4 days, how many days will 2 farmers need to harvest 2 fields?",
+  "optionA": "2",
+  "optionB": "8",
+  "optionC": "4",
+  "optionD": "1"
+ },
+ {
+  "id": 1365313027,
+  "category": "Verbal Ability",
+  "text": "Complete the analogy: Key is to lock as password is to:",
+  "optionA": "Username",
+  "optionB": "Keyboard",
+  "optionC": "Secret",
+  "optionD": "Account"
+ },
+ {
+  "id": 1296110569,
+  "category": "Verbal Ability",
+  "text": "Which sentence is grammatically correct?",
+  "optionA": "He go to school.",
+  "optionB": "He goes to school.",
+  "optionC": "He going to school.",
+  "optionD": "He gone to school."
+ },
+ {
+  "id": 1762188624,
+  "category": "Verbal Ability",
+  "text": "Which of the following sentences contains an error in subject-verb agreement?",
+  "optionA": "The list of requirements is on the table.",
+  "optionB": "Each of the applicants has a valid ID.",
+  "optionC": "Neither the manager nor the employees is happy with the decision.",
+  "optionD": "No error."
+ },
+ {
+  "id": 464245615,
+  "category": "Verbal Ability",
+  "text": "Rearrange the words to form a correct sentence: stars / the / are / shining",
+  "optionA": "Stars are the shining",
+  "optionB": "The stars are shining",
+  "optionC": "The are stars shining",
+  "optionD": "Shining the stars are"
+ },
+ {
+  "id": 1490974169,
+  "category": "Verbal Ability",
+  "text": "Rearrange the words to form a correct sentence: birds / the / are / flying",
+  "optionA": "Birds are the flying",
+  "optionB": "The birds are flying",
+  "optionC": "The are birds flying",
+  "optionD": "Flying the birds are"
+ },
+ {
+  "id": 182894093,
+  "category": "Verbal Ability",
+  "text": "What is implied by the sentence 'The road was long, but they persevered'?",
+  "optionA": "They gave up.",
+  "optionB": "They continued despite difficulty.",
+  "optionC": "The road was short.",
+  "optionD": "They enjoyed the long trip."
+ },
+ {
+  "id": 331725529,
+  "category": "Verbal Ability",
+  "text": "Many Catholics fast on Good Friday.\n\nIn this sentence, what does 'fast' mean?",
+  "optionA": "Move quickly",
+  "optionB": "Go without food",
+  "optionC": "Hold firmly",
+  "optionD": "Pray aloud"
+ }
+]

@@ -1,0 +1,338 @@
+[
+ {
+  "id": 16495850,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "plan necessary"
+ },
+ {
+  "id": 1728884847,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "risk necessary"
+ },
+ {
+  "id": 855153085,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "n^2+4n-4 -> 41"
+ },
+ {
+  "id": 1851378890,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "(80+85+90)/3=85"
+ },
+ {
+  "id": 118610683,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "valid syllogism"
+ },
+ {
+  "id": 992826696,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "affirming consequent"
+ },
+ {
+  "id": 1769855880,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "hypothetical syllogism"
+ },
+ {
+  "id": 844066916,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "cap not footwear"
+ },
+ {
+  "id": 1716691115,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Moon not planet"
+ },
+ {
+  "id": 1821169236,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "diffs 7,8,9,10 -> 38"
+ },
+ {
+  "id": 1839757197,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "diffs 4,5,6,7 -> 23"
+ },
+ {
+  "id": 1426649772,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "commercial property taxable"
+ },
+ {
+  "id": 1474498158,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Art VII Sec 2: 40"
+ },
+ {
+  "id": 1499003041,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "CO2"
+ },
+ {
+  "id": 1550724579,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Darwin"
+ },
+ {
+  "id": 1698968893,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Jupiter"
+ },
+ {
+  "id": 277746663,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Ati-Atihan"
+ },
+ {
+  "id": 1246744583,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Philippine Eagle (1995)"
+ },
+ {
+  "id": 1070144002,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x=10"
+ },
+ {
+  "id": 1955258917,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x=21"
+ },
+ {
+  "id": 264154965,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "0.375"
+ },
+ {
+  "id": 1462491363,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "18/30=3/5"
+ },
+ {
+  "id": 1569359555,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "11/15"
+ },
+ {
+  "id": 1583391362,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "5/6"
+ },
+ {
+  "id": 1861795099,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "1/12"
+ },
+ {
+  "id": 1561020875,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "65"
+ },
+ {
+  "id": 449688089,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "300"
+ },
+ {
+  "id": 691490361,
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3420"
+ },
+ {
+  "id": 1808046236,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "900"
+ },
+ {
+  "id": 1814244649,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "18/0.45=40"
+ },
+ {
+  "id": 789621836,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "600/0.75=800"
+ },
+ {
+  "id": 1460080057,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "240/5=48"
+ },
+ {
+  "id": 1849687737,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2.5 h"
+ },
+ {
+  "id": 144562164,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "cubes 125"
+ },
+ {
+  "id": 642159861,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x2 -> 48"
+ },
+ {
+  "id": 1213713850,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "n^2+1 -> 37"
+ },
+ {
+  "id": 1691723446,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "+4 -> 24"
+ },
+ {
+  "id": 2013615148,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "155 min"
+ },
+ {
+  "id": 839106954,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "60/4=15"
+ },
+ {
+  "id": 974319781,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "1 tree/gardener-hr ->30"
+ },
+ {
+  "id": 1321192476,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "1/16 page per typist-min ->20"
+ },
+ {
+  "id": 2141167408,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "12"
+ },
+ {
+  "id": 576021709,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "bell, dismiss, pack, quiet"
+ },
+ {
+  "id": 1257319884,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "3-1-4-2"
+ },
+ {
+  "id": 1979050691,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "adverb placement"
+ },
+ {
+  "id": 1424691502,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "to keep warm"
+ },
+ {
+  "id": 928760992,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "riverbank"
+ },
+ {
+  "id": 1111738095,
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "fluent"
+ }
+]

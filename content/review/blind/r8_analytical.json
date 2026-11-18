@@ -1,0 +1,162 @@
+[
+ {
+  "id": 292186588,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Compass is to navigating as ruler is to:",
+  "optionA": "Measuring",
+  "optionB": "Drawing",
+  "optionC": "Cutting",
+  "optionD": "Aligning"
+ },
+ {
+  "id": 538271447,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Frequency : Hertz :: Length :",
+  "optionA": "Meters",
+  "optionB": "Kilograms",
+  "optionC": "Seconds",
+  "optionD": "Liters"
+ },
+ {
+  "id": 637008230,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Ruler is to length as scale is to:",
+  "optionA": "Weight",
+  "optionB": "Height",
+  "optionC": "Volume",
+  "optionD": "Area"
+ },
+ {
+  "id": 997900159,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Chalk is to writing as paint is to:",
+  "optionA": "Coloring",
+  "optionB": "Drawing",
+  "optionC": "Painting",
+  "optionD": "Sketching"
+ },
+ {
+  "id": 1189549097,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Electric charge : Coulombs :: Time :",
+  "optionA": "Seconds",
+  "optionB": "Meters",
+  "optionC": "Kilograms",
+  "optionD": "Liters"
+ },
+ {
+  "id": 1387077245,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Oven is to baking as stove is to:",
+  "optionA": "Cooking",
+  "optionB": "Heating",
+  "optionC": "Boiling",
+  "optionD": "Frying"
+ },
+ {
+  "id": 1572436242,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Negligent: requirement: remiss: _____________.",
+  "optionA": "duty",
+  "optionB": "law",
+  "optionC": "task",
+  "optionD": "care"
+ },
+ {
+  "id": 2022670371,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Politician: statesman: ______________: ______________. ",
+  "optionA": "lawyer: advocate",
+  "optionB": "doctor: physician",
+  "optionC": "teacher: educator",
+  "optionD": "soldier: warrior"
+ },
+ {
+  "id": 1918022796,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To write a novel, one must be creative.",
+  "optionA": "Being creative guarantees a novel",
+  "optionB": "Not being creative leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 145369577,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 1=4, 2=10, 3=18, 4=?",
+  "optionA": "26",
+  "optionB": "27",
+  "optionC": "28",
+  "optionD": "29"
+ },
+ {
+  "id": 694184605,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing visitors: Day 1 150, Day 2 200, Day 3 250. What is the average number of visitors?",
+  "optionA": "190",
+  "optionB": "200",
+  "optionC": "210",
+  "optionD": "220"
+ },
+ {
+  "id": 1988342223,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing visitors: Day 1 100, Day 2 150, Day 3 200. What is the average number of visitors?",
+  "optionA": "140",
+  "optionB": "150",
+  "optionC": "160",
+  "optionD": "170"
+ },
+ {
+  "id": 1507188177,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Oak, Pine, Maple, Rose",
+  "optionA": "Oak",
+  "optionB": "Pine",
+  "optionC": "Maple",
+  "optionD": "Rose"
+ },
+ {
+  "id": 283642176,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 11, 18, 26, 35, ____",
+  "optionA": "44",
+  "optionB": "45",
+  "optionC": "46",
+  "optionD": "47"
+ },
+ {
+  "id": 583791673,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 3, 8, 14, 21, ____",
+  "optionA": "28",
+  "optionB": "29",
+  "optionC": "30",
+  "optionD": "31"
+ },
+ {
+  "id": 690156220,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 3, 9, 16, 24, ____",
+  "optionA": "32",
+  "optionB": "33",
+  "optionC": "34",
+  "optionD": "35"
+ }
+]

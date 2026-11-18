@@ -1,0 +1,352 @@
+[
+ {
+  "id": 1330301019,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A computer is Php 40000 with 25% discount. Final price?",
+  "optionA": "30000",
+  "optionB": "35000",
+  "optionC": "25000",
+  "optionD": "32000"
+ },
+ {
+  "id": 1369233030,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A purse is Php 1200 with 25% discount. Final price?",
+  "optionA": "900",
+  "optionB": "950",
+  "optionC": "850",
+  "optionD": "1000"
+ },
+ {
+  "id": 1449902385,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 75% of 80?",
+  "optionA": "60",
+  "optionB": "55",
+  "optionC": "65",
+  "optionD": "70"
+ },
+ {
+  "id": 1549142526,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A scarf is Php 500 with 40% discount. Final price?",
+  "optionA": "300",
+  "optionB": "200",
+  "optionC": "400",
+  "optionD": "350"
+ },
+ {
+  "id": 1588117470,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A sofa is Php 10000 with 25% discount. Final price?",
+  "optionA": "7500",
+  "optionB": "8000",
+  "optionC": "7000",
+  "optionD": "8500"
+ },
+ {
+  "id": 2032354139,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "A hat is Php 300 with 30% discount. Final price?",
+  "optionA": "210",
+  "optionB": "200",
+  "optionC": "220",
+  "optionD": "250"
+ },
+ {
+  "id": 2067454542,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 75% of 120?",
+  "optionA": "90",
+  "optionB": "80",
+  "optionC": "100",
+  "optionD": "70"
+ },
+ {
+  "id": 314588616,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a bus travels 200 km in 4 hours, what is its speed in km/h?",
+  "optionA": "50",
+  "optionB": "60",
+  "optionC": "40",
+  "optionD": "55"
+ },
+ {
+  "id": 596817163,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a submarine dives 100 m in 20 minutes, speed in m/min?",
+  "optionA": "5",
+  "optionB": "4",
+  "optionC": "6",
+  "optionD": "10"
+ },
+ {
+  "id": 632765567,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a ship sails 80 km in 4 hours, speed in km/h?",
+  "optionA": "20",
+  "optionB": "15",
+  "optionC": "25",
+  "optionD": "30"
+ },
+ {
+  "id": 1046041473,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a plane flies 900 km in 3 hours, what is its speed in km/h?",
+  "optionA": "300",
+  "optionB": "250",
+  "optionC": "350",
+  "optionD": "200"
+ },
+ {
+  "id": 1902257128,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a car drives 240 km in 4 hours, speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "80"
+ },
+ {
+  "id": 1963987721,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a car travels 100 km in 2 hours, speed in km/h?",
+  "optionA": "50",
+  "optionB": "40",
+  "optionC": "60",
+  "optionD": "70"
+ },
+ {
+  "id": 509072912,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 10, 20, 30, 40, ?",
+  "optionA": "45",
+  "optionB": "50",
+  "optionC": "55",
+  "optionD": "60"
+ },
+ {
+  "id": 635494380,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 5, 10, 20, 40, ?",
+  "optionA": "60",
+  "optionB": "70",
+  "optionC": "80",
+  "optionD": "100"
+ },
+ {
+  "id": 661880960,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 1, 3, 5, 7, 9?",
+  "optionA": "11",
+  "optionB": "10",
+  "optionC": "12",
+  "optionD": "8"
+ },
+ {
+  "id": 770513269,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 2, 3, 5, 8, 13?",
+  "optionA": "21",
+  "optionB": "18",
+  "optionC": "16",
+  "optionD": "20"
+ },
+ {
+  "id": 826343827,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 3, 7, 11, 15, ?",
+  "optionA": "19",
+  "optionB": "17",
+  "optionC": "21",
+  "optionD": "13"
+ },
+ {
+  "id": 865016039,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 1, 3, 6, 10?",
+  "optionA": "15",
+  "optionB": "14",
+  "optionC": "16",
+  "optionD": "12"
+ },
+ {
+  "id": 1146505215,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 8, 16, 24, 32, 40, ?",
+  "optionA": "45",
+  "optionB": "48",
+  "optionC": "50",
+  "optionD": "52"
+ },
+ {
+  "id": 1292926292,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 8, 27, 64, 125, ?",
+  "optionA": "216",
+  "optionB": "200",
+  "optionC": "150",
+  "optionD": "175"
+ },
+ {
+  "id": 1475387472,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 5, 15, 45, 135, ?",
+  "optionA": "405",
+  "optionB": "270",
+  "optionC": "180",
+  "optionD": "360"
+ },
+ {
+  "id": 1802591182,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 2, 4, 8, 16, 32?",
+  "optionA": "64",
+  "optionB": "48",
+  "optionC": "40",
+  "optionD": "56"
+ },
+ {
+  "id": 1803517715,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 5, 8, 11, 14?",
+  "optionA": "17",
+  "optionB": "15",
+  "optionC": "16",
+  "optionD": "18"
+ },
+ {
+  "id": 2063263445,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 4, 8, 16, 32?",
+  "optionA": "64",
+  "optionB": "48",
+  "optionC": "40",
+  "optionD": "56"
+ },
+ {
+  "id": 4878478,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 5 bakers bake 5 cakes in 5 hours, how many hours for 10 bakers to bake 10 cakes?",
+  "optionA": "5",
+  "optionB": "10",
+  "optionC": "2.5",
+  "optionD": "7.5"
+ },
+ {
+  "id": 162122677,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 4 mechanics repair 4 vehicles in 4 hours, how many hours for 8 mechanics to repair 8 vehicles?",
+  "optionA": "4",
+  "optionB": "8",
+  "optionC": "2",
+  "optionD": "6"
+ },
+ {
+  "id": 418793752,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 6 cooks prepare 6 pies in 6 hours, how many hours for 3 cooks to prepare 3 pies?",
+  "optionA": "6",
+  "optionB": "3",
+  "optionC": "12",
+  "optionD": "9"
+ },
+ {
+  "id": 452878008,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 5 machines produce 5 items in 5 minutes, how many minutes for 100 machines to produce 100 items?",
+  "optionA": "5",
+  "optionB": "10",
+  "optionC": "15",
+  "optionD": "20"
+ },
+ {
+  "id": 476935905,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 5 artists paint 5 portraits in 5 days, how many days for 10 artists to paint 10 portraits?",
+  "optionA": "5",
+  "optionB": "10",
+  "optionC": "2.5",
+  "optionD": "7.5"
+ },
+ {
+  "id": 1135634573,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 12 painters paint 12 rooms in 12 days, how many days for 6 painters to paint 6 rooms?",
+  "optionA": "12",
+  "optionB": "6",
+  "optionC": "24",
+  "optionD": "18"
+ },
+ {
+  "id": 1263322842,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 4 singers sing 4 songs in 4 minutes, how many minutes for 2 singers to sing 2 songs?",
+  "optionA": "4",
+  "optionB": "2",
+  "optionC": "8",
+  "optionD": "6"
+ },
+ {
+  "id": 1401786136,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 5 painters paint 5 rooms in 5 days, how many days for 10 painters to paint 10 rooms?",
+  "optionA": "5",
+  "optionB": "10",
+  "optionC": "2.5",
+  "optionD": "7.5"
+ },
+ {
+  "id": 1436675309,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 4 tailors sew 4 suits in 4 days, how many days for 2 tailors to sew 2 suits?",
+  "optionA": "4",
+  "optionB": "2",
+  "optionC": "8",
+  "optionD": "6"
+ },
+ {
+  "id": 1698747624,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 6 students study 6 chapters in 6 days, how many days for 3 students to study 3 chapters?",
+  "optionA": "6",
+  "optionB": "3",
+  "optionC": "12",
+  "optionD": "9"
+ }
+]

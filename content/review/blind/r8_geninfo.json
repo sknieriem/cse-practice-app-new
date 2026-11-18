@@ -1,0 +1,162 @@
+[
+ {
+  "id": 1242023609,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "The three branches of government are:",
+  "optionA": "Executive, Legislative, Judiciary",
+  "optionB": "Senate, House, Court",
+  "optionC": "President, Congress, Supreme Court",
+  "optionD": "All above"
+ },
+ {
+  "id": 1932774891,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "What is the national language of the Philippines?",
+  "optionA": "Tagalog",
+  "optionB": "Filipino",
+  "optionC": "English",
+  "optionD": "Cebuano"
+ },
+ {
+  "id": 33206014,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which ocean is the largest in the world?",
+  "optionA": "Atlantic Ocean",
+  "optionB": "Indian Ocean",
+  "optionC": "Pacific Ocean",
+  "optionD": "Arctic Ocean"
+ },
+ {
+  "id": 354291116,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas is the main component of natural gas?",
+  "optionA": "Methane",
+  "optionB": "Ethane",
+  "optionC": "Propane",
+  "optionD": "Butane"
+ },
+ {
+  "id": 379682279,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the primary source of energy for solar power?",
+  "optionA": "Wind",
+  "optionB": "Sun",
+  "optionC": "Water",
+  "optionD": "Geothermal"
+ },
+ {
+  "id": 602591236,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which planet is known for its Great Red Spot?",
+  "optionA": "Mars",
+  "optionB": "Jupiter",
+  "optionC": "Saturn",
+  "optionD": "Venus"
+ },
+ {
+  "id": 754206978,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the currency of India?",
+  "optionA": "Rupee",
+  "optionB": "Ruble",
+  "optionC": "Yen",
+  "optionD": "Dollar"
+ },
+ {
+  "id": 758915308,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas is used in welding?",
+  "optionA": "Oxygen",
+  "optionB": "Acetylene",
+  "optionC": "Nitrogen",
+  "optionD": "Carbon Dioxide"
+ },
+ {
+  "id": 764249826,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is known for the Taj Mahal?",
+  "optionA": "India",
+  "optionB": "Pakistan",
+  "optionC": "Bangladesh",
+  "optionD": "Nepal"
+ },
+ {
+  "id": 1263506978,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which mountain is the highest in the world?",
+  "optionA": "K2",
+  "optionB": "Kangchenjunga",
+  "optionC": "Mount Everest",
+  "optionD": "Lhotse"
+ },
+ {
+  "id": 1301197882,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the deepest ocean trench in the world?",
+  "optionA": "Tonga Trench",
+  "optionB": "Mariana Trench",
+  "optionC": "Philippine Trench",
+  "optionD": "Kermadec Trench"
+ },
+ {
+  "id": 1689606369,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is the largest by land area?",
+  "optionA": "Canada",
+  "optionB": "Russia",
+  "optionC": "China",
+  "optionD": "United States"
+ },
+ {
+  "id": 1994483470,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the capital of Russia?",
+  "optionA": "Moscow",
+  "optionB": "St. Petersburg",
+  "optionC": "Kazan",
+  "optionD": "Novosibirsk"
+ },
+ {
+  "id": 2115698073,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the boiling point of water at sea level?",
+  "optionA": "50°C",
+  "optionB": "100°C",
+  "optionC": "150°C",
+  "optionD": "200°C"
+ },
+ {
+  "id": 367111671,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Which Philippine city is known as the 'Walled City'?",
+  "optionA": "Vigan",
+  "optionB": "Manila",
+  "optionC": "Cebu",
+  "optionD": "Davao"
+ },
+ {
+  "id": 1489654682,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Independence Day is:",
+  "optionA": "June 12",
+  "optionB": "July 4",
+  "optionC": "August 31",
+  "optionD": "April 9"
+ }
+]

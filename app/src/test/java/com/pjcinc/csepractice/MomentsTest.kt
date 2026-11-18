@@ -111,11 +111,11 @@ class MomentsTest {
         // ---- the share cards themselves
         val out = File("build/outputs/roborazzi").apply { mkdirs() }
         listOf(
-            "28_card_pasado" to ShareCards.pasadoMock(85, "Ana", "tl"),
-            "29_card_passed" to ShareCards.passedExam("Professional", "Ana", "en"),
-            "30_card_progress" to ShareCards.progress("Ana", 72, 9, 12, "Clerk", 640, "en")
+            "28_card_pasado" to ShareCards.pasadoMock(85, "Ana"),
+            "29_card_passed" to ShareCards.passedExam("Professional", "Ana"),
+            "30_card_progress" to ShareCards.progress("Ana", 72, 9, 12, "Clerk", 640)
         ).forEach { (name, card) ->
-            File(out, "$name.png").outputStream().use { ShareCards.render(card, 720).compress(Bitmap.CompressFormat.PNG, 100, it) }
+            File(out, "$name.png").outputStream().use { ShareCards.render(card, width = 720).compress(Bitmap.CompressFormat.PNG, 100, it) }
         }
     }
 }

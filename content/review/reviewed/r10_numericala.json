@@ -1,0 +1,628 @@
+[
+ {
+  "id": 48936996,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Ibawas ang 5 sa magkabilang side para 3x = 15, tapos hatiin sa 3: x = 5.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 167037648,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Idagdag ang 8 sa magkabilang side para 4x = 32, tapos hatiin sa 4: x = 8.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 455073463,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Hatiin lang ang 30 sa 5: x = 6. Check: 5 × 6 = 30.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1195899441,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Ibawas ang 5 sa magkabilang side para 5x = 25, tapos hatiin sa 5: x = 5.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1274851834,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Idagdag ang 2 sa magkabilang side para 2x = 10, tapos hatiin sa 2: x = 5.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1422898652,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Idagdag ang 16 sa magkabilang side para 8x = 40, tapos hatiin sa 8: x = 5.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1944687388,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Idagdag ang 4 sa magkabilang side para 4x = 16, tapos hatiin sa 4: x = 4.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1962128926,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added explanationTl; difficulty set to Subprofessional level.",
+  "fields": {
+   "explanationTl": "Ibawas ang 6 sa magkabilang side para 3x = 9, tapos hatiin sa 3: x = 3.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 95241723,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation lost its × (\"43 - 2\"); fixed, numbered steps, whys and Taglish added.",
+  "fields": {
+   "explanation": "y = 4 × 3 − 2 = 12 − 2 = 10.",
+   "steps": "1. Substitute x = 3: y = 4 × 3 − 2.\n2. Multiply first: 4 × 3 = 12.\n3. Subtract: 12 − 2 = 10.",
+   "hint": "Substitute the given values, then follow the order of operations.",
+   "hintTl": "I-substitute ang values, tapos sundan ang order of operations.",
+   "whyB": "14 comes from adding 2 instead of subtracting it (12 + 2).",
+   "whyC": "8 comes from subtracting 4 instead of 2; the constant is −2.",
+   "whyD": "12 is only 4 × 3; the − 2 was forgotten.",
+   "explanationTl": "Palitan ang x ng 3: y = 4 × 3 − 2 = 12 − 2 = 10.",
+   "stepsTl": "1. I-substitute ang x = 3: y = 4 × 3 − 2.\n2. Multiply muna: 4 × 3 = 12.\n3. Ibawas ang 2: 12 − 2 = 10.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 149457248,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation lost its × (\"24 + 3\"); fixed, numbered steps, whys and Taglish added.",
+  "fields": {
+   "explanation": "y = 2 × 4 + 3 = 8 + 3 = 11.",
+   "steps": "1. Substitute x = 4: y = 2 × 4 + 3.\n2. Multiply first: 2 × 4 = 8.\n3. Add: 8 + 3 = 11.",
+   "hint": "Substitute the given values, then follow the order of operations.",
+   "hintTl": "I-substitute ang values, tapos sundan ang order of operations.",
+   "whyB": "9 is what you get with x = 3 (2 × 3 + 3); x is 4.",
+   "whyC": "10 comes from adding 2 instead of 3 after multiplying.",
+   "whyD": "12 is 3 × 4; the 2 and the 3 were mixed up.",
+   "explanationTl": "Palitan ang x ng 4: y = 2 × 4 + 3 = 8 + 3 = 11.",
+   "stepsTl": "1. I-substitute ang x = 4: y = 2 × 4 + 3.\n2. Multiply muna: 2 × 4 = 8.\n3. Idagdag ang 3: 8 + 3 = 11.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 468761394,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "duplicate of 964210595; rewritten as m = 3n − o with n = 8, o = 5 (19)",
+  "fields": {
+   "text": "If m = 3n − o, n = 8 and o = 5, what is m?",
+   "optionA": "29",
+   "optionB": "19",
+   "optionC": "9",
+   "optionD": "3",
+   "correctAnswer": "B",
+   "explanation": "Substitute: m = 3(8) − 5 = 24 − 5 = 19.",
+   "steps": "1. Replace n with 8 and o with 5: m = 3(8) − 5.\n2. Multiply first: 3 × 8 = 24.\n3. Subtract: 24 − 5 = 19.",
+   "hint": "Substitute the values, then multiply before subtracting.",
+   "whyA": "29 adds o instead of subtracting it (24 + 5).",
+   "whyB": "",
+   "whyC": "9 subtracts first and then multiplies, 3(8 − 5), which breaks the order of operations.",
+   "whyD": "3 ignores the coefficient 3 and just computes 8 − 5.",
+   "explanationTl": "I-substitute: m = 3(8) − 5 = 24 − 5 = 19.",
+   "stepsTl": "1. Palitan ang n ng 8 at ang o ng 5: m = 3(8) − 5.\n2. Multiply muna: 3 × 8 = 24.\n3. Subtract: 24 − 5 = 19.",
+   "hintTl": "I-substitute ang values, tapos multiply muna bago subtract.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 627273582,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "duplicate of 929664260; rewritten as u = v² − 2w with v = 6, w = 4 (28)",
+  "fields": {
+   "text": "If u = v² − 2w, v = 6 and w = 4, what is u?",
+   "optionA": "28",
+   "optionB": "4",
+   "optionC": "44",
+   "optionD": "20",
+   "correctAnswer": "A",
+   "explanation": "Substitute: u = 6² − 2(4) = 36 − 8 = 28.",
+   "steps": "1. Replace v with 6 and w with 4: u = 6² − 2(4).\n2. 6² = 36.\n3. 2 × 4 = 8.\n4. 36 − 8 = 28.",
+   "hint": "Square v first, then subtract twice w.",
+   "whyA": "",
+   "whyB": "4 treats v² as 2v (12 − 8).",
+   "whyC": "44 adds 2w instead of subtracting it (36 + 8).",
+   "whyD": "20 subtracts w² (16) instead of 2w (8).",
+   "explanationTl": "I-substitute: u = 6² − 2(4) = 36 − 8 = 28.",
+   "stepsTl": "1. Palitan ang v ng 6 at ang w ng 4: u = 6² − 2(4).\n2. 6² = 36.\n3. 2 × 4 = 8.\n4. 36 − 8 = 28.",
+   "hintTl": "I-square muna ang v, tapos ibawas ang 2 times ng w.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 1227521737,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation lost its × (\"q = 35\"); fixed, whys and Taglish added.",
+  "fields": {
+   "text": "If q = 3p and p = 5, what is q?",
+   "explanation": "3p means 3 × p, so q = 3 × 5 = 15.",
+   "steps": "1. 3p means 3 × p.\n2. Substitute p = 5: q = 3 × 5 = 15.",
+   "hint": "A number written next to a letter means multiplication.",
+   "hintTl": "Kapag magkatabi ang number at letra, multiplication ’yan.",
+   "whyB": "10 is 2 × 5; the coefficient is 3.",
+   "whyC": "20 is 4 × 5; the coefficient is 3.",
+   "whyD": "8 is 3 + 5: 3p was read as 3 + p instead of 3 × p.",
+   "explanationTl": "Ang 3p ay 3 × p, kaya q = 3 × 5 = 15.",
+   "stepsTl": "1. Ang 3p ay 3 × p.\n2. I-substitute ang p = 5: q = 3 × 5 = 15.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1272126336,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 468761394 (5×4 vs 4×5, same options); rewritten to a two-operation substitution.",
+  "fields": {
+   "text": "If p = 3q − r, q = 4 and r = 5, what is p?",
+   "optionA": "17",
+   "optionB": "7",
+   "optionC": "−3",
+   "optionD": "2",
+   "correctAnswer": "B",
+   "explanation": "p = 3 × 4 − 5 = 12 − 5 = 7.",
+   "steps": "1. Substitute q = 4 and r = 5: p = 3 × 4 − 5.\n2. Multiply first: 3 × 4 = 12.\n3. Subtract: 12 − 5 = 7.",
+   "hint": "Substitute the given values, then follow the order of operations.",
+   "hintTl": "I-substitute ang values, tapos sundan ang order of operations.",
+   "whyA": "17 comes from adding r instead of subtracting it (12 + 5).",
+   "whyC": "−3 comes from subtracting before multiplying: 3 × (4 − 5).",
+   "whyD": "2 comes from reading 3q as 3 + q: 3 + 4 − 5.",
+   "explanationTl": "Multiply muna bago mag-subtract: p = 3 × 4 − 5 = 12 − 5 = 7.",
+   "stepsTl": "1. I-substitute: p = 3 × 4 − 5.\n2. Multiply muna: 3 × 4 = 12.\n3. Ibawas ang 5: 12 − 5 = 7.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1612124591,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; ^ written as a superscript, whys, steps and Taglish added.",
+  "fields": {
+   "text": "If b = a² and a = 4, what is b?",
+   "explanation": "a² means a × a, so b = 4 × 4 = 16.",
+   "steps": "1. a² means a × a.\n2. Substitute a = 4: b = 4 × 4 = 16.",
+   "hint": "Squaring means multiplying a number by itself.",
+   "hintTl": "Ang “squared” ay i-multiply ang number sa sarili nito.",
+   "whyB": "8 is 4 × 2: the exponent was multiplied instead of applied.",
+   "whyC": "12 is 4 + 4 + 4, not 4 × 4.",
+   "whyD": "20 is 4² + 4; only 4 × 4 is needed.",
+   "explanationTl": "Ang a² ay a × a, kaya b = 4 × 4 = 16.",
+   "stepsTl": "1. Ang a² ay a × a.\n2. I-substitute: b = 4 × 4 = 16.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1531476128,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Bare “2 + 3” substitution was a near-twin of 1748332835; rewritten to solving a two-variable equation for one unknown.",
+  "fields": {
+   "text": "If 2a + b = 17 and b = 5, what is a?",
+   "optionA": "12",
+   "optionB": "11",
+   "optionC": "6",
+   "optionD": "8.5",
+   "correctAnswer": "C",
+   "explanation": "2a + 5 = 17, so 2a = 12 and a = 6.",
+   "steps": "1. Substitute b = 5: 2a + 5 = 17.\n2. Subtract 5 from both sides: 2a = 12.\n3. Divide by 2: a = 6.\nCheck: 2(6) + 5 = 17 ✓",
+   "hint": "Undo the + or − first, then undo the multiplication. Check by plugging your answer back in.",
+   "hintTl": "Unahin ang + o −, saka ang multiplication. I-plug-in ang sagot para ma-check.",
+   "whyA": "12 is 2a, not a; you still have to divide by 2.",
+   "whyB": "11 comes from adding 5 instead of subtracting it: (17 + 5) ÷ 2.",
+   "whyD": "8.5 is 17 ÷ 2; b = 5 was ignored.",
+   "explanationTl": "I-substitute ang b = 5: 2a + 5 = 17. Ibawas ang 5 para 2a = 12, tapos hatiin sa 2: a = 6.",
+   "stepsTl": "1. I-substitute: 2a + 5 = 17.\n2. Ibawas ang 5: 2a = 12.\n3. Hatiin sa 2: a = 6.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1748332835,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; distractors 6 and 2 had no mistake behind them, replaced with 21 (multiplied) and −4 (subtracted); whys and Taglish added.",
+  "fields": {
+   "text": "If a = b + c, b = 3 and c = 7, what is a?",
+   "optionC": "21",
+   "optionD": "−4",
+   "explanation": "a = 3 + 7 = 10.",
+   "steps": "1. Substitute b = 3 and c = 7: a = 3 + 7.\n2. Add: a = 10.",
+   "hint": "Substitute the given values, then follow the order of operations.",
+   "hintTl": "I-substitute ang values, tapos sundan ang order of operations.",
+   "whyB": "4 is 7 − 3: the values were subtracted, not added.",
+   "whyC": "21 is 3 × 7: the values were multiplied, not added.",
+   "whyD": "−4 is 3 − 7: the values were subtracted, not added.",
+   "explanationTl": "I-add lang ang b at c: a = 3 + 7 = 10.",
+   "stepsTl": "1. I-substitute: a = 3 + 7.\n2. I-add: a = 10.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1902781639,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; distractors 12 and 10 had no mistake behind them, replaced with 54 (multiplied) and −3 (subtracted); whys and Taglish added.",
+  "fields": {
+   "text": "If d = e + f, e = 6 and f = 9, what is d?",
+   "optionC": "54",
+   "optionD": "−3",
+   "explanation": "d = 6 + 9 = 15.",
+   "steps": "1. Substitute e = 6 and f = 9: d = 6 + 9.\n2. Add: d = 15.",
+   "hint": "Substitute the given values, then follow the order of operations.",
+   "hintTl": "I-substitute ang values, tapos sundan ang order of operations.",
+   "whyB": "3 is 9 − 6: the values were subtracted, not added.",
+   "whyC": "54 is 6 × 9: the values were multiplied, not added.",
+   "whyD": "−3 is 6 − 9: the values were subtracted, not added.",
+   "explanationTl": "I-add ang e at f: d = 6 + 9 = 15.",
+   "stepsTl": "1. I-substitute: d = 6 + 9.\n2. I-add: d = 15.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 2107212005,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Duplicate of 1902781639 (9 + 6 vs 6 + 9, both 15); rewritten as a CSE-style age word problem.",
+  "fields": {
+   "text": "Ana is 4 years older than Ben. The sum of their ages is 30. How old is Ana?",
+   "optionA": "13",
+   "optionB": "15",
+   "optionC": "26",
+   "optionD": "17",
+   "correctAnswer": "D",
+   "explanation": "Let Ben = b, so Ana = b + 4. Then b + (b + 4) = 30, so 2b = 26, b = 13, and Ana is 13 + 4 = 17.",
+   "steps": "1. Let Ben’s age = b; Ana’s age = b + 4.\n2. b + (b + 4) = 30, so 2b + 4 = 30.\n3. 2b = 26, so b = 13 (Ben).\n4. Ana = 13 + 4 = 17.\nCheck: 17 + 13 = 30 and 17 − 13 = 4 ✓",
+   "hint": "Write both ages using one letter, then set their sum equal to 30.",
+   "whyA": "13 is Ben’s age; the question asks for Ana.",
+   "whyB": "15 is just 30 ÷ 2; it ignores the 4-year difference.",
+   "whyC": "26 is 30 − 4, which is 2b, not Ana’s age.",
+   "explanationTl": "Kung si Ben ay b, si Ana ay b + 4. Kaya b + b + 4 = 30, 2b = 26, b = 13. Si Ana ay 13 + 4 = 17.",
+   "stepsTl": "1. Ben = b, Ana = b + 4.\n2. b + (b + 4) = 30 → 2b + 4 = 30.\n3. 2b = 26 → b = 13 (si Ben).\n4. Ana = 13 + 4 = 17.",
+   "hintTl": "Isulat ang dalawang edad gamit ang isang letra, tapos i-equate ang sum sa 30.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 981421886,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 455073463 (one-step equation, same answer 6 and identical options); rewritten with x on both sides.",
+  "fields": {
+   "text": "Solve for x: 7x − 3 = 2x + 22.",
+   "optionA": "5",
+   "optionB": "3.8",
+   "optionC": "25",
+   "optionD": "−5",
+   "correctAnswer": "A",
+   "explanation": "Move the x terms to one side and the numbers to the other: 5x = 25, so x = 5.",
+   "steps": "1. Subtract 2x from both sides: 5x − 3 = 22.\n2. Add 3 to both sides: 5x = 25.\n3. Divide by 5: x = 5.\nCheck: 7(5) − 3 = 32 and 2(5) + 22 = 32 ✓",
+   "hint": "Gather the x terms on one side and the plain numbers on the other.",
+   "whyB": "3.8 comes from subtracting 3 instead of adding it: 5x = 19.",
+   "whyC": "25 is 5x; you still have to divide by 5.",
+   "whyD": "−5 is a sign slip; check: 7(−5) − 3 = −38, but 2(−5) + 22 = 12.",
+   "explanationTl": "Ilipat ang x terms sa isang side at ang numbers sa kabila: 5x = 25, kaya x = 5.",
+   "stepsTl": "1. Ibawas ang 2x sa magkabilang side: 5x − 3 = 22.\n2. Idagdag ang 3: 5x = 25.\n3. Hatiin sa 5: x = 5.",
+   "hintTl": "Pagsamahin ang x terms sa isang side, at ang numbers sa kabila.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 272929341,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whys now name the mistake; explanationTl added.",
+  "fields": {
+   "whyB": "7/10 adds 4 + 3 over 10 without first changing 4/5 to 8/10.",
+   "whyC": "13/10 is an addition slip: 8/10 + 3/10 is 11/10.",
+   "whyD": "9/10 is too small: 4/5 alone is already 8/10, and 3/10 more gives 11/10.",
+   "explanationTl": "Gawing 10 ang denominator: 4/5 = 8/10. Tapos 8/10 + 3/10 = 11/10.",
+   "hintTl": "Gawing pareho muna ang denominator bago mag-add."
+  }
+ },
+ {
+  "id": 532042059,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Converting 5/5 to a decimal is trivial (any n/n = 1); rewritten as a real fraction-to-decimal conversion.",
+  "fields": {
+   "text": "Convert 7/20 to a decimal.",
+   "optionA": "0.7",
+   "optionB": "2.86",
+   "optionC": "0.035",
+   "optionD": "0.35",
+   "correctAnswer": "D",
+   "explanation": "7/20 = 35/100 = 0.35.",
+   "steps": "1. Multiply top and bottom by 5 to get a denominator of 100: 7/20 = 35/100.\n2. 35/100 = 0.35.",
+   "hint": "A fraction bar means “divided by”.",
+   "hintTl": "Ang fraction bar ay ibig sabihin ay “divided by”.",
+   "whyA": "0.7 is 7/10; the denominator is 20, not 10.",
+   "whyB": "2.86 is 20 ÷ 7: the division was done backwards.",
+   "whyC": "0.035 is 35/1000: the decimal point was moved one place too far.",
+   "explanationTl": "I-multiply ang taas at baba ng 5: 7/20 = 35/100 = 0.35.",
+   "stepsTl": "1. I-multiply sa 5 ang numerator at denominator: 7/20 = 35/100.\n2. 35/100 = 0.35.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 716680736,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "duplicate of 2036006001; rewritten as unlike fractions 3/8 + 1/6 (13/24)",
+  "fields": {
+   "text": "3/8 + 1/6 = ?",
+   "optionA": "2/7",
+   "optionB": "11/24",
+   "optionC": "13/24",
+   "optionD": "1/16",
+   "correctAnswer": "C",
+   "explanation": "Use the LCD 24: 3/8 = 9/24 and 1/6 = 4/24, so the sum is 13/24.",
+   "steps": "1. LCD of 8 and 6 is 24.\n2. 3/8 = (3 × 3)/(8 × 3) = 9/24.\n3. 1/6 = (1 × 4)/(6 × 4) = 4/24.\n4. 9/24 + 4/24 = 13/24.",
+   "hint": "Rewrite both fractions with the same denominator before adding.",
+   "whyA": "2/7 adds the numerators and the denominators (4/14).",
+   "whyB": "11/24 converts 1/6 wrongly as 2/24 instead of 4/24.",
+   "whyC": "",
+   "whyD": "1/16 multiplies the fractions (3/48) instead of adding.",
+   "explanationTl": "Gamitin ang LCD na 24: 3/8 = 9/24 at 1/6 = 4/24, kaya 13/24 ang sum.",
+   "stepsTl": "1. LCD ng 8 at 6 ay 24.\n2. 3/8 = 9/24.\n3. 1/6 = 4/24.\n4. 9/24 + 4/24 = 13/24.",
+   "hintTl": "Gawing pareho muna ang denominator bago i-add.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 793479081,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whys name the mistake, explanationTl added.",
+  "fields": {
+   "whyB": "0.06 is 6/100: the decimal point was moved two places instead of one.",
+   "whyC": "6.0 is 6 ÷ 1: the denominator was ignored.",
+   "whyD": "0.66 is a guess from repeating the 6; 6/10 is exactly 0.6.",
+   "explanationTl": "Ang 6/10 ay “six tenths,” kaya 0.6.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1250321385,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 716680736 (same-denominator fifths addition); rewritten as a fraction-multiplication word problem.",
+  "fields": {
+   "text": "Liza used 3/4 of a 2/3-kilogram bag of sugar. How many kilograms of sugar did she use?",
+   "optionA": "5/7 kg",
+   "optionB": "1/2 kg",
+   "optionC": "9/8 kg",
+   "optionD": "17/12 kg",
+   "correctAnswer": "B",
+   "explanation": "“3/4 of” means multiply: 3/4 × 2/3 = 6/12 = 1/2 kg.",
+   "steps": "1. “Of” means multiply: 3/4 × 2/3.\n2. Multiply tops and bottoms: 6/12.\n3. Simplify: 6/12 = 1/2 kg.",
+   "hint": "“A fraction of” an amount means multiply.",
+   "whyA": "5/7 adds the tops and the bottoms (3 + 2)/(4 + 3), which is never a valid rule.",
+   "whyC": "9/8 is 3/4 ÷ 2/3: divided instead of multiplied.",
+   "whyD": "17/12 is 3/4 + 2/3: added instead of multiplied.",
+   "explanationTl": "Ang “3/4 of” ay multiplication: 3/4 × 2/3 = 6/12 = 1/2 kg.",
+   "stepsTl": "1. Ang “of” ay multiply: 3/4 × 2/3.\n2. I-multiply ang taas at baba: 6/12.\n3. I-simplify: 1/2 kg.",
+   "hintTl": "Kapag “fraction of” ang isang amount, i-multiply.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 1438251685,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; whys name the mistake, explanationTl added.",
+  "fields": {
+   "whyB": "0.5 is 1/2, not 1/5.",
+   "whyC": "0.25 is 1/4, not 1/5.",
+   "whyD": "0.1 is 1/10, not 1/5.",
+   "explanationTl": "1 ÷ 5 = 0.2. O kaya: 1/5 = 2/10 = 0.2.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1526225953,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added steps, hint, whys and Taglish.",
+  "fields": {
+   "text": "Convert 0.8 to a fraction in lowest terms.",
+   "steps": "1. 0.8 means 8 tenths: 8/10.\n2. Divide top and bottom by 2: 4/5.",
+   "hint": "Write the decimal over 10, 100, … then reduce.",
+   "whyB": "2/5 = 0.4, not 0.8.",
+   "whyC": "3/5 = 0.6, not 0.8.",
+   "whyD": "1/5 = 0.2, not 0.8.",
+   "explanationTl": "Ang 0.8 ay 8/10; i-reduce sa lowest terms: 4/5.",
+   "stepsTl": "1. 0.8 = 8/10.\n2. Hatiin sa 2 ang taas at baba: 4/5.",
+   "hintTl": "Isulat ang decimal over 10 o 100, tapos i-reduce.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1562413787,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "duplicate of 338613393; rewritten as 7/16 to a decimal (answer 0.4375)",
+  "fields": {
+   "text": "Convert 7/16 to a decimal.",
+   "optionA": "0.716",
+   "optionB": "0.4375",
+   "optionC": "2.29",
+   "optionD": "0.04375",
+   "correctAnswer": "B",
+   "explanation": "Divide the numerator by the denominator: 7 ÷ 16 = 0.4375.",
+   "steps": "1. A fraction means numerator ÷ denominator: 7 ÷ 16.\n2. 16 does not go into 7, so write 0. and work with 70: 16 × 4 = 64, remainder 6.\n3. 60: 16 × 3 = 48, remainder 12.\n4. 120: 16 × 7 = 112, remainder 8.\n5. 80: 16 × 5 = 80, remainder 0.\n6. Answer: 0.4375.",
+   "hint": "Divide the top number by the bottom number.",
+   "whyA": "0.716 just writes the digits 7 and 16 after a decimal point.",
+   "whyB": "",
+   "whyC": "2.29 divides the wrong way (16 ÷ 7 ≈ 2.29).",
+   "whyD": "0.04375 misplaces the decimal point; 7/16 is close to one-half, not 0.04.",
+   "explanationTl": "I-divide ang numerator sa denominator: 7 ÷ 16 = 0.4375.",
+   "stepsTl": "1. Ang fraction ay numerator ÷ denominator: 7 ÷ 16.\n2. Hindi kasya ang 16 sa 7, kaya 0. muna, tapos 70: 16 × 4 = 64, remainder 6.\n3. 60: 16 × 3 = 48, remainder 12.\n4. 120: 16 × 7 = 112, remainder 8.\n5. 80: 16 × 5 = 80, remainder 0.\n6. Sagot: 0.4375.",
+   "hintTl": "I-divide ang nasa taas sa nasa baba.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1609627815,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; option D “4/6” equalled option B “2/3”; replaced with 4/3 (subtracting tops and bottoms).",
+  "fields": {
+   "optionD": "4/3",
+   "whyB": "2/3 is 5/6 − 1/6: 1/3 was treated as 1/6 instead of 2/6.",
+   "whyC": "1/3 is the amount subtracted, not the difference.",
+   "whyD": "4/3 subtracts tops and bottoms separately: (5 − 1)/(6 − 3).",
+   "explanationTl": "Gawing 2/6 ang 1/3, tapos 5/6 − 2/6 = 3/6 = 1/2.",
+   "hintTl": "Gawing pareho muna ang denominator bago mag-subtract."
+  }
+ },
+ {
+  "id": 1901748516,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added steps, hint, whys and Taglish.",
+  "fields": {
+   "steps": "1. Divide 1 by 6: 1.000 ÷ 6 = 0.1666…\n2. The 6 repeats, so 1/6 = 0.1666…",
+   "hint": "A fraction bar means “divided by”.",
+   "hintTl": "Ang fraction bar ay ibig sabihin ay “divided by”.",
+   "whyB": "0.5 is 1/2, not 1/6.",
+   "whyC": "0.333… is 1/3, which is twice 1/6.",
+   "whyD": "0.25 is 1/4, not 1/6.",
+   "explanationTl": "1 ÷ 6 = 0.1666…, paulit-ulit ang 6.",
+   "stepsTl": "1. Hatiin ang 1 sa 6: 0.1666…\n2. Umuulit ang 6, kaya 1/6 = 0.1666…",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 212560043,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem had no units and was a fragment; units added, weak distractors replaced with real mistakes.",
+  "fields": {
+   "text": "What is the area of a square whose side is 5 cm?",
+   "optionA": "25 sq cm",
+   "optionB": "20 sq cm",
+   "optionC": "10 sq cm",
+   "optionD": "125 sq cm",
+   "explanation": "Area of a square = side × side = 5 cm × 5 cm = 25 sq cm.",
+   "steps": "1. Area of a square = side × side.\n2. 5 × 5 = 25 sq cm.",
+   "hint": "Area of a square is side times side, not 4 times the side.",
+   "whyB": "20 cm is the perimeter (4 × 5), not the area.",
+   "whyC": "10 is 5 × 2: the side was doubled instead of squared.",
+   "whyD": "125 is 5 × 5 × 5, the volume of a cube, not the area of a square.",
+   "explanationTl": "Area ng square = side × side = 5 × 5 = 25 sq cm.",
+   "stepsTl": "1. Area ng square = side × side.\n2. 5 × 5 = 25 sq cm.",
+   "hintTl": "Ang area ng square ay side times side, hindi 4 times side.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 175430033,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; telegraphic stem reworded with peso formatting; explanationTl added.",
+  "fields": {
+   "text": "A laptop priced at ₱50,000 is sold at a 5% discount. What is the sale price?",
+   "optionA": "₱47,500",
+   "optionB": "₱48,000",
+   "optionC": "₱49,000",
+   "optionD": "₱49,500",
+   "explanation": "5% of ₱50,000 is ₱2,500, so the sale price is ₱50,000 − ₱2,500 = ₱47,500.",
+   "explanationTl": "Ang 5% ng ₱50,000 ay ₱2,500. Ibawas sa presyo: ₱47,500."
+  }
+ },
+ {
+  "id": 642718894,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation used * for ×; explanationTl added.",
+  "fields": {
+   "explanation": "20% = 0.2, and 0.2 × 250 = 50.",
+   "explanationTl": "Ang 20% ay 0.2, at 0.2 × 250 = 50. Shortcut: 10% ng 250 ay 25, kaya 20% ay 50.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 746988882,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; explanation used * for ×; added steps, hint, whys and Taglish.",
+  "fields": {
+   "explanation": "15 = 1.5 × n, so n = 15 ÷ 1.5 = 10.",
+   "steps": "1. 150% = 1.5, so 1.5 × n = 15.\n2. n = 15 ÷ 1.5 = 10.\nCheck: 150% of 10 = 15 ✓",
+   "hint": "Write it as 1.5 × (the number) = 15, then divide.",
+   "whyB": "150% of 20 is 30, not 15.",
+   "whyC": "22.5 is 150% of 15: multiplied by 1.5 instead of dividing.",
+   "whyD": "7.5 is 50% of 15; that answers a different question.",
+   "explanationTl": "Ang 150% ay 1.5. Kaya 1.5 × n = 15, at n = 15 ÷ 1.5 = 10.",
+   "stepsTl": "1. 150% = 1.5, kaya 1.5 × n = 15.\n2. n = 15 ÷ 1.5 = 10.",
+   "hintTl": "Isulat bilang 1.5 × (number) = 15, tapos i-divide."
+  }
+ },
+ {
+  "id": 956455038,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; telegraphic stem reworded with peso formatting; explanationTl added.",
+  "fields": {
+   "text": "A camera priced at ₱8,000 is sold at a 15% discount. What is the sale price?",
+   "optionA": "₱6,800",
+   "optionB": "₱7,000",
+   "optionC": "₱7,200",
+   "optionD": "₱6,500",
+   "explanation": "15% of ₱8,000 is ₱1,200, so the sale price is ₱8,000 − ₱1,200 = ₱6,800.",
+   "explanationTl": "Ang 15% ng ₱8,000 ay ₱1,200. Ibawas sa presyo: ₱6,800."
+  }
+ },
+ {
+  "id": 984747048,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; stem reworded; whyC said “a -10% discount”, now names the real mistake.",
+  "fields": {
+   "text": "A pen priced at ₱50 is sold at a 10% discount. What is the sale price?",
+   "optionA": "₱45",
+   "optionB": "₱40",
+   "optionC": "₱55",
+   "optionD": "₱50",
+   "explanation": "10% of ₱50 is ₱5, so the sale price is ₱50 − ₱5 = ₱45.",
+   "whyC": "₱55 adds the 10% instead of taking it off.",
+   "explanationTl": "Ang 10% ng ₱50 ay ₱5. Ibawas sa presyo: ₱45.",
+   "difficulty": 1
+  }
+ }
+]

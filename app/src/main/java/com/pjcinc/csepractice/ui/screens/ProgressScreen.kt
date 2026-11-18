@@ -121,7 +121,7 @@ fun ProgressScreen(vm: AppViewModel) {
                 OutlinedButton(
                     onClick = {
                         vm.share(ShareCards.progress(user.firstName, readiness.takeIf { it.shown }?.overall, weeklyGain,
-                            Game.liveStreak(user, today), Game.titleFor(Game.levelFor(user.xp)), readiness.answered, lang), "progress")
+                            Game.liveStreak(user, today), Game.titleFor(Game.levelFor(user.xp)), readiness.answered), "progress")
                     },
                     modifier = Modifier.padding(top = 8.dp)
                 ) { Text(Encourage.t(lang, "Share my progress 📤", "I-share ang progress ko 📤")) }

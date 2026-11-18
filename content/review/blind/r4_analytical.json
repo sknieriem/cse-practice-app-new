@@ -1,0 +1,342 @@
+[
+ {
+  "id": 35942117,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Spoon is to stirring as fork is to:",
+  "optionA": "Piercing",
+  "optionB": "Cutting",
+  "optionC": "Scooping",
+  "optionD": "Mixing"
+ },
+ {
+  "id": 183168070,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Hammer is to pounding as saw is to:",
+  "optionA": "Cutting",
+  "optionB": "Nailing",
+  "optionC": "Sanding",
+  "optionD": "Drilling"
+ },
+ {
+  "id": 327417457,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Area : Square meters :: Mass :",
+  "optionA": "Liters",
+  "optionB": "Kilograms",
+  "optionC": "Meters",
+  "optionD": "Newtons"
+ },
+ {
+  "id": 571070274,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Angle : Degrees :: Time :",
+  "optionA": "Seconds",
+  "optionB": "Meters",
+  "optionC": "Liters",
+  "optionD": "Kilograms"
+ },
+ {
+  "id": 828334311,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "ODOMETER : MILEAGE :: COMPASS :",
+  "optionA": "SPEED",
+  "optionB": "HIKING",
+  "optionC": "NEEDLE",
+  "optionD": "DIRECTION"
+ },
+ {
+  "id": 1555712605,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Ruler is to measuring as camera is to:",
+  "optionA": "Photographing",
+  "optionB": "Filming",
+  "optionC": "Lighting",
+  "optionD": "Focusing"
+ },
+ {
+  "id": 1631256051,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Volume : Liters :: Distance :",
+  "optionA": "Kilograms",
+  "optionB": "Meters",
+  "optionC": "Amperes",
+  "optionD": "Seconds"
+ },
+ {
+  "id": 1707578260,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Length : Meters :: Electric Current :",
+  "optionA": "Volts",
+  "optionB": "Amperes",
+  "optionC": "Ohms",
+  "optionD": "Watts"
+ },
+ {
+  "id": 269705685,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To win a debate, one must prepare arguments.",
+  "optionA": "Preparing arguments guarantees winning",
+  "optionB": "Not preparing arguments leads to losing",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 796708615,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: Good leaders inspire their teams.",
+  "optionA": "Inspiring teams guarantees good leadership",
+  "optionB": "Not inspiring leads to poor leadership",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 823971108,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To win a competition, one must prepare.",
+  "optionA": "Preparing guarantees winning",
+  "optionB": "Not preparing leads to losing",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 985585971,
+  "category": "Analytical Ability",
+  "subtopic": "ana_assumption",
+  "text": "Identify assumption: To master a language, one must practice speaking.",
+  "optionA": "Practicing speaking guarantees mastery",
+  "optionB": "Not practicing speaking leads to failure",
+  "optionC": "Both",
+  "optionD": "None"
+ },
+ {
+  "id": 105547188,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 3=16, 4=25, 5=36, 6=?",
+  "optionA": "48",
+  "optionB": "49",
+  "optionC": "50",
+  "optionD": "51"
+ },
+ {
+  "id": 587274041,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=10, 3=18, 4=28, 5=?",
+  "optionA": "38",
+  "optionB": "39",
+  "optionC": "40",
+  "optionD": "41"
+ },
+ {
+  "id": 1695189728,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=11, 3=20, 4=31, 5=?",
+  "optionA": "44",
+  "optionB": "45",
+  "optionC": "46",
+  "optionD": "47"
+ },
+ {
+  "id": 1966047099,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=12, 3=20, 4=30, 5=?",
+  "optionA": "42",
+  "optionB": "44",
+  "optionC": "46",
+  "optionD": "48"
+ },
+ {
+  "id": 2050284569,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=10, 3=19, 4=30, 5=?",
+  "optionA": "42",
+  "optionB": "43",
+  "optionC": "44",
+  "optionD": "45"
+ },
+ {
+  "id": 2069883621,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 1=5, 2=11, 3=19, 4=?",
+  "optionA": "28",
+  "optionB": "29",
+  "optionC": "30",
+  "optionD": "31"
+ },
+ {
+  "id": 636588524,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing temperatures: Mon 15, Tue 20, Wed 25. What is the average temperature?",
+  "optionA": "18",
+  "optionB": "20",
+  "optionC": "22",
+  "optionD": "24"
+ },
+ {
+  "id": 734611293,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing temperatures: Day 1 25, Day 2 30, Day 3 35. What is the average temperature?",
+  "optionA": "28",
+  "optionB": "30",
+  "optionC": "32",
+  "optionD": "34"
+ },
+ {
+  "id": 763597739,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing production: Q1 500, Q2 550, Q3 600. What is the average production?",
+  "optionA": "540",
+  "optionB": "550",
+  "optionC": "560",
+  "optionD": "570"
+ },
+ {
+  "id": 1429217809,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing sales: Jan 100, Feb 150, Mar 120. What is the average?",
+  "optionA": "123.33",
+  "optionB": "120",
+  "optionC": "130",
+  "optionD": "125"
+ },
+ {
+  "id": 413502916,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If P is Q's father, Q is R's mother, R is P's:",
+  "optionA": "Grandchild",
+  "optionB": "Child",
+  "optionC": "Sibling",
+  "optionD": "Parent"
+ },
+ {
+  "id": 505467647,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If P is Q’s mother, Q is R’s daughter, R is P’s:",
+  "optionA": "Son",
+  "optionB": "Husband",
+  "optionC": "Daughter",
+  "optionD": "Father"
+ },
+ {
+  "id": 887372409,
+  "category": "Analytical Ability",
+  "subtopic": "ana_family",
+  "text": "If E is F’s father, F is G’s daughter, G is E’s:",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 8810366,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All poets write. Some people are poets. So some people write.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 104501795,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "Conclusion from: All dogs bark. Spot barks. So Spot is a dog.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 733498225,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all trees grow and some plants are trees, then:",
+  "optionA": "All plants grow",
+  "optionB": "Some plants grow",
+  "optionC": "No plants grow",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 812446768,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all birds have feathers and some animals are birds, then:",
+  "optionA": "All animals have feathers",
+  "optionB": "Some animals have feathers",
+  "optionC": "No animals have feathers",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1114052581,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "All dogs are loyal. Some animals are dogs. So some animals are loyal.",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "True",
+  "optionD": "False"
+ },
+ {
+  "id": 1862564295,
+  "category": "Analytical Ability",
+  "subtopic": "ana_logic",
+  "text": "If all planets have orbits and some celestial bodies are planets, then:",
+  "optionA": "All celestial bodies have orbits",
+  "optionB": "Some celestial bodies have orbits",
+  "optionC": "No celestial bodies have orbits",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 364905136,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Lion, Tiger, Elephant, Wolf",
+  "optionA": "Lion",
+  "optionB": "Tiger",
+  "optionC": "Elephant",
+  "optionD": "Wolf"
+ },
+ {
+  "id": 466601111,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Car, Bicycle, Motorcycle, Airplane",
+  "optionA": "Car",
+  "optionB": "Bicycle",
+  "optionC": "Motorcycle",
+  "optionD": "Airplane"
+ },
+ {
+  "id": 483963428,
+  "category": "Analytical Ability",
+  "subtopic": "ana_oddone",
+  "text": "Odd one out: Violin, Guitar, Flute, Harp",
+  "optionA": "Violin",
+  "optionB": "Guitar",
+  "optionC": "Flute",
+  "optionD": "Harp"
+ }
+]

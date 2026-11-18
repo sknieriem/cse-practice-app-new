@@ -1,0 +1,542 @@
+[
+ {
+  "id": 292186588,
+  "category": "Analytical Ability",
+  "text": "Compass is to navigating as ruler is to:",
+  "optionA": "Measuring",
+  "optionB": "Writing",
+  "optionC": "Cutting",
+  "optionD": "Aligning"
+ },
+ {
+  "id": 997900159,
+  "category": "Analytical Ability",
+  "text": "Pen is to writer as brush is to:",
+  "optionA": "Painter",
+  "optionB": "Sculptor",
+  "optionC": "Carpenter",
+  "optionD": "Photographer"
+ },
+ {
+  "id": 1387077245,
+  "category": "Analytical Ability",
+  "text": "Oven is to baking as refrigerator is to:",
+  "optionA": "Cooling",
+  "optionB": "Heating",
+  "optionC": "Drying",
+  "optionD": "Washing"
+ },
+ {
+  "id": 1572436242,
+  "category": "Analytical Ability",
+  "text": "Negligent is to care as dishonest is to:",
+  "optionA": "Truthfulness",
+  "optionB": "Generosity",
+  "optionC": "Courage",
+  "optionD": "Patience"
+ },
+ {
+  "id": 2022670371,
+  "category": "Analytical Ability",
+  "text": "Drizzle : downpour :: ______ : ______",
+  "optionA": "breeze : gale",
+  "optionB": "rain : cloud",
+  "optionC": "snow : ice",
+  "optionD": "thunder : lightning"
+ },
+ {
+  "id": 1918022796,
+  "category": "Analytical Ability",
+  "text": "Statement: \"Join our weekend review classes to pass the Civil Service Exam.\" Which of the following is assumed in the statement?",
+  "optionA": "The review classes help examinees pass the exam.",
+  "optionB": "Everyone who joins the classes will surely pass.",
+  "optionC": "The exam is given only on weekends.",
+  "optionD": "Examinees who do not join will surely fail."
+ },
+ {
+  "id": 694184605,
+  "category": "Analytical Ability",
+  "text": "A barangay health center recorded its visitors for three days: Day 1, 150; Day 2, 200; Day 3, 250. What is the average number of visitors per day?",
+  "optionA": "190",
+  "optionB": "200",
+  "optionC": "210",
+  "optionD": "220"
+ },
+ {
+  "id": 1988342223,
+  "category": "Analytical Ability",
+  "text": "A sari-sari store recorded its sales: Monday, P1,200; Tuesday, P1,500; Wednesday, P1,800. By what percent did sales increase from Monday to Wednesday?",
+  "optionA": "25%",
+  "optionB": "50%",
+  "optionC": "33 1/3%",
+  "optionD": "150%"
+ },
+ {
+  "id": 690156220,
+  "category": "Analytical Ability",
+  "text": "Next in series: 4, 7, 13, 25, ____",
+  "optionA": "37",
+  "optionB": "49",
+  "optionC": "50",
+  "optionD": "47"
+ },
+ {
+  "id": 1242023609,
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, the three branches of the Philippine government are:",
+  "optionA": "Executive, Legislative, Judicial",
+  "optionB": "Executive, Legislative, Electoral",
+  "optionC": "Legislative, Judicial, Constitutional Commissions",
+  "optionD": "Executive, Judicial, Local Government"
+ },
+ {
+  "id": 379682279,
+  "category": "General Information",
+  "text": "Solar panels convert sunlight directly into electricity through which effect?",
+  "optionA": "Greenhouse effect",
+  "optionB": "Photovoltaic effect",
+  "optionC": "Piezoelectric effect",
+  "optionD": "Doppler effect"
+ },
+ {
+  "id": 758915308,
+  "category": "General Information",
+  "text": "In oxy-fuel welding and cutting, which gas is commonly burned with oxygen as the fuel?",
+  "optionA": "Nitrogen",
+  "optionB": "Acetylene",
+  "optionC": "Argon",
+  "optionD": "Carbon dioxide"
+ },
+ {
+  "id": 367111671,
+  "category": "General Information",
+  "text": "Intramuros, known as the 'Walled City', is located in which Philippine city?",
+  "optionA": "Vigan",
+  "optionB": "Manila",
+  "optionC": "Cebu",
+  "optionD": "Davao"
+ },
+ {
+  "id": 1489654682,
+  "category": "General Information",
+  "text": "Philippine Independence Day is celebrated every:",
+  "optionA": "June 12",
+  "optionB": "July 4",
+  "optionC": "August 31",
+  "optionD": "April 9"
+ },
+ {
+  "id": 929664260,
+  "category": "Numerical Ability",
+  "text": "If a = b × c, b = 10 and c = 2, what is a?",
+  "optionA": "20",
+  "optionB": "12",
+  "optionC": "8",
+  "optionD": "5"
+ },
+ {
+  "id": 1291586413,
+  "category": "Numerical Ability",
+  "text": "If r = s + t, s = 4 and t = 6, what is r?",
+  "optionA": "10",
+  "optionB": "2",
+  "optionC": "8",
+  "optionD": "12"
+ },
+ {
+  "id": 1383073297,
+  "category": "Numerical Ability",
+  "text": "If a = 2b − c, b = 6 and c = 9, what is a?",
+  "optionA": "21",
+  "optionB": "3",
+  "optionC": "15",
+  "optionD": "−3"
+ },
+ {
+  "id": 1907526426,
+  "category": "Numerical Ability",
+  "text": "Solve for x: x ÷ 4 = 5.",
+  "optionA": "20",
+  "optionB": "10",
+  "optionC": "15",
+  "optionD": "25"
+ },
+ {
+  "id": 338613393,
+  "category": "Numerical Ability",
+  "text": "Convert 3/8 to a decimal.",
+  "optionA": "0.0375",
+  "optionB": "0.375",
+  "optionC": "2.667",
+  "optionD": "0.38"
+ },
+ {
+  "id": 878196308,
+  "category": "Numerical Ability",
+  "text": "4/7 − 1/7 = ?",
+  "optionA": "3/7",
+  "optionB": "5/7",
+  "optionC": "2/7",
+  "optionD": "1/7"
+ },
+ {
+  "id": 1089880767,
+  "category": "Numerical Ability",
+  "text": "1/4 + 1/4 = ?",
+  "optionA": "1/2",
+  "optionB": "1/4",
+  "optionC": "2/8",
+  "optionD": "0/4"
+ },
+ {
+  "id": 1433273404,
+  "category": "Numerical Ability",
+  "text": "What is the area of a triangle with a base of 6 cm and a height of 8 cm?",
+  "optionA": "48 cm²",
+  "optionB": "24 cm²",
+  "optionC": "32 cm²",
+  "optionD": "40 cm²"
+ },
+ {
+  "id": 1486412531,
+  "category": "Numerical Ability",
+  "text": "A rectangular garden is 12 m long and 5 m wide. How many meters of fencing are needed to go around it?",
+  "optionA": "17 m",
+  "optionB": "60 m",
+  "optionC": "34 m",
+  "optionD": "29 m"
+ },
+ {
+  "id": 1582492509,
+  "category": "Numerical Ability",
+  "text": "What is the volume of a cube with a side of 3 cm?",
+  "optionA": "27 cm³",
+  "optionB": "9 cm³",
+  "optionC": "18 cm³",
+  "optionD": "36 cm³"
+ },
+ {
+  "id": 425277101,
+  "category": "Numerical Ability",
+  "text": "A book priced at ₱250 is sold at a 20% discount. What is the sale price?",
+  "optionA": "200",
+  "optionB": "210",
+  "optionC": "190",
+  "optionD": "220"
+ },
+ {
+  "id": 734121756,
+  "category": "Numerical Ability",
+  "text": "A watch priced at ₱2,000 is sold at a 25% discount. What is the sale price?",
+  "optionA": "1500",
+  "optionB": "1600",
+  "optionC": "1400",
+  "optionD": "1700"
+ },
+ {
+  "id": 1326332900,
+  "category": "Numerical Ability",
+  "text": "A pair of shoes priced at ₱1,000 is sold at a 50% discount. What is the sale price?",
+  "optionA": "500",
+  "optionB": "600",
+  "optionC": "400",
+  "optionD": "700"
+ },
+ {
+  "id": 1338857299,
+  "category": "Numerical Ability",
+  "text": "A necklace priced at ₱2,500 is sold at a 10% discount. What is the sale price?",
+  "optionA": "2250",
+  "optionB": "2300",
+  "optionC": "2400",
+  "optionD": "2200"
+ },
+ {
+  "id": 1630710049,
+  "category": "Numerical Ability",
+  "text": "After a 10% discount, a book costs ₱180. What was its original price?",
+  "optionA": "₱198",
+  "optionB": "₱190",
+  "optionC": "₱162",
+  "optionD": "₱200"
+ },
+ {
+  "id": 1840313242,
+  "category": "Numerical Ability",
+  "text": "A smartphone priced at ₱15,000 is sold at a 20% discount. What is the sale price?",
+  "optionA": "12000",
+  "optionB": "13000",
+  "optionC": "11000",
+  "optionD": "14000"
+ },
+ {
+  "id": 1882087395,
+  "category": "Numerical Ability",
+  "text": "30 is what percent of 120?",
+  "optionA": "40%",
+  "optionB": "4%",
+  "optionC": "25%",
+  "optionD": "30%"
+ },
+ {
+  "id": 263928250,
+  "category": "Numerical Ability",
+  "text": "A boat travels 90 km in 3 hours. What is its average speed in km/h?",
+  "optionA": "30",
+  "optionB": "20",
+  "optionC": "40",
+  "optionD": "50"
+ },
+ {
+  "id": 1520624502,
+  "category": "Numerical Ability",
+  "text": "A jeepney travels 45 km in 1 hour and 30 minutes. What is its average speed in km/h?",
+  "optionA": "45 km/h",
+  "optionB": "35 km/h",
+  "optionC": "15 km/h",
+  "optionD": "30 km/h"
+ },
+ {
+  "id": 1802624888,
+  "category": "Numerical Ability",
+  "text": "A drone flies 40 km in 2 hours. What is its average speed in km/h?",
+  "optionA": "20",
+  "optionB": "30",
+  "optionC": "10",
+  "optionD": "40"
+ },
+ {
+  "id": 1874609057,
+  "category": "Numerical Ability",
+  "text": "A boat travels 12 km in 2 hours. What is its average speed in km/h?",
+  "optionA": "6",
+  "optionB": "5",
+  "optionC": "7",
+  "optionD": "8"
+ },
+ {
+  "id": 2121797046,
+  "category": "Numerical Ability",
+  "text": "A train travels 300 km in 5 hours. What is its average speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "40"
+ },
+ {
+  "id": 273930774,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 3, 6, 9, 12, ...?",
+  "optionA": "15",
+  "optionB": "14",
+  "optionC": "16",
+  "optionD": "18"
+ },
+ {
+  "id": 427974349,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 1, 2, 4, 7, 11, ...?",
+  "optionA": "16",
+  "optionB": "15",
+  "optionC": "17",
+  "optionD": "14"
+ },
+ {
+  "id": 799606978,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 2, 4, 6, 8, 10, ...?",
+  "optionA": "12",
+  "optionB": "11",
+  "optionC": "13",
+  "optionD": "9"
+ },
+ {
+  "id": 1177479934,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 5, 10, 20, 40, 80, ...?",
+  "optionA": "160",
+  "optionB": "120",
+  "optionC": "100",
+  "optionD": "200"
+ },
+ {
+  "id": 1787589291,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 2, 5, 10, 17, ...?",
+  "optionA": "26",
+  "optionB": "25",
+  "optionC": "28",
+  "optionD": "30"
+ },
+ {
+  "id": 2051560334,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 3, 12, 48, 192, ...?",
+  "optionA": "576",
+  "optionB": "384",
+  "optionC": "768",
+  "optionD": "240"
+ },
+ {
+  "id": 1989361240,
+  "category": "Numerical Ability",
+  "text": "A training seminar runs for 3 weeks and 4 days with no breaks. How many days does it last?",
+  "optionA": "21",
+  "optionB": "34",
+  "optionC": "28",
+  "optionD": "25"
+ },
+ {
+  "id": 185642614,
+  "category": "Numerical Ability",
+  "text": "If 3 apples cost ₱50, how much do 12 apples cost?",
+  "optionA": "₱150",
+  "optionB": "₱200",
+  "optionC": "₱100",
+  "optionD": "₱250"
+ },
+ {
+  "id": 881178821,
+  "category": "Numerical Ability",
+  "text": "If 10 workers can complete a project in 10 days, how many days would 5 workers need at the same rate?",
+  "optionA": "20",
+  "optionB": "15",
+  "optionC": "25",
+  "optionD": "10"
+ },
+ {
+  "id": 892836642,
+  "category": "Numerical Ability",
+  "text": "If 3 workers can build a wall in 4 days, how many days would 6 workers need at the same rate?",
+  "optionA": "2",
+  "optionB": "3",
+  "optionC": "1.5",
+  "optionD": "2.5"
+ },
+ {
+  "id": 1380766250,
+  "category": "Numerical Ability",
+  "text": "Six farmers can harvest a rice field in 8 days. Working at the same rate, how many days would 4 farmers need?",
+  "optionA": "5⅓",
+  "optionB": "10",
+  "optionC": "12",
+  "optionD": "6"
+ },
+ {
+  "id": 1771433287,
+  "category": "Numerical Ability",
+  "text": "Nine builders finish 3 houses in 12 months. At the same rate, how many months would 6 builders need to finish 4 houses?",
+  "optionA": "16",
+  "optionB": "24",
+  "optionC": "18",
+  "optionD": "36"
+ },
+ {
+  "id": 1424710915,
+  "category": "Verbal Ability",
+  "text": "Choose the word that best completes the sentence: I like swimming, ______ my sister prefers dancing.",
+  "optionA": "so",
+  "optionB": "or",
+  "optionC": "because",
+  "optionD": "but"
+ },
+ {
+  "id": 1447532309,
+  "category": "Verbal Ability",
+  "text": "Which sentence uses the conditional form of the verb?",
+  "optionA": "She eats.",
+  "optionB": "She would eat.",
+  "optionC": "She ate.",
+  "optionD": "She is eating."
+ },
+ {
+  "id": 951150844,
+  "category": "Verbal Ability",
+  "text": "Rearrange the following sentences to form a coherent paragraph: (1) However, many students do not know how to prepare. (2) Studying for exams is essential. (3) In short, a good plan makes studying easier. (4) The first step is to make a study schedule.",
+  "optionA": "2-4-1-3",
+  "optionB": "4-2-1-3",
+  "optionC": "2-1-4-3",
+  "optionD": "1-3-2-4"
+ },
+ {
+  "id": 689865808,
+  "category": "Verbal Ability",
+  "text": "The story is apocryphal.\n\nIn this sentence, 'apocryphal' most nearly means:",
+  "optionA": "Ancient",
+  "optionB": "Questionable",
+  "optionC": "Sacred",
+  "optionD": "Tragic"
+ },
+ {
+  "id": 727461905,
+  "category": "Verbal Ability",
+  "text": "The action was egregious.\n\nIn this sentence, 'egregious' most nearly means:",
+  "optionA": "Admirable",
+  "optionB": "Outrageous",
+  "optionC": "Sociable",
+  "optionD": "Minor"
+ },
+ {
+  "id": 757285429,
+  "category": "Verbal Ability",
+  "text": "The speech was succinct.\n\nIn this sentence, 'succinct' most nearly means:",
+  "optionA": "Lengthy",
+  "optionB": "Concise",
+  "optionC": "Confusing",
+  "optionD": "Emotional"
+ },
+ {
+  "id": 1244700752,
+  "category": "Verbal Ability",
+  "text": "The novel's plot was intricate.\n\nIn this sentence, 'intricate' most nearly means:",
+  "optionA": "Simple",
+  "optionB": "Complicated",
+  "optionC": "Exciting",
+  "optionD": "Predictable"
+ },
+ {
+  "id": 1342924581,
+  "category": "Verbal Ability",
+  "text": "Choose the synonym for 'resilient'.",
+  "optionA": "Fragile",
+  "optionB": "Tough",
+  "optionC": "Stubborn",
+  "optionD": "Careless"
+ },
+ {
+  "id": 1419020812,
+  "category": "Verbal Ability",
+  "text": "He is gregarious.\n\nIn this sentence, 'gregarious' most nearly means:",
+  "optionA": "Solitary",
+  "optionB": "Sociable",
+  "optionC": "Generous",
+  "optionD": "Aggressive"
+ },
+ {
+  "id": 1526410949,
+  "category": "Verbal Ability",
+  "text": "The new owner's ostentatious mansion stood out in the quiet barangay.\n\nIn this sentence, 'ostentatious' most nearly means:",
+  "optionA": "Oscillating",
+  "optionB": "Spacious",
+  "optionC": "Wealthy",
+  "optionD": "Showy"
+ },
+ {
+  "id": 1572810276,
+  "category": "Verbal Ability",
+  "text": "Everyone has the right to vote.\n\nIn this sentence, 'right' most nearly means:",
+  "optionA": "Correct answer",
+  "optionB": "Direction opposite left",
+  "optionC": "Entitlement",
+  "optionD": "Duty"
+ },
+ {
+  "id": 2065415615,
+  "category": "Verbal Ability",
+  "text": "Contextual meaning of 'bear' in 'I can't bear the pain':",
+  "optionA": "Animal",
+  "optionB": "Endure",
+  "optionC": "Carry",
+  "optionD": "Produce"
+ }
+]

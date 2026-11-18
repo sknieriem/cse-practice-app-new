@@ -1,0 +1,200 @@
+[
+ {
+  "id": 88038315,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Fixed ungrammatical stem 'The phone ring'; added teaching fields; difficulty 1",
+  "fields": {
+   "text": "What does 'ring' mean in the sentence 'The ring of the phone woke the baby.'?",
+   "explanation": "Here 'ring' is the sound a phone makes, so it means a sound. The other options are other meanings of 'ring' that do not fit a phone.",
+   "hint": "Ask what a phone actually does when someone calls.",
+   "whyA": "Jewelry is the 'ring' worn on a finger, not something a phone produces.",
+   "whyC": "Circle is the shape meaning of 'ring', which does not fit a phone call.",
+   "whyD": "Arena is the 'ring' used for boxing or a circus, unrelated to a phone.",
+   "explanationTl": "Dito, ang 'ring' ay yung tunog ng phone, kaya 'sound' ang meaning. Yung ibang options ay ibang meaning ng 'ring' na hindi bagay sa phone.",
+   "hintTl": "Isipin mo kung ano ang ginagawa ng phone kapag may tumatawag.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 270441497,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "'trying' was a hidden second near-synonym (tempestuous times = trying times); replaced options",
+  "fields": {
+   "optionA": "turbulent",
+   "optionB": "temperate",
+   "optionC": "prosperous",
+   "optionD": "peaceful",
+   "explanation": "'Tempestuous' comes from 'tempest' (storm) and means stormy or turbulent. The years before EDSA 1986 were full of unrest, so 'turbulent' fits.",
+   "hint": "The word contains 'tempest', another word for a storm.",
+   "whyB": "Temperate means mild or moderate; it only looks like 'tempestuous' because both start with 'temp'.",
+   "whyC": "Prosperous means wealthy and thriving, which says nothing about storminess or unrest.",
+   "whyD": "Peaceful is the opposite of tempestuous.",
+   "explanationTl": "Ang 'tempestuous' ay galing sa 'tempest' (bagyo), kaya ang meaning ay stormy o turbulent. Magulo ang mga taon bago ang EDSA 1986, kaya 'turbulent' ang tama.",
+   "hintTl": "May 'tempest' sa loob ng word, at ibang tawag yun sa bagyo."
+  }
+ },
+ {
+  "id": 348158755,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Stem 'She is heuristic' unnatural; B/C/D were near-duplicates of each other; fixed explanation",
+  "fields": {
+   "text": "She took a heuristic approach to learning the new software.\n\nIn this sentence, 'heuristic' most nearly means:",
+   "optionA": "Trial-and-error",
+   "optionB": "Rule-bound",
+   "optionC": "Theoretical",
+   "optionD": "Hesitant",
+   "explanation": "A 'heuristic' approach means learning or solving problems by discovering things for yourself, often through trial and error and rules of thumb. So she learned the software by trying things out.",
+   "hint": "Think of learning by doing and discovering, not by following a manual.",
+   "whyB": "Rule-bound means strictly following fixed rules, the opposite of learning by experimenting.",
+   "whyC": "Theoretical means based on ideas rather than practice, but a heuristic approach is hands-on.",
+   "whyD": "Hesitant describes reluctance, not a method of learning.",
+   "explanationTl": "Ang 'heuristic' approach ay pag-aaral o problem-solving sa sarili mong pagdiskubre, madalas through trial and error. Kumbaga, sinubok-subok niya yung software hanggang matutunan.",
+   "hintTl": "Isipin mo yung pag-aaral habang ginagawa mismo, hindi yung pagsunod sa manual."
+  }
+ },
+ {
+  "id": 512802694,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "A/C/D were near-duplicates (direct/conclusive/definitive); replaced C and D",
+  "fields": {
+   "optionC": "Fabricated",
+   "optionD": "Irrelevant",
+   "explanation": "'Circumstantial' evidence points to a conclusion indirectly, through surrounding facts, instead of proving it directly. So it means indirect.",
+   "hint": "It is based on the circumstances around an event, not on someone who saw it happen.",
+   "whyA": "Direct is the opposite: direct evidence (like an eyewitness) proves the fact itself.",
+   "whyC": "Fabricated means made up; circumstantial evidence can be real, it is just indirect.",
+   "whyD": "Irrelevant means unrelated, but circumstantial evidence is related to the case, only indirectly.",
+   "explanationTl": "Ang 'circumstantial' evidence ay nagtuturo sa conclusion nang indirect, gamit ang mga nakapaligid na facts, hindi direktang proof. Kaya 'indirect' ang meaning.",
+   "hintTl": "Base ito sa mga pangyayari sa paligid, hindi sa taong nakakita mismo."
+  }
+ },
+ {
+  "id": 714058585,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "Key correct; added hint, whyX and Taglish fields",
+  "fields": {
+   "explanation": "'Vindictive' means having a strong desire for revenge. A governor who wants to get back at an ex-wife who cheated is vengeful.",
+   "hint": "Think about how someone might feel toward a person who betrayed them.",
+   "whyA": "Vindicated means proven right or cleared of blame; it only sounds like 'vindictive'.",
+   "whyB": "Troublesome means causing problems in general, not specifically wanting revenge.",
+   "whyC": "Weak means lacking strength and has nothing to do with seeking revenge.",
+   "explanationTl": "Ang 'vindictive' ay may matinding gustong gumanti. Yung governor na gustong bumawi sa ex-wife na nag-cheat ay vengeful.",
+   "hintTl": "Isipin mo ang nararamdaman ng tao sa taong nanloko sa kanya."
+  }
+ },
+ {
+  "id": 887175825,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Banned 'Both A and B'/'None' option set; rewritten as a context-based homonym item",
+  "fields": {
+   "text": "The old water pipes were made of lead, so the city replaced them.\n\nIn this sentence, 'lead' most nearly means:",
+   "optionA": "A heavy metal",
+   "optionB": "To guide",
+   "optionC": "First place",
+   "optionD": "A clue",
+   "correctAnswer": "A",
+   "explanation": "'Lead' has several meanings. Pipes are made of a material, so here it means the heavy metal (pronounced 'led'), which is toxic in drinking water.",
+   "hint": "Ask what pipes can be made of.",
+   "whyB": "To guide is the verb 'lead' (pronounced 'leed'), but pipes cannot be 'made of' an action.",
+   "whyC": "First place is 'lead' as in being ahead in a race, which does not fit a material.",
+   "whyD": "A clue is 'lead' as in a detective's lead, which is not a material either.",
+   "explanationTl": "Maraming meaning ang 'lead'. Dahil 'made of' ang pipes, material ang hinahanap, kaya yung heavy metal (binibigkas na 'led') ang tama.",
+   "hintTl": "Isipin mo kung saan pwedeng gawa ang tubo."
+  }
+ },
+ {
+  "id": 1789195763,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "A/C/D were near-duplicates (dull/boring/uninspiring); replaced C and D",
+  "fields": {
+   "optionC": "Strict",
+   "optionD": "Wealthy",
+   "explanation": "'Charismatic' means having a compelling charm that attracts and inspires people. So a charismatic leader is charming.",
+   "hint": "Think of a leader whom crowds naturally love to follow.",
+   "whyA": "Dull is the opposite of charismatic.",
+   "whyC": "Strict means demanding obedience; a leader can be strict without being charming.",
+   "whyD": "Wealthy means rich, which is about money, not personal appeal.",
+   "explanationTl": "Ang 'charismatic' ay may matinding charm na humihila at nag-i-inspire sa mga tao. Kaya ang charismatic na leader ay charming.",
+   "hintTl": "Isipin mo yung leader na sinusundan ng tao kasi gusto talaga nila siya."
+  }
+ },
+ {
+  "id": 1998902051,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "A/C/D were near-duplicates (logical/sound/valid); replaced C and D; sharpened explanation",
+  "fields": {
+   "optionC": "Lengthy",
+   "optionD": "Persuasive",
+   "explanation": "'Fallacious' means based on a fallacy, a mistake in reasoning, so the argument is false or misleading.",
+   "hint": "The word is related to 'fallacy'.",
+   "whyA": "Logical is the opposite: a fallacious argument has faulty logic.",
+   "whyC": "Lengthy is about how long the argument is, not whether its reasoning is wrong.",
+   "whyD": "A fallacious argument may sound persuasive, but the word means its reasoning is faulty, not that it convinces people.",
+   "explanationTl": "Ang 'fallacious' ay base sa fallacy o mali sa reasoning, kaya ang argument ay mali o misleading.",
+   "hintTl": "Kamag-anak ng word na 'fallacy' ito."
+  }
+ },
+ {
+  "id": 2007151308,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "A/C/D were near-duplicates (serious/earnest/sincere); replaced C and D",
+  "fields": {
+   "optionC": "Bitter",
+   "optionD": "Thoughtful",
+   "explanation": "'Facetious' means joking about something in a way that is not serious or not appropriate. So a facetious remark is flippant.",
+   "hint": "Think of someone joking at a moment that calls for seriousness.",
+   "whyA": "Serious is the opposite of facetious.",
+   "whyC": "Bitter means resentful or angry; a facetious remark is joking, not resentful.",
+   "whyD": "Thoughtful means careful and considerate, the reverse of a flippant joke.",
+   "explanationTl": "Ang 'facetious' ay pagbibiro kahit hindi bagay o dapat seryoso. Kaya ang facetious na remark ay flippant.",
+   "hintTl": "Isipin mo yung taong nagbibiro kahit seryoso ang usapan."
+  }
+ },
+ {
+  "id": 2022023427,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "A/C/D were near-duplicates (careless/sloppy/negligent); replaced C and D",
+  "fields": {
+   "optionC": "Anxious",
+   "optionD": "Boastful",
+   "explanation": "'Meticulous' means showing great attention to detail. Someone meticulous about cleanliness is fastidious, very particular about keeping things clean.",
+   "hint": "Picture someone who notices every speck of dust.",
+   "whyA": "Careless is the opposite of meticulous.",
+   "whyC": "Anxious means worried; being careful about details is not the same as being nervous.",
+   "whyD": "Boastful means bragging, which has nothing to do with attention to detail.",
+   "explanationTl": "Ang 'meticulous' ay sobrang maingat sa details. Kapag meticulous ka sa cleanliness, fastidious ka, ibig sabihin maselan ka sa kalinisan.",
+   "hintTl": "Isipin mo yung taong napapansin kahit konting alikabok."
+  }
+ },
+ {
+  "id": 2101568615,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Banned 'Both A and B'/'None' option set; rewritten as a context-based homonym item",
+  "fields": {
+   "text": "The accused was promised a fair trial.\n\nIn this sentence, 'fair' most nearly means:",
+   "optionA": "Impartial",
+   "optionB": "Carnival",
+   "optionC": "Light-colored",
+   "optionD": "Average",
+   "correctAnswer": "A",
+   "explanation": "'Fair' has several meanings. A fair trial is one that treats both sides equally and without bias, so here it means impartial.",
+   "hint": "Think of what an accused person would want from the judge.",
+   "whyB": "Carnival is the noun 'fair' (like a town fair), which cannot describe a trial.",
+   "whyC": "Light-colored is 'fair' as in fair skin or hair, which does not describe a trial.",
+   "whyD": "Average is 'fair' as in a 'fair' grade, but a fair trial means a just one, not a mediocre one.",
+   "explanationTl": "Maraming meaning ang 'fair'. Ang fair trial ay patas at walang kinikilingan sa magkabilang panig, kaya 'impartial' ang tama.",
+   "hintTl": "Isipin mo kung ano ang gusto ng akusado mula sa judge."
+  }
+ }
+]

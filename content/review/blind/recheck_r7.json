@@ -1,0 +1,416 @@
+[
+ {
+  "id": 413239717,
+  "category": "Analytical Ability",
+  "text": "Scissors is to cutting as pen is to:",
+  "optionA": "Writing",
+  "optionB": "Reading",
+  "optionC": "Erasing",
+  "optionD": "Pointing"
+ },
+ {
+  "id": 1513314115,
+  "category": "Analytical Ability",
+  "text": "Pedal is to bicycle as oar is to:",
+  "optionA": "Rowboat",
+  "optionB": "Airplane",
+  "optionC": "Train",
+  "optionD": "Sailboat"
+ },
+ {
+  "id": 1534995568,
+  "category": "Analytical Ability",
+  "text": "Current : Amperes :: Power :",
+  "optionA": "Watts",
+  "optionB": "Joules",
+  "optionC": "Volts",
+  "optionD": "Newtons"
+ },
+ {
+  "id": 2095764249,
+  "category": "Analytical Ability",
+  "text": "Chef : Cook :: Dancer :",
+  "optionA": "Perform",
+  "optionB": "Dance",
+  "optionC": "Teach",
+  "optionD": "Watch"
+ },
+ {
+  "id": 116522408,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To learn coding, one must practice regularly.\" Which is assumed in the statement?",
+  "optionA": "Coding skill is built up through repeated practice",
+  "optionB": "Coding can be learned without a teacher",
+  "optionC": "Anyone who practices regularly will become a good coder",
+  "optionD": "Coding is harder to learn than other skills"
+ },
+ {
+  "id": 414785518,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To succeed in science, one must experiment.\" Which is assumed in the statement?",
+  "optionA": "Every experiment leads to a scientific discovery",
+  "optionB": "Science is the most important field of study",
+  "optionC": "Experiments are a necessary part of doing good science",
+  "optionD": "Scientists work better in teams"
+ },
+ {
+  "id": 1105149904,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To excel in sports, one must practice daily.\" Which is assumed in the statement?",
+  "optionA": "Natural talent does not matter in sports",
+  "optionB": "Daily practice improves sports performance",
+  "optionC": "Athletes who practice daily always win",
+  "optionD": "Sports are more popular than other hobbies"
+ },
+ {
+  "id": 1662984017,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To run a marathon, one must train.\" Which is assumed in the statement?",
+  "optionA": "Marathons are only for professional athletes",
+  "optionB": "Anyone who trains will finish a marathon",
+  "optionC": "Training should start a year before the race",
+  "optionD": "A marathon is too demanding to finish without preparation"
+ },
+ {
+  "id": 696609522,
+  "category": "Analytical Ability",
+  "text": "If 2=12, 3=22, 4=34, 5=?",
+  "optionA": "48",
+  "optionB": "49",
+  "optionC": "50",
+  "optionD": "51"
+ },
+ {
+  "id": 1678692415,
+  "category": "Analytical Ability",
+  "text": "In a data interpretation graph showing temperatures: Day 1 10°C, Day 2 15°C, Day 3 20°C. What is the average temperature?",
+  "optionA": "13°C",
+  "optionB": "15°C",
+  "optionC": "17°C",
+  "optionD": "19°C"
+ },
+ {
+  "id": 313181633,
+  "category": "Analytical Ability",
+  "text": "A is B's mother, B is C's sister, and C is a girl. C is A's:",
+  "optionA": "Daughter",
+  "optionB": "Son",
+  "optionC": "Granddaughter",
+  "optionD": "Niece"
+ },
+ {
+  "id": 326968816,
+  "category": "Analytical Ability",
+  "text": "All chefs cook. Some people are chefs. Therefore, some people cook. Is the argument valid or invalid?",
+  "optionA": "Valid",
+  "optionB": "Invalid, because 'some' cannot lead to a conclusion",
+  "optionC": "Invalid, because not all people are chefs",
+  "optionD": "Invalid, because non-chefs also cook"
+ },
+ {
+  "id": 1970276575,
+  "category": "Analytical Ability",
+  "text": "All musicians perform. Some people are musicians. Which conclusion follows?",
+  "optionA": "Some people perform",
+  "optionB": "All people perform",
+  "optionC": "Some people do not perform",
+  "optionD": "All performers are musicians"
+ },
+ {
+  "id": 120164668,
+  "category": "General Information",
+  "text": "The present Philippine Constitution was ratified in a nationwide plebiscite held in what year?",
+  "optionA": "1987",
+  "optionB": "1973",
+  "optionC": "1935",
+  "optionD": "1986"
+ },
+ {
+  "id": 1357790381,
+  "category": "General Information",
+  "text": "Under Article II, Section 18 of the 1987 Constitution, the State affirms labor as:",
+  "optionA": "the backbone of national industrialization",
+  "optionB": "a primary social economic force",
+  "optionC": "an equal partner of capital in all enterprises",
+  "optionD": "the foundation of the nation"
+ },
+ {
+  "id": 165664840,
+  "category": "General Information",
+  "text": "Which institution issues Philippine peso bills and coins and serves as the country’s independent central monetary authority?",
+  "optionA": "Department of Finance",
+  "optionB": "Bureau of the Treasury",
+  "optionC": "Land Bank of the Philippines",
+  "optionD": "Bangko Sentral ng Pilipinas"
+ },
+ {
+  "id": 561712936,
+  "category": "General Information",
+  "text": "Which river flows through Manila and connects Laguna de Bay to Manila Bay?",
+  "optionA": "Marikina River",
+  "optionB": "Pasig River",
+  "optionC": "Pampanga River",
+  "optionD": "Cagayan River"
+ },
+ {
+  "id": 651558414,
+  "category": "General Information",
+  "text": "A wind turbine converts which form of energy into electricity?",
+  "optionA": "Chemical energy",
+  "optionB": "Nuclear energy",
+  "optionC": "Kinetic energy",
+  "optionD": "Thermal energy"
+ },
+ {
+  "id": 1130976751,
+  "category": "General Information",
+  "text": "What is the longest river in the Philippines?",
+  "optionA": "Rio Grande de Mindanao",
+  "optionB": "Agusan River",
+  "optionC": "Pampanga River",
+  "optionD": "Cagayan River"
+ },
+ {
+  "id": 1232696367,
+  "category": "General Information",
+  "text": "Which city is the capital of the Philippines?",
+  "optionA": "Quezon City",
+  "optionB": "Manila",
+  "optionC": "Makati City",
+  "optionD": "Pasay City"
+ },
+ {
+  "id": 1355532793,
+  "category": "General Information",
+  "text": "Chlorofluorocarbons (CFCs), once common in refrigerators and air conditioners, are being phased out mainly because they:",
+  "optionA": "deplete the ozone layer",
+  "optionB": "cause acid rain",
+  "optionC": "are radioactive",
+  "optionD": "contaminate groundwater"
+ },
+ {
+  "id": 1595912791,
+  "category": "General Information",
+  "text": "Who formulated the law of universal gravitation?",
+  "optionA": "Albert Einstein",
+  "optionB": "Isaac Newton",
+  "optionC": "Galileo Galilei",
+  "optionD": "Stephen Hawking"
+ },
+ {
+  "id": 1774245905,
+  "category": "General Information",
+  "text": "The Banaue Rice Terraces are found in which province?",
+  "optionA": "Benguet",
+  "optionB": "Mountain Province",
+  "optionC": "Kalinga",
+  "optionD": "Ifugao"
+ },
+ {
+  "id": 1923130828,
+  "category": "General Information",
+  "text": "Who wrote the Tagalog metrical romance \"Florante at Laura\"?",
+  "optionA": "Jose Rizal",
+  "optionB": "Severino Reyes",
+  "optionC": "Francisco Balagtas",
+  "optionD": "Jose Corazon de Jesus"
+ },
+ {
+  "id": 2043994268,
+  "category": "General Information",
+  "text": "What is the longest mountain range in the Philippines?",
+  "optionA": "Cordillera Central",
+  "optionB": "Caraballo Mountains",
+  "optionC": "Zambales Mountains",
+  "optionD": "Sierra Madre"
+ },
+ {
+  "id": 1788748540,
+  "category": "General Information",
+  "text": "Which bird was declared the national bird of the Philippines in 1995?",
+  "optionA": "Maya",
+  "optionB": "Philippine Cockatoo",
+  "optionC": "Philippine Eagle",
+  "optionD": "Rufous Hornbill"
+ },
+ {
+  "id": 1844558306,
+  "category": "Numerical Ability",
+  "text": "If u = v × w and v = 4, w = 5, what is u?",
+  "optionA": "20",
+  "optionB": "9",
+  "optionC": "1",
+  "optionD": "25"
+ },
+ {
+  "id": 1501371987,
+  "category": "Numerical Ability",
+  "text": "1/3 + 1/3 = ?",
+  "optionA": "2/3",
+  "optionB": "2/6",
+  "optionC": "1/9",
+  "optionD": "1/6"
+ },
+ {
+  "id": 118872779,
+  "category": "Numerical Ability",
+  "text": "What is the measure of each interior angle of a regular octagon?",
+  "optionA": "120°",
+  "optionB": "135°",
+  "optionC": "144°",
+  "optionD": "1,080°"
+ },
+ {
+  "id": 490956332,
+  "category": "Numerical Ability",
+  "text": "A microwave oven priced at ₱3,000 is sold at a 33% discount. What is the final price?",
+  "optionA": "₱2,010",
+  "optionB": "₱2,000",
+  "optionC": "₱2,100",
+  "optionD": "₱1,900"
+ },
+ {
+  "id": 1620882769,
+  "category": "Numerical Ability",
+  "text": "A wallet priced at ₱500 is marked 20% off, and the cashier then takes another 10% off the sale price. What is the final price?",
+  "optionA": "₱350",
+  "optionB": "₱360",
+  "optionC": "₱400",
+  "optionD": "₱450"
+ },
+ {
+  "id": 1941691772,
+  "category": "Numerical Ability",
+  "text": "A bus leaves Butuan at 8:30 AM and reaches a town 225 km away at 12:15 PM. What is its average speed?",
+  "optionA": "60 km/h",
+  "optionB": "75 km/h",
+  "optionC": "50 km/h",
+  "optionD": "56.25 km/h"
+ },
+ {
+  "id": 950767701,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 2, 4, 6, 8, ?",
+  "optionA": "10",
+  "optionB": "9",
+  "optionC": "12",
+  "optionD": "7"
+ },
+ {
+  "id": 1401195273,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 4, 9, 16, 25, 36, ?",
+  "optionA": "49",
+  "optionB": "40",
+  "optionC": "45",
+  "optionD": "50"
+ },
+ {
+  "id": 1529363246,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 4, 8, 12, 16, 20, ?",
+  "optionA": "24",
+  "optionB": "22",
+  "optionC": "26",
+  "optionD": "18"
+ },
+ {
+  "id": 362914008,
+  "category": "Numerical Ability",
+  "text": "A square lot has a perimeter of 48 m. What is its area?",
+  "optionA": "576 m²",
+  "optionB": "96 m²",
+  "optionC": "144 m²",
+  "optionD": "192 m²"
+ },
+ {
+  "id": 1770394816,
+  "category": "Numerical Ability",
+  "text": "Ana bought 7 notebooks at ₱35 each and paid with a ₱500 bill. How much change did she get?",
+  "optionA": "₱245",
+  "optionB": "₱275",
+  "optionC": "₱465",
+  "optionD": "₱255"
+ },
+ {
+  "id": 22064127,
+  "category": "Numerical Ability",
+  "text": "If 10 workers can build a house in 20 days, how many days will 20 workers take, working at the same rate?",
+  "optionA": "10 days",
+  "optionB": "20 days",
+  "optionC": "5 days",
+  "optionD": "15 days"
+ },
+ {
+  "id": 782317538,
+  "category": "Verbal Ability",
+  "text": "Which sentence is correct?",
+  "optionA": "Yesterday, they was going to the market.",
+  "optionB": "Yesterday, they were going to the market.",
+  "optionC": "Yesterday, they is going to the market.",
+  "optionD": "Yesterday, they are going to the market."
+ },
+ {
+  "id": 2064729706,
+  "category": "Verbal Ability",
+  "text": "Arrange the sentences in logical order: (1) The pan is placed in the oven to bake. (2) The batter is poured into a greased pan. (3) The ingredients are mixed into a smooth batter. (4) The cooled cake is sliced and served.",
+  "optionA": "3-2-1-4",
+  "optionB": "2-3-1-4",
+  "optionC": "1-2-3-4",
+  "optionD": "3-1-2-4"
+ },
+ {
+  "id": 163859528,
+  "category": "Verbal Ability",
+  "text": "Her explanation was lucid.\n\nIn this sentence, 'lucid' most nearly means:",
+  "optionA": "Confusing",
+  "optionB": "Clear",
+  "optionC": "Lengthy",
+  "optionD": "Emotional"
+ },
+ {
+  "id": 195027882,
+  "category": "Verbal Ability",
+  "text": "He is fastidious.\n\nIn this sentence, 'fastidious' most nearly means:",
+  "optionA": "Lazy",
+  "optionB": "Meticulous",
+  "optionC": "Generous",
+  "optionD": "Forgetful"
+ },
+ {
+  "id": 1050194713,
+  "category": "Verbal Ability",
+  "text": "The rumor spread rapidly.\n\nIn this sentence, 'rapidly' most nearly means:",
+  "optionA": "Slowly",
+  "optionB": "Quickly",
+  "optionC": "Quietly",
+  "optionD": "Secretly"
+ },
+ {
+  "id": 1405879297,
+  "category": "Verbal Ability",
+  "text": "He is pragmatic.\n\nIn this sentence, 'pragmatic' most nearly means:",
+  "optionA": "Idealistic",
+  "optionB": "Practical",
+  "optionC": "Stubborn",
+  "optionD": "Talkative"
+ },
+ {
+  "id": 1511850923,
+  "category": "Verbal Ability",
+  "text": "In the sentence 'The light is on,' the word 'light' most nearly means:",
+  "optionA": "Not heavy",
+  "optionB": "Illumination",
+  "optionC": "Pale in color",
+  "optionD": "Gentle or soft"
+ },
+ {
+  "id": 2144520768,
+  "category": "Verbal Ability",
+  "text": "The plan was feasible.\n\nIn this sentence, 'feasible' most nearly means:",
+  "optionA": "Impossible",
+  "optionB": "Possible",
+  "optionC": "Expensive",
+  "optionD": "Popular"
+ }
+]

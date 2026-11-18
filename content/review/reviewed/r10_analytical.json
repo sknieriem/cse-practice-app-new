@@ -1,0 +1,44 @@
+[
+ {
+  "id": 778774309,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Original pair relation was vague (caution 'is' a warning vs radar 'is for' detection) and D 'alert: track' was arguable; rebuilt as a clean device-to-function analogy.",
+  "fields": {
+   "text": "Thermometer is to measuring as radar is to:",
+   "optionA": "Broadcasting",
+   "optionB": "Detecting",
+   "optionC": "Forecasting",
+   "optionD": "Recording",
+   "correctAnswer": "B",
+   "difficulty": 1,
+   "explanation": "The relationship is device to its main function: a thermometer is used for measuring (temperature), and a radar is used for detecting (objects and their distance).",
+   "steps": "1. Find the relationship in the first pair: a thermometer is a device; measuring is what it does.\n2. Apply the same relationship to radar: what is a radar's main job?\n3. A radar sends out radio waves to detect objects and their position.\n4. Answer: Detecting.",
+   "hint": "Ask what each instrument is mainly used to do.",
+   "whyA": "Broadcasting is sending out programs to an audience (radio/TV), not a radar's purpose.",
+   "whyC": "Forecasting is a use of radar data by weather experts; the radar itself only detects.",
+   "whyD": "Recording is storing information, which is not the main function of a radar.",
+   "explanationTl": "Ang relationship dito ay device at ang main function niya: ang thermometer ay ginagamit sa measuring ng temperature, at ang radar naman ay ginagamit sa detecting ng mga bagay at kung gaano kalayo sila.",
+   "stepsTl": "1. Tingnan ang relationship sa first pair: ang thermometer ay device, at measuring ang trabaho niya.\n2. I-apply ang parehong relationship sa radar: ano ang main na trabaho ng radar?\n3. Nagpapadala ang radar ng radio waves para ma-detect ang mga bagay at ang position nila.\n4. Sagot: Detecting.",
+   "hintTl": "Tanungin mo sarili mo: para saan ba talaga ginagamit ang bawat instrument?"
+  }
+ },
+ {
+  "id": 1628467119,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; simple tool-to-function analogy, so difficulty lowered to 1; teaching fields added.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The relationship is tool to its main action: a knife is used for slicing, and a hammer is used for pounding (driving nails).",
+   "steps": "1. Find the relationship in the first pair: a knife is a tool; slicing is its main action.\n2. Apply the same relationship to hammer: what is a hammer mainly used for?\n3. A hammer strikes or drives nails, which is pounding.\n4. Answer: Pounding.",
+   "hint": "Think of the basic motion you make when you use a hammer.",
+   "whyB": "Cutting is what the knife does, not the hammer; this repeats the first pair's action.",
+   "whyC": "Shaping can be a result of hammering metal, but it is not the hammer's basic action.",
+   "whyD": "Drilling is done with a drill, not a hammer.",
+   "explanationTl": "Ang relationship ay tool at ang main action niya: ang knife ay pang-slicing, at ang hammer naman ay pang-pounding, like pagpukpok ng pako.",
+   "stepsTl": "1. Tingnan ang relationship sa first pair: ang knife ay tool, at slicing ang main action niya.\n2. I-apply sa hammer: para saan ba madalas ginagamit ang martilyo?\n3. Pinupukpok ng hammer ang pako, so pounding iyon.\n4. Sagot: Pounding.",
+   "hintTl": "Isipin mo kung anong galaw ang ginagawa mo kapag gumagamit ka ng martilyo."
+  }
+ }
+]

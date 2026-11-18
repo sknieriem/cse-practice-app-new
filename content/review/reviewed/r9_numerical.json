@@ -1,0 +1,888 @@
+[
+ {
+  "id": 30964422,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "text": "If z = x × y, x = 5 and y = 5, what is z?",
+   "explanation": "Substitute: z = 5 × 5 = 25.",
+   "steps": "1. Replace the letters with their given values.\n2. z = 5 × 5 = 25.",
+   "stepsTl": "1. Palitan ng given values ang mga letra.\n2. z = 5 × 5 = 25.",
+   "whyB": "10 adds x and y (5 + 5) instead of multiplying.",
+   "whyC": "0 subtracts (5 − 5) instead of multiplying.",
+   "whyD": "30 is a multiplication slip; 5 × 5 = 25.",
+   "explanationTl": "I-substitute lang: z = 5 × 5 = 25."
+  }
+ },
+ {
+  "id": 80115330,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "text": "If x = y − z, y = 25 and z = 10, what is x?",
+   "explanation": "Substitute: x = 25 − 10 = 15.",
+   "steps": "1. Replace the letters with their given values.\n2. x = 25 − 10 = 15.",
+   "stepsTl": "1. Palitan ng given values ang mga letra.\n2. x = 25 − 10 = 15.",
+   "whyB": "35 adds (25 + 10) instead of subtracting.",
+   "whyC": "10 is just the value of z, not y − z.",
+   "whyD": "5 is a subtraction slip; 25 − 10 = 15.",
+   "explanationTl": "I-substitute lang: x = 25 − 10 = 15."
+  }
+ },
+ {
+  "id": 269539567,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; steps tidied, hint fitted, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Subtract 9 from both sides: x = 15 − 9 = 6.\nCheck: 6 + 9 = 15 ✓",
+   "stepsTl": "1. Ibawas ang 9 sa magkabilang side: x = 15 − 9 = 6.\nCheck: 6 + 9 = 15 ✓",
+   "hint": "Do the opposite of \"+ 9\" to both sides.",
+   "hintTl": "Gawin ang kabaligtaran ng \"+ 9\" sa magkabilang side.",
+   "whyB": "5 is a subtraction slip; 5 + 9 = 14, not 15.",
+   "whyC": "7 is a subtraction slip; 7 + 9 = 16, not 15.",
+   "whyD": "8 is a subtraction slip; 8 + 9 = 17, not 15.",
+   "explanationTl": "Ibawas ang 9 sa magkabilang side: x = 15 − 9 = 6."
+  }
+ },
+ {
+  "id": 399223859,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation fuller, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Subtract 3 from both sides (6x = 18), then divide by 6: x = 3.",
+   "explanationTl": "Ibawas ang 3 sa magkabilang side (6x = 18), tapos i-divide sa 6: x = 3."
+  }
+ },
+ {
+  "id": 401138244,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; lost × in explanation ('72 = 14'), steps/hint/whys/Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Multiply both sides by 2: x = 7 × 2 = 14.",
+   "steps": "1. x/2 means x divided by 2.\n2. Multiply both sides by 2: x = 7 × 2 = 14.\nCheck: 14 ÷ 2 = 7 ✓",
+   "hint": "What operation undoes dividing by 2?",
+   "whyB": "3.5 divides 7 by 2 instead of multiplying.",
+   "whyC": "7 leaves the right side unchanged; you still have to undo the ÷ 2.",
+   "whyD": "2 is the divisor, not the value of x.",
+   "explanationTl": "I-multiply sa 2 ang magkabilang side: x = 7 × 2 = 14.",
+   "stepsTl": "1. Ang x/2 ay x divided by 2.\n2. I-multiply sa 2 ang magkabilang side: x = 7 × 2 = 14.\nCheck: 14 ÷ 2 = 7 ✓",
+   "hintTl": "Anong operation ang kabaligtaran ng pag-divide sa 2?"
+  }
+ },
+ {
+  "id": 1541189285,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; steps tidied, whys specific, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Add 8 to both sides: x = 12 + 8 = 20.\nCheck: 20 − 8 = 12 ✓",
+   "stepsTl": "1. Idagdag ang 8 sa magkabilang side: x = 12 + 8 = 20.\nCheck: 20 − 8 = 12 ✓",
+   "hint": "Do the opposite of \"− 8\" to both sides.",
+   "hintTl": "Gawin ang kabaligtaran ng \"− 8\" sa magkabilang side.",
+   "whyB": "4 subtracts 8 from 12 instead of adding.",
+   "whyC": "16 is an addition slip; 12 + 8 = 20.",
+   "whyD": "24 is an addition slip; 12 + 8 = 20.",
+   "explanationTl": "Idagdag ang 8 sa magkabilang side: x = 12 + 8 = 20."
+  }
+ },
+ {
+  "id": 1552137391,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "text": "If t = u + v, u = 11 and v = 4, what is t?",
+   "explanation": "Substitute: t = 11 + 4 = 15.",
+   "steps": "1. Replace the letters with their given values.\n2. t = 11 + 4 = 15.",
+   "stepsTl": "1. Palitan ng given values ang mga letra.\n2. t = 11 + 4 = 15.",
+   "whyB": "7 subtracts (11 − 4) instead of adding.",
+   "whyC": "16 is an addition slip; 11 + 4 = 15.",
+   "whyD": "10 is an addition slip; 11 + 4 = 15.",
+   "explanationTl": "I-substitute lang: t = 11 + 4 = 15."
+  }
+ },
+ {
+  "id": 1709508975,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; hint fitted, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Divide both sides by 3: x = 15 ÷ 3 = 5.",
+   "hint": "3x means 3 times x. What undoes multiplying by 3?",
+   "hintTl": "Ang 3x ay 3 times x. Ano ang kabaligtaran ng pag-multiply sa 3?",
+   "explanationTl": "I-divide sa 3 ang magkabilang side: x = 15 ÷ 3 = 5."
+  }
+ },
+ {
+  "id": 1711590104,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "text": "If g = h ÷ i, h = 18 and i = 3, what is g?",
+   "explanation": "Substitute: g = 18 ÷ 3 = 6.",
+   "steps": "1. Replace the letters with their given values.\n2. g = 18 ÷ 3 = 6.",
+   "stepsTl": "1. Palitan ng given values ang mga letra.\n2. g = 18 ÷ 3 = 6.",
+   "whyB": "15 subtracts (18 − 3) instead of dividing.",
+   "whyC": "21 adds (18 + 3) instead of dividing.",
+   "whyD": "5 is a division slip; 18 ÷ 3 = 6.",
+   "explanationTl": "I-substitute lang: g = 18 ÷ 3 = 6."
+  }
+ },
+ {
+  "id": 1785779591,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation fuller, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Add 6 to both sides (3x = 15), then divide by 3: x = 5.",
+   "explanationTl": "Idagdag ang 6 sa magkabilang side (3x = 15), tapos i-divide sa 3: x = 5."
+  }
+ },
+ {
+  "id": 1845148216,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; steps tidied, whys specific, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Add 5 to both sides: x = 10 + 5 = 15.\nCheck: 15 − 5 = 10 ✓",
+   "stepsTl": "1. Idagdag ang 5 sa magkabilang side: x = 10 + 5 = 15.\nCheck: 15 − 5 = 10 ✓",
+   "hint": "Do the opposite of \"− 5\" to both sides.",
+   "hintTl": "Gawin ang kabaligtaran ng \"− 5\" sa magkabilang side.",
+   "whyB": "5 subtracts 5 from 10 instead of adding.",
+   "whyC": "10 leaves the right side unchanged; you still have to undo the − 5.",
+   "whyD": "20 is an addition slip; 10 + 5 = 15.",
+   "explanationTl": "Idagdag ang 5 sa magkabilang side: x = 10 + 5 = 15."
+  }
+ },
+ {
+  "id": 3630601,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; whys made specific, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "0.25 is 1/4, not 1/8.",
+   "whyC": "0.5 is 1/2, not 1/8.",
+   "whyD": "0.1 is 1/10; it treats the 8 like a 10.",
+   "explanationTl": "I-divide ang 1 sa 8: 1 ÷ 8 = 0.125."
+  }
+ },
+ {
+  "id": 24143042,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; lost × in stem/explanation ('(18)/(42)'), steps didn't match stem, whys/Taglish fixed",
+  "fields": {
+   "difficulty": 1,
+   "text": "1/4 × 8/2 = ?",
+   "explanation": "(1 × 8)/(4 × 2) = 8/8 = 1.",
+   "steps": "1. Multiply the numerators: 1 × 8 = 8.\n2. Multiply the denominators: 4 × 2 = 8.\n3. Simplify: 8/8 = 1.",
+   "stepsTl": "1. I-multiply ang numerators: 1 × 8 = 8.\n2. I-multiply ang denominators: 4 × 2 = 8.\n3. I-simplify: 8/8 = 1.",
+   "hintTl": "Numerator × numerator, denominator × denominator, tapos i-simplify.",
+   "whyB": "2 is 1/4 × 8; it forgets to divide by the 2 in 8/2.",
+   "whyC": "4 is just 8/2 simplified; you still have to multiply it by 1/4.",
+   "whyD": "0.5 is half the answer; recheck the tops: 1 × 8 = 8, so 8/8 = 1.",
+   "explanationTl": "(1 × 8)/(4 × 2) = 8/8 = 1."
+  }
+ },
+ {
+  "id": 869811056,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; whys made specific, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "0.25 is 1/4; 2/4 simplifies to 1/2.",
+   "whyC": "0.75 is 3/4, not 2/4.",
+   "whyD": "0.4 is 2/5, not 2/4.",
+   "explanationTl": "I-divide ang 2 sa 4: 2 ÷ 4 = 0.5 (kasi 2/4 = 1/2)."
+  }
+ },
+ {
+  "id": 1015392083,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "all four options equalled 1 (1, 12/12, 7/7, 1/1); new product item with one answer",
+  "fields": {
+   "difficulty": 1,
+   "text": "3/4 × 2/3 = ?",
+   "optionA": "9/8",
+   "optionB": "5/7",
+   "optionC": "1/2",
+   "optionD": "6/7",
+   "correctAnswer": "C",
+   "explanation": "(3 × 2)/(4 × 3) = 6/12 = 1/2.",
+   "steps": "1. Multiply the numerators: 3 × 2 = 6.\n2. Multiply the denominators: 4 × 3 = 12.\n3. Simplify: 6/12 = 1/2.",
+   "stepsTl": "1. I-multiply ang numerators: 3 × 2 = 6.\n2. I-multiply ang denominators: 4 × 3 = 12.\n3. I-simplify: 6/12 = 1/2.",
+   "hint": "Top × top, bottom × bottom, then simplify.",
+   "hintTl": "Numerator × numerator, denominator × denominator, tapos i-simplify.",
+   "whyA": "9/8 flips the second fraction; that is division, not multiplication.",
+   "whyB": "5/7 adds the tops and the bottoms instead of multiplying.",
+   "whyD": "6/7 multiplies the tops but adds the bottoms (4 + 3).",
+   "explanationTl": "(3 × 2)/(4 × 3) = 6/12, at kapag sinimplify, 1/2."
+  }
+ },
+ {
+  "id": 1148606973,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; whys made specific, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "0.5 is 2/4 (1/2), not 3/4.",
+   "whyC": "0.25 is 1/4, not 3/4.",
+   "whyD": "1.0 is 4/4, a whole.",
+   "explanationTl": "I-divide ang 3 sa 4: 3 ÷ 4 = 0.75."
+  }
+ },
+ {
+  "id": 1752561608,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; whys specific, Taglish hint fitted, difficulty 1",
+  "fields": {
+   "difficulty": 1,
+   "hintTl": "Keep, change, flip: gawing × ang ÷, tapos baligtarin ang second fraction.",
+   "whyB": "2/5 is just the first fraction left unchanged.",
+   "whyC": "1 would mean the two fractions are equal; 2/5 is only half of 4/5.",
+   "whyD": "8/25 multiplies straight across without flipping 4/5.",
+   "explanationTl": "Keep-change-flip: 2/5 × 5/4 = 10/20 = 1/2."
+  }
+ },
+ {
+  "id": 2036006001,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; steps tidied, whys specific, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. The denominators are the same (5), so add the numerators: 2 + 1 = 3.\n2. Keep the denominator: 3/5.",
+   "stepsTl": "1. Pareho ang denominator (5), kaya i-add lang ang numerators: 2 + 1 = 3.\n2. Same denominator pa rin: 3/5.",
+   "hintTl": "Kapag pareho ang denominator, i-add lang ang numerators.",
+   "whyB": "1/5 subtracts (2 − 1) instead of adding.",
+   "whyC": "4/5 is an addition slip; 2 + 1 = 3.",
+   "whyD": "5/5 = 1 is too big; 2/5 + 1/5 is less than a whole.",
+   "explanationTl": "Pareho ang denominator, kaya 2 + 1 = 3: ang sagot ay 3/5."
+  }
+ },
+ {
+  "id": 2134528283,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "option D '3/3' also equalled 1 (second answer); replaced with 3/6",
+  "fields": {
+   "difficulty": 1,
+   "optionD": "3/6",
+   "steps": "1. The denominators are the same (3), so add the numerators: 1 + 2 = 3.\n2. 3/3 = 1.",
+   "stepsTl": "1. Pareho ang denominator (3), kaya i-add ang numerators: 1 + 2 = 3.\n2. 3/3 = 1.",
+   "hintTl": "Kapag pareho ang denominator, i-add lang ang numerators.",
+   "whyB": "1/3 subtracts (2/3 − 1/3) instead of adding.",
+   "whyC": "2/3 is only the second fraction; you still have to add 1/3.",
+   "whyD": "3/6 adds the tops AND the bottoms; keep the common denominator 3.",
+   "explanationTl": "1/3 + 2/3 = 3/3, at ang 3/3 ay 1."
+  }
+ },
+ {
+  "id": 444838310,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation adds 1/8 shortcut, whyD specific, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "12.5% = 0.125 (or 1/8), so 0.125 × 80 = 10.",
+   "whyD": "15 is too high; 12.5% is 1/8, and 80 ÷ 8 = 10.",
+   "explanationTl": "Ang 12.5% ay 1/8, kaya 80 ÷ 8 = 10."
+  }
+ },
+ {
+  "id": 607748819,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "0.18 × 500 = 90. (10% ng 500 = 50, 8% = 40, kaya 90.)"
+  }
+ },
+ {
+  "id": 636091509,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; whys specific, difficulty 1, Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "whyB": "100 is about 33% (1/3) of 300, not 35%.",
+   "whyC": "110 is too high; 10% of 300 is 30, so 35% = 3.5 × 30 = 105.",
+   "whyD": "95 is too low; 35% of 300 = 105.",
+   "explanationTl": "0.35 × 300 = 105."
+  }
+ },
+ {
+  "id": 944048397,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; stem clarified, ₱ units on options, whys specific, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "text": "A book priced at ₱300 is sold at a 25% discount. What is the sale price?",
+   "optionA": "₱225",
+   "optionB": "₱250",
+   "optionC": "₱200",
+   "optionD": "₱275",
+   "explanation": "25% of ₱300 = ₱75, so ₱300 − ₱75 = ₱225.",
+   "whyB": "₱250 subtracts only ₱50 instead of the ₱75 discount.",
+   "whyC": "₱200 subtracts ₱100, which would be a 33⅓% discount.",
+   "whyD": "₱275 subtracts only ₱25, treating 25% as ₱25.",
+   "explanationTl": "Ang 25% ng ₱300 ay ₱75, kaya ₱300 − ₱75 = ₱225."
+  }
+ },
+ {
+  "id": 1256121476,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; stem clarified, ₱ units on options, whys specific, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "text": "A hat priced at ₱300 is sold at a 10% discount. What is the sale price?",
+   "optionA": "₱270",
+   "optionB": "₱280",
+   "optionC": "₱290",
+   "optionD": "₱260",
+   "explanation": "10% of ₱300 = ₱30, so ₱300 − ₱30 = ₱270.",
+   "whyB": "₱280 subtracts only ₱20 instead of the ₱30 discount.",
+   "whyC": "₱290 subtracts only ₱10, treating 10% as ₱10.",
+   "whyD": "₱260 subtracts ₱40, more than 10% of ₱300.",
+   "explanationTl": "Ang 10% ng ₱300 ay ₱30, kaya ₱300 − ₱30 = ₱270."
+  }
+ },
+ {
+  "id": 58950500,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; stem clarified, whys specific, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "text": "A plane travels 500 km in 2.5 hours. What is its average speed in km/h?",
+   "whyB": "150 km/h would cover only 375 km in 2.5 hours.",
+   "whyC": "250 divides by 2 and ignores the extra half hour.",
+   "whyD": "100 km/h would cover only 250 km in 2.5 hours.",
+   "explanationTl": "Speed = distance ÷ oras: 500 ÷ 2.5 = 200 km/h."
+  }
+ },
+ {
+  "id": 557427307,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; stem clarified, steps/hint/whys/Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "text": "A robot moves 50 m in 10 seconds. What is its speed in m/s?",
+   "steps": "1. Speed = distance ÷ time.\n2. 50 m ÷ 10 s = 5 m/s.",
+   "stepsTl": "1. Speed = distance ÷ oras.\n2. 50 m ÷ 10 s = 5 m/s.",
+   "hint": "Speed = distance ÷ time.",
+   "hintTl": "Bilis = layo ÷ oras.",
+   "whyB": "4 m/s would cover only 40 m in 10 seconds.",
+   "whyC": "6 m/s would cover 60 m in 10 seconds.",
+   "whyD": "10 is the time in seconds, not the speed.",
+   "explanationTl": "Speed = distance ÷ oras: 50 ÷ 10 = 5 m/s."
+  }
+ },
+ {
+  "id": 1161601848,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "near-duplicate of 58950500 (plane, same answer 200 and options); new arrival-time item",
+  "fields": {
+   "difficulty": 2,
+   "text": "A bus leaves at 7:30 AM and travels 180 km at an average speed of 60 km/h. What time does it arrive?",
+   "optionA": "9:30 AM",
+   "optionB": "10:00 AM",
+   "optionC": "10:30 AM",
+   "optionD": "11:00 AM",
+   "correctAnswer": "C",
+   "explanation": "Travel time = 180 ÷ 60 = 3 hours, and 7:30 AM + 3 hours = 10:30 AM.",
+   "steps": "1. Time = distance ÷ speed = 180 km ÷ 60 km/h = 3 hours.\n2. Add it to the departure time: 7:30 AM + 3 h = 10:30 AM.",
+   "stepsTl": "1. Oras ng biyahe = distance ÷ speed = 180 ÷ 60 = 3 hours.\n2. I-add sa oras ng alis: 7:30 AM + 3 h = 10:30 AM.",
+   "hint": "Find the travel time first, then add it to the departure time.",
+   "hintTl": "Alamin muna kung ilang oras ang biyahe, tapos i-add sa oras ng alis.",
+   "whyA": "9:30 AM adds only 2 hours; 180 ÷ 60 = 3.",
+   "whyB": "10:00 AM adds 2.5 hours; 180 ÷ 60 = 3.",
+   "whyD": "11:00 AM adds 3.5 hours; 180 ÷ 60 = 3.",
+   "explanationTl": "180 ÷ 60 = 3 hours ang biyahe, kaya 7:30 AM + 3 hours = 10:30 AM."
+  }
+ },
+ {
+  "id": 1512852403,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; stem tidied, whys specific, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "text": "A cyclist rides 30 km in 1.5 hours. What is the average speed in km/h?",
+   "whyB": "25 km/h would cover 37.5 km in 1.5 hours.",
+   "whyC": "15 divides 30 by 2, but the time is 1.5 hours, not 2.",
+   "whyD": "30 divides by 1 hour and ignores the extra half hour.",
+   "explanationTl": "Speed = distance ÷ oras: 30 ÷ 1.5 = 20 km/h."
+  }
+ },
+ {
+  "id": 1574272955,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; steps used rounded 0.6667 h, now exact 2/3 h; whys/Taglish added",
+  "fields": {
+   "difficulty": 2,
+   "text": "A runner covers 8 km in 40 minutes. What is the speed in km/h?",
+   "steps": "1. Change minutes to hours: 40 min = 40/60 = 2/3 h.\n2. Speed = 8 ÷ 2/3 = 8 × 3/2 = 12 km/h.",
+   "stepsTl": "1. Gawing hours ang minutes: 40 min = 2/3 h.\n2. Speed = 8 ÷ 2/3 = 8 × 3/2 = 12 km/h.",
+   "whyB": "10 km/h would cover 8 km in 48 minutes, not 40.",
+   "whyC": "14 km/h would cover 8 km in about 34 minutes.",
+   "whyD": "16 km/h would cover 8 km in 30 minutes.",
+   "explanationTl": "Ang 40 minutes ay 2/3 ng isang oras, kaya 8 ÷ 2/3 = 12 km/h."
+  }
+ },
+ {
+  "id": 93140923,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Even numbers ito, dagdag 2: 10 + 2 = 12.",
+   "whyB": "11 adds only 1; the step is 2.",
+   "whyC": "13 adds 3; the step is 2.",
+   "whyD": "9 goes down; the sequence goes up by 2."
+  }
+ },
+ {
+  "id": 99115311,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Squares ito (4², 5², 6², 7²), kaya 8² = 64.",
+   "whyB": "60 adds 11 again; the gaps grow by 2, so the next gap is 15.",
+   "whyC": "70 adds 21; 8² = 64.",
+   "whyD": "55 adds only 6; 8² = 64."
+  }
+ },
+ {
+  "id": 208871148,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Dagdag 5 bawat isa: 20 + 5 = 25.",
+   "whyB": "30 adds 10, skipping a term.",
+   "whyC": "22 adds only 2; the step is 5.",
+   "whyD": "28 adds 8; the step is 5."
+  }
+ },
+ {
+  "id": 230155382,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; lost × in explanation ('57 = 35'), whys/Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Multiples of 7: 5 × 7 = 35.",
+   "whyB": "30 adds only 2; the step is 7.",
+   "whyC": "32 adds 4; the step is 7.",
+   "whyD": "40 adds 12; the step is 7.",
+   "explanation": "Multiples of 7: 5 × 7 = 35."
+  }
+ },
+ {
+  "id": 288502493,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Dagdag 3 bawat isa: 14 + 3 = 17.",
+   "whyB": "16 adds only 2; the step is 3.",
+   "whyC": "15 adds only 1; the step is 3.",
+   "whyD": "18 adds 4; the step is 3."
+  }
+ },
+ {
+  "id": 465554006,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Squares ito (1², 2², ..., 5²), kaya 6² = 36.",
+   "whyB": "30 adds 5; the next gap is 11.",
+   "whyC": "35 adds 10; the next gap is 11 (6² = 36).",
+   "whyD": "40 adds 15; the next gap is 11."
+  }
+ },
+ {
+  "id": 477662742,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; lost × in explanation ('1924 = 768'), whys/Taglish added",
+  "fields": {
+   "difficulty": 2,
+   "explanationTl": "Times 4 bawat isa: 192 × 4 = 768.",
+   "whyB": "384 multiplies by 2; the ratio is 4.",
+   "whyC": "576 multiplies by 3; the ratio is 4.",
+   "whyD": "960 multiplies by 5; the ratio is 4.",
+   "explanation": "Multiply by 4: 192 × 4 = 768."
+  }
+ },
+ {
+  "id": 900470789,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Dagdag 4 bawat isa: 16 + 4 = 20.",
+   "whyB": "18 adds only 2; the step is 4.",
+   "whyC": "22 adds 6; the step is 4.",
+   "whyD": "24 adds 8, skipping a term."
+  }
+ },
+ {
+  "id": 1058068768,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Dagdag 6 bawat isa: 30 + 6 = 36.",
+   "whyB": "32 adds only 2; the step is 6.",
+   "whyC": "35 adds 5; the step is 6.",
+   "whyD": "40 adds 10; the step is 6."
+  }
+ },
+ {
+  "id": 1076032827,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Squares ito (1², 2², 3², 4²), kaya 5² = 25.",
+   "whyB": "20 adds 4; the next gap is 9.",
+   "whyC": "30 adds 14; 5² = 25.",
+   "whyD": "36 is 6², skipping 5²."
+  }
+ },
+ {
+  "id": 1147458080,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Squares ito (1² hanggang 6²), kaya 7² = 49.",
+   "whyB": "40 adds 4; the next gap is 13.",
+   "whyC": "45 adds 9; the next gap is 13.",
+   "whyD": "50 adds 14; the next gap is 13 (7² = 49)."
+  }
+ },
+ {
+  "id": 1276097534,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; steps/hint/whys/Taglish added, difficulty 1",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. Each term is the sum of the two before it: 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.\n2. Next: 5 + 8 = 13.",
+   "stepsTl": "1. Bawat term ay sum ng dalawang nauna: 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.\n2. Kaya ang susunod: 5 + 8 = 13.",
+   "hint": "Compare each term with the two terms before it.",
+   "hintTl": "Ikumpara ang bawat term sa dalawang term bago nito.",
+   "whyB": "10 adds 2, as if the gap were constant.",
+   "whyC": "11 adds 3, repeating the last gap.",
+   "whyD": "12 adds 4, guessing the gaps grow by 1.",
+   "explanationTl": "Ang bawat term ay sum ng dalawang nauna (Fibonacci): 5 + 8 = 13."
+  }
+ },
+ {
+  "id": 1286839637,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "key OK; stem had no question, steps said '× 0.3333' (now ÷ 3), whys/Taglish added",
+  "fields": {
+   "text": "What comes next: 2187, 729, 243, 81, 27, 9, ____?",
+   "steps": "1. Each term is divided by 3: 2187 ÷ 3 = 729, 729 ÷ 3 = 243, and so on.\n2. Next: 9 ÷ 3 = 3.",
+   "stepsTl": "1. Bawat term ay hinahati sa 3: 2187 ÷ 3 = 729, 729 ÷ 3 = 243, at iba pa.\n2. Kaya ang susunod: 9 ÷ 3 = 3.",
+   "whyA": "6 subtracts 3 instead of dividing by 3.",
+   "whyC": "4 roughly halves 9; the rule is ÷ 3, not ÷ 2.",
+   "whyD": "2 is not 9 ÷ 3; the rule is ÷ 3, giving 3.",
+   "explanationTl": "Hinahati sa 3 ang bawat term, kaya 9 ÷ 3 = 3."
+  }
+ },
+ {
+  "id": 1394905072,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "exact duplicate of 465554006; rewritten as a cubes-plus-one series (plain cubes 1, 8, 27, 64 already in bank)",
+  "fields": {
+   "difficulty": 2,
+   "text": "What is the next number in the sequence: 2, 9, 28, 65, ?",
+   "optionA": "125",
+   "optionB": "126",
+   "optionC": "100",
+   "optionD": "217",
+   "correctAnswer": "B",
+   "explanation": "Each term is a cube plus 1: 1³+1, 2³+1, 3³+1, 4³+1, so the next is 5³+1 = 126.",
+   "steps": "1. 2 = 1×1×1 + 1, 9 = 2×2×2 + 1, 28 = 3×3×3 + 1, 65 = 4×4×4 + 1.\n2. Next: 5×5×5 + 1 = 125 + 1 = 126.",
+   "stepsTl": "1. 2 = 1×1×1 + 1, 9 = 2×2×2 + 1, 28 = 3×3×3 + 1, 65 = 4×4×4 + 1.\n2. Kaya ang susunod: 5×5×5 + 1 = 125 + 1 = 126.",
+   "hint": "Compare each term with 1, 8, 27, 64.",
+   "hintTl": "I-compare ang bawat term sa 1, 8, 27, 64.",
+   "whyA": "125 is 5³ but forgets to add the 1 that every term has.",
+   "whyC": "100 comes from guessing a square (10²) instead of following the cube-plus-one pattern.",
+   "explanationTl": "Ang bawat term ay cube plus 1: 1³+1, 2³+1, 3³+1, 4³+1, kaya ang susunod ay 5³+1 = 126.",
+   "whyD": "217 is 6³+1, which skips the 5th term."
+  }
+ },
+ {
+  "id": 1826184778,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; steps/hint/whys/Taglish added, difficulty 1",
+  "fields": {
+   "difficulty": 1,
+   "steps": "1. 2, 3, 5, 7, 11 are prime numbers (divisible only by 1 and themselves).\n2. 12 is divisible by 2, so the next prime is 13.",
+   "stepsTl": "1. Ang 2, 3, 5, 7, 11 ay prime numbers (divisible lang sa 1 at sa sarili).\n2. Ang 12 ay divisible sa 2, kaya ang susunod na prime ay 13.",
+   "hint": "What do these numbers have in common? Check what each can be divided by.",
+   "hintTl": "Ano ang pagkakapareho nila? Tingnan kung saan sila divisible.",
+   "whyB": "14 = 2 × 7, so it is not prime.",
+   "whyC": "15 = 3 × 5, so it is not prime.",
+   "whyD": "17 is prime but skips 13.",
+   "explanationTl": "Prime numbers ito, at ang susunod na prime pagkatapos ng 11 ay 13."
+  }
+ },
+ {
+  "id": 1874968719,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Squares ito (2² hanggang 6²), kaya 7² = 49.",
+   "whyB": "40 adds 4; the next gap is 13.",
+   "whyC": "45 adds 9; the next gap is 13.",
+   "whyD": "50 adds 14; the next gap is 13 (7² = 49)."
+  }
+ },
+ {
+  "id": 1940139030,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Dagdag 3 bawat isa: 15 + 3 = 18.",
+   "whyB": "16 adds only 1; the step is 3.",
+   "whyC": "17 adds 2; the step is 3.",
+   "whyD": "20 adds 5; the step is 3."
+  }
+ },
+ {
+  "id": 1966001898,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; difficulty 1, whys and Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Squares ito (3² hanggang 7²), kaya 8² = 64.",
+   "whyB": "60 adds 11; the next gap is 15.",
+   "whyC": "55 adds only 6; the next gap is 15.",
+   "whyD": "70 adds 21; 8² = 64."
+  }
+ },
+ {
+  "id": 1973072366,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; stepsTl said 'dagdag (-10)', whys/Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Bawas 10 bawat isa: 70 − 10 = 60.",
+   "whyB": "65 subtracts only 5; the step is −10.",
+   "whyC": "75 goes up; the sequence goes down by 10.",
+   "whyD": "55 subtracts 15; the step is −10.",
+   "stepsTl": "1. Pare-pareho ang bawas (10) bawat hakbang.\n2. Kaya ang susunod ay 60."
+  }
+ },
+ {
+  "id": 1981300329,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; lost × in explanation ('512 = 60'), whys/Taglish added",
+  "fields": {
+   "difficulty": 1,
+   "explanationTl": "Multiples of 12: 5 × 12 = 60.",
+   "whyB": "50 adds only 2; the step is 12.",
+   "whyC": "72 adds 24, skipping a term.",
+   "whyD": "54 adds 6; the step is 12.",
+   "explanation": "Multiples of 12: 5 × 12 = 60."
+  }
+ },
+ {
+  "id": 1073181394,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "trivia ('Number of continents?'), not math; new change-making word problem",
+  "fields": {
+   "difficulty": 1,
+   "text": "Ana buys 3 notebooks at ₱25 each and a pen for ₱15. How much change does she get from ₱100?",
+   "optionA": "₱25",
+   "optionB": "₱10",
+   "optionC": "₱60",
+   "optionD": "₱90",
+   "correctAnswer": "B",
+   "explanation": "She spends 3 × ₱25 + ₱15 = ₱90, so her change is ₱100 − ₱90 = ₱10.",
+   "steps": "1. Notebooks: 3 × ₱25 = ₱75.\n2. Total: ₱75 + ₱15 = ₱90.\n3. Change: ₱100 − ₱90 = ₱10.",
+   "stepsTl": "1. Notebooks: 3 × ₱25 = ₱75.\n2. Total: ₱75 + ₱15 = ₱90.\n3. Sukli: ₱100 − ₱90 = ₱10.",
+   "hint": "Find the total cost first, then subtract it from ₱100.",
+   "hintTl": "Alamin muna ang total na gastos, tapos ibawas sa ₱100.",
+   "whyA": "₱25 forgets to include the pen.",
+   "whyC": "₱60 counts only one notebook.",
+   "whyD": "₱90 is the total spent, not the change.",
+   "explanationTl": "₱75 sa notebooks + ₱15 sa pen = ₱90, kaya ang sukli ay ₱100 − ₱90 = ₱10."
+  }
+ },
+ {
+  "id": 712363549,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation clearer, whys added, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Each teacher teaches one class at the same time as the other, so 2 classes still take 1 hour.",
+   "whyB": "2 hours assumes the teachers take turns instead of working at the same time.",
+   "whyC": "0.5 assumes extra teachers speed things up, but there are also more classes.",
+   "whyD": "3 just adds the numbers (1 + 2).",
+   "explanationTl": "Sabay silang nagtuturo, isang class bawat teacher, kaya 1 hour pa rin."
+  }
+ },
+ {
+  "id": 822405742,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation clearer, whys added, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Artists and pictures both doubled, so each artist still draws one picture in 2 days.",
+   "whyB": "4 doubles the time, but the extra artists share the extra pictures.",
+   "whyC": "1 halves the time, but there are also twice as many pictures.",
+   "whyD": "3 has no basis; artists and pictures both doubled, so the time stays 2 days.",
+   "explanationTl": "Dumoble ang artists at dumoble rin ang pictures, kaya 2 days pa rin."
+  }
+ },
+ {
+  "id": 1073969172,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation clearer, whys added, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Drivers and trucks were both halved, so each driver still drives one truck in 4 hours.",
+   "whyB": "2 halves the time, but there are also half as many trucks.",
+   "whyC": "8 doubles the time for fewer drivers, but there are also fewer trucks.",
+   "whyD": "6 has no basis; drivers and trucks were both halved, so the time stays 4 hours.",
+   "explanationTl": "Nahati ang drivers at nahati rin ang trucks, kaya 4 hours pa rin."
+  }
+ },
+ {
+  "id": 1397387693,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation clearer, whys added, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Cooks and meals were both halved, so each cook still cooks one meal in 8 hours.",
+   "whyB": "4 halves the time, but there are also half as many meals.",
+   "whyC": "16 doubles the time for fewer cooks, but there are also fewer meals.",
+   "whyD": "12 has no basis; cooks and meals were both halved, so the time stays 8 hours.",
+   "explanationTl": "Nahati ang cooks at nahati rin ang meals, kaya 8 hours pa rin."
+  }
+ },
+ {
+  "id": 1560003315,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "key OK; explanation clearer, whys added, difficulty 1, Taglish",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Builders and houses both doubled, so each builder's share is unchanged and it still takes 5 months.",
+   "whyB": "10 doubles the time, but the extra builders share the extra houses.",
+   "whyC": "2.5 halves the time, but there are also twice as many houses.",
+   "whyD": "7.5 has no basis; builders and houses both doubled, so the time stays 5 months.",
+   "explanationTl": "Dumoble ang builders at dumoble rin ang houses, kaya 5 months pa rin."
+  }
+ },
+ {
+  "id": 2057559314,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "near-duplicate of 1560003315/2060097319 (same 5-5-5 trick); new real work-rate item",
+  "fields": {
+   "difficulty": 2,
+   "text": "5 chefs can prepare 20 meals in 4 hours. At the same rate, how many hours will 10 chefs need to prepare 60 meals?",
+   "optionA": "12",
+   "optionB": "6",
+   "optionC": "24",
+   "optionD": "3",
+   "correctAnswer": "B",
+   "explanation": "One chef makes 20 ÷ (5 × 4) = 1 meal per hour, so 10 chefs make 10 meals per hour and need 60 ÷ 10 = 6 hours.",
+   "steps": "1. One chef's rate: 20 meals ÷ (5 chefs × 4 h) = 1 meal per hour.\n2. 10 chefs: 10 × 1 = 10 meals per hour.\n3. Time: 60 ÷ 10 = 6 hours.",
+   "stepsTl": "1. Rate ng isang chef: 20 ÷ (5 × 4) = 1 meal kada hour.\n2. 10 chefs: 10 meals kada hour.\n3. Oras: 60 ÷ 10 = 6 hours.",
+   "hint": "Find how many meals ONE chef makes in one hour.",
+   "hintTl": "Alamin muna kung ilang meals ang kaya ng ISANG chef sa isang oras.",
+   "whyA": "12 hours keeps only 5 chefs (60 ÷ 5); it ignores the extra chefs.",
+   "whyC": "24 multiplies by 2 for the extra chefs instead of dividing by 2.",
+   "whyD": "3 is too fast; 10 chefs only double the rate while the meals triple.",
+   "explanationTl": "Isang chef = 1 meal kada hour, kaya 10 chefs = 10 meals kada hour; 60 ÷ 10 = 6 hours."
+  }
+ },
+ {
+  "id": 2060097319,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "near-duplicate of 1560003315 (same 5-5-5 trick); new real work-rate item",
+  "fields": {
+   "difficulty": 2,
+   "text": "4 tailors can sew 12 uniforms in 3 days. At the same rate, how many days will 6 tailors need to sew 30 uniforms?",
+   "optionA": "7.5",
+   "optionB": "10",
+   "optionC": "5",
+   "optionD": "3.75",
+   "correctAnswer": "C",
+   "explanation": "One tailor sews 12 ÷ (4 × 3) = 1 uniform a day, so 6 tailors sew 6 a day and need 30 ÷ 6 = 5 days.",
+   "steps": "1. One tailor's rate: 12 uniforms ÷ (4 tailors × 3 days) = 1 uniform per day.\n2. 6 tailors: 6 × 1 = 6 uniforms per day.\n3. Time: 30 ÷ 6 = 5 days.",
+   "stepsTl": "1. Rate ng isang tailor: 12 ÷ (4 × 3) = 1 uniform kada araw.\n2. 6 tailors: 6 uniforms kada araw.\n3. Araw: 30 ÷ 6 = 5 days.",
+   "hint": "Find how many uniforms ONE tailor sews in one day.",
+   "hintTl": "Alamin muna kung ilang uniform ang kaya ng ISANG tailor sa isang araw.",
+   "whyA": "7.5 days keeps only 4 tailors (4 a day); it ignores the 2 extra tailors.",
+   "whyB": "10 divides 30 by 3, mixing up the days with the daily rate.",
+   "whyD": "3.75 halves 7.5 as if the tailors doubled; 6 is only 1.5 times 4.",
+   "explanationTl": "Isang tailor = 1 uniform kada araw, kaya 6 tailors = 6 kada araw; 30 ÷ 6 = 5 days."
+  }
+ }
+]

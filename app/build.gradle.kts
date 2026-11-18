@@ -110,6 +110,9 @@ dependencies {
     //   implementation("com.patrykandpatrick.vico:compose-m3:2.4.3")
     implementation("com.patrykandpatrick.vico:compose:2.4.3")
 
+    // QR code on share cards — zxing core only (pure Java, offline encoder, no camera/network)
+    implementation("com.google.zxing:core:3.5.3")
+
     // JSON
     implementation("com.google.code.gson:gson:2.11.0")
 

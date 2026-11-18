@@ -1,0 +1,352 @@
+[
+ {
+  "id": 981269248,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1034163153,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1046167917,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1128962153,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1239217986,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1239572957,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1258482156,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1280563863,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1581340133,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1721921059,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1722694396,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1874868955,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1894759780,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1944936683,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 2002118777,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 2026231194,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 2142351537,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 2144379484,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 21637000,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 616752205,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 819016037,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1168844396,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1450218721,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1583697436,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1616971220,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1662033560,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1727789032,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1795293669,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1844218369,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 61612099,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 71613500,
+  "answer": "A",
+  "confidence": "unsure",
+  "ambiguous": true,
+  "note": "Fibonacci-style 5+8=13, but differences 1,2,3 -> +4 gives 12 (option C)"
+ },
+ {
+  "id": 229668329,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 295236567,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 313706109,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 708795230,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 771212884,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 843768879,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 976181267,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 994011568,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1004781068,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x3: 729"
+ },
+ {
+  "id": 1009460950,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1082197594,
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "x2: 32"
+ },
+ {
+  "id": 1128166657,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1330807307,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1426312682,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1671064592,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1756506514,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1932086141,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1337583559,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ },
+ {
+  "id": 1359859362,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "direct computation"
+ }
+]

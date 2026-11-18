@@ -1,0 +1,102 @@
+[
+ {
+  "id": 336675233,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Calculator is to computing as telescope is to:",
+  "optionA": "Observing",
+  "optionB": "Measuring",
+  "optionC": "Recording",
+  "optionD": "Navigating"
+ },
+ {
+  "id": 1044464886,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Book is to reading as fork is to:",
+  "optionA": "Drawing",
+  "optionB": "Eating",
+  "optionC": "Writing",
+  "optionD": "Cooking"
+ },
+ {
+  "id": 1241605545,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Volume : Cubic meters :: Mass :",
+  "optionA": "Kilograms",
+  "optionB": "Meters",
+  "optionC": "Seconds",
+  "optionD": "Liters"
+ },
+ {
+  "id": 1550681737,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Clock is to time as thermometer is to:",
+  "optionA": "Heat",
+  "optionB": "Temperature",
+  "optionC": "Weather",
+  "optionD": "Pressure"
+ },
+ {
+  "id": 1902616705,
+  "category": "Analytical Ability",
+  "subtopic": "ana_analogy",
+  "text": "Pen is to ink as brush is to:",
+  "optionA": "Paint",
+  "optionB": "Canvas",
+  "optionC": "Paper",
+  "optionD": "Wood"
+ },
+ {
+  "id": 462985586,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=7, 3=14, 4=23, 5=?",
+  "optionA": "32",
+  "optionB": "33",
+  "optionC": "34",
+  "optionD": "35"
+ },
+ {
+  "id": 1572732000,
+  "category": "Analytical Ability",
+  "subtopic": "ana_codes",
+  "text": "If 2=9, 3=18, 4=29, 5=?",
+  "optionA": "42",
+  "optionB": "43",
+  "optionC": "44",
+  "optionD": "45"
+ },
+ {
+  "id": 965276504,
+  "category": "Analytical Ability",
+  "subtopic": "ana_data",
+  "text": "In a data interpretation graph showing temperatures: Mon 20, Tue 22, Wed 24. What is the average temperature?",
+  "optionA": "20",
+  "optionB": "21",
+  "optionC": "22",
+  "optionD": "23"
+ },
+ {
+  "id": 700928295,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 6, 10, 15, 21, ____",
+  "optionA": "27",
+  "optionB": "28",
+  "optionC": "29",
+  "optionD": "30"
+ },
+ {
+  "id": 1574729397,
+  "category": "Analytical Ability",
+  "subtopic": "ana_series",
+  "text": "Next in series: 2, 6, 11, 17, ____",
+  "optionA": "23",
+  "optionB": "24",
+  "optionC": "25",
+  "optionD": "26"
+ }
+]

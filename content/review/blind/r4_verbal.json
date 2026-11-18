@@ -1,0 +1,182 @@
+[
+ {
+  "id": 1136378611,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Complete the analogy: Hot is to cold as light is to:",
+  "optionA": "Dark",
+  "optionB": "Bright",
+  "optionC": "Heavy",
+  "optionD": "Day"
+ },
+ {
+  "id": 2128945234,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'lucid' is:",
+  "optionA": "Clear",
+  "optionB": "Confusing",
+  "optionC": "Understandable",
+  "optionD": "Coherent"
+ },
+ {
+  "id": 209984142,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Identify the error: 'A herd of cattles.'",
+  "optionA": "A",
+  "optionB": "herd",
+  "optionC": "of",
+  "optionD": "cattles"
+ },
+ {
+  "id": 238952314,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which sentence demonstrates parallelism?",
+  "optionA": "She likes to swim, running, and to hike.",
+  "optionB": "She likes swimming, running, and hiking.",
+  "optionC": "She likes swim, run, and hiking.",
+  "optionD": "She likes to swim, run, and hiking."
+ },
+ {
+  "id": 542674840,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "Which word best fits in the blank? The novel’s plot was so _______ that readers couldn’t predict the ending.",
+  "optionA": "intricate",
+  "optionB": "simple",
+  "optionC": "boring",
+  "optionD": "familiar"
+ },
+ {
+  "id": 628174097,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "The error was inadvertent.\n\nIn this sentence, 'inadvertent' most nearly means:",
+  "optionA": "Intentional",
+  "optionB": "Unintentional",
+  "optionC": "Deliberate",
+  "optionD": "Planned"
+ },
+ {
+  "id": 1307000080,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "The flock of birds _____ flying south.",
+  "optionA": "is",
+  "optionB": "are",
+  "optionC": "was",
+  "optionD": "have"
+ },
+ {
+  "id": 1980431187,
+  "category": "Verbal Ability",
+  "subtopic": "verb_grammar",
+  "text": "The number of books _____ ten.",
+  "optionA": "is",
+  "optionB": "are",
+  "optionC": "was",
+  "optionD": "have"
+ },
+ {
+  "id": 272174356,
+  "category": "Verbal Ability",
+  "subtopic": "verb_reading",
+  "text": "Implied in 'She studied hard, yet she failed.' is:",
+  "optionA": "Studying guarantees success.",
+  "optionB": "Failure despite effort.",
+  "optionC": "She didn't study.",
+  "optionD": "No implication."
+ },
+ {
+  "id": 386851684,
+  "category": "Verbal Ability",
+  "subtopic": "verb_spelling",
+  "text": "Identify the misspelled word: 'The calender is on the wall.'",
+  "optionA": "The",
+  "optionB": "calender",
+  "optionC": "is",
+  "optionD": "wall"
+ },
+ {
+  "id": 1602142674,
+  "category": "Verbal Ability",
+  "subtopic": "verb_spelling",
+  "text": "Choose the correct spelling: ",
+  "optionA": "Recieve",
+  "optionB": "Receive",
+  "optionC": "Recive",
+  "optionD": "Receve"
+ },
+ {
+  "id": 162904311,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "His behavior was eccentric.\n\nIn this sentence, 'eccentric' most nearly means:",
+  "optionA": "Normal",
+  "optionB": "Unconventional",
+  "optionC": "Conventional",
+  "optionD": "Standard"
+ },
+ {
+  "id": 375555613,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Choose the synonym for 'tenacious'.",
+  "optionA": "Weak",
+  "optionB": "Persistent",
+  "optionC": "Giving up",
+  "optionD": "Feeble"
+ },
+ {
+  "id": 706599274,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The company's policy is very stringent.\n\nIn this sentence, 'stringent' most nearly means:",
+  "optionA": "Lenient",
+  "optionB": "Strict",
+  "optionC": "Flexible",
+  "optionD": "Loose"
+ },
+ {
+  "id": 791835610,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Contextual meaning of 'bank' in 'I deposited money in the bank':",
+  "optionA": "River edge",
+  "optionB": "Financial institution",
+  "optionC": "Aircraft maneuver",
+  "optionD": "Group of fish"
+ },
+ {
+  "id": 1266564199,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Choose the synonym for 'sporadic'.",
+  "optionA": "Continuous",
+  "optionB": "Occasional",
+  "optionC": "Constant",
+  "optionD": "Regular"
+ },
+ {
+  "id": 1326619988,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Which sentence is in imperative mood?",
+  "optionA": "She eats.",
+  "optionB": "Eat your food.",
+  "optionC": "She ate.",
+  "optionD": "She is eating."
+ },
+ {
+  "id": 1813792302,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The landscape was barren.\n\nIn this sentence, 'barren' most nearly means:",
+  "optionA": "Fertile",
+  "optionB": "Empty",
+  "optionC": "Lush",
+  "optionD": "Verdant"
+ }
+]

@@ -1,0 +1,17 @@
+[
+{"id":468761394,"answer":"B","confidence":"sure","ambiguous":false,"note":"3*8-5=19"},
+{"id":627273582,"answer":"A","confidence":"sure","ambiguous":false,"note":"36-8=28"},
+{"id":716680736,"answer":"C","confidence":"sure","ambiguous":false,"note":"9/24+4/24=13/24"},
+{"id":1562413787,"answer":"B","confidence":"sure","ambiguous":false,"note":"7/16=0.4375"},
+{"id":1549142526,"answer":"D","confidence":"sure","ambiguous":false,"note":"1850*0.76=1406"},
+{"id":1902257128,"answer":"C","confidence":"sure","ambiguous":false,"note":"280 km / 5 h = 56"},
+{"id":635494380,"answer":"A","confidence":"sure","ambiguous":false,"note":"x2 each: 144"},
+{"id":661880960,"answer":"D","confidence":"sure","ambiguous":false,"note":"(3k)^2: 15^2=225"},
+{"id":770513269,"answer":"B","confidence":"sure","ambiguous":false,"note":"sum of previous two: 18+29=47"},
+{"id":865016039,"answer":"C","confidence":"sure","ambiguous":false,"note":"diffs +1..+5: 27"},
+{"id":1292926292,"answer":"D","confidence":"sure","ambiguous":false,"note":"n^3-1: 6^3-1=215"},
+{"id":1802591182,"answer":"C","confidence":"sure","ambiguous":false,"note":"x3-1: 122"},
+{"id":1803517715,"answer":"A","confidence":"sure","ambiguous":false,"note":"x1,x2,x3,x4,x5: 360"},
+{"id":418793752,"answer":"A","confidence":"sure","ambiguous":false,"note":"2 mason-days/m; 126/9=14"},
+{"id":1263322842,"answer":"B","confidence":"sure","ambiguous":false,"note":"1/2-1/5=3/10 -> 10/3 h"}
+]

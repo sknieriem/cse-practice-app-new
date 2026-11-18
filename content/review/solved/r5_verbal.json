@@ -1,0 +1,20 @@
+[
+ {"id": 290743702, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "tool to its use"},
+ {"id": 93969981, "answer": "A", "confidence": "sure", "ambiguous": false, "note": "others are synonyms"},
+ {"id": 1648390157, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "venerable = respected"},
+ {"id": 85500978, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "furniture is uncountable"},
+ {"id": 903072945, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "others passive"},
+ {"id": 2025743626, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "children already plural"},
+ {"id": 510189778, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "alarm could sound right after door opens (1-2-3-4 style) or after seeing safe; 1-3-2-4 and 1-3-4-2 both arguable"},
+ {"id": 524391834, "answer": "B", "confidence": "unsure", "ambiguous": true, "note": "capital 'Is' implies question 'Is the sky blue?' not offered; 'Blue is the sky' inverted also valid"},
+ {"id": 223388593, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "contrast but"},
+ {"id": 514134333, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "contrast but"},
+ {"id": 361889005, "answer": "C", "confidence": "sure", "ambiguous": false, "note": "prescribe"},
+ {"id": 27637960, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "inclement = stormy/harsh"},
+ {"id": 105143504, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "grandiose = impressive/ambitious"},
+ {"id": 356158836, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "draconian = harsh"},
+ {"id": 713067393, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "append = add"},
+ {"id": 1076284037, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "meticulous = careful"},
+ {"id": 1940339355, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "tenable = defensible"},
+ {"id": 2143986813, "answer": "B", "confidence": "sure", "ambiguous": false, "note": "ambiguous = unclear"}
+]

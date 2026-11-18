@@ -1,0 +1,227 @@
+[
+ {
+  "uid": "ce_affairs-01",
+  "category": "General Information",
+  "text": "In 2024, the Philippine Statistics Authority (PSA) and the DICT rolled out the Digital National ID. Aside from the national ID website, through which government mobile application can registered PhilSys holders access it?",
+  "optionA": "eGovPH Super App",
+  "optionB": "LTO LTMS Portal",
+  "optionC": "PhilHealth Member Portal",
+  "optionD": "DFA Passport Appointment System"
+ },
+ {
+  "uid": "ce_affairs-02",
+  "category": "General Information",
+  "text": "PhilHealth launched YAKAP (Yaman ng Kalusugan Program) on July 25, 2025 as its revitalized primary care benefit package. It is an evolution of which earlier PhilHealth package?",
+  "optionA": "Z Benefits Package",
+  "optionB": "Konsulta Package",
+  "optionC": "Malasakit Program",
+  "optionD": "Point-of-Service Program"
+ },
+ {
+  "uid": "ce_affairs-03",
+  "category": "General Information",
+  "text": "The Department of Health's Zero Balance Billing policy, declared nationwide after the July 28, 2025 State of the Nation Address, means patients pay no hospital bill for which of the following?",
+  "optionA": "Private rooms in any government or private hospital",
+  "optionB": "All admissions in PhilHealth-accredited private hospitals",
+  "optionC": "Basic accommodation (ward) in DOH-run hospitals",
+  "optionD": "Outpatient consultations in LGU rural health units only"
+ },
+ {
+  "uid": "ce_affairs-04",
+  "category": "General Information",
+  "text": "The DOH opened the first BUCAS center in Sto. Tomas, Pampanga in March 2024 to provide urgent and outpatient care without hospital admission. What does BUCAS stand for?",
+  "optionA": "Barangay Urgent Care and Ambulance Service",
+  "optionB": "Bagong Universal Clinic and Ambulatory Support",
+  "optionC": "Bayanihan Urgent Care and Assistance Service",
+  "optionD": "Bagong Urgent Care and Ambulatory Service"
+ },
+ {
+  "uid": "ce_affairs-05",
+  "category": "General Information",
+  "text": "Under DepEd Order No. 10, s. 2024, the MATATAG Curriculum began its phased implementation in School Year 2024-2025 in which grade levels?",
+  "optionA": "Kindergarten, Grade 1, Grade 4 and Grade 7",
+  "optionB": "Kindergarten, Grade 1, Grade 2 and Grade 3",
+  "optionC": "Grade 1, Grade 7 and Grade 11",
+  "optionD": "Grade 4, Grade 5 and Grade 6"
+ },
+ {
+  "uid": "ce_affairs-06",
+  "category": "General Information",
+  "text": "MULA (Multispectral Unit for Land Assessment), the Philippines' biggest satellite yet at about 130 kilograms, is being built by the Philippine Space Agency together with a satellite company from which country?",
+  "optionA": "Japan",
+  "optionB": "United Kingdom",
+  "optionC": "United States",
+  "optionD": "South Korea"
+ },
+ {
+  "uid": "ce_affairs-07",
+  "category": "General Information",
+  "text": "What is the theme of the Philippines' 2026 ASEAN Chairmanship, launched on November 14, 2025?",
+  "optionA": "Enhancing Connectivity and Resilience",
+  "optionB": "ASEAN Matters: Epicentrum of Growth",
+  "optionC": "Navigating Our Future, Together",
+  "optionD": "Inclusivity and Sustainability"
+ },
+ {
+  "uid": "ce_affairs-08",
+  "category": "General Information",
+  "text": "The 48th ASEAN Summit, the first leaders' summit under the Philippines' 2026 chairship, was held on May 8, 2026 in which city?",
+  "optionA": "Davao City",
+  "optionB": "Iloilo City",
+  "optionC": "Baguio City",
+  "optionD": "Cebu"
+ },
+ {
+  "uid": "ce_affairs-09",
+  "category": "General Information",
+  "text": "Which country takes over the ASEAN Chairmanship from the Philippines for 2027?",
+  "optionA": "Singapore",
+  "optionB": "Thailand",
+  "optionC": "Myanmar",
+  "optionD": "Malaysia"
+ },
+ {
+  "uid": "ce_affairs-10",
+  "category": "General Information",
+  "text": "At the 47th ASEAN Summit in Kuala Lumpur on October 26, 2025, which country was formally admitted as ASEAN's 11th member state?",
+  "optionA": "Papua New Guinea",
+  "optionB": "Timor-Leste",
+  "optionC": "Bangladesh",
+  "optionD": "Sri Lanka"
+ },
+ {
+  "uid": "ce_affairs-11",
+  "category": "General Information",
+  "text": "On July 8, 2024, the Philippines signed a Reciprocal Access Agreement (RAA) in Manila that allows each country's forces to enter the other's territory for joint military exercises. With which country was it signed?",
+  "optionA": "United States",
+  "optionB": "Australia",
+  "optionC": "Japan",
+  "optionD": "France"
+ },
+ {
+  "uid": "ce_affairs-12",
+  "category": "General Information",
+  "text": "On November 14, 2026, during the 28th ASEAN Economic Community Council Meeting in Manila, ASEAN member states signed the bloc's first standalone, legally binding agreement setting common rules on digital trade, cross-border data flows and electronic payments. What is it?",
+  "optionA": "Regional Comprehensive Economic Partnership (RCEP)",
+  "optionB": "ASEAN Agreement on Electronic Commerce",
+  "optionC": "ASEAN Trade in Goods Agreement (ATIGA)",
+  "optionD": "ASEAN Digital Economy Framework Agreement (DEFA)"
+ },
+ {
+  "uid": "ce_affairs-13",
+  "category": "General Information",
+  "text": "On December 9, 2024, PHIVOLCS raised Alert Level 3 after an explosive summit eruption sent a plume about 3,000 meters high, prompting evacuations within a 6-kilometer radius. Which volcano erupted?",
+  "optionA": "Kanlaon Volcano",
+  "optionB": "Taal Volcano",
+  "optionC": "Mayon Volcano",
+  "optionD": "Bulusan Volcano"
+ },
+ {
+  "uid": "ce_affairs-14",
+  "category": "General Information",
+  "text": "PHIVOLCS identified which newly named fault as the source of the magnitude 6.9 earthquake that struck offshore northern Cebu on September 30, 2025, the strongest recorded in the province?",
+  "optionA": "Philippine Fault Zone",
+  "optionB": "Bogo Bay Fault",
+  "optionC": "Manila Trench",
+  "optionD": "West Valley Fault"
+ },
+ {
+  "uid": "ce_affairs-15",
+  "category": "General Information",
+  "text": "The magnitude 7.4 earthquake offshore Manay, Davao Oriental on October 10, 2025, which prompted a tsunami warning for eastern coastal provinces, originated along which structure according to PHIVOLCS?",
+  "optionA": "Cotabato Trench",
+  "optionB": "Manila Trench",
+  "optionC": "Philippine Trench",
+  "optionD": "West Valley Fault"
+ },
+ {
+  "uid": "ce_affairs-16",
+  "category": "General Information",
+  "text": "In July 2024, the Philippines was selected from eight country offers to host the Board of which international climate fund?",
+  "optionA": "Green Climate Fund",
+  "optionB": "Adaptation Fund",
+  "optionC": "Global Environment Facility",
+  "optionD": "Fund for Responding to Loss and Damage"
+ },
+ {
+  "uid": "ce_affairs-17",
+  "category": "General Information",
+  "text": "The Philippines hosted the 2024 Asia-Pacific Ministerial Conference on Disaster Risk Reduction (APMCDRR) at the PICC in October 2024 in partnership with which United Nations office?",
+  "optionA": "UN Office for Disaster Risk Reduction (UNDRR)",
+  "optionB": "UN Environment Programme (UNEP)",
+  "optionC": "UN Framework Convention on Climate Change (UNFCCC) Secretariat",
+  "optionD": "UN Development Programme (UNDP)"
+ },
+ {
+  "uid": "ce_affairs-18",
+  "category": "General Information",
+  "text": "Republic Act No. 12079, signed in December 2024, amended the National Internal Revenue Code to give a VAT refund on goods bought in the Philippines to which group?",
+  "optionA": "Overseas Filipino workers on home vacation",
+  "optionB": "Non-resident foreign tourists who take the goods out of the country",
+  "optionC": "Senior citizens and persons with disabilities",
+  "optionD": "Registered export enterprises in economic zones"
+ },
+ {
+  "uid": "ce_affairs-19",
+  "category": "General Information",
+  "text": "In February 2025, the Philippines was removed from the 'grey list' of jurisdictions under increased monitoring, after being listed since June 2021. Which international body maintains this list?",
+  "optionA": "International Monetary Fund",
+  "optionB": "Organisation for Economic Co-operation and Development",
+  "optionC": "Financial Action Task Force",
+  "optionD": "World Bank"
+ },
+ {
+  "uid": "ce_affairs-20",
+  "category": "General Information",
+  "text": "Under Batas Pambansa Blg. 72, how did the results of the 2024 Census of Population (POPCEN) conducted by the PSA become official for all purposes?",
+  "optionA": "By approval of Congress through a joint resolution",
+  "optionB": "By certification of the Commission on Elections",
+  "optionC": "By publication of the results on the PSA website",
+  "optionD": "By proclamation of the President"
+ },
+ {
+  "uid": "ce_affairs-21",
+  "category": "General Information",
+  "text": "The BSP unveiled the P500, P100 and P50 notes of the First Philippine Polymer Banknote Series in December 2024, each featuring native wildlife. Which animal appears on the P500 polymer note?",
+  "optionA": "Philippine eagle",
+  "optionB": "Visayan spotted deer",
+  "optionC": "Palawan peacock-pheasant",
+  "optionD": "Visayan leopard cat"
+ },
+ {
+  "uid": "ce_affairs-22",
+  "category": "General Information",
+  "text": "At the Paris 2024 Olympics, Carlos Yulo became the first Filipino to win two Olympic gold medals. In which events did he win them?",
+  "optionA": "Men's floor exercise and vault",
+  "optionB": "Men's pommel horse and still rings",
+  "optionC": "Men's parallel bars and horizontal bar",
+  "optionD": "Men's individual all-around and floor exercise"
+ },
+ {
+  "uid": "ce_affairs-23",
+  "category": "General Information",
+  "text": "Besides Carlos Yulo's two golds, the Philippines won two bronze medals in boxing at the Paris 2024 Olympics, its best-ever Olympic haul. Who won them?",
+  "optionA": "Eumir Marcial and Carlo Paalam",
+  "optionB": "Hergie Bacyadan and Nesthy Petecio",
+  "optionC": "Nesthy Petecio and Aira Villegas",
+  "optionD": "Aira Villegas and Eumir Marcial"
+ },
+ {
+  "uid": "ce_affairs-24",
+  "category": "General Information",
+  "text": "In August 2026, Alex Eala came from a set down to beat top seed Jessica Pegula, 4-6, 6-4, 6-0, and win her first-ever WTA 500 singles title. Which tournament did she win?",
+  "optionA": "Miami Open",
+  "optionB": "Guadalajara Open",
+  "optionC": "Birmingham Open",
+  "optionD": "Mubadala DC Open (Washington)"
+ },
+ {
+  "uid": "ce_affairs-25",
+  "category": "General Information",
+  "text": "Which Lav Diaz film, starring Gael Garcia Bernal and premiered in the Cannes Premiere section in May 2025, was chosen as the Philippines' official entry for Best International Feature Film at the 98th Academy Awards?",
+  "optionA": "Green Bones",
+  "optionB": "Hello, Love, Again",
+  "optionC": "Magellan",
+  "optionD": "Sunshine"
+ }
+]

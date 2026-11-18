@@ -1,0 +1,202 @@
+[
+ {
+  "id": 372385870,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "The members of the House of Representatives shall be elected for a term of _______.",
+  "optionA": "3 years",
+  "optionB": "4 years",
+  "optionC": "5 years",
+  "optionD": "6 years"
+ },
+ {
+  "id": 858073164,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "How many Senators are there in the Philippine Senate?",
+  "optionA": "24",
+  "optionB": "20",
+  "optionC": "30",
+  "optionD": "12"
+ },
+ {
+  "id": 1426649772,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "The following shall be exempted from taxation except:",
+  "optionA": "Lands and buildings",
+  "optionB": "Churches and convents",
+  "optionC": "Charitable institutions",
+  "optionD": "Non-profit cemeteries"
+ },
+ {
+  "id": 1474498158,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "According to the Philippine Constitution, what is the minimum age to run for President?",
+  "optionA": "35",
+  "optionB": "30",
+  "optionC": "40",
+  "optionD": "25"
+ },
+ {
+  "id": 10222013,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which river is the longest in Europe?",
+  "optionA": "Danube",
+  "optionB": "Volga",
+  "optionC": "Rhine",
+  "optionD": "Seine"
+ },
+ {
+  "id": 405977489,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the capital of Spain?",
+  "optionA": "Barcelona",
+  "optionB": "Madrid",
+  "optionC": "Seville",
+  "optionD": "Valencia"
+ },
+ {
+  "id": 476472631,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is known for Machu Picchu?",
+  "optionA": "Mexico",
+  "optionB": "Peru",
+  "optionC": "Bolivia",
+  "optionD": "Chile"
+ },
+ {
+  "id": 769599817,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the smallest country in the world by land area?",
+  "optionA": "Monaco",
+  "optionB": "Vatican City",
+  "optionC": "San Marino",
+  "optionD": "Liechtenstein"
+ },
+ {
+  "id": 815930142,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for iron?",
+  "optionA": "Fe",
+  "optionB": "Ir",
+  "optionC": "In",
+  "optionD": "Io"
+ },
+ {
+  "id": 1206901741,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the largest continent by land area?",
+  "optionA": "Africa",
+  "optionB": "Asia",
+  "optionC": "Australia",
+  "optionD": "Europe"
+ },
+ {
+  "id": 1369681511,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the smallest planet in our solar system?",
+  "optionA": "Venus",
+  "optionB": "Mercury",
+  "optionC": "Mars",
+  "optionD": "Pluto"
+ },
+ {
+  "id": 1499003041,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas is used in fire extinguishers?",
+  "optionA": "Oxygen",
+  "optionB": "Carbon Dioxide",
+  "optionC": "Nitrogen",
+  "optionD": "Helium"
+ },
+ {
+  "id": 1550724579,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who developed the theory of evolution by natural selection?",
+  "optionA": "Charles Darwin",
+  "optionB": "Gregor Mendel",
+  "optionC": "Alfred Wallace",
+  "optionD": "Louis Pasteur"
+ },
+ {
+  "id": 1698968893,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which planet is known as the 'Gas Giant'?",
+  "optionA": "Mars",
+  "optionB": "Jupiter",
+  "optionC": "Venus",
+  "optionD": "Mercury"
+ },
+ {
+  "id": 1784934507,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who was the first woman to win a Nobel Prize?",
+  "optionA": "Marie Curie",
+  "optionB": "Jane Addams",
+  "optionC": "Mother Teresa",
+  "optionD": "Rosalind Franklin"
+ },
+ {
+  "id": 1900650298,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the largest planet in our solar system?",
+  "optionA": "Earth",
+  "optionB": "Mars",
+  "optionC": "Jupiter",
+  "optionD": "Saturn"
+ },
+ {
+  "id": 277746663,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Which Philippine festival is known as the 'Festival of Festivals'?",
+  "optionA": "Sinulog",
+  "optionB": "Panagbenga",
+  "optionC": "Ati-Atihan",
+  "optionD": "Dinagyang"
+ },
+ {
+  "id": 426662387,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Which Philippine hero is known as the 'National Hero'?",
+  "optionA": "Andres Bonifacio",
+  "optionB": "Jose Rizal",
+  "optionC": "Emilio Aguinaldo",
+  "optionD": "Apolinario Mabini"
+ },
+ {
+  "id": 1246744583,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national animal of the Philippines?",
+  "optionA": "Tamaraw",
+  "optionB": "Carabao",
+  "optionC": "Philippine Eagle",
+  "optionD": "Tarsier"
+ },
+ {
+  "id": 1918894663,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "Which Philippine hero wrote 'El Filibusterismo'?",
+  "optionA": "Andres Bonifacio",
+  "optionB": "Jose Rizal",
+  "optionC": "Emilio Aguinaldo",
+  "optionD": "Apolinario Mabini"
+ }
+]

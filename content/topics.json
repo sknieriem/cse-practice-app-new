@@ -92,6 +92,9 @@
  {"id": "gi_ph", "category": "General Information", "name": "Philippine history & culture", "syllabus": false,
   "tip": "Useful background knowledge. The official General Information scope focuses on the Constitution, RA 6713, human rights and the environment.",
   "tipTl": "Magandang background. Pero ang focus ng General Information ay Constitution, RA 6713, human rights at environment."},
+ {"id": "gi_current", "category": "General Information", "name": "Current events (PH)", "syllabus": true,
+  "tip": "Recent laws, programs and events (2024 onward). The real CSE often asks about them. Each item is dated: facts are as of the month shown in the explanation.",
+  "tipTl": "Mga bagong batas, programa at events (2024 pataas). Madalas itong lumabas sa totoong CSE. May petsa ang bawat item: totoo ang facts as of sa buwan na nakasulat sa explanation."},
  {"id": "gi_general", "category": "General Information", "name": "General knowledge", "syllabus": false,
   "tip": "World and science trivia. Good for general awareness, but lower priority for the CSE.",
   "tipTl": "World at science trivia. Okay para sa general knowledge pero mas mababa ang priority para sa CSE."}

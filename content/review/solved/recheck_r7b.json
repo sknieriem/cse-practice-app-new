@@ -1,0 +1,16 @@
+[
+ {
+  "id": 1401195273,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "n^2-1 for n=2..7; differences 5,7,9,11,13 -> 48"
+ },
+ {
+  "id": 1788748540,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 8491 (1998) Flag and Heraldic Code; 6713 ethics, 9003 solid waste, 7160 LGC"
+ }
+]

@@ -1,0 +1,252 @@
+[
+ {
+  "id": 1215094383,
+  "category": "Numerical Ability",
+  "subtopic": "num_algebra",
+  "text": "Solve for x: 2x - 6 = 4.",
+  "optionA": "5",
+  "optionB": "4",
+  "optionC": "6",
+  "optionD": "3"
+ },
+ {
+  "id": 1498426729,
+  "category": "Numerical Ability",
+  "subtopic": "num_algebra",
+  "text": "If k = 5j and j=6, what is k?",
+  "optionA": "30",
+  "optionB": "25",
+  "optionC": "35",
+  "optionD": "11"
+ },
+ {
+  "id": 160688422,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 3/10 to decimal.",
+  "optionA": "0.3",
+  "optionB": "0.03",
+  "optionC": "3.0",
+  "optionD": "0.33"
+ },
+ {
+  "id": 317826174,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "5/8 - 1/4 = ?",
+  "optionA": "3/8",
+  "optionB": "4/8",
+  "optionC": "2/8",
+  "optionD": "6/8"
+ },
+ {
+  "id": 994003789,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 5/6 to decimal.",
+  "optionA": "0.833...",
+  "optionB": "0.5",
+  "optionC": "0.666...",
+  "optionD": "0.75"
+ },
+ {
+  "id": 301551909,
+  "category": "Numerical Ability",
+  "subtopic": "num_geometry",
+  "text": "Number of sides in a square?",
+  "optionA": "4",
+  "optionB": "3",
+  "optionC": "5",
+  "optionD": "6"
+ },
+ {
+  "id": 883521151,
+  "category": "Numerical Ability",
+  "subtopic": "num_geometry",
+  "text": "Number of sides in a triangle?",
+  "optionA": "3",
+  "optionB": "4",
+  "optionC": "5",
+  "optionD": "6"
+ },
+ {
+  "id": 1333126242,
+  "category": "Numerical Ability",
+  "subtopic": "num_geometry",
+  "text": "Hypotenuse of right triangle with sides 3 and 4?",
+  "optionA": "5",
+  "optionB": "7",
+  "optionC": "6",
+  "optionD": "8"
+ },
+ {
+  "id": 92762615,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a ship sails 70 km in 2 hours, speed in km/h?",
+  "optionA": "35",
+  "optionB": "30",
+  "optionC": "40",
+  "optionD": "45"
+ },
+ {
+  "id": 103402290,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a car travels 90 km in 1.5 hours, speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "80"
+ },
+ {
+  "id": 1324363821,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a car travels 120 km in 2 hours, speed in km/h?",
+  "optionA": "60",
+  "optionB": "50",
+  "optionC": "70",
+  "optionD": "80"
+ },
+ {
+  "id": 1932654512,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a car travels 120 km in 2 hours, what is its speed in km/h?",
+  "optionA": "60",
+  "optionB": "70",
+  "optionC": "50",
+  "optionD": "80"
+ },
+ {
+  "id": 62184747,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 5, 9, 13, 17, 21?",
+  "optionA": "25",
+  "optionB": "23",
+  "optionC": "27",
+  "optionD": "19"
+ },
+ {
+  "id": 602545768,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 2, 4, 8, 16, 32?",
+  "optionA": "64",
+  "optionB": "48",
+  "optionC": "40",
+  "optionD": "56"
+ },
+ {
+  "id": 684643150,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 20, 18, 16, 14, ?",
+  "optionA": "12",
+  "optionB": "10",
+  "optionC": "15",
+  "optionD": "13"
+ },
+ {
+  "id": 742655735,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 1, 5, 9, 13?",
+  "optionA": "17",
+  "optionB": "15",
+  "optionC": "19",
+  "optionD": "11"
+ },
+ {
+  "id": 970730716,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 8, 13, 18, 23?",
+  "optionA": "28",
+  "optionB": "25",
+  "optionC": "30",
+  "optionD": "26"
+ },
+ {
+  "id": 151693602,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Solve: 2 + 3 * 4 - 5",
+  "optionA": "9",
+  "optionB": "5",
+  "optionC": "3",
+  "optionD": "12"
+ },
+ {
+  "id": 325896063,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of planets in the solar system?",
+  "optionA": "8",
+  "optionB": "9",
+  "optionC": "7",
+  "optionD": "10"
+ },
+ {
+  "id": 459624580,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of zeros in a million?",
+  "optionA": "6",
+  "optionB": "3",
+  "optionC": "9",
+  "optionD": "12"
+ },
+ {
+  "id": 564603729,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of seconds in a minute?",
+  "optionA": "60",
+  "optionB": "30",
+  "optionC": "90",
+  "optionD": "120"
+ },
+ {
+  "id": 852745417,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of wheels on a bicycle?",
+  "optionA": "2",
+  "optionB": "3",
+  "optionC": "4",
+  "optionD": "1"
+ },
+ {
+  "id": 1028545692,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of days in February in a leap year?",
+  "optionA": "29",
+  "optionB": "28",
+  "optionC": "30",
+  "optionD": "31"
+ },
+ {
+  "id": 1993060714,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of hours in a day?",
+  "optionA": "24",
+  "optionB": "12",
+  "optionC": "48",
+  "optionD": "36"
+ },
+ {
+  "id": 2100835973,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of fingers on one hand?",
+  "optionA": "5",
+  "optionB": "4",
+  "optionC": "6",
+  "optionD": "10"
+ }
+]

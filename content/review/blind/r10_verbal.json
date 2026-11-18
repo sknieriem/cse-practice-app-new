@@ -1,0 +1,192 @@
+[
+ {
+  "id": 349762090,
+  "category": "Verbal Ability",
+  "subtopic": "verb_analogy",
+  "text": "Select the word that best completes the analogy: Big is to small as tall is to ______.",
+  "optionA": "large",
+  "optionB": "short",
+  "optionC": "wide",
+  "optionD": "high"
+ },
+ {
+  "id": 278068728,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'generous' is:",
+  "optionA": "Kind",
+  "optionB": "Stingy",
+  "optionC": "Giving",
+  "optionD": "Charitable"
+ },
+ {
+  "id": 1211190181,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'profound' is:",
+  "optionA": "Deep",
+  "optionB": "Superficial",
+  "optionC": "Intense",
+  "optionD": "Significant"
+ },
+ {
+  "id": 2011472146,
+  "category": "Verbal Ability",
+  "subtopic": "verb_antonym",
+  "text": "The antonym of 'meager' is:",
+  "optionA": "Scanty",
+  "optionB": "Abundant",
+  "optionC": "Insufficient",
+  "optionD": "Sparse"
+ },
+ {
+  "id": 912913487,
+  "category": "Verbal Ability",
+  "subtopic": "verb_spelling",
+  "text": "Identify the misspelled word: 'The arguement was heated.'",
+  "optionA": "The",
+  "optionB": "arguement",
+  "optionC": "was",
+  "optionD": "heated"
+ },
+ {
+  "id": 1543207476,
+  "category": "Verbal Ability",
+  "subtopic": "verb_spelling",
+  "text": "Identify the misspelled word: 'The patient is concious.'",
+  "optionA": "patient",
+  "optionB": "is",
+  "optionC": "concious",
+  "optionD": "The"
+ },
+ {
+  "id": 126493021,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The solution was ingenious.\n\nIn this sentence, 'ingenious' most nearly means:",
+  "optionA": "Stupid",
+  "optionB": "Clever",
+  "optionC": "Foolish",
+  "optionD": "Silly"
+ },
+ {
+  "id": 169103939,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The word 'bark' can mean:",
+  "optionA": "Tree covering",
+  "optionB": "Dog sound",
+  "optionC": "Both A and B",
+  "optionD": "None"
+ },
+ {
+  "id": 378807078,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The concept is abstract.\n\nIn this sentence, 'abstract' most nearly means:",
+  "optionA": "Concrete",
+  "optionB": "Theoretical",
+  "optionC": "Tangible",
+  "optionD": "Physical"
+ },
+ {
+  "id": 460136134,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "What is the contextual meaning of 'query' in 'Please query the database for updates'?",
+  "optionA": "Question",
+  "optionB": "Delete",
+  "optionC": "Save",
+  "optionD": "Ignore"
+ },
+ {
+  "id": 587011399,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The decision was arbitrary.\n\nIn this sentence, 'arbitrary' most nearly means:",
+  "optionA": "Reasoned",
+  "optionB": "Random",
+  "optionC": "Planned",
+  "optionD": "Thoughtful"
+ },
+ {
+  "id": 660998088,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The movie was banal.\n\nIn this sentence, 'banal' most nearly means:",
+  "optionA": "Original",
+  "optionB": "Trite",
+  "optionC": "Innovative",
+  "optionD": "Creative"
+ },
+ {
+  "id": 980534720,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Identify the synonym of 'nefarious'.",
+  "optionA": "Virtuous",
+  "optionB": "Wicked",
+  "optionC": "Good",
+  "optionD": "Moral"
+ },
+ {
+  "id": 1147913419,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "The consensus among the congressmen was that the bill would not be passed.\n\nIn this sentence, 'consensus' most nearly means:",
+  "optionA": "divided",
+  "optionB": "controversy",
+  "optionC": "gathering",
+  "optionD": "agreement"
+ },
+ {
+  "id": 1336110813,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "President Ronald Drump's efforts to rescind the law were useless.\n\nIn this sentence, 'rescind' most nearly means:",
+  "optionA": "revive",
+  "optionB": "change",
+  "optionC": "repeal",
+  "optionD": "rescue"
+ },
+ {
+  "id": 1428156746,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "She is laconic.\n\nIn this sentence, 'laconic' most nearly means:",
+  "optionA": "Verbose",
+  "optionB": "Concise",
+  "optionC": "Talkative",
+  "optionD": "Loquacious"
+ },
+ {
+  "id": 1913331231,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Identify the synonym of 'prolific'.",
+  "optionA": "Barren",
+  "optionB": "Productive",
+  "optionC": "Scarce",
+  "optionD": "Sparse"
+ },
+ {
+  "id": 2016744308,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "Choose the synonym for 'quintessential'.",
+  "optionA": "Atypical",
+  "optionB": "Typical",
+  "optionC": "Unusual",
+  "optionD": "Aberrant"
+ },
+ {
+  "id": 2076974067,
+  "category": "Verbal Ability",
+  "subtopic": "verb_vocab",
+  "text": "She is indomitable.\n\nIn this sentence, 'indomitable' most nearly means:",
+  "optionA": "Weak",
+  "optionB": "Unconquerable",
+  "optionC": "Timid",
+  "optionD": "Fearful"
+ }
+]

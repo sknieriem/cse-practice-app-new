@@ -1,0 +1,580 @@
+[
+ {
+  "id": 649036977,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "The kelvin is a unit of temperature, and the liter is a unit of volume. The pair is quantity : its unit.",
+   "hint": "Ask what each word on the left is used to measure.",
+   "whyB": "Meters measure length, not volume.",
+   "whyC": "Kilograms measure mass.",
+   "whyD": "Seconds measure time.",
+   "explanationTl": "Ang kelvin ay unit ng temperature, at ang liter naman ay unit ng volume. Quantity : unit ang relationship.",
+   "hintTl": "Tanungin mo: ano ang sinusukat ng bawat unit?"
+  }
+ },
+ {
+  "id": 677896642,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "False fact: the candela is the unit of luminous intensity, not luminosity; stem corrected.",
+  "fields": {
+   "text": "Luminous intensity : Candela :: Mass :",
+   "explanation": "The candela is the SI unit of luminous intensity, and the kilogram is the SI unit of mass. The pair is quantity : its unit.",
+   "hint": "Match the quantity on the right with the unit that measures it.",
+   "whyB": "Meters measure length.",
+   "whyC": "Seconds measure time.",
+   "whyD": "Liters measure volume, not mass.",
+   "explanationTl": "Ang candela ay SI unit ng luminous intensity, at ang kilogram naman ay SI unit ng mass. Quantity : unit ang pattern.",
+   "hintTl": "Hanapin ang unit na talagang sumusukat ng mass."
+  }
+ },
+ {
+  "id": 1018734067,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Two defensible answers (switch is to turning / lighting); replaced with a clean instrument : what-it-measures analogy.",
+  "fields": {
+   "text": "Thermometer is to temperature as barometer is to:",
+   "optionA": "Humidity",
+   "optionB": "Air pressure",
+   "optionC": "Wind speed",
+   "optionD": "Rainfall",
+   "correctAnswer": "B",
+   "explanation": "A thermometer measures temperature, and a barometer measures air (atmospheric) pressure. The pair is instrument : what it measures.",
+   "hint": "Think of what a weather station reads from each instrument.",
+   "whyA": "Humidity is measured by a hygrometer.",
+   "whyC": "Wind speed is measured by an anemometer.",
+   "whyD": "Rainfall is measured by a rain gauge.",
+   "explanationTl": "Ang thermometer ay sumusukat ng temperature, at ang barometer naman ay sumusukat ng air pressure. Instrument : sinusukat ang relationship.",
+   "hintTl": "Isipin mo kung ano ang binabasa ng weather station sa bawat instrument."
+  }
+ },
+ {
+  "id": 1213810395,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Power is measured in watts, and electric current is measured in amperes. The pair is quantity : its unit.",
+   "hint": "Recall the units printed on appliances and electric meters.",
+   "whyB": "Volts measure voltage (potential difference), not current.",
+   "whyC": "Ohms measure resistance.",
+   "whyD": "Joules measure energy.",
+   "explanationTl": "Ang power ay sinusukat sa watts, at ang electric current naman ay sa amperes. Quantity : unit ang pattern.",
+   "hintTl": "Alalahanin ang mga unit na nakasulat sa appliances at sa electric meter."
+  }
+ },
+ {
+  "id": 1237200357,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Pressure is measured in pascals, and power is measured in watts. The pair is quantity : its unit.",
+   "hint": "Look for the unit of the rate at which energy is used.",
+   "whyB": "Joules measure energy, not power (a watt is one joule per second).",
+   "whyC": "Newtons measure force.",
+   "whyD": "Amperes measure electric current.",
+   "explanationTl": "Ang pressure ay sinusukat sa pascals, at ang power naman ay sa watts. Quantity : unit ang pattern.",
+   "hintTl": "Hanapin ang unit ng bilis ng paggamit ng energy."
+  }
+ },
+ {
+  "id": 1995638920,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields.",
+  "fields": {
+   "explanation": "Water is the liquid state, and ice is the solid state of the same substance. The pair is substance : its state of matter.",
+   "hint": "The first pair names a state of matter.",
+   "whyB": "Gas is the state of steam, not ice.",
+   "whyC": "Vapor is water in the gas state.",
+   "whyD": "Cold is a property of ice, not its state of matter.",
+   "explanationTl": "Ang water ay nasa liquid state, at ang ice naman ay nasa solid state. Substance : state of matter ang pattern.",
+   "hintTl": "State of matter ang tinutukoy ng unang pair."
+  }
+ },
+ {
+  "id": 1998396672,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Weak stem: a compass is also for navigation; now clock : time.",
+  "fields": {
+   "text": "Clock is to time as compass is to:",
+   "explanation": "A clock tells you the time, and a compass tells you direction. The pair is instrument : what it shows.",
+   "hint": "What does the needle of a compass point to?",
+   "whyB": "Travel is an activity a compass helps with, not what it shows.",
+   "whyC": "Distance is measured by an odometer or ruler, not a compass.",
+   "whyD": "A compass shows direction but cannot tell you your exact location.",
+   "explanationTl": "Ang clock ay nagsasabi ng oras, at ang compass naman ay nagsasabi ng direction. Instrument : ipinapakita ang pattern.",
+   "hintTl": "Saan nakaturo ang karayom ng compass?"
+  }
+ },
+ {
+  "id": 158090092,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Both/None options; replaced with a clean implicit-assumption item.",
+  "fields": {
+   "text": "Statement: \"Join our weekend chess clinic and sharpen your game,\" says a barangay sports flyer. Which is an assumption implicit in the statement?",
+   "optionA": "Players can improve their chess through training.",
+   "optionB": "Everyone in the barangay already plays chess.",
+   "optionC": "Only clinic graduates win chess tournaments.",
+   "optionD": "Chess is the most popular game in the barangay.",
+   "correctAnswer": "A",
+   "explanation": "Inviting people to a clinic to sharpen their game only makes sense if training can actually improve a player's chess. The other options are not needed for the flyer to make sense.",
+   "hint": "Ask what must be true for the flyer's invitation to make sense.",
+   "whyB": "The flyer invites people; it does not need everyone to already play.",
+   "whyC": "Too strong: improving your game does not mean only graduates can win.",
+   "whyD": "Popularity is never implied; the flyer is about improvement.",
+   "explanationTl": "Mag-iimbita ka lang sa chess clinic para gumaling ang laro kung naniniwala kang kaya talagang i-improve ng training ang chess. Hindi kailangan ang ibang options.",
+   "hintTl": "Ano ang dapat totoo para may sense ang imbitasyon ng flyer?"
+  }
+ },
+ {
+  "id": 1225007026,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Both/None options; replaced with a clean implicit-assumption item.",
+  "fields": {
+   "text": "Statement: \"Hikers must pass a basic fitness test before climbing Mt. Apo,\" the park office announced. Which is an assumption implicit in the statement?",
+   "optionA": "Fit hikers never get injured on the trail.",
+   "optionB": "The park office wants fewer visitors.",
+   "optionC": "The climb demands a level of fitness that some hikers may lack.",
+   "optionD": "Mt. Apo is closed to first-time hikers.",
+   "correctAnswer": "C",
+   "explanation": "A fitness test is required only if the climb is physically demanding and some hikers might not be fit enough. Nothing in the rule says fit hikers are safe from injury or that visitors are unwanted.",
+   "hint": "Why would anyone bother setting a test at all?",
+   "whyA": "Too strong: a test screens for fitness; it does not promise zero injuries.",
+   "whyB": "The rule screens hikers; it says nothing about wanting fewer visitors.",
+   "whyD": "First-timers can still climb if they pass the test.",
+   "explanationTl": "Magre-require lang ng fitness test kung mabigat ang akyat at may mga hiker na baka hindi sapat ang fitness. Walang sinasabi na hindi na masasaktan ang fit na hiker o ayaw ng park office ng bisita.",
+   "hintTl": "Bakit pa sila maglalagay ng test kung hindi ito kailangan?"
+  }
+ },
+ {
+  "id": 1782159761,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Both/None options; replaced with a clean implicit-assumption item.",
+  "fields": {
+   "text": "Statement: \"Train every day if you want to make the provincial track team,\" the coach told the runners. Which is an assumption implicit in the statement?",
+   "optionA": "Daily training guarantees a spot on the team.",
+   "optionB": "Runners who skip a single day will be cut.",
+   "optionC": "The coach once made the provincial team himself.",
+   "optionD": "Daily training improves a runner's chances of being selected.",
+   "correctAnswer": "D",
+   "explanation": "The coach's advice assumes that training every day raises a runner's chance of making the team. It does not promise a spot, threaten cuts, or say anything about the coach's own record.",
+   "hint": "Pick the weakest statement that the advice cannot do without.",
+   "whyA": "Too strong: advice to train does not guarantee selection.",
+   "whyB": "Too strong: nothing says one missed day means being cut.",
+   "whyC": "The coach's own history is irrelevant to the advice.",
+   "explanationTl": "Ang assumption ng coach ay tumataas ang chance na makapasok sa team kapag araw-araw ang training. Hindi niya sinabing sigurado na ang slot, o na matatanggal ka kapag lumiban ng isang araw.",
+   "hintTl": "Piliin ang pinakasimpleng statement na kailangan para may sense ang payo."
+  }
+ },
+ {
+  "id": 893075554,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps and teaching fields.",
+  "fields": {
+   "explanation": "Each number is coded as itself times the next number: n × (n + 1). So 6 becomes 6 × 7 = 42.",
+   "steps": "1. Test the pattern: 3 × 4 = 12, 4 × 5 = 20, 5 × 6 = 30.\n2. So each number n becomes n × (n + 1).\n3. 6 × 7 = 42.",
+   "hint": "Compare each code with the number times its neighbor.",
+   "whyA": "40 adds 10 to 30; the gaps are 8, 10, so the next gap is 12.",
+   "whyC": "44 adds 14, overshooting the next gap of 12.",
+   "whyD": "46 adds 16, overshooting the next gap of 12.",
+   "explanationTl": "Ang bawat number ay ginagawang n × (n + 1). Kaya 6 × 7 = 42.",
+   "stepsTl": "1. I-test: 3 × 4 = 12, 4 × 5 = 20, 5 × 6 = 30.\n2. Kaya ang n ay nagiging n × (n + 1).\n3. 6 × 7 = 42.",
+   "hintTl": "I-multiply ang number sa kasunod nitong number."
+  }
+ },
+ {
+  "id": 1215025046,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Explanation computed 35 while key is 30; fixed to n × (n + 1) = 30.",
+  "fields": {
+   "explanation": "Each number is coded as n × (n + 1), the same as n² + n. So 5 becomes 5 × 6 = 30.",
+   "steps": "1. Test the pattern: 2 × 3 = 6, 3 × 4 = 12, 4 × 5 = 20.\n2. So each number n becomes n × (n + 1).\n3. 5 × 6 = 30.",
+   "hint": "Multiply each number by the number right after it.",
+   "whyA": "28 adds 8 to 20, repeating the last gap instead of growing it to 10.",
+   "whyC": "32 adds 12, overshooting the next gap of 10.",
+   "whyD": "34 adds 14 (or uses n² + 2n − 1); the rule is n × (n + 1).",
+   "explanationTl": "Ang bawat number ay nagiging n × (n + 1), o n² + n. Kaya 5 × 6 = 30.",
+   "stepsTl": "1. I-test: 2 × 3 = 6, 3 × 4 = 12, 4 × 5 = 20.\n2. Kaya ang n ay nagiging n × (n + 1).\n3. 5 × 6 = 30.",
+   "hintTl": "I-multiply ang bawat number sa kasunod nitong number."
+  }
+ },
+ {
+  "id": 18433771,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Stem was awkward and unitless; reworded with pesos.",
+  "fields": {
+   "text": "A sari-sari store's electricity bills were ₱300 in January, ₱350 in February and ₱400 in March. What was the average monthly bill?",
+   "optionA": "₱340",
+   "optionB": "₱350",
+   "optionC": "₱360",
+   "optionD": "₱370",
+   "explanation": "Add the three bills and divide by 3: (300 + 350 + 400) ÷ 3 = 1,050 ÷ 3 = ₱350.",
+   "steps": "1. Total: 300 + 350 + 400 = 1,050.\n2. Divide by 3 months: 1,050 ÷ 3 = 350.\n3. Average bill = ₱350.",
+   "hint": "Total first, then divide by the number of months.",
+   "whyA": "₱340 × 3 = ₱1,020, less than the ₱1,050 total.",
+   "whyC": "₱360 × 3 = ₱1,080, more than the ₱1,050 total.",
+   "whyD": "₱370 leans toward March; with evenly spaced bills the average is the middle one.",
+   "explanationTl": "I-add ang tatlong bill tapos i-divide sa 3: 1,050 ÷ 3 = ₱350.",
+   "stepsTl": "1. Total: 300 + 350 + 400 = 1,050.\n2. I-divide sa 3 buwan: 1,050 ÷ 3 = 350.\n3. Average na bill = ₱350.",
+   "hintTl": "I-total muna, tapos i-divide sa bilang ng buwan."
+  }
+ },
+ {
+  "id": 219392053,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; fixed garbled apostrophes and added teaching fields.",
+  "fields": {
+   "text": "If V is W's father and W is X's daughter, X is V's:",
+   "explanation": "V is W's father, so X, W's other parent, must be W's mother. W's mother is V's wife.",
+   "steps": "1. V is W's father.\n2. W is also X's daughter, so X is W's other parent: the mother.\n3. W's mother is V's wife.",
+   "hint": "A child has one father; who is the other parent?",
+   "whyA": "X is W's parent, so X cannot be V's child.",
+   "whyC": "X is W's parent, not V's child.",
+   "whyD": "X is W's mother, not V's mother.",
+   "explanationTl": "Si V ang father ni W, kaya si X, ang isa pang parent ni W, ay ang mother. Ang mother ni W ay wife ni V.",
+   "stepsTl": "1. Si V ang father ni W.\n2. Anak din ni X si W, kaya si X ang isa pang parent: ang mother.\n3. Ang mother ni W ay wife ni V.",
+   "hintTl": "Iisa lang ang father ng bata; sino ang isa pang parent?"
+  }
+ },
+ {
+  "id": 569702049,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of the V/W/X template; rewritten as a grandparent item with genders stated.",
+  "fields": {
+   "text": "Ana is the only daughter of Mr. Cruz. Ben is Ana's son. How is Mr. Cruz related to Ben?",
+   "optionA": "Father",
+   "optionB": "Uncle",
+   "optionC": "Grandfather",
+   "optionD": "Father-in-law",
+   "correctAnswer": "C",
+   "explanation": "Mr. Cruz is Ana's father, and Ana is Ben's mother. Your mother's father is your grandfather.",
+   "steps": "1. Mr. Cruz is Ana's father.\n2. Ana is Ben's mother.\n3. Mother's father = grandfather.",
+   "hint": "Go up one generation from Ben, then up again.",
+   "whyA": "Ana is Ben's parent; Mr. Cruz is one generation higher.",
+   "whyB": "An uncle is a parent's brother; Mr. Cruz is Ana's father.",
+   "whyD": "A father-in-law is a spouse's father; Mr. Cruz is related to Ben by blood.",
+   "explanationTl": "Si Mr. Cruz ang father ni Ana, at si Ana ang mother ni Ben. Ang father ng mother mo ay grandfather mo.",
+   "stepsTl": "1. Si Mr. Cruz ang father ni Ana.\n2. Si Ana ang mother ni Ben.\n3. Father ng mother = grandfather.",
+   "hintTl": "Umakyat ng isang generation mula kay Ben, tapos isa pa.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 910056686,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; fixed garbled apostrophes and added teaching fields.",
+  "fields": {
+   "text": "If X is Y's mother and Y is Z's daughter, Z is X's:",
+   "explanation": "X is Y's mother, so Z, Y's other parent, must be Y's father. Y's father is X's husband.",
+   "steps": "1. X is Y's mother.\n2. Y is also Z's daughter, so Z is Y's other parent: the father.\n3. Y's father is X's husband.",
+   "hint": "A child has one mother; who is the other parent?",
+   "whyA": "Z is Y's parent, so Z cannot be X's child.",
+   "whyC": "Z is Y's parent, not X's child.",
+   "whyD": "Z is Y's father, not X's father.",
+   "explanationTl": "Si X ang mother ni Y, kaya si Z, ang isa pang parent ni Y, ay ang father. Ang father ni Y ay husband ni X.",
+   "stepsTl": "1. Si X ang mother ni Y.\n2. Anak din ni Z si Y, kaya si Z ang isa pang parent: ang father.\n3. Ang father ni Y ay husband ni X.",
+   "hintTl": "Iisa lang ang mother ng bata; sino ang isa pang parent?"
+  }
+ },
+ {
+  "id": 1463237028,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate template; rewritten as a niece item with the speaker's gender stated.",
+  "fields": {
+   "text": "Pointing to a young woman, Leo said, \"Her mother is my mother's only daughter.\" How is the young woman related to Leo (a man)?",
+   "optionA": "Sister",
+   "optionB": "Daughter",
+   "optionC": "Cousin",
+   "optionD": "Niece",
+   "correctAnswer": "D",
+   "explanation": "Leo is a man, so his mother's only daughter is his sister. The young woman is his sister's daughter, so she is his niece.",
+   "steps": "1. Leo is a man, so his mother's only daughter is his sister.\n2. The young woman's mother is Leo's sister.\n3. A sister's daughter is a niece.",
+   "hint": "First work out who \"my mother's only daughter\" is.",
+   "whyA": "Leo's sister is the young woman's mother, not the young woman.",
+   "whyB": "She is his sister's daughter, not his own.",
+   "whyC": "A cousin is an aunt's or uncle's child; she is his sister's child.",
+   "explanationTl": "Lalaki si Leo, kaya ang only daughter ng mother niya ay ang sister niya. Anak ng sister niya ang babae, kaya niece niya ito.",
+   "stepsTl": "1. Lalaki si Leo, kaya ang only daughter ng mother niya ay ang sister niya.\n2. Ang mother ng babae ay sister ni Leo.\n3. Anak ng sister = niece.",
+   "hintTl": "Alamin muna kung sino ang \"only daughter ng mother ko.\""
+  }
+ },
+ {
+  "id": 1465531209,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate template; rewritten as an aunt-by-marriage item with genders stated.",
+  "fields": {
+   "text": "Carlo is Dina's brother. Dina is Eric's mother. Fe is Carlo's wife. How is Fe related to Eric?",
+   "optionA": "Mother",
+   "optionB": "Aunt",
+   "optionC": "Grandmother",
+   "optionD": "Cousin",
+   "correctAnswer": "B",
+   "explanation": "Carlo is the brother of Eric's mother, so he is Eric's uncle. The wife of Eric's uncle is Eric's aunt.",
+   "steps": "1. Dina is Eric's mother.\n2. Carlo, Dina's brother, is Eric's uncle.\n3. Fe, the uncle's wife, is Eric's aunt.",
+   "hint": "Find Carlo's relation to Eric first, then add the marriage.",
+   "whyA": "Eric's mother is Dina, not Fe.",
+   "whyC": "A grandmother is a parent's mother; Fe is in Dina's generation.",
+   "whyD": "A cousin is an uncle's or aunt's child; Fe is the uncle's wife.",
+   "explanationTl": "Kapatid ni Carlo ang mother ni Eric, kaya uncle siya ni Eric. Ang wife ng uncle ay aunt (tita).",
+   "stepsTl": "1. Si Dina ang mother ni Eric.\n2. Si Carlo, kapatid ni Dina, ay uncle ni Eric.\n3. Si Fe, wife ng uncle, ay aunt ni Eric.",
+   "hintTl": "Alamin muna kung ano si Carlo kay Eric, tapos isama ang kasal.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 16125592,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "Key correct, but option C 'No cats are dogs' is true in real life and pulls learners off the logic; dogs changed to pets.",
+  "fields": {
+   "text": "If all cats are animals and some animals are pets, then:",
+   "optionA": "All cats are pets",
+   "optionB": "Some cats are pets",
+   "optionC": "No cats are pets",
+   "explanation": "The pets could be animals that are not cats, so the statements alone do not tell us whether any cat is a pet. Judge only from the given statements, not from real life.",
+   "steps": "1. Cats sit inside the animals circle.\n2. Pets overlap the animals circle somewhere.\n3. The pets can overlap the cats or miss them, so no conclusion about cats and pets is forced.",
+   "hint": "Draw circles for each group. Only accept a conclusion that is true in EVERY possible drawing.",
+   "whyA": "Nothing puts all cats inside the pets group.",
+   "whyB": "That is real-life knowledge, not the premises; the pets could all be non-cats.",
+   "whyC": "The premises do not rule out cats that are pets.",
+   "explanationTl": "Puwedeng ang mga pet ay ibang animals, hindi cats, kaya hindi masasabi mula sa statements kung may cat na pet. Statements lang ang basehan, hindi real life.",
+   "stepsTl": "1. Nasa loob ng animals circle ang cats.\n2. May overlap ang pets at animals.\n3. Puwedeng tumama o hindi ang pets sa cats, kaya walang sure na conclusion.",
+   "hintTl": "Mag-drawing ng circles para sa bawat group. Tanggapin lang ang conclusion kung totoo ito sa LAHAT ng possible na drawing."
+  }
+ },
+ {
+  "id": 46598300,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps and teaching fields.",
+  "fields": {
+   "explanation": "The vehicles that are cars must have wheels, so some vehicles have wheels. We cannot say all, because other vehicles may not be cars.",
+   "steps": "1. All cars have wheels.\n2. Some vehicles are cars.\n3. So the vehicles that are cars have wheels: \"Some vehicles have wheels\" follows; \"All\" does not.",
+   "hint": "Draw circles for each group. Only accept a conclusion that is true in EVERY possible drawing.",
+   "whyA": "Only the vehicles that are cars are covered; other vehicles may not be.",
+   "whyC": "Contradicts the premises: the vehicles that are cars must qualify.",
+   "whyD": "A conclusion does follow: the overlap guarantees \"some\".",
+   "explanationTl": "Ang mga vehicle na cars ay may wheels, kaya some vehicles have wheels. Hindi puwedeng 'all' kasi baka may vehicle na hindi car.",
+   "stepsTl": "1. Lahat ng cars ay may wheels.\n2. May vehicles na cars.\n3. Kaya may vehicles na may wheels; pero hindi puwedeng sabihing lahat.",
+   "hintTl": "Mag-drawing ng circles para sa bawat group. Tanggapin lang ang conclusion kung totoo ito sa LAHAT ng possible na drawing."
+  }
+ },
+ {
+  "id": 266396685,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps and teaching fields.",
+  "fields": {
+   "explanation": "The animals that are mammals must breathe air, so some animals breathe air. We cannot say all, because other animals may not be mammals.",
+   "steps": "1. All mammals breathe air.\n2. Some animals are mammals.\n3. So the animals that are mammals breathe air: \"Some animals breathe air\" follows; \"All\" does not.",
+   "hint": "Draw circles for each group. Only accept a conclusion that is true in EVERY possible drawing.",
+   "whyA": "Only the animals that are mammals are covered; other animals may not be.",
+   "whyC": "Contradicts the premises: the animals that are mammals must qualify.",
+   "whyD": "A conclusion does follow: the overlap guarantees \"some\".",
+   "explanationTl": "Ang mga animal na mammals ay humihinga ng air, kaya some animals breathe air. Hindi puwedeng 'all' kasi baka may animal na hindi mammal.",
+   "stepsTl": "1. Lahat ng mammals ay humihinga ng air.\n2. May animals na mammals.\n3. Kaya may animals na humihinga ng air; pero hindi puwedeng sabihing lahat.",
+   "hintTl": "Mag-drawing ng circles para sa bawat group. Tanggapin lang ang conclusion kung totoo ito sa LAHAT ng possible na drawing."
+  }
+ },
+ {
+  "id": 1009060685,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added steps and teaching fields.",
+  "fields": {
+   "explanation": "The plants that are fruits must be edible, so some plants are edible. We cannot say all, because other plants may not be fruits.",
+   "steps": "1. All fruits are edible.\n2. Some plants are fruits.\n3. So the plants that are fruits are edible: \"Some plants are edible\" follows; \"All\" does not.",
+   "hint": "Draw circles for each group. Only accept a conclusion that is true in EVERY possible drawing.",
+   "whyA": "Only the plants that are fruits are covered; other plants may not be.",
+   "whyC": "Contradicts the premises: the plants that are fruits must qualify.",
+   "whyD": "A conclusion does follow: the overlap guarantees \"some\".",
+   "explanationTl": "Ang mga plant na fruits ay edible, kaya some plants are edible. Hindi puwedeng 'all' kasi baka may plant na hindi fruit.",
+   "stepsTl": "1. Lahat ng fruits ay edible.\n2. May plants na fruits.\n3. Kaya may plants na edible; pero hindi puwedeng sabihing lahat.",
+   "hintTl": "Mag-drawing ng circles para sa bawat group. Tanggapin lang ang conclusion kung totoo ito sa LAHAT ng possible na drawing."
+  }
+ },
+ {
+  "id": 1157269015,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Banned Valid/Invalid/True/False option set; now asks which conclusion follows.",
+  "fields": {
+   "text": "All writers create stories. Some people are writers. Which conclusion necessarily follows?",
+   "optionA": "All people create stories.",
+   "optionB": "Some people create stories.",
+   "optionC": "Anyone who creates stories is a writer.",
+   "optionD": "Some people do not create stories.",
+   "correctAnswer": "B",
+   "explanation": "The people who are writers must create stories, so some people create stories. Nothing is said about people who are not writers.",
+   "steps": "1. All writers create stories.\n2. Some people are writers.\n3. Those people create stories, so \"Some people create stories\" follows.",
+   "hint": "Draw circles for each group. Only accept a conclusion that is true in EVERY possible drawing.",
+   "whyA": "Only the people who are writers are covered; others may not create stories.",
+   "whyC": "Reverses the first premise; non-writers might create stories too.",
+   "whyD": "Possible, but not forced: all people might be writers.",
+   "explanationTl": "Ang mga tao na writers ay gumagawa ng stories, kaya some people create stories. Walang sinasabi tungkol sa hindi writers.",
+   "stepsTl": "1. Lahat ng writers ay gumagawa ng stories.\n2. May mga tao na writers.\n3. Kaya may mga tao na gumagawa ng stories.",
+   "hintTl": "Mag-drawing ng circles para sa bawat group. Tanggapin lang ang conclusion kung totoo ito sa LAHAT ng possible na drawing."
+  }
+ },
+ {
+  "id": 1784454199,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Banned Valid/Invalid/True/False option set; now asks which conclusion follows.",
+  "fields": {
+   "text": "All athletes train. Some people are athletes. Which conclusion necessarily follows?",
+   "optionA": "All people train.",
+   "optionB": "Some people do not train.",
+   "optionC": "Everyone who trains is an athlete.",
+   "optionD": "Some people train.",
+   "correctAnswer": "D",
+   "explanation": "The people who are athletes must train, so some people train. Nothing is said about people who are not athletes.",
+   "steps": "1. All athletes train.\n2. Some people are athletes.\n3. Those people train, so \"Some people train\" follows.",
+   "hint": "Draw circles for each group. Only accept a conclusion that is true in EVERY possible drawing.",
+   "whyA": "Only the people who are athletes are covered; others may not train.",
+   "whyB": "Possible, but not forced: all people might be athletes.",
+   "whyC": "Reverses the first premise; non-athletes might train too.",
+   "explanationTl": "Ang mga tao na athletes ay nagte-train, kaya some people train. Walang sinasabi tungkol sa hindi athletes.",
+   "stepsTl": "1. Lahat ng athletes ay nagte-train.\n2. May mga tao na athletes.\n3. Kaya may mga tao na nagte-train.",
+   "hintTl": "Mag-drawing ng circles para sa bawat group. Tanggapin lang ang conclusion kung totoo ito sa LAHAT ng possible na drawing."
+  }
+ },
+ {
+  "id": 2101150493,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "Key correct (undistributed middle); added teaching fields.",
+  "fields": {
+   "explanation": "Trees are inside the plants group, and ferns overlap the plants group somewhere, but the ferns may or may not overlap the trees. Judge only from the given statements, not from real life.",
+   "steps": "1. Trees sit inside the plants circle.\n2. Ferns overlap the plants circle somewhere.\n3. The ferns can overlap the trees or miss them, so no conclusion about trees and ferns is forced.",
+   "hint": "Draw circles for each group. Only accept a conclusion that is true in EVERY possible drawing.",
+   "whyA": "Nothing puts all trees inside the ferns group.",
+   "whyB": "The ferns could all be plants that are not trees.",
+   "whyC": "The premises do not rule out an overlap of trees and ferns.",
+   "explanationTl": "Nasa loob ng plants ang trees, at may overlap ang ferns sa plants, pero hindi alam kung tumatama ito sa trees. Statements lang ang basehan.",
+   "stepsTl": "1. Nasa loob ng plants circle ang trees.\n2. May overlap ang ferns sa plants.\n3. Puwedeng tumama o hindi ang ferns sa trees, kaya walang sure na conclusion.",
+   "hintTl": "Mag-drawing ng circles para sa bawat group. Tanggapin lang ang conclusion kung totoo ito sa LAHAT ng possible na drawing."
+  }
+ },
+ {
+  "id": 372154534,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "Second valid answer: Table is also not a seat; replaced with a tight seating set.",
+  "fields": {
+   "text": "Odd one out: Armchair, Lamp, Sofa, Recliner",
+   "optionA": "Armchair",
+   "optionB": "Lamp",
+   "optionC": "Sofa",
+   "optionD": "Recliner",
+   "correctAnswer": "B",
+   "explanation": "An armchair, a sofa and a recliner are all upholstered seats. A lamp is a light source, not something you sit on.",
+   "hint": "Ask what each item is used for.",
+   "whyA": "An armchair is a seat, like the sofa and recliner.",
+   "whyC": "A sofa is a seat, just wider.",
+   "whyD": "A recliner is a seat whose back tilts.",
+   "explanationTl": "Ang armchair, sofa at recliner ay mga upuan. Ang lamp ay ilaw, hindi inuupuan.",
+   "hintTl": "Tanungin mo kung para saan ginagamit ang bawat isa.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1115443207,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Eagle and Hawk (birds of prey) vs Sparrow gave a second grouping; set changed so Penguin is the only odd one.",
+  "fields": {
+   "text": "Odd one out: Sparrow, Pigeon, Penguin, Swallow",
+   "optionA": "Sparrow",
+   "optionB": "Pigeon",
+   "optionD": "Swallow",
+   "explanation": "A sparrow, a pigeon and a swallow are all birds that fly. A penguin is a bird that cannot fly; it swims instead.",
+   "hint": "All four are birds; look at how they move.",
+   "whyA": "Sparrows fly, like the pigeon and swallow.",
+   "whyB": "Pigeons fly, like the sparrow and swallow.",
+   "whyD": "Swallows fly, like the sparrow and pigeon.",
+   "explanationTl": "Ang sparrow, pigeon at swallow ay mga ibong lumilipad. Ang penguin ay ibon na hindi lumilipad; lumalangoy ito.",
+   "hintTl": "Ibon silang lahat; tingnan kung paano sila gumagalaw.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 2121246797,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "False fact in explanation (diamond is a mineral too) and Emerald was also defensible (ruby and sapphire are both corundum); set replaced.",
+  "fields": {
+   "text": "Odd one out: Ruby, Sapphire, Marble, Emerald",
+   "optionA": "Ruby",
+   "optionB": "Sapphire",
+   "optionC": "Marble",
+   "optionD": "Emerald",
+   "correctAnswer": "C",
+   "explanation": "A ruby, a sapphire and an emerald are precious gemstones. Marble is a rock used for floors and buildings, not a gemstone.",
+   "hint": "Three of these are set in rings and necklaces.",
+   "whyA": "A ruby is a precious gemstone, like the sapphire and emerald.",
+   "whyB": "A sapphire is a precious gemstone, like the ruby and emerald.",
+   "whyD": "An emerald is a precious gemstone, like the ruby and sapphire.",
+   "explanationTl": "Ang ruby, sapphire at emerald ay mga precious gemstone. Ang marble ay bato na pang-sahig at pang-gusali, hindi gemstone.",
+   "hintTl": "Tatlo dito ay inilalagay sa singsing at kwintas.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 38171782,
+  "blind": "D",
+  "verdict": "rewritten",
+  "reason": "Series 5, 8, 12, 18 (gaps 3, 4, 6) has no unique rule; keyed 26 was arbitrary. Replaced with a clean growing-gap series.",
+  "fields": {
+   "text": "Next in series: 5, 8, 12, 17, 23, ____",
+   "optionA": "29",
+   "optionB": "30",
+   "optionC": "31",
+   "optionD": "32",
+   "correctAnswer": "B",
+   "explanation": "The gaps are 3, 4, 5, 6, growing by 1 each time. The next gap is 7, so 23 + 7 = 30.",
+   "steps": "1. Gaps: 8 − 5 = 3, 12 − 8 = 4, 17 − 12 = 5, 23 − 17 = 6.\n2. The gaps grow by 1, so the next gap is 7.\n3. 23 + 7 = 30.",
+   "hint": "Write the difference between neighbors.",
+   "whyA": "29 repeats the last gap of 6 instead of growing it to 7.",
+   "whyC": "31 adds 8, skipping a step in the gaps.",
+   "whyD": "32 adds 9, as if the gaps jumped by 3.",
+   "explanationTl": "Ang pagitan ay 3, 4, 5, 6, lumalaki ng 1. Ang susunod na pagitan ay 7, kaya 23 + 7 = 30.",
+   "stepsTl": "1. Pagitan: 3, 4, 5, 6.\n2. Lumalaki ng 1, kaya 7 ang susunod.\n3. 23 + 7 = 30.",
+   "hintTl": "Isulat ang pagitan ng magkakatabing numbers.",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 1721506700,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Key correct; fixed garbled dash in steps and added missing fields.",
+  "fields": {
+   "steps": "1. Gaps: 10 − 4 = 6, 17 − 10 = 7, 25 − 17 = 8.\n2. The gaps grow by 1, so the next gap is 9.\n3. 25 + 9 = 34.",
+   "stepsTl": "1. Pagitan: 6, 7, 8. Lumalaki ng 1.\n2. Kaya 9 ang susunod na pagitan.\n3. 25 + 9 = 34.",
+   "hint": "Write the difference between neighbors.",
+   "whyA": "32 adds 7, repeating an earlier gap.",
+   "whyB": "33 adds 8, repeating the last gap instead of growing it.",
+   "whyD": "35 adds 10, skipping a step in the gaps.",
+   "explanationTl": "Ang pagitan ay 6, 7, 8, lumalaki ng 1. Kaya 9 ang susunod: 25 + 9 = 34.",
+   "hintTl": "Isulat ang pagitan ng magkakatabing numbers."
+  }
+ }
+]

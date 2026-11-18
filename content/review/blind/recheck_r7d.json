@@ -1,0 +1,20 @@
+[
+ {
+  "id": 2072066813,
+  "category": "Numerical Ability",
+  "text": "A pair of shoes is priced at ₱1,250. It is sold at a 20% discount. What is the sale price?",
+  "optionA": "₱1,000",
+  "optionB": "₱250",
+  "optionC": "₱1,050",
+  "optionD": "₱1,230"
+ },
+ {
+  "id": 1529363246,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 7, 13, 19, 25, 31, ?",
+  "optionA": "37",
+  "optionB": "36",
+  "optionC": "38",
+  "optionD": "43"
+ }
+]

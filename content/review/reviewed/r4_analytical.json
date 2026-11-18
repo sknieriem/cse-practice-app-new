@@ -1,0 +1,630 @@
+[
+ {
+  "id": 35942117,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "'Fork is to piercing' is weak (a fork also scoops and picks up food); replaced with a clean tool : function pair",
+  "fields": {
+   "text": "Broom is to sweeping as needle is to:",
+   "optionA": "Sewing",
+   "optionB": "Ironing",
+   "optionC": "Weaving",
+   "optionD": "Folding",
+   "correctAnswer": "A",
+   "difficulty": 1,
+   "explanation": "A broom is the tool used for sweeping; a needle is the tool used for sewing. The pair is tool : the job it does.",
+   "hint": "Ask: what job is this tool made to do?",
+   "whyB": "Ironing uses a flat iron, not a needle.",
+   "whyC": "Weaving is done on a loom by interlacing threads, not with a sewing needle.",
+   "whyD": "Folding is done by hand; it is not a needle's job.",
+   "explanationTl": "Ang broom ay ginagamit sa sweeping, at ang needle naman ay ginagamit sa sewing. Tool : ang ginagawa nito ang relationship.",
+   "hintTl": "Tanungin mo: ano ang trabaho ng tool na 'to?"
+  }
+ },
+ {
+  "id": 183168070,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1 and teaching fields added",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Think of the main action each tool performs.",
+   "whyB": "Nailing is the hammer's job, not the saw's.",
+   "whyC": "Sanding is done with sandpaper or a sander.",
+   "whyD": "Drilling is done with a drill.",
+   "explanationTl": "Ang hammer ay pang-pound, ang saw naman ay pang-cut. Tool : action ang pattern.",
+   "hintTl": "Isipin mo kung ano ang main na ginagawa ng bawat tool."
+  }
+ },
+ {
+  "id": 327417457,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1 and teaching fields added",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Pair each quantity with its standard unit.",
+   "whyA": "Liters measure volume, not mass.",
+   "whyC": "Meters measure length or distance.",
+   "whyD": "Newtons measure force (including weight), not mass.",
+   "explanationTl": "Ang area ay sinusukat in square meters, at ang mass ay in kilograms. Quantity : unit ang relationship.",
+   "hintTl": "I-match mo ang bawat quantity sa standard unit nito."
+  }
+ },
+ {
+  "id": 571070274,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1 and teaching fields added",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Which option is a unit of time?",
+   "whyB": "Meters measure length.",
+   "whyC": "Liters measure volume.",
+   "whyD": "Kilograms measure mass.",
+   "explanationTl": "Ang angle ay sinusukat in degrees, ang time naman in seconds. Quantity : unit ulit ang pattern.",
+   "hintTl": "Alin sa options ang unit ng time?"
+  }
+ },
+ {
+  "id": 828334311,
+  "blind": "D",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "An odometer is the instrument that shows mileage; a compass is the instrument that shows direction. The pair is instrument : what it indicates.",
+   "hint": "What reading does each instrument give you?",
+   "whyA": "Speed is shown by a speedometer, not a compass.",
+   "whyB": "Hiking is an activity where a compass may be used, not what it indicates.",
+   "whyC": "The needle is a part of the compass, not what it indicates.",
+   "explanationTl": "Ang odometer ay nagpapakita ng mileage, ang compass naman ay nagpapakita ng direction. Instrument : ang sinusukat nito.",
+   "hintTl": "Anong reading ang binibigay ng bawat instrument?"
+  }
+ },
+ {
+  "id": 1555712605,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "'Filming' was a second defensible answer (cameras also film); replaced with 'Printing'",
+  "fields": {
+   "optionB": "Printing",
+   "difficulty": 1,
+   "hint": "What is a camera's basic job, the way measuring is a ruler's?",
+   "whyB": "Printing is done by a printer after the photo is taken, not by the camera.",
+   "whyC": "Lighting comes from a flash or lamp; it is not the camera's main purpose.",
+   "whyD": "Focusing is one step in using a camera, not what it is for.",
+   "explanationTl": "Ang ruler ay pang-measure, ang camera naman ay pang-photograph. Tool : main purpose nito.",
+   "hintTl": "Ano ang basic na trabaho ng camera, gaya ng pag-measure sa ruler?"
+  }
+ },
+ {
+  "id": 1631256051,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1 and teaching fields added",
+  "fields": {
+   "difficulty": 1,
+   "hint": "Find the unit used for length or distance.",
+   "whyA": "Kilograms measure mass.",
+   "whyC": "Amperes measure electric current.",
+   "whyD": "Seconds measure time.",
+   "explanationTl": "Ang volume ay in liters, ang distance naman in meters. Quantity : unit.",
+   "hintTl": "Hanapin mo ang unit ng length o distance."
+  }
+ },
+ {
+  "id": 1707578260,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "hint": "Recall the SI unit for the flow of electric charge.",
+   "whyA": "Volts measure voltage (potential difference), not current.",
+   "whyC": "Ohms measure resistance.",
+   "whyD": "Watts measure power.",
+   "explanationTl": "Ang length ay in meters, ang electric current naman in amperes. Huwag malito sa volts (voltage), ohms (resistance) at watts (power).",
+   "hintTl": "Alalahanin mo ang SI unit ng electric current."
+  }
+ },
+ {
+  "id": 269705685,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Both/None options; keyed option was a restatement, not an assumption",
+  "fields": {
+   "text": "Statement: \"To win the inter-school debate, our team must prepare its arguments early.\" Which of the following is assumed in the statement?",
+   "optionA": "Preparing early guarantees that the team will win.",
+   "optionB": "The team wants to win the inter-school debate.",
+   "optionC": "The other teams have not prepared at all.",
+   "optionD": "Debates are judged only on how early teams prepare.",
+   "correctAnswer": "B",
+   "explanation": "The speaker is planning how to win, so the statement takes for granted that the team wants to win. The other options claim more than the statement says.",
+   "hint": "An assumption is something the speaker takes for granted; watch out for words like 'guarantees' and 'only'.",
+   "whyA": "'Must prepare' means preparing is needed, not that it guarantees a win.",
+   "whyC": "The statement says nothing about the other teams.",
+   "whyD": "'Only' goes too far; early preparation can matter without being the sole basis of judging.",
+   "explanationTl": "Nagpaplano ang speaker kung paano mananalo, kaya assumed na gusto talagang manalo ng team. Yung ibang options, sobra na sa sinasabi ng statement.",
+   "hintTl": "Ang assumption ay yung tinatanggap na lang ng speaker na totoo; ingat sa mga salitang 'guarantees' at 'only'."
+  }
+ },
+ {
+  "id": 796708615,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Both/None options; keyed option was a restatement, not an assumption",
+  "fields": {
+   "text": "Statement: \"To raise office morale, the new division chief plans to personally thank employees for good work.\" Which of the following is assumed in the statement?",
+   "optionA": "Being thanked can lift employees' morale.",
+   "optionB": "Thanking employees is the only way to raise morale.",
+   "optionC": "Office morale is already at its highest.",
+   "optionD": "Employees care only about cash bonuses.",
+   "correctAnswer": "A",
+   "explanation": "The chief would use thanks to raise morale only if thanking people can actually lift it, so that is the assumption. The other options overstate or contradict the plan.",
+   "hint": "Ask: what must the chief believe for this plan to make sense?",
+   "whyB": "'Only way' overstates it; the plan needs thanks to help, not to be the sole method.",
+   "whyC": "If morale were already at its highest, there would be no need to raise it, so this contradicts the statement.",
+   "whyD": "If employees cared only about bonuses, thanking them would not work, so this goes against the plan.",
+   "explanationTl": "Gagamitin lang ng chief ang pag-thank para tumaas ang morale kung naniniwala siyang nakakataas talaga ito ng morale. Yun ang assumption.",
+   "hintTl": "Tanungin mo: ano ang dapat paniwalaan ng chief para may sense ang plan niya?"
+  }
+ },
+ {
+  "id": 823971108,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Both/None options; keyed option was a restatement, not an assumption",
+  "fields": {
+   "text": "Statement: \"Maria enrolled in a review center so that she can pass the Civil Service Exam.\" Which of the following is assumed in the statement?",
+   "optionA": "Maria has failed the Civil Service Exam before.",
+   "optionB": "Review centers guarantee that every enrollee passes.",
+   "optionC": "Studying on one's own never works.",
+   "optionD": "A review center can help her prepare for the exam.",
+   "correctAnswer": "D",
+   "explanation": "Maria enrolls in order to pass, so she must believe the review center can help her prepare. The other options are not needed for her decision to make sense.",
+   "hint": "Look for the belief behind Maria's reason for enrolling, not an extreme claim.",
+   "whyA": "The statement does not say whether she has taken the exam before.",
+   "whyB": "'Guarantee that every enrollee passes' is too strong; she only needs the review to help.",
+   "whyC": "'Never works' is too strong; she can choose a review center without believing self-study is useless.",
+   "explanationTl": "Nag-enroll si Maria para pumasa, kaya naniniwala siya na makakatulong ang review center sa pag-prepare niya. Yun ang assumption.",
+   "hintTl": "Hanapin mo ang paniniwala sa likod ng dahilan ni Maria, hindi yung extreme na claim."
+  }
+ },
+ {
+  "id": 985585971,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Both/None options; keyed option was a restatement, not an assumption",
+  "fields": {
+   "text": "Statement: \"The company requires its new call-center agents to practise speaking English for one hour every day.\" Which of the following is assumed in the statement?",
+   "optionA": "The new agents already speak perfect English.",
+   "optionB": "Every agent will become fluent within one month.",
+   "optionC": "Daily speaking practice can improve the agents' English.",
+   "optionD": "The agents will never need any other language at work.",
+   "correctAnswer": "C",
+   "explanation": "The company requires the practice because it believes practice can improve the agents' English. The other options are either contradicted by the rule or not needed for it.",
+   "hint": "Why would the company bother requiring the practice?",
+   "whyA": "If they already spoke perfect English, the practice would be pointless, so this contradicts the rule.",
+   "whyB": "The rule expects improvement, not a specific result within one month.",
+   "whyD": "'Never' goes too far; the rule only needs English to matter, not to be the only language used.",
+   "explanationTl": "Nire-require ng company ang practice kasi naniniwala silang gagaling ang English ng agents dahil dito. Yun ang assumption.",
+   "hintTl": "Bakit pa ire-require ng company ang practice?"
+  }
+ },
+ {
+  "id": 105547188,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key 49 correct; explanation used a wrong formula and computed 55",
+  "fields": {
+   "explanation": "Each number is coded as the square of the next number, (n + 1)^2, so 6 = 7^2 = 49.",
+   "steps": "1. 3 = 16 = 4^2, 4 = 25 = 5^2, 5 = 36 = 6^2.\n2. So each number n is coded as (n + 1)^2.\n3. 6 = (6 + 1)^2 = 7^2 = 49.",
+   "hint": "Look at the right-hand numbers: are they perfect squares?",
+   "explanationTl": "Ang bawat number ay naging square ng kasunod na number, (n + 1)^2, kaya 6 = 7^2 = 49.",
+   "stepsTl": "1. 3 = 16 = 4^2, 4 = 25 = 5^2, 5 = 36 = 6^2.\n2. Kaya ang bawat n ay naging (n + 1)^2.\n3. 6 = (6 + 1)^2 = 7^2 = 49.",
+   "hintTl": "Tingnan mo ang numbers sa kanan: perfect squares ba sila?",
+   "whyA": "48 is 7^2 - 1; it misses the perfect-square pattern by one.",
+   "whyC": "50 adds 14 to 36; the jumps are 9, 11, 13, so the next jump is 13, not 14.",
+   "whyD": "51 adds 15 to 36, skipping a step in the jumps 9, 11, 13."
+  }
+ },
+ {
+  "id": 587274041,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key 40 correct; explanation used a wrong formula and computed 39",
+  "fields": {
+   "explanation": "The code is n^2 + 3n: 2 = 4 + 6 = 10, 3 = 9 + 9 = 18, 4 = 16 + 12 = 28, so 5 = 25 + 15 = 40.",
+   "steps": "1. Differences: 18 - 10 = 8, 28 - 18 = 10; they grow by 2.\n2. Next difference = 12, so 28 + 12 = 40.\n3. Check with n^2 + 3n: 5^2 + 3(5) = 25 + 15 = 40.",
+   "hint": "Find the differences between the coded values and see how they change.",
+   "explanationTl": "Ang code ay n^2 + 3n. Kaya 5 = 25 + 15 = 40.",
+   "stepsTl": "1. Differences: 18 - 10 = 8, 28 - 18 = 10; nadadagdagan ng 2.\n2. Next difference = 12, kaya 28 + 12 = 40.\n3. I-check: 5^2 + 3(5) = 25 + 15 = 40.",
+   "hintTl": "Hanapin mo ang differences ng coded values at tingnan kung paano sila nagbabago.",
+   "whyA": "38 adds 10 again; the differences grow by 2 (8, 10, 12).",
+   "whyB": "39 is one short; usually from using n^2 + 2n + 4, which does not fit 3 = 18.",
+   "whyD": "41 overshoots by one; the next difference is 12, not 13."
+  }
+ },
+ {
+  "id": 1695189728,
+  "blind": "A",
+  "verdict": "key fixed",
+  "reason": "Key 45 was wrong: rule n^2 + 4n - 1 gives 44 (explanation's n^2 + 3n + 5 fails for n = 2)",
+  "fields": {
+   "explanation": "The coded values go up by 9, then 11, so the next jump is 13: 31 + 13 = 44. The rule is n^2 + 4n - 1.",
+   "steps": "1. Differences: 20 - 11 = 9, 31 - 20 = 11; they grow by 2.\n2. Next difference = 13, so 31 + 13 = 44.\n3. Check with n^2 + 4n - 1: 25 + 20 - 1 = 44.",
+   "hint": "Find the differences between the coded values and see how they change.",
+   "explanationTl": "Ang pagitan ng coded values ay 9, tapos 11, kaya ang susunod ay 13: 31 + 13 = 44. Ang rule ay n^2 + 4n - 1.",
+   "stepsTl": "1. Differences: 20 - 11 = 9, 31 - 20 = 11; nadadagdagan ng 2.\n2. Next difference = 13, kaya 31 + 13 = 44.\n3. I-check: 25 + 20 - 1 = 44.",
+   "hintTl": "Hanapin mo ang differences ng coded values at tingnan kung paano sila nagbabago.",
+   "whyB": "45 assumes n^2 + 3n + 5, which gives 15 for n = 2, not 11.",
+   "whyC": "46 adds 15; the differences go 9, 11, 13, so the next is 13.",
+   "whyD": "47 adds 16, overshooting the +2 growth in the differences.",
+   "correctAnswer": "A"
+  }
+ },
+ {
+  "id": 1966047099,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key 42 correct; explanation used a wrong formula and computed 46",
+  "fields": {
+   "explanation": "Each number is coded as (n + 1)(n + 2): 2 = 3 x 4 = 12, 3 = 4 x 5 = 20, 4 = 5 x 6 = 30, so 5 = 6 x 7 = 42.",
+   "steps": "1. 12 = 3 x 4, 20 = 4 x 5, 30 = 5 x 6.\n2. So n is coded as (n + 1) x (n + 2).\n3. 5 = 6 x 7 = 42.",
+   "hint": "Try writing each coded value as a product of two consecutive numbers.",
+   "explanationTl": "Ang bawat number ay naging (n + 1)(n + 2): 3 x 4 = 12, 4 x 5 = 20, 5 x 6 = 30, kaya 5 = 6 x 7 = 42.",
+   "stepsTl": "1. 12 = 3 x 4, 20 = 4 x 5, 30 = 5 x 6.\n2. Kaya ang n ay naging (n + 1) x (n + 2).\n3. 5 = 6 x 7 = 42.",
+   "hintTl": "Subukan mong isulat ang bawat value bilang product ng dalawang magkasunod na numbers.",
+   "whyB": "44 adds 14; the differences go 8, 10, 12, so the next is 12.",
+   "whyC": "46 comes from the wrong rule n^2 + 3n + 6, which gives 16 for n = 2.",
+   "whyD": "48 adds 18, far more than the next difference of 12."
+  }
+ },
+ {
+  "id": 2050284569,
+  "blind": "B",
+  "verdict": "key fixed",
+  "reason": "Key 44 was wrong: differences 9, 11, 13 give 43 (explanation's n^2 + 3n + 4 gives 14 for n = 2, not 10)",
+  "fields": {
+   "explanation": "The coded values go up by 9, then 11, so the next jump is 13: 30 + 13 = 43. The rule is n^2 + 4n - 2.",
+   "steps": "1. Differences: 19 - 10 = 9, 30 - 19 = 11; they grow by 2.\n2. Next difference = 13, so 30 + 13 = 43.\n3. Check with n^2 + 4n - 2: 25 + 20 - 2 = 43.",
+   "hint": "Find the differences between the coded values and see how they change.",
+   "explanationTl": "Ang pagitan ng coded values ay 9, tapos 11, kaya ang susunod ay 13: 30 + 13 = 43. Ang rule ay n^2 + 4n - 2.",
+   "stepsTl": "1. Differences: 19 - 10 = 9, 30 - 19 = 11; nadadagdagan ng 2.\n2. Next difference = 13, kaya 30 + 13 = 43.\n3. I-check: 25 + 20 - 2 = 43.",
+   "hintTl": "Hanapin mo ang differences ng coded values at tingnan kung paano sila nagbabago.",
+   "whyA": "42 adds 12; the differences go 9, 11, 13, so the next is 13.",
+   "whyC": "44 comes from the rule n^2 + 3n + 4, which gives 14 for n = 2, not 10.",
+   "whyD": "45 adds 15, overshooting the +2 growth in the differences.",
+   "correctAnswer": "B"
+  }
+ },
+ {
+  "id": 2069883621,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key 29 correct; explanation used a wrong formula and computed 26",
+  "fields": {
+   "explanation": "The code is n^2 + 3n + 1: 1 = 5, 2 = 11, 3 = 19, so 4 = 16 + 12 + 1 = 29.",
+   "steps": "1. Differences: 11 - 5 = 6, 19 - 11 = 8; they grow by 2.\n2. Next difference = 10, so 19 + 10 = 29.\n3. Check with n^2 + 3n + 1: 16 + 12 + 1 = 29.",
+   "hint": "Find the differences between the coded values and see how they change.",
+   "explanationTl": "Ang code ay n^2 + 3n + 1. Kaya 4 = 16 + 12 + 1 = 29.",
+   "stepsTl": "1. Differences: 11 - 5 = 6, 19 - 11 = 8; nadadagdagan ng 2.\n2. Next difference = 10, kaya 19 + 10 = 29.\n3. I-check: 16 + 12 + 1 = 29.",
+   "hintTl": "Hanapin mo ang differences ng coded values at tingnan kung paano sila nagbabago.",
+   "whyA": "28 adds 9; the differences go 6, 8, 10, so the next is 10.",
+   "whyC": "30 adds 11, overshooting the +2 growth in the differences.",
+   "whyD": "31 adds 12, as if the differences grew by 4."
+  }
+ },
+ {
+  "id": 636588524,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added units (degrees C) and tidied stem; difficulty 1",
+  "fields": {
+   "text": "A graph shows the noon temperature in a town: Monday 15 °C, Tuesday 20 °C, Wednesday 25 °C. What is the average temperature for the three days?",
+   "optionA": "18 °C",
+   "optionB": "20 °C",
+   "optionC": "22 °C",
+   "optionD": "24 °C",
+   "difficulty": 1,
+   "explanation": "Average = (15 + 20 + 25) / 3 = 60 / 3 = 20 °C.",
+   "steps": "1. Add the values: 15 + 20 + 25 = 60.\n2. Divide by the number of days: 60 / 3 = 20.\n3. Average = 20 °C.",
+   "hint": "Add all the values, then divide by how many there are.",
+   "whyA": "18 °C is below the middle value; with evenly spaced values the average equals the middle one.",
+   "whyC": "22 °C is too high; 60 / 3 is 20.",
+   "whyD": "24 °C is close to the highest reading, not the average.",
+   "explanationTl": "Average = (15 + 20 + 25) / 3 = 60 / 3 = 20 °C.",
+   "stepsTl": "1. I-add ang values: 15 + 20 + 25 = 60.\n2. I-divide sa bilang ng araw: 60 / 3 = 20.\n3. Average = 20 °C.",
+   "hintTl": "I-add mo lahat, tapos i-divide sa dami ng values."
+  }
+ },
+ {
+  "id": 734611293,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added units (degrees C) and tidied stem; difficulty 1",
+  "fields": {
+   "text": "A graph shows the noon temperature in a city: Day 1 25 °C, Day 2 30 °C, Day 3 35 °C. What is the average temperature for the three days?",
+   "optionA": "28 °C",
+   "optionB": "30 °C",
+   "optionC": "32 °C",
+   "optionD": "34 °C",
+   "difficulty": 1,
+   "explanation": "Average = (25 + 30 + 35) / 3 = 90 / 3 = 30 °C.",
+   "steps": "1. Add the values: 25 + 30 + 35 = 90.\n2. Divide by the number of days: 90 / 3 = 30.\n3. Average = 30 °C.",
+   "hint": "Add all the values, then divide by how many there are.",
+   "whyA": "28 °C is below the middle value; with evenly spaced values the average equals the middle one.",
+   "whyC": "32 °C is too high; 90 / 3 is 30.",
+   "whyD": "34 °C is close to the highest reading, not the average.",
+   "explanationTl": "Average = (25 + 30 + 35) / 3 = 90 / 3 = 30 °C.",
+   "stepsTl": "1. I-add ang values: 25 + 30 + 35 = 90.\n2. I-divide sa bilang ng araw: 90 / 3 = 30.\n3. Average = 30 °C.",
+   "hintTl": "I-add mo lahat, tapos i-divide sa dami ng values."
+  }
+ },
+ {
+  "id": 763597739,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Key correct; added units and tidied stem; difficulty 1",
+  "fields": {
+   "text": "A graph shows a factory's rice-sack production: Q1 500 sacks, Q2 550 sacks, Q3 600 sacks. What is the average production per quarter?",
+   "optionA": "540 sacks",
+   "optionB": "550 sacks",
+   "optionC": "560 sacks",
+   "optionD": "570 sacks",
+   "difficulty": 1,
+   "explanation": "Average = (500 + 550 + 600) / 3 = 1,650 / 3 = 550 sacks per quarter.",
+   "steps": "1. Add the values: 500 + 550 + 600 = 1,650.\n2. Divide by the number of quarters: 1,650 / 3 = 550.\n3. Average = 550 sacks.",
+   "hint": "Add all the values, then divide by how many quarters there are.",
+   "whyA": "540 is below the middle value; with evenly spaced values the average equals the middle one.",
+   "whyC": "560 is too high; 1,650 / 3 is 550.",
+   "whyD": "570 leans toward the highest quarter instead of the average.",
+   "explanationTl": "Average = (500 + 550 + 600) / 3 = 1,650 / 3 = 550 sacks bawat quarter.",
+   "stepsTl": "1. I-add ang values: 500 + 550 + 600 = 1,650.\n2. I-divide sa bilang ng quarters: 1,650 / 3 = 550.\n3. Average = 550 sacks.",
+   "hintTl": "I-add mo lahat, tapos i-divide sa dami ng quarters."
+  }
+ },
+ {
+  "id": 1429217809,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added units, rounding note, and tidied stem",
+  "fields": {
+   "text": "A graph shows a store's monthly sales: January ₱100,000, February ₱150,000, March ₱120,000. What is the average monthly sales, rounded to the nearest peso?",
+   "optionA": "₱123,333",
+   "optionB": "₱120,000",
+   "optionC": "₱130,000",
+   "optionD": "₱125,000",
+   "explanation": "Average = (100,000 + 150,000 + 120,000) / 3 = 370,000 / 3 = ₱123,333.33, or ₱123,333 to the nearest peso.",
+   "steps": "1. Add the values: 100,000 + 150,000 + 120,000 = 370,000.\n2. Divide by 3 months: 370,000 / 3 = 123,333.33.\n3. Round to the nearest peso: ₱123,333.",
+   "hint": "Add all three months, then divide by 3.",
+   "whyB": "₱120,000 is the middle (median) value, not the average.",
+   "whyC": "₱130,000 is too high; 370,000 / 3 is about 123,333.",
+   "whyD": "₱125,000 is the midpoint of the lowest and highest months, ignoring March's value.",
+   "explanationTl": "Average = 370,000 / 3 = ₱123,333.33, o ₱123,333 kapag ni-round sa pinakamalapit na peso.",
+   "stepsTl": "1. I-add: 100,000 + 150,000 + 120,000 = 370,000.\n2. I-divide sa 3 months: 370,000 / 3 = 123,333.33.\n3. I-round: ₱123,333.",
+   "hintTl": "I-add mo ang tatlong buwan, tapos i-divide sa 3."
+  }
+ },
+ {
+  "id": 413502916,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "P is Q's father and Q is R's mother, so P is R's grandfather and R is P's grandchild.",
+   "steps": "1. P is Q's father: P is one generation above Q.\n2. Q is R's mother: Q is one generation above R.\n3. So P is two generations above R: R is P's grandchild.",
+   "hint": "Count the generations from P down to R.",
+   "whyB": "R is Q's child, not P's child.",
+   "whyC": "Siblings share the same generation; R is two generations below P.",
+   "whyD": "R is below P in the family line, not above.",
+   "explanationTl": "Si P ang father ni Q, at si Q ang mother ni R. Kaya grandfather ni R si P, at grandchild ni P si R.",
+   "stepsTl": "1. Si P ang father ni Q: isang generation sa taas ni Q.\n2. Si Q ang mother ni R: isang generation sa taas ni R.\n3. Kaya dalawang generation ang layo: grandchild ni P si R.",
+   "hintTl": "Bilangin mo ang generations mula kay P pababa kay R."
+  }
+ },
+ {
+  "id": 505467647,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "Q is a daughter of both P and R. P is Q's mother, so R is Q's father, which makes R P's husband.",
+   "steps": "1. P is Q's mother.\n2. Q is R's daughter, so R is Q's other parent.\n3. Q's mother is P, so R is Q's father.\n4. Q's father is P's husband.",
+   "hint": "Q has two parents; one of them is already named as the mother.",
+   "whyA": "R is Q's parent, a generation above Q, so R cannot be P's son.",
+   "whyC": "Q is the daughter; R is Q's parent.",
+   "whyD": "R is Q's father, not P's father.",
+   "explanationTl": "Si Q ay anak ni P at ni R. Mother si P, kaya father si R, at husband siya ni P.",
+   "stepsTl": "1. Si P ang mother ni Q.\n2. Si Q ay daughter ni R, kaya si R ang isa pang parent ni Q.\n3. Mother na si P, kaya father si R.\n4. Ang father ni Q ay husband ni P.",
+   "hintTl": "Dalawa ang parents ni Q; yung isa, na-mention na bilang mother."
+  }
+ },
+ {
+  "id": 887372409,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "F is the daughter of both E and G. E is F's father, so G is F's mother, which makes G E's wife.",
+   "steps": "1. E is F's father.\n2. F is G's daughter, so G is F's other parent.\n3. F's father is E, so G is F's mother.\n4. F's mother is E's wife.",
+   "hint": "F has two parents; one of them is already named as the father.",
+   "whyA": "G is F's parent, a generation above F, and must be female, so not E's son.",
+   "whyC": "F is the daughter; G is F's parent.",
+   "whyD": "G is F's mother, not E's mother.",
+   "explanationTl": "Si F ay anak ni E at ni G. Father si E, kaya mother si G, at wife siya ni E.",
+   "stepsTl": "1. Si E ang father ni F.\n2. Si F ay daughter ni G, kaya si G ang isa pang parent ni F.\n3. Father na si E, kaya mother si G.\n4. Ang mother ni F ay wife ni E.",
+   "hintTl": "Dalawa ang parents ni F; yung isa, na-mention na bilang father."
+  }
+ },
+ {
+  "id": 8810366,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Banned Valid/Invalid/True/False option set; recast as 'which conclusion follows' with a different syllogism form to avoid near-duplicates",
+  "fields": {
+   "text": "No poets are lazy. Some people are poets. Which conclusion follows?",
+   "optionA": "Some people are not lazy.",
+   "optionB": "No people are lazy.",
+   "optionC": "All people are lazy.",
+   "optionD": "Some lazy people are poets.",
+   "correctAnswer": "A",
+   "explanation": "The people who are poets cannot be lazy, since no poet is lazy. So at least some people are not lazy; nothing is known about the people who are not poets.",
+   "steps": "1. No poets are lazy.\n2. Some people are poets.\n3. Those people, being poets, are not lazy.\n4. So some people are not lazy.",
+   "hint": "Focus only on the people who are poets.",
+   "whyB": "We know nothing about people who are not poets, so we cannot say no one is lazy.",
+   "whyC": "This contradicts the premises: some people (the poets) are not lazy.",
+   "whyD": "No poets are lazy, so no lazy person can be a poet.",
+   "explanationTl": "Yung mga tao na poets, hindi lazy kasi walang poet na lazy. Kaya at least some people are not lazy; wala tayong alam sa mga hindi poets.",
+   "stepsTl": "1. Walang poet na lazy.\n2. May mga tao na poets.\n3. Yung mga yun, dahil poets, hindi lazy.\n4. Kaya some people are not lazy.",
+   "hintTl": "Mag-focus ka lang sa mga tao na poets."
+  }
+ },
+ {
+  "id": 104501795,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Banned Valid/Invalid/True/False option set; recast as 'which conclusion follows' (key unchanged in substance: Spot being a dog does not follow)",
+  "fields": {
+   "text": "All dogs bark. Spot barks. Which conclusion follows?",
+   "optionA": "Spot is a dog.",
+   "optionB": "Spot is not a dog.",
+   "optionC": "It cannot be determined whether Spot is a dog.",
+   "optionD": "Only dogs bark.",
+   "correctAnswer": "C",
+   "explanation": "The premise says every dog barks, not that only dogs bark. Since other animals may bark too, Spot's barking does not tell us whether Spot is a dog.",
+   "steps": "1. All dogs bark: dogs are inside the group of barkers.\n2. Spot is in the group of barkers.\n3. The barkers may include non-dogs.\n4. So we cannot tell whether Spot is a dog.",
+   "hint": "Does 'all dogs bark' also mean 'only dogs bark'?",
+   "whyA": "This reverses the premise (affirming the consequent); barking does not prove Spot is a dog.",
+   "whyB": "Nothing rules out Spot being a dog; dogs bark too.",
+   "whyD": "'All dogs bark' does not mean only dogs bark; this reverses the premise.",
+   "explanationTl": "Sabi ng premise, lahat ng dogs ay nagba-bark, pero hindi sinabi na dogs lang ang nagba-bark. Kaya hindi natin masasabi kung dog si Spot.",
+   "stepsTl": "1. All dogs bark: kasama ang dogs sa grupo ng nagba-bark.\n2. Kasama si Spot sa nagba-bark.\n3. Pwedeng may hindi dog sa grupong yun.\n4. Kaya cannot be determined kung dog si Spot.",
+   "hintTl": "Ang 'all dogs bark' ba ay pareho ng 'only dogs bark'?"
+  }
+ },
+ {
+  "id": 733498225,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "Every tree grow, and some plants are trees, so at least those plants grow. We cannot say all or none.",
+   "steps": "1. All trees grow.\n2. Some plants are trees.\n3. Those plants therefore grow.\n4. So some plants grow.",
+   "hint": "Look only at the plants that are trees.",
+   "whyA": "Only some plants are trees; the others may not grow.",
+   "whyC": "This contradicts the premises: the plants that are trees do grow.",
+   "whyD": "A definite conclusion does follow: the overlap guarantees 'some'.",
+   "explanationTl": "Lahat ng trees ay nag-grow, at may mga plants na trees, kaya at least yung mga yun ay nag-grow. Hindi natin masasabing lahat o wala.",
+   "stepsTl": "1. All trees grow.\n2. Some plants are trees.\n3. Kaya yung mga plants na yun ay nag-grow.\n4. Kaya some plants grow.",
+   "hintTl": "Tingnan mo lang yung mga plants na trees."
+  }
+ },
+ {
+  "id": 812446768,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "Every bird have feathers, and some animals are birds, so at least those animals have feathers. We cannot say all or none.",
+   "steps": "1. All birds have feathers.\n2. Some animals are birds.\n3. Those animals therefore have feathers.\n4. So some animals have feathers.",
+   "hint": "Look only at the animals that are birds.",
+   "whyA": "Only some animals are birds; the others may not have feathers.",
+   "whyC": "This contradicts the premises: the animals that are birds do have feathers.",
+   "whyD": "A definite conclusion does follow: the overlap guarantees 'some'.",
+   "explanationTl": "Lahat ng birds ay may feathers, at may mga animals na birds, kaya at least yung mga yun ay may feathers. Hindi natin masasabing lahat o wala.",
+   "stepsTl": "1. All birds have feathers.\n2. Some animals are birds.\n3. Kaya yung mga animals na yun ay may feathers.\n4. Kaya some animals have feathers.",
+   "hintTl": "Tingnan mo lang yung mga animals na birds."
+  }
+ },
+ {
+  "id": 1862564295,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added teaching fields",
+  "fields": {
+   "explanation": "Every planet have orbits, and some celestial bodies are planets, so at least those celestial bodies have orbits. We cannot say all or none.",
+   "steps": "1. All planets have orbits.\n2. Some celestial bodies are planets.\n3. Those celestial bodies therefore have orbits.\n4. So some celestial bodies have orbits.",
+   "hint": "Look only at the celestial bodies that are planets.",
+   "whyA": "Only some celestial bodies are planets; the others may not have orbits.",
+   "whyC": "This contradicts the premises: the celestial bodies that are planets do have orbits.",
+   "whyD": "A definite conclusion does follow: the overlap guarantees 'some'.",
+   "explanationTl": "Lahat ng planets ay may orbit, at may mga celestial bodies na planets, kaya at least yung mga yun ay may orbit. Hindi natin masasabing lahat o wala.",
+   "stepsTl": "1. All planets have orbits.\n2. Some celestial bodies are planets.\n3. Kaya yung mga celestial bodies na yun ay may orbit.\n4. Kaya some celestial bodies have orbits.",
+   "hintTl": "Tingnan mo lang yung mga celestial bodies na planets."
+  }
+ },
+ {
+  "id": 1114052581,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Banned Valid/Invalid/True/False option set; recast as 'which conclusion follows' with a different form (illicit major) to avoid a near-duplicate",
+  "fields": {
+   "text": "All dogs are loyal. No cat is a dog. Which conclusion follows?",
+   "optionA": "No cat is loyal.",
+   "optionB": "All cats are loyal.",
+   "optionC": "Some cats are loyal.",
+   "optionD": "Nothing definite follows about whether cats are loyal.",
+   "correctAnswer": "D",
+   "explanation": "The premises say dogs are loyal, but they say nothing about animals that are not dogs. Cats may or may not be loyal, so no definite conclusion about cats follows.",
+   "steps": "1. All dogs are loyal: dogs sit inside the group of loyal animals.\n2. No cat is a dog: cats are outside the dog group.\n3. Cats could still be inside or outside the loyal group.\n4. So nothing definite follows about cats.",
+   "hint": "Being outside the dog group does not tell you whether you are outside the loyal group.",
+   "whyA": "A common error: 'not a dog' does not mean 'not loyal'; other animals can be loyal too.",
+   "whyB": "Nothing in the premises says cats are loyal.",
+   "whyC": "This might be true, but it does not follow from the premises.",
+   "explanationTl": "Sinabi lang na loyal ang dogs; walang sinabi tungkol sa hindi dogs. Kaya hindi natin alam kung loyal ang cats o hindi.",
+   "stepsTl": "1. All dogs are loyal: nasa loob ng loyal group ang dogs.\n2. No cat is a dog: nasa labas ng dog group ang cats.\n3. Pwedeng nasa loob o labas ng loyal group ang cats.\n4. Kaya walang definite na conclusion tungkol sa cats.",
+   "hintTl": "Ang pagiging hindi dog ay hindi nangangahulugang hindi loyal."
+  }
+ },
+ {
+  "id": 364905136,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Wolf was a second valid answer (only non-cat); replaced Wolf with Leopard so Elephant is the only non-cat and only herbivore",
+  "fields": {
+   "text": "Odd one out: Lion, Tiger, Elephant, Leopard",
+   "optionD": "Leopard",
+   "difficulty": 1,
+   "explanation": "Lion, tiger and leopard are big cats that eat meat; the elephant is a plant-eater and not a cat.",
+   "hint": "Three of these belong to the same animal family.",
+   "whyA": "The lion is a meat-eating big cat, like the tiger and leopard.",
+   "whyB": "The tiger is a meat-eating big cat, like the lion and leopard.",
+   "whyD": "The leopard is a meat-eating big cat, like the lion and tiger.",
+   "explanationTl": "Ang lion, tiger at leopard ay big cats na kumakain ng karne; ang elephant ay herbivore at hindi cat.",
+   "hintTl": "Tatlo sa kanila ay galing sa iisang animal family."
+  }
+ },
+ {
+  "id": 466601111,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "Bicycle was a second valid answer (only non-motorized); replaced Bicycle with Jeepney so Airplane is the only one that flies",
+  "fields": {
+   "text": "Odd one out: Car, Jeepney, Motorcycle, Airplane",
+   "optionB": "Jeepney",
+   "difficulty": 1,
+   "explanation": "Car, jeepney and motorcycle are motor vehicles that travel on roads; the airplane travels by air.",
+   "hint": "Think of where each vehicle travels.",
+   "whyA": "A car is a road vehicle, like the jeepney and motorcycle.",
+   "whyB": "A jeepney is a road vehicle, like the car and motorcycle.",
+   "whyC": "A motorcycle is a road vehicle, like the car and jeepney.",
+   "explanationTl": "Ang car, jeepney at motorcycle ay sa kalsada bumibiyahe; ang airplane ay sa himpapawid.",
+   "hintTl": "Isipin mo kung saan bumibiyahe ang bawat sasakyan."
+  }
+ },
+ {
+  "id": 483963428,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key correct; difficulty set to 1 and teaching fields added",
+  "fields": {
+   "difficulty": 1,
+   "hint": "How does each instrument make its sound?",
+   "whyA": "The violin is a string instrument, like the guitar and harp.",
+   "whyB": "The guitar is a string instrument, like the violin and harp.",
+   "whyD": "The harp is a string instrument, like the violin and guitar.",
+   "explanationTl": "Ang flute ay wind instrument (hinihipan), habang string instruments ang violin, guitar at harp.",
+   "hintTl": "Paano lumalabas ang tunog ng bawat instrument?"
+  }
+ }
+]

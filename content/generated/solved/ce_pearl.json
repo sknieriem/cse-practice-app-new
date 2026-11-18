@@ -1,0 +1,107 @@
+[
+ {
+  "uid": "ce_pearl-01",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Hontiveros refiled SOGIESC bill for 20th Congress (GMA, Jul 3 2025): https://www.gmanetwork.com/news/topstories/nation/951437/risa-hontiveros-files-sogie-equality-bill-anew-lgbtqia/story"
+ },
+ {
+  "uid": "ce_pearl-02",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "https://www.bulatlat.org/2026/06/09/marcos-jr-challenged-to-certify-equality-bill-as-urgent/ (June 2026: nine versions filed in 20th Congress, still pending); https://mb.com.ph/2025/06/28/sogiesc-other-pro-lgbtqia-bills-up-for-refiling-in-20th-congress"
+ },
+ {
+  "uid": "ce_pearl-03",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "HB 4982 passed House 3rd reading Sept 20 2017; stalled in Senate interpellation in 17th Congress. https://www.bulatlat.com/?p=264612 ; https://thepost.net.ph/?p=70487"
+ },
+ {
+  "uid": "ce_pearl-04",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Refiled bill lists refusing admission/expelling from educational institutions as discriminatory: https://www.gmanetwork.com/news/topstories/nation/951437/risa-hontiveros-files-sogie-equality-bill-anew-lgbtqia/story"
+ },
+ {
+  "uid": "ce_pearl-05",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "PH joined as 13th Pax Silica signatory, Apr 2026; US State Dept AI/supply-chain security initiative. https://www.bcda.gov.ph/news/new-clark-city-serve-ai-hub-under-us-led-pax-silica-initiative ; https://tribune.net.ph/2026/04/20/new-clark-city-to-serve-as-ai-hub-under-us-led-pax-silica-initiative"
+ },
+ {
+  "uid": "ce_pearl-06",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "BCDA: New Clark City to serve as Pax Silica AI hub: https://www.bcda.gov.ph/news/new-clark-city-serve-ai-hub-under-us-led-pax-silica-initiative"
+ },
+ {
+  "uid": "ce_pearl-07",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "EO 94 s.2025 (Sept 11 2025) created ICI: https://lawphil.net/executive/execord/eo2025/eo_94_2025.html"
+ },
+ {
+  "uid": "ce_pearl-08",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "sumbongsapangulo.ph launched Aug 11 2025: https://www.abs-cbn.com/news/nation/2025/8/11/marcos-launches-website-to-seek-public-help-in-auditing-flood-control-projects-0923"
+ },
+ {
+  "uid": "ce_pearl-09",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Ombudsman prosecutes before Sandiganbayan (RA 6770; ICI is fact-finding only per EO 94): https://lawphil.net/executive/execord/eo2025/eo_94_2025.html"
+ },
+ {
+  "uid": "ce_pearl-10",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "https://mb.com.ph/2026/05/11/house-impeaches-vp-sara-again ; https://tribune.net.ph/2026/05/11/house-impeaches-vp-sara-duterte (second impeachment May 11, 2026 confirmed; Art. XI Sec. 3(6): Senate sole power to try)"
+ },
+ {
+  "uid": "ce_pearl-11",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "https://mb.com.ph/2025/2/5/house-impeaches-vp-duterte-as-215-solons-sign-complaint (215 signatures Feb 5, 2025). Art. XI Sec. 3(4) text. Context only: SC later nullified those articles (July 25, 2025); stem does not claim otherwise."
+ },
+ {
+  "uid": "ce_pearl-12",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Art. XI Sec. 3(6) two-thirds of all Members; Senate convened as court May 18 2026 (Cayetano oath), trial opened Jul 6 2026: https://www.sunstar.com.ph/manila/senate-convenes-as-impeachment-court . FYI: court ruled in Sept 2026 that 2/3 counts only senators 'capable of participating' (https://newsinfo.inquirer.net/2310048/senate-impeachment-court-reduces-conviction-threshold) - does not change constitutional answer."
+ },
+ {
+  "uid": "ce_pearl-13",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "SC July 2025 ruling on one-year bar; MR denied with finality Jan 28/29 2026: https://www.sunstar.com.ph/manila/sc-affirms-ruling-voiding-impeachment-vs-duterte-denies-house-bid-for-reversal"
+ },
+ {
+  "uid": "ce_pearl-14",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Senate voted 19-4-1 to archive Aug 6 2025: https://ptvnews.ph/senate-votes-to-archive-impeachment-case-vs-vp-sara/"
+ },
+ {
+  "uid": "ce_pearl-15",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Art. XI Sec. 3(7). Trial ongoing: defense began presenting evidence Nov 9 2026, no verdict as of mid-Nov: https://interaksyon.philstar.com/politics-issues/2026/11/10/321626/explainer-where-does-philippine-vp-sara-dutertes-impeachment-trial-stand/"
+ }
+]

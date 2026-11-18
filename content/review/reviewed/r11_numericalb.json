@@ -1,0 +1,1001 @@
+[
+ {
+  "id": 575327329,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). Old steps worked a different problem (2/4 + 1/4).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The denominators are the same, so keep 8 and add the numerators: 4 + 2 = 6, giving 6/8. In lowest terms this is 3/4.",
+   "steps": "1. Both denominators are 8, so the answer keeps 8.\n2. Add the numerators: 4 + 2 = 6.\n3. Answer: 6/8.",
+   "hint": "When the denominators match, only the numerators change.",
+   "explanationTl": "Pareho ang denominator (8), kaya 8 pa rin. I-add lang ang numerators: 4 + 2 = 6. Kaya 6/8.",
+   "stepsTl": "1. Parehong 8 ang denominator, kaya 8 pa rin sa sagot.\n2. I-add ang numerators: 4 + 2 = 6.\n3. Sagot: 6/8.",
+   "hintTl": "Kapag pareho ang denominator, numerators lang ang gagalawin mo.",
+   "whyB": "2/8 subtracts the numerators (4 − 2) instead of adding them.",
+   "whyC": "8/8 = 1 would need numerators totalling 8, but 4 + 2 = 6.",
+   "whyD": "3/8 halves only the numerator; 6/8 reduces to 3/4, not 3/8."
+  }
+ },
+ {
+  "id": 576568562,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The denominators are the same, so keep 3 and subtract the numerators: 2 - 1 = 1, giving 1/3.",
+   "steps": "1. Both denominators are 3, so the answer keeps 3.\n2. Subtract the numerators: 2 - 1 = 1.\n3. Answer: 1/3.",
+   "hint": "When the denominators match, only the numerators change.",
+   "explanationTl": "Pareho ang denominator (3), kaya 3 pa rin. I-subtract lang ang numerators: 2 - 1 = 1. Kaya 1/3.",
+   "stepsTl": "1. Parehong 3 ang denominator, kaya 3 pa rin sa sagot.\n2. I-subtract ang numerators: 2 - 1 = 1.\n3. Sagot: 1/3.",
+   "hintTl": "Kapag pareho ang denominator, numerators lang ang gagalawin mo.",
+   "whyB": "0 would mean the two fractions are equal, but 2/3 is bigger than 1/3.",
+   "whyC": "2/3 is the starting fraction; nothing was subtracted.",
+   "whyD": "3/3 adds the numerators (2 + 1) instead of subtracting."
+  }
+ },
+ {
+  "id": 587468643,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced formulaic whys and added explanationTl.",
+  "fields": {
+   "explanation": "Use the LCD 6: 1/2 = 3/6 and 1/3 = 2/6, so the sum is 3/6 + 2/6 = 5/6.",
+   "steps": "1. LCD of 2 and 3 is 6.\n2. Rewrite: 1/2 = 3/6 and 1/3 = 2/6.\n3. Add the numerators: 3/6 + 2/6 = 5/6.",
+   "hint": "Find the least common denominator first, then add or subtract the numerators only.",
+   "whyB": "2/5 adds the numerators (1 + 1) and the denominators (2 + 3); denominators are never added.",
+   "whyC": "3/5 puts the sum of the denominators (2 + 3 = 5) on the bottom; denominators are never added.",
+   "whyD": "4/6 rewrites 1/2 as 2/6 instead of 3/6.",
+   "explanationTl": "Gawing 6 ang denominator: 1/2 = 3/6 at 1/3 = 2/6. Tapos 3/6 + 2/6 = 5/6.",
+   "stepsTl": "1. Ang LCD ng 2 at 3 ay 6.\n2. I-rewrite: 1/2 = 3/6 at 1/3 = 2/6.\n3. I-add ang numerators: 3/6 + 2/6 = 5/6.",
+   "hintTl": "Hanapin muna ang LCD, tapos numerators lang ang i-add o i-subtract."
+  }
+ },
+ {
+  "id": 622723241,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "0.25 = 25/100; dividing top and bottom by 25 gives 1/4.",
+   "steps": "1. 0.25 has two decimal places, so write it over 100: 25/100.\n2. Divide top and bottom by 25: 25/100 = 1/4.",
+   "hint": "Write the decimal over 10 or 100, then reduce.",
+   "explanationTl": "Ang 0.25 ay 25/100. Kapag dinivide ang top at bottom sa 25, 1/4 ang lalabas.",
+   "stepsTl": "1. Ang 0.25 ay may dalawang decimal places, kaya isulat over 100: 25/100.\n2. I-divide ang top at bottom sa 25: 25/100 = 1/4.",
+   "hintTl": "Isulat ang decimal over 10 o 100, tapos i-reduce.",
+   "whyB": "1/2 = 0.50, twice as big as 0.25.",
+   "whyC": "3/4 = 0.75; that is 1 − 0.25, not 0.25.",
+   "whyD": "1/5 = 0.20; the 5 in 0.25 is not the denominator."
+  }
+ },
+ {
+  "id": 638882162,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). Old step 1 said 'common denominator of 3 and 2'.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The denominators are the same, so keep 6 and add the numerators: 2 + 3 = 5, giving 5/6.",
+   "steps": "1. Both denominators are 6, so the answer keeps 6.\n2. Add the numerators: 2 + 3 = 5.\n3. Answer: 5/6.",
+   "hint": "When the denominators match, only the numerators change.",
+   "explanationTl": "Pareho ang denominator (6), kaya 6 pa rin. I-add lang ang numerators: 2 + 3 = 5. Kaya 5/6.",
+   "stepsTl": "1. Parehong 6 ang denominator, kaya 6 pa rin sa sagot.\n2. I-add ang numerators: 2 + 3 = 5.\n3. Sagot: 5/6.",
+   "hintTl": "Kapag pareho ang denominator, numerators lang ang gagalawin mo.",
+   "whyB": "1/6 subtracts the numerators (3 − 2) instead of adding them.",
+   "whyC": "4/6 miscounts the numerators; 2 + 3 = 5, not 4.",
+   "whyD": "6/6 multiplies the numerators (2 × 3) instead of adding them."
+  }
+ },
+ {
+  "id": 677809236,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The denominators are the same, so keep 4 and add the numerators: 2 + 1 = 3, giving 3/4.",
+   "steps": "1. Both denominators are 4, so the answer keeps 4.\n2. Add the numerators: 2 + 1 = 3.\n3. Answer: 3/4.",
+   "hint": "When the denominators match, only the numerators change.",
+   "explanationTl": "Pareho ang denominator (4), kaya 4 pa rin. I-add lang ang numerators: 2 + 1 = 3. Kaya 3/4.",
+   "stepsTl": "1. Parehong 4 ang denominator, kaya 4 pa rin sa sagot.\n2. I-add ang numerators: 2 + 1 = 3.\n3. Sagot: 3/4.",
+   "hintTl": "Kapag pareho ang denominator, numerators lang ang gagalawin mo.",
+   "whyB": "1/2 is just 2/4, the first fraction, with nothing added.",
+   "whyC": "1/4 subtracts the numerators (2 − 1) instead of adding them.",
+   "whyD": "4/4 = 1 would need numerators totalling 4, but 2 + 1 = 3."
+  }
+ },
+ {
+  "id": 700053876,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced formulaic whys, completed steps and added explanationTl.",
+  "fields": {
+   "explanation": "Dividing by 1/2 is multiplying by 2: 3/4 × 2/1 = 6/4 = 3/2 = 1.5.",
+   "steps": "1. Keep 3/4, change ÷ to ×, flip 1/2 to 2/1.\n2. Multiply: 3/4 × 2/1 = 6/4.\n3. Simplify: 6/4 = 3/2 = 1.5.",
+   "hint": "To divide by a fraction, multiply by its reciprocal.",
+   "whyB": "0.75 is just 3/4; the division by 1/2 was skipped.",
+   "whyC": "1 subtracts across, (3 − 1)/(4 − 2) = 2/2; dividing by 1/2 doubles 3/4.",
+   "whyD": "2 doubles 1 instead of 3/4; 3/4 × 2 = 1.5.",
+   "explanationTl": "Ang pag-divide sa 1/2 ay parang pag-multiply sa 2. Kaya 3/4 × 2/1 = 6/4 = 1.5.",
+   "stepsTl": "1. Keep 3/4, gawing × ang ÷, at i-flip ang 1/2 para maging 2/1.\n2. I-multiply: 3/4 × 2/1 = 6/4.\n3. I-simplify: 6/4 = 3/2 = 1.5.",
+   "hintTl": "Kapag nagdi-divide sa fraction, i-multiply sa reciprocal nito."
+  }
+ },
+ {
+  "id": 896153988,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "0.6 = 6/10; dividing top and bottom by 2 gives 3/5.",
+   "steps": "1. 0.6 has one decimal place, so write it over 10: 6/10.\n2. Divide top and bottom by 2: 6/10 = 3/5.",
+   "hint": "Write the decimal over 10 or 100, then reduce.",
+   "explanationTl": "Ang 0.6 ay 6/10. Kapag dinivide ang top at bottom sa 2, 3/5 ang lalabas.",
+   "stepsTl": "1. Ang 0.6 ay may isang decimal place, kaya isulat over 10: 6/10.\n2. I-divide ang top at bottom sa 2: 6/10 = 3/5.",
+   "hintTl": "Isulat ang decimal over 10 o 100, tapos i-reduce.",
+   "whyB": "2/5 = 0.4; that is 1 − 0.6, not 0.6.",
+   "whyC": "4/5 = 0.8, too big.",
+   "whyD": "1/5 = 0.2, too small."
+  }
+ },
+ {
+  "id": 1058231597,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced '*' with '×' in the stem and fixed lost × signs in the explanation ('(13)/(31)'). Set difficulty 1.",
+  "fields": {
+   "text": "1/3 × 3/1 = ?",
+   "difficulty": 1,
+   "explanation": "Multiply tops and bottoms: (1 × 3)/(3 × 1) = 3/3 = 1. A number times its reciprocal is always 1.",
+   "steps": "1. Multiply the numerators: 1 × 3 = 3.\n2. Multiply the denominators: 3 × 1 = 3.\n3. Simplify: 3/3 = 1.",
+   "hint": "Multiply straight across: top × top, bottom × bottom.",
+   "whyB": "1/3 ignores the second factor; multiplying by 3/1 means multiplying by 3.",
+   "whyC": "3 multiplies only the numerators (1 × 3) and forgets the denominator 3.",
+   "whyD": "0 would need a factor of zero; neither fraction is zero.",
+   "explanationTl": "I-multiply ang tops at bottoms: (1 × 3)/(3 × 1) = 3/3 = 1. Kapag minultiply mo ang number sa reciprocal nito, laging 1 ang sagot.",
+   "stepsTl": "1. I-multiply ang numerators: 1 × 3 = 3.\n2. I-multiply ang denominators: 3 × 1 = 3.\n3. I-simplify: 3/3 = 1.",
+   "hintTl": "Diretso lang ang multiply: top × top, bottom × bottom."
+  }
+ },
+ {
+  "id": 1143157816,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Dividing by 10 moves the decimal point one place to the left: 9/10 = 0.9.",
+   "steps": "1. 9/10 means 9 ÷ 10.\n2. Move the decimal point of 9 one place left: 0.9.",
+   "hint": "Dividing by 10 moves the decimal point one place.",
+   "explanationTl": "Kapag dinivide sa 10, isang place pakaliwa ang decimal point: 9/10 = 0.9.",
+   "stepsTl": "1. Ang 9/10 ay 9 ÷ 10.\n2. Ilipat ang decimal point ng 9 ng isang place pakaliwa: 0.9.",
+   "hintTl": "Ang pag-divide sa 10 ay paglipat ng decimal point ng isang place.",
+   "whyB": "0.09 = 9/100; the decimal point moved two places instead of one.",
+   "whyC": "9.0 = 9/1; the division by 10 was skipped.",
+   "whyD": "0.99 = 99/100, not 9/10."
+  }
+ },
+ {
+  "id": 1145987261,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced formulaic whys and added explanationTl.",
+  "fields": {
+   "explanation": "Use the LCD 6: 1/3 = 2/6, so 2/6 + 1/6 = 3/6, which reduces to 1/2.",
+   "steps": "1. LCD of 3 and 6 is 6.\n2. Rewrite: 1/3 = 2/6.\n3. Add: 2/6 + 1/6 = 3/6.\n4. Simplify: 3/6 = 1/2.",
+   "hint": "Find the least common denominator first, then add or subtract the numerators only.",
+   "whyB": "1/3 is just the first fraction; the 1/6 was never added.",
+   "whyC": "1/6 subtracts (2/6 − 1/6) instead of adding.",
+   "whyD": "2/3 treats 1/6 as if it were 1/3 (1/3 + 1/3).",
+   "explanationTl": "Gawing 6 ang denominator: 1/3 = 2/6. Tapos 2/6 + 1/6 = 3/6, na 1/2 kapag sinimplify.",
+   "stepsTl": "1. Ang LCD ng 3 at 6 ay 6.\n2. I-rewrite: 1/3 = 2/6.\n3. I-add: 2/6 + 1/6 = 3/6.\n4. I-simplify: 3/6 = 1/2.",
+   "hintTl": "Hanapin muna ang LCD, tapos numerators lang ang i-add o i-subtract."
+  }
+ },
+ {
+  "id": 1146810600,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "0.75 = 75/100; dividing top and bottom by 25 gives 3/4.",
+   "steps": "1. 0.75 has two decimal places, so write it over 100: 75/100.\n2. Divide top and bottom by 25: 75/100 = 3/4.",
+   "hint": "Write the decimal over 10 or 100, then reduce.",
+   "explanationTl": "Ang 0.75 ay 75/100. Kapag dinivide ang top at bottom sa 25, 3/4 ang lalabas.",
+   "stepsTl": "1. Ang 0.75 ay may dalawang decimal places, kaya isulat over 100: 75/100.\n2. I-divide ang top at bottom sa 25: 75/100 = 3/4.",
+   "hintTl": "Isulat ang decimal over 10 o 100, tapos i-reduce.",
+   "whyB": "1/2 = 0.50, too small.",
+   "whyC": "1/4 = 0.25; that is 1 − 0.75, not 0.75.",
+   "whyD": "2/3 ≈ 0.667, close but not 0.75."
+  }
+ },
+ {
+  "id": 1163252312,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Options A (1) and D (4/4) were equal, so two answers; rewrote as an unlike-denominator sum with a mixed-number answer.",
+  "fields": {
+   "text": "3/4 + 5/6 = ?",
+   "optionA": "1 1/2",
+   "optionB": "4/5",
+   "optionC": "1 7/12",
+   "optionD": "1 5/12",
+   "correctAnswer": "C",
+   "explanation": "Use the LCD 12: 3/4 = 9/12 and 5/6 = 10/12, so the sum is 19/12 = 1 7/12.",
+   "steps": "1. LCD of 4 and 6 is 12.\n2. Rewrite: 3/4 = 9/12 and 5/6 = 10/12.\n3. Add: 9/12 + 10/12 = 19/12.\n4. As a mixed number: 19/12 = 1 7/12.",
+   "hint": "Find the least common denominator first, then add or subtract the numerators only.",
+   "whyA": "1 1/2 = 18/12 rewrites 3/4 as 8/12 instead of 9/12.",
+   "whyB": "4/5 = 8/10 adds the numerators (3 + 5) and the denominators (4 + 6); denominators are never added.",
+   "whyD": "1 5/12 = 17/12 rewrites 5/6 as 8/12 instead of 10/12.",
+   "explanationTl": "Gawing 12 ang denominator: 3/4 = 9/12 at 5/6 = 10/12. Tapos 9/12 + 10/12 = 19/12, o 1 7/12.",
+   "stepsTl": "1. Ang LCD ng 4 at 6 ay 12.\n2. I-rewrite: 3/4 = 9/12 at 5/6 = 10/12.\n3. I-add: 9/12 + 10/12 = 19/12.\n4. Gawing mixed number: 19/12 = 1 7/12.",
+   "hintTl": "Hanapin muna ang LCD, tapos numerators lang ang i-add o i-subtract.",
+   "difficulty": 2
+  }
+ },
+ {
+  "id": 1239435879,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Options C (1/2) and D (2/4) were equal; replaced D with 2/6 (adding tops and bottoms). Set difficulty 1.",
+  "fields": {
+   "optionD": "2/6",
+   "difficulty": 1,
+   "explanation": "Use the LCD 4: 1/2 = 2/4, so 2/4 + 1/4 = 3/4.",
+   "steps": "1. LCD of 2 and 4 is 4.\n2. Rewrite: 1/2 = 2/4.\n3. Add: 2/4 + 1/4 = 3/4.",
+   "hint": "Find the least common denominator first, then add or subtract the numerators only.",
+   "whyB": "1/4 subtracts (2/4 − 1/4) instead of adding.",
+   "whyC": "1/2 is just the first fraction; the 1/4 was never added.",
+   "whyD": "2/6 adds the numerators (1 + 1) and the denominators (2 + 4); denominators are never added.",
+   "explanationTl": "Gawing 4 ang denominator: 1/2 = 2/4. Tapos 2/4 + 1/4 = 3/4.",
+   "stepsTl": "1. Ang LCD ng 2 at 4 ay 4.\n2. I-rewrite: 1/2 = 2/4.\n3. I-add: 2/4 + 1/4 = 3/4.",
+   "hintTl": "Hanapin muna ang LCD, tapos numerators lang ang i-add o i-subtract."
+  }
+ },
+ {
+  "id": 1282675002,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added missing steps, hint, whys and Taglish fields; set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "0.4 = 4/10; dividing top and bottom by 2 gives 2/5.",
+   "steps": "1. 0.4 has one decimal place, so write it over 10: 4/10.\n2. Divide top and bottom by 2: 4/10 = 2/5.",
+   "hint": "Write the decimal over 10 or 100, then reduce.",
+   "explanationTl": "Ang 0.4 ay 4/10. Kapag dinivide ang top at bottom sa 2, 2/5 ang lalabas.",
+   "stepsTl": "1. Ang 0.4 ay may isang decimal place, kaya isulat over 10: 4/10.\n2. I-divide ang top at bottom sa 2: 4/10 = 2/5.",
+   "hintTl": "Isulat ang decimal over 10 o 100, tapos i-reduce.",
+   "whyB": "1/2 = 0.5, too big.",
+   "whyC": "3/5 = 0.6; that is 1 − 0.4, not 0.4.",
+   "whyD": "1/5 = 0.2, only half of 0.4."
+  }
+ },
+ {
+  "id": 1289525931,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced formulaic whys and added explanationTl.",
+  "fields": {
+   "explanation": "Use the LCD 8: 1/4 = 2/8, so 2/8 + 3/8 = 5/8.",
+   "steps": "1. LCD of 4 and 8 is 8.\n2. Rewrite: 1/4 = 2/8.\n3. Add: 2/8 + 3/8 = 5/8.",
+   "hint": "Find the least common denominator first, then add or subtract the numerators only.",
+   "whyB": "1/2 = 4/8 changes 1/4 to 1/8 without scaling the numerator (1/8 + 3/8).",
+   "whyC": "7/8 rewrites 1/4 as 4/8 instead of 2/8.",
+   "whyD": "3/4 = 6/8 doubles 3/8 instead of adding 1/4 (= 2/8) to it.",
+   "explanationTl": "Gawing 8 ang denominator: 1/4 = 2/8. Tapos 2/8 + 3/8 = 5/8.",
+   "stepsTl": "1. Ang LCD ng 4 at 8 ay 8.\n2. I-rewrite: 1/4 = 2/8.\n3. I-add: 2/8 + 3/8 = 5/8.",
+   "hintTl": "Hanapin muna ang LCD, tapos numerators lang ang i-add o i-subtract."
+  }
+ },
+ {
+  "id": 1503529359,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Rewritten after bank-wide fuzzy duplicate scan: Changed fraction from 7/20 to 9/25 so it no longer duplicates the existing 7/20 item.",
+  "fields": {
+   "difficulty": 1,
+   "text": "Convert 9/25 to a decimal.",
+   "optionA": "0.036",
+   "optionB": "2.78",
+   "optionC": "0.36",
+   "optionD": "3.6",
+   "correctAnswer": "C",
+   "explanation": "Multiply the numerator and denominator by 4 to get 36/100, which is 0.36.",
+   "steps": "1. Make the denominator 100: 25 × 4 = 100.\n2. Multiply the numerator by the same number: 9 × 4 = 36.\n3. 9/25 = 36/100 = 0.36.",
+   "hint": "Find an equivalent fraction with a denominator of 100.",
+   "whyA": "0.036 puts the decimal point one place too far left; 36/100 is 0.36, not 36/1000.",
+   "whyB": "2.78 is 25 ÷ 9; you divided the denominator by the numerator.",
+   "whyD": "3.6 puts the decimal point one place too far right; 36/100 is less than 1.",
+   "explanationTl": "I-multiply ang numerator at denominator sa 4 para maging 36/100, which is 0.36.",
+   "stepsTl": "1. Gawing 100 ang denominator: 25 × 4 = 100.\n2. I-multiply din ang numerator: 9 × 4 = 36.\n3. 9/25 = 36/100 = 0.36.",
+   "hintTl": "Humanap ng equivalent fraction na may denominator na 100."
+  }
+ },
+ {
+  "id": 1592472316,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "310/50 = 31/5, and 31 ÷ 5 = 6.2.",
+   "steps": "1. Simplify: 310/50 = 31/5.\n2. 31 ÷ 5 = 6 remainder 1.\n3. The remainder 1/5 = 0.2, so the answer is 6.2.",
+   "hint": "Cancel the common zero first, then divide.",
+   "whyB": "3.1 = 310/100; it divides by 100 instead of 50.",
+   "whyC": "0.62 = 31/50; the 10 was cancelled from the top only.",
+   "whyD": "6.1 misreads the remainder: 10/50 = 0.2, not 0.1.",
+   "explanationTl": "Ang 310/50 ay 31/5, at 31 ÷ 5 = 6.2.",
+   "stepsTl": "1. I-simplify: 310/50 = 31/5.\n2. 31 ÷ 5 = 6 remainder 1.\n3. Ang remainder 1/5 = 0.2, kaya 6.2 ang sagot.",
+   "hintTl": "Tanggalin muna ang common na zero, tapos i-divide."
+  }
+ },
+ {
+  "id": 1638683339,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; rewrote steps/whys to match this sum and set difficulty 1 (one-step). Old step 1 said 'common denominator of 4 and 8'.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The denominators are the same, so keep 8 and add the numerators: 2 + 3 = 5, giving 5/8.",
+   "steps": "1. Both denominators are 8, so the answer keeps 8.\n2. Add the numerators: 2 + 3 = 5.\n3. Answer: 5/8.",
+   "hint": "When the denominators match, only the numerators change.",
+   "explanationTl": "Pareho ang denominator (8), kaya 8 pa rin. I-add lang ang numerators: 2 + 3 = 5. Kaya 5/8.",
+   "stepsTl": "1. Parehong 8 ang denominator, kaya 8 pa rin sa sagot.\n2. I-add ang numerators: 2 + 3 = 5.\n3. Sagot: 5/8.",
+   "hintTl": "Kapag pareho ang denominator, numerators lang ang gagalawin mo.",
+   "whyB": "1/8 subtracts the numerators (3 − 2) instead of adding them.",
+   "whyC": "4/8 miscounts the numerators; 2 + 3 = 5, not 4.",
+   "whyD": "6/8 multiplies the numerators (2 × 3) instead of adding them."
+  }
+ },
+ {
+  "id": 1811722055,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced formulaic whys, expanded steps and added explanationTl.",
+  "fields": {
+   "explanation": "1/8 = 0.125, so 5/8 = 5 × 0.125 = 0.625.",
+   "steps": "1. 1/8 = 1 ÷ 8 = 0.125.\n2. 5/8 = 5 × 0.125 = 0.625.",
+   "hint": "Start from what 1/8 is as a decimal.",
+   "whyB": "0.5 = 4/8, one-eighth too small.",
+   "whyC": "0.75 = 6/8, one-eighth too big.",
+   "whyD": "0.8 just copies the 8 from the denominator; 0.8 = 4/5, more than 5/8.",
+   "explanationTl": "Ang 1/8 ay 0.125, kaya ang 5/8 ay 5 × 0.125 = 0.625.",
+   "stepsTl": "1. 1/8 = 1 ÷ 8 = 0.125.\n2. 5/8 = 5 × 0.125 = 0.625.",
+   "hintTl": "Simulan mo sa decimal ng 1/8."
+  }
+ },
+ {
+  "id": 1926436224,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Rewritten after bank-wide fuzzy duplicate scan: Changed fraction from 3/4 to 11/20 so it no longer duplicates the existing 3/4 item.",
+  "fields": {
+   "difficulty": 1,
+   "text": "Express 11/20 as a decimal.",
+   "optionA": "0.055",
+   "optionB": "5.5",
+   "optionC": "1.82",
+   "optionD": "0.55",
+   "correctAnswer": "D",
+   "explanation": "Multiply the numerator and denominator by 5 to get 55/100, which is 0.55.",
+   "steps": "1. Make the denominator 100: 20 × 5 = 100.\n2. Multiply the numerator by the same number: 11 × 5 = 55.\n3. 11/20 = 55/100 = 0.55.",
+   "hint": "What number times 20 gives 100?",
+   "whyA": "0.055 puts the decimal point one place too far left; 55/100 is 0.55, not 55/1000.",
+   "whyB": "5.5 puts the decimal point one place too far right; 11/20 is less than 1.",
+   "whyC": "1.82 is about 20 ÷ 11; you divided the denominator by the numerator.",
+   "explanationTl": "I-multiply ang numerator at denominator sa 5 para maging 55/100, which is 0.55.",
+   "stepsTl": "1. Gawing 100 ang denominator: 20 × 5 = 100.\n2. I-multiply din ang numerator: 11 × 5 = 55.\n3. 11/20 = 55/100 = 0.55.",
+   "hintTl": "Anong number ang i-multiply sa 20 para maging 100?"
+  }
+ },
+ {
+  "id": 1928932917,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Dividing by 10 moves the decimal point one place to the left: 1/10 = 0.1.",
+   "steps": "1. 1/10 means 1 ÷ 10.\n2. Move the decimal point of 1 one place left: 0.1.",
+   "hint": "Dividing by 10 moves the decimal point one place.",
+   "explanationTl": "Kapag dinivide sa 10, isang place pakaliwa ang decimal point: 1/10 = 0.1.",
+   "stepsTl": "1. Ang 1/10 ay 1 ÷ 10.\n2. Ilipat ang decimal point ng 1 ng isang place pakaliwa: 0.1.",
+   "hintTl": "Ang pag-divide sa 10 ay paglipat ng decimal point ng isang place.",
+   "whyB": "0.01 = 1/100; the decimal point moved two places instead of one.",
+   "whyC": "1.0 = 1/1; the division by 10 was skipped.",
+   "whyD": "0.11 = 11/100, not 1/10."
+  }
+ },
+ {
+  "id": 2142799229,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced formulaic whys and added explanationTl.",
+  "fields": {
+   "explanation": "Use the LCD 6: 2/3 = 4/6, so 4/6 − 1/6 = 3/6, which reduces to 1/2.",
+   "steps": "1. LCD of 3 and 6 is 6.\n2. Rewrite: 2/3 = 4/6.\n3. Subtract: 4/6 − 1/6 = 3/6.\n4. Simplify: 3/6 = 1/2.",
+   "hint": "Find the least common denominator first, then add or subtract the numerators only.",
+   "whyB": "1/3 subtracts the numerators (2 − 1) but keeps 3, ignoring that 1/6 has a different denominator.",
+   "whyC": "1/6 rewrites 2/3 as 2/6 instead of 4/6 (2/6 − 1/6).",
+   "whyD": "5/6 adds (4/6 + 1/6) instead of subtracting.",
+   "explanationTl": "Gawing 6 ang denominator: 2/3 = 4/6. Tapos 4/6 − 1/6 = 3/6, na 1/2 kapag sinimplify.",
+   "stepsTl": "1. Ang LCD ng 3 at 6 ay 6.\n2. I-rewrite: 2/3 = 4/6.\n3. I-subtract: 4/6 − 1/6 = 3/6.\n4. I-simplify: 3/6 = 1/2.",
+   "hintTl": "Hanapin muna ang LCD, tapos numerators lang ang i-add o i-subtract."
+  }
+ },
+ {
+  "id": 370958632,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added units (cm, cm²), fixed lost ×/² in explanation ('3.1425'), added missing fields.",
+  "fields": {
+   "text": "What is the area of a circle with a radius of 5 cm? (Use π = 3.14.)",
+   "optionA": "78.5 cm²",
+   "optionB": "31.4 cm²",
+   "optionC": "15.7 cm²",
+   "optionD": "25 cm²",
+   "explanation": "A = πr² = 3.14 × 5² = 3.14 × 25 = 78.5 cm².",
+   "steps": "1. Area formula: A = πr².\n2. Square the radius: 5² = 25.\n3. Multiply: 3.14 × 25 = 78.5 cm².",
+   "hint": "Square the radius before multiplying by π.",
+   "whyB": "31.4 is 2πr, the circumference, not the area.",
+   "whyC": "15.7 is πr; the radius was not squared.",
+   "whyD": "25 is r² alone; it was never multiplied by π.",
+   "explanationTl": "A = πr² = 3.14 × 5² = 3.14 × 25 = 78.5 cm².",
+   "stepsTl": "1. Area formula: A = πr².\n2. I-square ang radius: 5² = 25.\n3. I-multiply: 3.14 × 25 = 78.5 cm².",
+   "hintTl": "I-square muna ang radius bago i-multiply sa π."
+  }
+ },
+ {
+  "id": 1117933412,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Trivia ('number of sides in a nonagon'); rewrote as a real computation on the same subtopic (interior angle sum).",
+  "fields": {
+   "text": "What is the sum of the interior angles of a nonagon (a 9-sided polygon)?",
+   "optionA": "1,080°",
+   "optionB": "1,440°",
+   "optionC": "1,620°",
+   "optionD": "1,260°",
+   "correctAnswer": "D",
+   "difficulty": 2,
+   "explanation": "The interior angles of an n-sided polygon add up to (n − 2) × 180°, so a nonagon has (9 − 2) × 180° = 1,260°.",
+   "steps": "1. Formula: sum = (n − 2) × 180°.\n2. n = 9, so n − 2 = 7.\n3. 7 × 180° = 1,260°.",
+   "hint": "A polygon can be split into triangles from one corner; count how many.",
+   "whyA": "1,080° uses (n − 3): 6 × 180°. That is the sum for an octagon.",
+   "whyB": "1,440° uses (n − 1): 8 × 180°. That is the sum for a decagon.",
+   "whyC": "1,620° multiplies 9 × 180° without subtracting 2.",
+   "explanationTl": "Ang sum ng interior angles ng n-sided polygon ay (n − 2) × 180°. Sa nonagon, (9 − 2) × 180° = 1,260°.",
+   "stepsTl": "1. Formula: sum = (n − 2) × 180°.\n2. n = 9, kaya n − 2 = 7.\n3. 7 × 180° = 1,260°.",
+   "hintTl": "Hatiin ang polygon sa triangles mula sa isang corner; bilangin kung ilan."
+  }
+ },
+ {
+  "id": 2534123,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1.",
+  "fields": {
+   "text": "A refrigerator priced at Php 20,000 is sold at a 15% discount. What is the final price?",
+   "optionA": "₱17,000",
+   "optionB": "₱18,000",
+   "optionC": "₱16,000",
+   "optionD": "₱19,000",
+   "difficulty": 1,
+   "explanation": "15% of ₱20,000 is ₱3,000, so the final price is ₱20,000 − ₱3,000 = ₱17,000.",
+   "steps": "1. Discount: 15% of ₱20,000 = 0.15 × 20,000 = ₱3,000.\n2. Final price: ₱20,000 − ₱3,000 = ₱17,000.\n3. Check: you pay 85%, and 0.85 × 20,000 = ₱17,000.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 15% ng ₱20,000 ay ₱3,000, kaya ₱20,000 − ₱3,000 = ₱17,000 ang babayaran.",
+   "stepsTl": "1. Discount: 15% ng ₱20,000 = 0.15 × 20,000 = ₱3,000.\n2. Final price: ₱20,000 − ₱3,000 = ₱17,000.\n3. Check: 85% ang babayaran mo, at 0.85 × 20,000 = ₱17,000.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱18,000 takes off only 10% (₱2,000).",
+   "whyC": "₱16,000 takes off 20% (₱4,000).",
+   "whyD": "₱19,000 takes off only 5% (₱1,000)."
+  }
+ },
+ {
+  "id": 3468809,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "50% of 60 = 0.5 × 60 = 30.",
+   "steps": "1. Change 50% to a decimal: 50 ÷ 100 = 0.5.\n2. Multiply: 0.5 × 60 = 30.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 50% ng 60 ay 0.5 × 60 = 30.",
+   "stepsTl": "1. Gawing decimal ang 50%: 50 ÷ 100 = 0.5.\n2. I-multiply: 0.5 × 60 = 30.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "25 is 50% of 50, not of 60.",
+   "whyC": "35 is 50% of 70, not of 60.",
+   "whyD": "40 is two-thirds of 60, not half."
+  }
+ },
+ {
+  "id": 7053621,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1.",
+  "fields": {
+   "text": "A bag priced at Php 1,500 is sold at a 20% discount. What is the final price?",
+   "optionA": "₱1,200",
+   "optionB": "₱1,300",
+   "optionC": "₱1,100",
+   "optionD": "₱1,400",
+   "difficulty": 1,
+   "explanation": "20% of ₱1,500 is ₱300, so the final price is ₱1,500 − ₱300 = ₱1,200.",
+   "steps": "1. Discount: 20% of ₱1,500 = 0.2 × 1,500 = ₱300.\n2. Final price: ₱1,500 − ₱300 = ₱1,200.\n3. Check: you pay 80%, and 0.8 × 1,500 = ₱1,200.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 20% ng ₱1,500 ay ₱300, kaya ₱1,500 − ₱300 = ₱1,200 ang babayaran.",
+   "stepsTl": "1. Discount: 20% ng ₱1,500 = 0.2 × 1,500 = ₱300.\n2. Final price: ₱1,500 − ₱300 = ₱1,200.\n3. Check: 80% ang babayaran mo, at 0.8 × 1,500 = ₱1,200.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱1,300 takes off ₱200; 20% of ₱1,500 is ₱300.",
+   "whyC": "₱1,100 takes off ₱400, more than 20%.",
+   "whyD": "₱1,400 takes off only ₱100."
+  }
+ },
+ {
+  "id": 17673390,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 7053621/359417545 (same 20%-off template); rewrote as finding the rate of discount.",
+  "fields": {
+   "text": "A ring marked Php 3,000 is sold for Php 2,400. What is the rate of discount?",
+   "optionA": "25%",
+   "optionB": "20%",
+   "optionC": "80%",
+   "optionD": "30%",
+   "correctAnswer": "B",
+   "difficulty": 2,
+   "explanation": "The discount is ₱3,000 − ₱2,400 = ₱600, and ₱600 ÷ ₱3,000 = 0.20 = 20%.",
+   "steps": "1. Discount amount: ₱3,000 − ₱2,400 = ₱600.\n2. Rate = discount ÷ marked price = 600 ÷ 3,000 = 0.20.\n3. 0.20 = 20%.",
+   "hint": "Compare the peso discount with the marked price.",
+   "whyA": "25% divides the ₱600 discount by the sale price (₱2,400) instead of the marked price.",
+   "whyC": "80% is the part paid (₱2,400 ÷ ₱3,000), not the discount.",
+   "whyD": "30% off would bring the price down to ₱2,100.",
+   "explanationTl": "Ang discount ay ₱3,000 − ₱2,400 = ₱600. Tapos ₱600 ÷ ₱3,000 = 0.20, o 20%.",
+   "stepsTl": "1. Discount: ₱3,000 − ₱2,400 = ₱600.\n2. Rate = discount ÷ marked price = 600 ÷ 3,000 = 0.20.\n3. 0.20 = 20%.",
+   "hintTl": "Ikumpara ang discount sa pesos sa marked price."
+  }
+ },
+ {
+  "id": 109798819,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Key correct; replaced formulaic whys and added explanationTl.",
+  "fields": {
+   "difficulty": 2,
+   "explanation": "22% of 150 = 0.22 × 150 = 33.",
+   "steps": "1. 10% of 150 = 15, so 20% = 30.\n2. 1% of 150 = 1.5, so 2% = 3.\n3. 22% = 30 + 3 = 33.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 22% ng 150 ay 0.22 × 150 = 33.",
+   "stepsTl": "1. 10% ng 150 = 15, kaya 20% = 30.\n2. 1% ng 150 = 1.5, kaya 2% = 3.\n3. 22% = 30 + 3 = 33.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "30 is only 20% of 150; the extra 2% (3) was left out.",
+   "whyC": "35 adds 5 for the extra 2%, but 2% of 150 is 3.",
+   "whyD": "32 adds 2 for the extra 2%, but 2% of 150 is 3."
+  }
+ },
+ {
+  "id": 129702408,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "40% of 250 = 0.4 × 250 = 100.",
+   "steps": "1. Change 40% to a decimal: 40 ÷ 100 = 0.4.\n2. Multiply: 0.4 × 250 = 100.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 40% ng 250 ay 0.4 × 250 = 100.",
+   "stepsTl": "1. Gawing decimal ang 40%: 40 ÷ 100 = 0.4.\n2. I-multiply: 0.4 × 250 = 100.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "90 is 36% of 250; 10% of 250 is 25, and 4 × 25 = 100.",
+   "whyC": "110 is 44% of 250, too much.",
+   "whyD": "80 is 40% of 200, not of 250."
+  }
+ },
+ {
+  "id": 151446441,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "4% of 1,000 = 0.04 × 1,000 = 40.",
+   "steps": "1. Change 4% to a decimal: 4 ÷ 100 = 0.04.\n2. Multiply: 0.04 × 1,000 = 40.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 4% ng 1,000 ay 0.04 × 1,000 = 40.",
+   "stepsTl": "1. Gawing decimal ang 4%: 4 ÷ 100 = 0.04.\n2. I-multiply: 0.04 × 1,000 = 40.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "30 is 3% of 1,000.",
+   "whyC": "50 is 5% of 1,000.",
+   "whyD": "20 is 2% of 1,000."
+  }
+ },
+ {
+  "id": 233447895,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 472003763 ('What is 30% of ...'); rewrote as a percent of a percent.",
+  "fields": {
+   "text": "What is 30% of 40% of 900?",
+   "optionA": "630",
+   "optionB": "270",
+   "optionC": "360",
+   "optionD": "108",
+   "correctAnswer": "D",
+   "difficulty": 2,
+   "explanation": "40% of 900 = 360, and 30% of 360 = 108.",
+   "steps": "1. 40% of 900 = 0.4 × 900 = 360.\n2. 30% of 360 = 0.3 × 360 = 108.",
+   "hint": "Work from the inside out: take the second percent first.",
+   "whyA": "630 is 70% of 900; it adds 30% + 40% instead of taking one percent of the other.",
+   "whyB": "270 is only 30% of 900; the 40% step was skipped.",
+   "whyC": "360 is only 40% of 900; the 30% step was skipped.",
+   "explanationTl": "Ang 40% ng 900 ay 360, at ang 30% ng 360 ay 108.",
+   "stepsTl": "1. 40% ng 900 = 0.4 × 900 = 360.\n2. 30% ng 360 = 0.3 × 360 = 108.",
+   "hintTl": "Simulan sa loob: kunin muna ang 40% ng 900."
+  }
+ },
+ {
+  "id": 359417545,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1.",
+  "fields": {
+   "text": "A TV priced at Php 15,000 is sold at a 20% discount. What is the final price?",
+   "optionA": "₱12,000",
+   "optionB": "₱13,000",
+   "optionC": "₱11,000",
+   "optionD": "₱14,000",
+   "difficulty": 1,
+   "explanation": "20% of ₱15,000 is ₱3,000, so the final price is ₱15,000 − ₱3,000 = ₱12,000.",
+   "steps": "1. Discount: 20% of ₱15,000 = 0.2 × 15,000 = ₱3,000.\n2. Final price: ₱15,000 − ₱3,000 = ₱12,000.\n3. Check: you pay 80%, and 0.8 × 15,000 = ₱12,000.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 20% ng ₱15,000 ay ₱3,000, kaya ₱15,000 − ₱3,000 = ₱12,000 ang babayaran.",
+   "stepsTl": "1. Discount: 20% ng ₱15,000 = 0.2 × 15,000 = ₱3,000.\n2. Final price: ₱15,000 − ₱3,000 = ₱12,000.\n3. Check: 80% ang babayaran mo, at 0.8 × 15,000 = ₱12,000.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱13,000 takes off ₱2,000; 20% of ₱15,000 is ₱3,000.",
+   "whyC": "₱11,000 takes off ₱4,000, more than 20%.",
+   "whyD": "₱14,000 takes off only ₱1,000."
+  }
+ },
+ {
+  "id": 361904332,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 3468809 ('What is 50% of ...'); rewrote as finding what percent one number is of another.",
+  "fields": {
+   "text": "20 is what percent of 80?",
+   "optionA": "400%",
+   "optionB": "20%",
+   "optionC": "25%",
+   "optionD": "75%",
+   "correctAnswer": "C",
+   "difficulty": 1,
+   "explanation": "Percent = part ÷ whole × 100% = 20 ÷ 80 × 100% = 25%.",
+   "steps": "1. Part = 20, whole = 80.\n2. 20 ÷ 80 = 0.25.\n3. 0.25 × 100% = 25%.",
+   "hint": "Divide the part by the whole, then change to a percent.",
+   "whyA": "400% divides 80 by 20; the ratio is upside down.",
+   "whyB": "20% just copies the number 20.",
+   "whyD": "75% is the part of 80 that is NOT 20 (60 ÷ 80).",
+   "explanationTl": "Percent = part ÷ whole × 100% = 20 ÷ 80 × 100% = 25%.",
+   "stepsTl": "1. Part = 20, whole = 80.\n2. 20 ÷ 80 = 0.25.\n3. 0.25 × 100% = 25%.",
+   "hintTl": "I-divide ang part sa whole, tapos gawing percent."
+  }
+ },
+ {
+  "id": 371119905,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1.",
+  "fields": {
+   "text": "A backpack priced at Php 900 is sold at a 10% discount. What is the final price?",
+   "optionA": "₱810",
+   "optionB": "₱800",
+   "optionC": "₱850",
+   "optionD": "₱820",
+   "difficulty": 1,
+   "explanation": "10% of ₱900 is ₱90, so the final price is ₱900 − ₱90 = ₱810.",
+   "steps": "1. Discount: 10% of ₱900 = 0.1 × 900 = ₱90.\n2. Final price: ₱900 − ₱90 = ₱810.\n3. Check: you pay 90%, and 0.9 × 900 = ₱810.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 10% ng ₱900 ay ₱90, kaya ₱900 − ₱90 = ₱810 ang babayaran.",
+   "stepsTl": "1. Discount: 10% ng ₱900 = 0.1 × 900 = ₱90.\n2. Final price: ₱900 − ₱90 = ₱810.\n3. Check: 90% ang babayaran mo, at 0.9 × 900 = ₱810.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱800 takes off ₱100; 10% of ₱900 is ₱90.",
+   "whyC": "₱850 takes off only ₱50.",
+   "whyD": "₱820 takes off only ₱80."
+  }
+ },
+ {
+  "id": 396053749,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Key correct; added missing steps, hint, whys and Taglish fields.",
+  "fields": {
+   "explanation": "The increase is 90 − 45 = 45, and 45 is 100% of 45.",
+   "steps": "1. Increase = 90 − 45 = 45.\n2. Percent increase = 45 ÷ 45 × 100% = 100%.",
+   "hint": "Find the amount of the increase, then compare it with the starting value.",
+   "whyA": "50% would add 22.5, giving only 67.5.",
+   "whyC": "200% is 90 as a percent of 45 (the new total), not the increase; 45 + 200% of 45 = 135.",
+   "whyD": "150% would add 67.5, giving 112.5.",
+   "explanationTl": "Ang increase ay 90 − 45 = 45, at ang 45 ay 100% ng 45.",
+   "stepsTl": "1. Increase = 90 − 45 = 45.\n2. Percent increase = 45 ÷ 45 × 100% = 100%.",
+   "hintTl": "Hanapin muna kung magkano ang itinaas, tapos ikumpara sa original."
+  }
+ },
+ {
+  "id": 412352093,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 129702408 (same base 250, 'What is x% of 250'); rewrote as finding the whole from a percent.",
+  "fields": {
+   "text": "150 is 60% of what number?",
+   "optionA": "90",
+   "optionB": "250",
+   "optionC": "240",
+   "optionD": "225",
+   "correctAnswer": "B",
+   "difficulty": 2,
+   "explanation": "If 0.60 × N = 150, then N = 150 ÷ 0.60 = 250. Check: 60% of 250 = 150.",
+   "steps": "1. Let the number be N: 0.60 × N = 150.\n2. N = 150 ÷ 0.60 = 250.\n3. Check: 0.60 × 250 = 150.",
+   "hint": "The unknown is the whole; divide the part by the percent.",
+   "whyA": "90 is 60% of 150; it multiplies instead of dividing.",
+   "whyC": "240 adds 60% of 150 (90) to 150.",
+   "whyD": "225 multiplies 150 by 1.5; the correct factor is 1 ÷ 0.6 ≈ 1.67.",
+   "explanationTl": "Kung 0.60 × N = 150, ang N = 150 ÷ 0.60 = 250. Check: 60% ng 250 = 150.",
+   "stepsTl": "1. Sabihin nating N ang number: 0.60 × N = 150.\n2. N = 150 ÷ 0.60 = 250.\n3. Check: 0.60 × 250 = 150.",
+   "hintTl": "Ang hinahanap ay ang whole; i-divide ang part sa percent."
+  }
+ },
+ {
+  "id": 472003763,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "30% of 150 = 0.3 × 150 = 45.",
+   "steps": "1. Change 30% to a decimal: 30 ÷ 100 = 0.3.\n2. Multiply: 0.3 × 150 = 45.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 30% ng 150 ay 0.3 × 150 = 45.",
+   "stepsTl": "1. Gawing decimal ang 30%: 30 ÷ 100 = 0.3.\n2. I-multiply: 0.3 × 150 = 45.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "50 is one-third of 150; 30% is a bit less than 1/3.",
+   "whyC": "40 is under 30%: 10% of 150 is 15, and 3 × 15 = 45.",
+   "whyD": "55 is over 30%: 10% of 150 is 15, and 3 × 15 = 45."
+  }
+ },
+ {
+  "id": 486168981,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "45% of 400 = 0.45 × 400 = 180.",
+   "steps": "1. Change 45% to a decimal: 45 ÷ 100 = 0.45.\n2. Multiply: 0.45 × 400 = 180.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 45% ng 400 ay 0.45 × 400 = 180.",
+   "stepsTl": "1. Gawing decimal ang 45%: 45 ÷ 100 = 0.45.\n2. I-multiply: 0.45 × 400 = 180.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "160 is only 40% of 400; the extra 5% (20) was left out.",
+   "whyC": "200 is 50% of 400.",
+   "whyD": "190 adds 30 for the extra 5%, but 5% of 400 is 20 (160 + 20 = 180)."
+  }
+ },
+ {
+  "id": 502630425,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "40% of 125 = 0.4 × 125 = 50.",
+   "steps": "1. Change 40% to a decimal: 40 ÷ 100 = 0.4.\n2. Multiply: 0.4 × 125 = 50.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 40% ng 125 ay 0.4 × 125 = 50.",
+   "stepsTl": "1. Gawing decimal ang 40%: 40 ÷ 100 = 0.4.\n2. I-multiply: 0.4 × 125 = 50.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "45 is 36% of 125.",
+   "whyC": "55 is 44% of 125.",
+   "whyD": "60 is 48% of 125."
+  }
+ },
+ {
+  "id": 524804337,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "16% of 250 = 0.16 × 250 = 40.",
+   "steps": "1. Change 16% to a decimal: 16 ÷ 100 = 0.16.\n2. Multiply: 0.16 × 250 = 40.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 16% ng 250 ay 0.16 × 250 = 40.",
+   "stepsTl": "1. Gawing decimal ang 16%: 16 ÷ 100 = 0.16.\n2. I-multiply: 0.16 × 250 = 40.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "35 is 14% of 250.",
+   "whyC": "45 is 18% of 250.",
+   "whyD": "50 is 20% of 250."
+  }
+ },
+ {
+  "id": 544645056,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1.",
+  "fields": {
+   "text": "A toy priced at Php 200 is sold at a 25% discount. What is the final price?",
+   "optionA": "₱150",
+   "optionB": "₱160",
+   "optionC": "₱140",
+   "optionD": "₱170",
+   "difficulty": 1,
+   "explanation": "25% of ₱200 is ₱50, so the final price is ₱200 − ₱50 = ₱150.",
+   "steps": "1. Discount: 25% of ₱200 = 0.25 × 200 = ₱50.\n2. Final price: ₱200 − ₱50 = ₱150.\n3. Check: you pay 75%, and 0.75 × 200 = ₱150.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 25% ng ₱200 ay ₱50, kaya ₱200 − ₱50 = ₱150 ang babayaran.",
+   "stepsTl": "1. Discount: 25% ng ₱200 = 0.25 × 200 = ₱50.\n2. Final price: ₱200 − ₱50 = ₱150.\n3. Check: 75% ang babayaran mo, at 0.75 × 200 = ₱150.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱160 takes off only 20% (₱40).",
+   "whyC": "₱140 takes off 30% (₱60).",
+   "whyD": "₱170 takes off only 15% (₱30)."
+  }
+ },
+ {
+  "id": 560700723,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1.",
+  "fields": {
+   "text": "A ticket priced at Php 500 is sold at a 40% discount. What is the final price?",
+   "optionA": "₱300",
+   "optionB": "₱200",
+   "optionC": "₱400",
+   "optionD": "₱350",
+   "difficulty": 1,
+   "explanation": "40% of ₱500 is ₱200, so the final price is ₱500 − ₱200 = ₱300.",
+   "steps": "1. Discount: 40% of ₱500 = 0.4 × 500 = ₱200.\n2. Final price: ₱500 − ₱200 = ₱300.\n3. Check: you pay 60%, and 0.6 × 500 = ₱300.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 40% ng ₱500 ay ₱200, kaya ₱500 − ₱200 = ₱300 ang babayaran.",
+   "stepsTl": "1. Discount: 40% ng ₱500 = 0.4 × 500 = ₱200.\n2. Final price: ₱500 − ₱200 = ₱300.\n3. Check: 60% ang babayaran mo, at 0.6 × 500 = ₱300.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱200 is the discount itself, not the price after the discount.",
+   "whyC": "₱400 takes off only 20% (₱100).",
+   "whyD": "₱350 takes off only 30% (₱150)."
+  }
+ },
+ {
+  "id": 563217599,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "2% of 5,000 = 0.02 × 5,000 = 100.",
+   "steps": "1. Change 2% to a decimal: 2 ÷ 100 = 0.02.\n2. Multiply: 0.02 × 5,000 = 100.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 2% ng 5,000 ay 0.02 × 5,000 = 100.",
+   "stepsTl": "1. Gawing decimal ang 2%: 2 ÷ 100 = 0.02.\n2. I-multiply: 0.02 × 5,000 = 100.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "90 is 1.8% of 5,000; 1% of 5,000 is 50, so 2% is 100.",
+   "whyC": "110 is 2.2% of 5,000.",
+   "whyD": "80 is 1.6% of 5,000."
+  }
+ },
+ {
+  "id": 665464439,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 371119905/962980247 (same 10%-off template); rewrote as markup-then-discount.",
+  "fields": {
+   "text": "A watch priced at Php 2,000 is marked up by 10%, then the new price is discounted by 10%. What is the final price?",
+   "optionA": "₱2,000",
+   "optionB": "₱1,800",
+   "optionC": "₱2,200",
+   "optionD": "₱1,980",
+   "correctAnswer": "D",
+   "difficulty": 2,
+   "explanation": "The markup gives 1.10 × ₱2,000 = ₱2,200; 10% off that leaves 0.90 × ₱2,200 = ₱1,980. The two 10% changes do not cancel because they apply to different amounts.",
+   "steps": "1. Markup: 1.10 × ₱2,000 = ₱2,200.\n2. Discount is on ₱2,200: 10% of ₱2,200 = ₱220.\n3. Final price: ₱2,200 − ₱220 = ₱1,980.",
+   "hint": "The discount is taken from the marked-up price, not from ₱2,000.",
+   "whyA": "₱2,000 assumes +10% and −10% cancel; the 10% off is taken from the larger ₱2,200.",
+   "whyB": "₱1,800 applies only the 10% discount to the original ₱2,000.",
+   "whyC": "₱2,200 applies only the markup and forgets the discount.",
+   "explanationTl": "Pagkatapos ng markup, 1.10 × ₱2,000 = ₱2,200. Tapos 10% off sa ₱2,200, kaya ₱1,980. Hindi sila nagka-cancel kasi magkaiba ang base ng dalawang 10%.",
+   "stepsTl": "1. Markup: 1.10 × ₱2,000 = ₱2,200.\n2. Ang discount ay sa ₱2,200: 10% ng ₱2,200 = ₱220.\n3. Final price: ₱2,200 − ₱220 = ₱1,980.",
+   "hintTl": "Ang discount ay kinukuha sa marked-up na presyo, hindi sa ₱2,000."
+  }
+ },
+ {
+  "id": 750335784,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; replaced formulaic whys, added explanationTl; set difficulty 1 (one-step).",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "25% of 120 = 0.25 × 120 = 30.",
+   "steps": "1. Change 25% to a decimal: 25 ÷ 100 = 0.25.\n2. Multiply: 0.25 × 120 = 30.",
+   "hint": "Change the percent to a decimal (or find 10% or 1% first), then multiply.",
+   "explanationTl": "Ang 25% ng 120 ay 0.25 × 120 = 30.",
+   "stepsTl": "1. Gawing decimal ang 25%: 25 ÷ 100 = 0.25.\n2. I-multiply: 0.25 × 120 = 30.",
+   "hintTl": "Gawing decimal ang percent (o hanapin muna ang 10% o 1%), tapos i-multiply.",
+   "whyB": "25 just copies the percent; 25% of 120 is one-fourth of 120.",
+   "whyC": "35 is more than one-fourth of 120 (120 ÷ 4 = 30).",
+   "whyD": "40 is one-third of 120; 25% is one-fourth."
+  }
+ },
+ {
+  "id": 784213915,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Near-duplicate of 2534123 (same 15%-off template); rewrote as finding the original price.",
+  "fields": {
+   "text": "After a 15% discount, a table sells for Php 1,700. What was its original price?",
+   "optionA": "₱1,955",
+   "optionB": "₱1,445",
+   "optionC": "₱2,000",
+   "optionD": "₱2,125",
+   "correctAnswer": "C",
+   "difficulty": 2,
+   "explanation": "After 15% off the buyer pays 85% of the original, so the original is ₱1,700 ÷ 0.85 = ₱2,000. Check: 15% of ₱2,000 = ₱300, and ₱2,000 − ₱300 = ₱1,700.",
+   "steps": "1. After 15% off, the sale price is 85% of the original.\n2. 0.85 × original = ₱1,700.\n3. Original = ₱1,700 ÷ 0.85 = ₱2,000.\n4. Check: ₱2,000 − 15% × ₱2,000 = ₱2,000 − ₱300 = ₱1,700.",
+   "hint": "The sale price is a percent of the ORIGINAL price, not the other way around.",
+   "whyA": "₱1,955 adds 15% of ₱1,700; the 15% was taken from the original, not from ₱1,700.",
+   "whyB": "₱1,445 takes another 15% off ₱1,700 instead of working backward.",
+   "whyD": "₱2,125 divides by 0.80, as if the discount were 20%.",
+   "explanationTl": "Pagkatapos ng 15% off, 85% ng original ang binayaran. Kaya ₱1,700 ÷ 0.85 = ₱2,000 ang original. Check: 15% ng ₱2,000 = ₱300, at ₱2,000 − ₱300 = ₱1,700.",
+   "stepsTl": "1. Pagkatapos ng 15% off, ang sale price ay 85% ng original.\n2. 0.85 × original = ₱1,700.\n3. Original = ₱1,700 ÷ 0.85 = ₱2,000.\n4. Check: ₱2,000 − ₱300 = ₱1,700.",
+   "hintTl": "Ang sale price ay percent ng ORIGINAL na presyo, hindi baliktad."
+  }
+ },
+ {
+  "id": 809250212,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; removed '(approx)': with it, ₱400 (1/3 off) was also defensible. Added peso units, replaced formulaic whys, added explanationTl. Recheck: distractor ₱400 (33⅓% reading) replaced with ₱198 to leave one defensible answer.",
+  "fields": {
+   "text": "A vase priced at ₱600 is sold at a 33% discount. What is the final price?",
+   "optionA": "₱402",
+   "optionB": "₱198",
+   "optionC": "₱450",
+   "optionD": "₱500",
+   "difficulty": 2,
+   "explanation": "33% of ₱600 is ₱198, so the final price is ₱600 − ₱198 = ₱402.",
+   "steps": "1. Discount: 33% of ₱600 = 0.33 × 600 = ₱198.\n2. Final price: ₱600 − ₱198 = ₱402.\n3. Check: you pay 67%, and 0.67 × 600 = ₱402.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 33% ng ₱600 ay ₱198, kaya ₱600 − ₱198 = ₱402 ang babayaran.",
+   "stepsTl": "1. Discount: 33% ng ₱600 = 0.33 × 600 = ₱198.\n2. Final price: ₱600 − ₱198 = ₱402.\n3. Check: 67% ang babayaran mo, at 0.67 × 600 = ₱402.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱198 is only the discount (33% of ₱600); subtract it from ₱600 to get the final price.",
+   "whyC": "₱450 takes off only 25% (₱150).",
+   "whyD": "₱500 takes off only ₱100."
+  }
+ },
+ {
+  "id": 962980247,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key correct; added peso units to options, tidied stem, replaced formulaic whys, added explanationTl; difficulty 1.",
+  "fields": {
+   "text": "A book priced at Php 100 is sold at a 10% discount. What is the final price?",
+   "optionA": "₱90",
+   "optionB": "₱95",
+   "optionC": "₱85",
+   "optionD": "₱80",
+   "difficulty": 1,
+   "explanation": "10% of ₱100 is ₱10, so the final price is ₱100 − ₱10 = ₱90.",
+   "steps": "1. Discount: 10% of ₱100 = 0.1 × 100 = ₱10.\n2. Final price: ₱100 − ₱10 = ₱90.\n3. Check: you pay 90%, and 0.9 × 100 = ₱90.",
+   "hint": "Find the discount amount first, or multiply by the percent you still pay.",
+   "explanationTl": "Ang 10% ng ₱100 ay ₱10, kaya ₱100 − ₱10 = ₱90 ang babayaran.",
+   "stepsTl": "1. Discount: 10% ng ₱100 = 0.1 × 100 = ₱10.\n2. Final price: ₱100 − ₱10 = ₱90.\n3. Check: 90% ang babayaran mo, at 0.9 × 100 = ₱90.",
+   "hintTl": "Hanapin muna ang discount, o i-multiply agad sa percent na babayaran mo.",
+   "whyB": "₱95 takes off only 5%.",
+   "whyC": "₱85 takes off 15%.",
+   "whyD": "₱80 takes off 20%."
+  }
+ }
+]

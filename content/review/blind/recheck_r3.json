@@ -1,0 +1,425 @@
+[
+ {
+  "id": 603358645,
+  "category": "Analytical Ability",
+  "text": "Opaque : Clear :: Fancy :",
+  "optionA": "Simple",
+  "optionB": "Complex",
+  "optionC": "Elegant",
+  "optionD": "Ornate"
+ },
+ {
+  "id": 292444038,
+  "category": "Analytical Ability",
+  "text": "A review center says: \"To pass the exam, students must review their notes.\" Which of the following is assumed by this statement?",
+  "optionA": "Reviewing notes guarantees passing the exam",
+  "optionB": "Reviewing notes helps students prepare for the exam",
+  "optionC": "Students who review will get a perfect score",
+  "optionD": "Students do not take notes in class"
+ },
+ {
+  "id": 887779386,
+  "category": "Analytical Ability",
+  "text": "A puzzle club says: \"To solve puzzles, one must think logically.\" Which of the following is assumed by this statement?",
+  "optionA": "Thinking logically guarantees solving every puzzle",
+  "optionB": "Puzzles can only be solved by guessing",
+  "optionC": "Logical thinking is useful in solving puzzles",
+  "optionD": "Most people cannot think logically"
+ },
+ {
+  "id": 1024818016,
+  "category": "Analytical Ability",
+  "text": "A sari-sari store sold 300 items in Week 1, 350 items in Week 2, and 400 items in Week 3. What is the average number of items sold per week?",
+  "optionA": "340",
+  "optionB": "350",
+  "optionC": "360",
+  "optionD": "370"
+ },
+ {
+  "id": 1385056419,
+  "category": "Analytical Ability",
+  "text": "A cooperative's revenue was ₱900,000 in Q1, ₱950,000 in Q2, and ₱1,000,000 in Q3. What is its average quarterly revenue, in thousands of pesos?",
+  "optionA": "940",
+  "optionB": "950",
+  "optionC": "960",
+  "optionD": "970"
+ },
+ {
+  "id": 1466426645,
+  "category": "Analytical Ability",
+  "text": "A barangay seminar had 200 attendees on Day 1, 250 on Day 2, and 300 on Day 3. What is the average attendance per day?",
+  "optionA": "240",
+  "optionB": "250",
+  "optionC": "260",
+  "optionD": "270"
+ },
+ {
+  "id": 1209863589,
+  "category": "Analytical Ability",
+  "text": "X is Y's brother, Y is Z's sister, and Z is a boy. Z is X's:",
+  "optionA": "Brother",
+  "optionB": "Sister",
+  "optionC": "Uncle",
+  "optionD": "Cousin"
+ },
+ {
+  "id": 1744376656,
+  "category": "Analytical Ability",
+  "text": "P is Q's father. Q is R's daughter, and R is a woman. What is R to P?",
+  "optionA": "Son",
+  "optionB": "Daughter",
+  "optionC": "Wife",
+  "optionD": "Mother"
+ },
+ {
+  "id": 86297828,
+  "category": "Analytical Ability",
+  "text": "All roses are red. Some flowers are roses. So some flowers are red. Is the argument valid or invalid?",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "Invalid, because not all flowers are roses",
+  "optionD": "Invalid, because some roses are not red in real life"
+ },
+ {
+  "id": 896911754,
+  "category": "Analytical Ability",
+  "text": "All dancers perform. Some people perform. So some people are dancers. Is the argument valid or invalid?",
+  "optionA": "Valid",
+  "optionB": "Invalid",
+  "optionC": "Valid, because the conclusion is true in real life",
+  "optionD": "Valid, because both premises are true"
+ },
+ {
+  "id": 1175081634,
+  "category": "Analytical Ability",
+  "text": "If all Bloops are Razzies and some Razzies are Lalas, then:",
+  "optionA": "All Bloops are Lalas",
+  "optionB": "Some Bloops are Lalas",
+  "optionC": "No Bloops are Lalas",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1493632564,
+  "category": "Analytical Ability",
+  "text": "All teachers are educators. No educator is careless. So no teacher is careless. Is the argument valid or invalid?",
+  "optionA": "Invalid, because some teachers are careless in real life",
+  "optionB": "Invalid",
+  "optionC": "Valid",
+  "optionD": "Invalid, because a premise with 'No' cannot give a conclusion"
+ },
+ {
+  "id": 1632913086,
+  "category": "Analytical Ability",
+  "text": "If all rivers flow and no lake is a river, then:",
+  "optionA": "All lakes flow",
+  "optionB": "No lakes flow",
+  "optionC": "Some lakes flow",
+  "optionD": "Cannot determine"
+ },
+ {
+  "id": 1636377641,
+  "category": "Analytical Ability",
+  "text": "Only confident people are actors. All actors are wealthy. Ben is wealthy. Is 'Ben is a confident person' undoubtedly true?",
+  "optionA": "Yes, because all actors are wealthy",
+  "optionB": "Yes, because Ben must be an actor",
+  "optionC": "No, because Ben may be wealthy without being an actor",
+  "optionD": "Yes, because only confident people are wealthy"
+ },
+ {
+  "id": 1910565425,
+  "category": "Analytical Ability",
+  "text": "All birds fly. Penguins do not fly. So penguins are not birds. Is the argument valid or invalid?",
+  "optionA": "Valid",
+  "optionB": "Invalid, because real penguins are birds",
+  "optionC": "Invalid, because a negative premise gives no conclusion",
+  "optionD": "Invalid"
+ },
+ {
+  "id": 2065221890,
+  "category": "Analytical Ability",
+  "text": "All architects design. No engineer is an architect. So no engineer designs. Is the argument valid or invalid?",
+  "optionA": "Valid",
+  "optionB": "Valid, because architects and engineers are different jobs",
+  "optionC": "Valid, because the conclusion uses 'No' like the second premise",
+  "optionD": "Invalid"
+ },
+ {
+  "id": 2120519826,
+  "category": "Analytical Ability",
+  "text": "No pilot is afraid of heights. Some people are pilots. So some people are not afraid of heights. Is the argument valid or invalid?",
+  "optionA": "Invalid, because not all people are pilots",
+  "optionB": "Valid",
+  "optionC": "Invalid, because a negative premise gives no conclusion",
+  "optionD": "Invalid, because the conclusion should be 'No people are afraid of heights'"
+ },
+ {
+  "id": 1136389625,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Guitar, Violin, Flute, Cello",
+  "optionA": "Guitar",
+  "optionB": "Violin",
+  "optionC": "Flute",
+  "optionD": "Cello"
+ },
+ {
+  "id": 2093024008,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Apple, Banana, Carrot, Orange",
+  "optionA": "Apple",
+  "optionB": "Banana",
+  "optionC": "Carrot",
+  "optionD": "Orange"
+ },
+ {
+  "id": 458469050,
+  "category": "Analytical Ability",
+  "text": "Next in series: 3, 7, 12, 18, ____",
+  "optionA": "24",
+  "optionB": "25",
+  "optionC": "26",
+  "optionD": "27"
+ },
+ {
+  "id": 1623350365,
+  "category": "Analytical Ability",
+  "text": "Next in series: 6, 13, 21, 30, ____",
+  "optionA": "38",
+  "optionB": "39",
+  "optionC": "40",
+  "optionD": "41"
+ },
+ {
+  "id": 1628749749,
+  "category": "General Information",
+  "text": "The Congress, by a vote of ____ of both Houses in joint session assembled, voting separately, shall have the sole power to declare a state of war.",
+  "optionA": "Two-thirds",
+  "optionB": "One-half",
+  "optionC": "Three quarters",
+  "optionD": "Three-fifths"
+ },
+ {
+  "id": 1686675808,
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, how long is the term of office of a senator?",
+  "optionA": "3 years",
+  "optionB": "4 years",
+  "optionC": "5 years",
+  "optionD": "6 years"
+ },
+ {
+  "id": 1137112436,
+  "category": "General Information",
+  "text": "Under Article II, Section 16 of the 1987 Constitution, the State shall protect and advance the right of the people to a ____ ecology.",
+  "optionA": "balanced and healthful",
+  "optionB": "clean and green",
+  "optionC": "safe and sanitary",
+  "optionD": "productive and sustainable"
+ },
+ {
+  "id": 1276088687,
+  "category": "General Information",
+  "text": "Which of the following is one of the norms of conduct of public officials and employees under Section 4 of RA 6713?",
+  "optionA": "Professionalism",
+  "optionB": "Political partisanship",
+  "optionC": "Seniority",
+  "optionD": "Personal loyalty to superiors"
+ },
+ {
+  "id": 1404617270,
+  "category": "General Information",
+  "text": "Which inert gas is most commonly used to fill incandescent light bulbs to prevent the filament from oxidizing?",
+  "optionA": "Helium",
+  "optionB": "Argon",
+  "optionC": "Neon",
+  "optionD": "Hydrogen"
+ },
+ {
+  "id": 416474926,
+  "category": "General Information",
+  "text": "Boracay Island, famous for its white sand beaches, is part of which province?",
+  "optionA": "Aklan",
+  "optionB": "Antique",
+  "optionC": "Capiz",
+  "optionD": "Palawan"
+ },
+ {
+  "id": 2022609578,
+  "category": "General Information",
+  "text": "Siargao Island, known as the 'Surfing Capital of the Philippines', is part of which province?",
+  "optionA": "Surigao del Sur",
+  "optionB": "Dinagat Islands",
+  "optionC": "Surigao del Norte",
+  "optionD": "Agusan del Norte"
+ },
+ {
+  "id": 476202559,
+  "category": "Numerical Ability",
+  "text": "2/3 × 3/4 = ?",
+  "optionA": "1/2",
+  "optionB": "5/7",
+  "optionC": "1/3",
+  "optionD": "5/12"
+ },
+ {
+  "id": 1810348430,
+  "category": "Numerical Ability",
+  "text": "1/6 + 5/6 = ?",
+  "optionA": "1",
+  "optionB": "4/6",
+  "optionC": "2/6",
+  "optionD": "3/6"
+ },
+ {
+  "id": 1569990510,
+  "category": "Numerical Ability",
+  "text": "A rectangular lot is 10 m long and 5 m wide. What is its area?",
+  "optionA": "50 sq m",
+  "optionB": "30 sq m",
+  "optionC": "15 sq m",
+  "optionD": "100 sq m"
+ },
+ {
+  "id": 2118687031,
+  "category": "Numerical Ability",
+  "text": "What is the sum of the interior angles of a decagon (10-sided polygon)?",
+  "optionA": "1,440°",
+  "optionB": "1,800°",
+  "optionC": "1,260°",
+  "optionD": "1,620°"
+ },
+ {
+  "id": 414065780,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 1, 8, 27, 64, ?",
+  "optionA": "100",
+  "optionB": "125",
+  "optionC": "216",
+  "optionD": "81"
+ },
+ {
+  "id": 1596450503,
+  "category": "Numerical Ability",
+  "text": "What is the range of the data set 10, 20, 30, 40?",
+  "optionA": "30",
+  "optionB": "25",
+  "optionC": "40",
+  "optionD": "20"
+ },
+ {
+  "id": 221276860,
+  "category": "Numerical Ability",
+  "text": "A wire frame is shaped like a cube with edges 3 cm long. How much wire is used for all the edges?",
+  "optionA": "24 cm",
+  "optionB": "18 cm",
+  "optionC": "36 cm",
+  "optionD": "27 cm"
+ },
+ {
+  "id": 635433018,
+  "category": "Numerical Ability",
+  "text": "A backyard has chickens and goats. There are 20 heads and 56 legs in all. How many goats are there?",
+  "optionA": "12",
+  "optionB": "6",
+  "optionC": "10",
+  "optionD": "8"
+ },
+ {
+  "id": 1640625305,
+  "category": "Numerical Ability",
+  "text": "Ana saves ₱1,500 every month. How much will she have saved after 2 years?",
+  "optionA": "₱18,000",
+  "optionB": "₱36,000",
+  "optionC": "₱30,000",
+  "optionD": "₱3,000"
+ },
+ {
+  "id": 372469145,
+  "category": "Numerical Ability",
+  "text": "Pedro can paint a room in 6 hours, and Jose can paint the same room in 3 hours. Working together, how many hours will they take?",
+  "optionA": "4.5",
+  "optionB": "9",
+  "optionC": "2",
+  "optionD": "3"
+ },
+ {
+  "id": 472237019,
+  "category": "Numerical Ability",
+  "text": "6 workers can finish a road repair in 10 days. Working at the same rate, how many days will 15 workers take?",
+  "optionA": "25",
+  "optionB": "4",
+  "optionC": "6",
+  "optionD": "5"
+ },
+ {
+  "id": 1621855505,
+  "category": "Numerical Ability",
+  "text": "A pipe can fill a tank in 4 hours, while a drain can empty it in 12 hours. If both are open, how many hours will it take to fill the empty tank?",
+  "optionA": "3",
+  "optionB": "8",
+  "optionC": "16",
+  "optionD": "6"
+ },
+ {
+  "id": 637573758,
+  "category": "Verbal Ability",
+  "text": "Fill in the blank: The horse jumped _____ the fence without touching it.",
+  "optionA": "on",
+  "optionB": "over",
+  "optionC": "in",
+  "optionD": "at"
+ },
+ {
+  "id": 904422609,
+  "category": "Verbal Ability",
+  "text": "Identify the error: 'Each of the players play well.'",
+  "optionA": "Each",
+  "optionB": "players",
+  "optionC": "play",
+  "optionD": "well"
+ },
+ {
+  "id": 1365006955,
+  "category": "Verbal Ability",
+  "text": "Identify the error: 'Every member of the jury have voted.'",
+  "optionA": "Every",
+  "optionB": "member",
+  "optionC": "have",
+  "optionD": "voted"
+ },
+ {
+  "id": 1142168602,
+  "category": "Verbal Ability",
+  "text": "Rearrange: flowers / the / are / beautiful",
+  "optionA": "The beautiful are flowers",
+  "optionB": "The flowers are beautiful",
+  "optionC": "The are flowers beautiful",
+  "optionD": "Flowers the are beautiful"
+ },
+ {
+  "id": 1691343255,
+  "category": "Verbal Ability",
+  "text": "Rearrange: cat / the / is / sleeping",
+  "optionA": "The sleeping is cat",
+  "optionB": "The cat is sleeping",
+  "optionC": "The is cat sleeping",
+  "optionD": "Cat the is sleeping"
+ },
+ {
+  "id": 1965033272,
+  "category": "Verbal Ability",
+  "text": "What is implied by the sentence 'The movie was exciting, but the ending was predictable.'?",
+  "optionA": "The movie was bad.",
+  "optionB": "The ending was less exciting than the rest of the movie.",
+  "optionC": "The ending was surprising.",
+  "optionD": "The whole movie was predictable."
+ },
+ {
+  "id": 1697800269,
+  "category": "Verbal Ability",
+  "text": "The scientist examined the minute details of the cell.\n\nIn this sentence, 'minute' most nearly means:",
+  "optionA": "Tiny",
+  "optionB": "Sixty-second",
+  "optionC": "Hurried",
+  "optionD": "Important"
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": 172219452,
+  "category": "Numerical Ability",
+  "subtopic": "num_algebra",
+  "text": "If e = f - g and f=20, g=8, what is e?",
+  "optionA": "12",
+  "optionB": "28",
+  "optionC": "10",
+  "optionD": "16"
+ },
+ {
+  "id": 207501616,
+  "category": "Numerical Ability",
+  "subtopic": "num_algebra",
+  "text": "If b = c * d and c=7, d=3, what is b?",
+  "optionA": "21",
+  "optionB": "10",
+  "optionC": "4",
+  "optionD": "24"
+ },
+ {
+  "id": 612824269,
+  "category": "Numerical Ability",
+  "subtopic": "num_algebra",
+  "text": "Solve for x: 8x = 64.",
+  "optionA": "8",
+  "optionB": "7",
+  "optionC": "9",
+  "optionD": "6"
+ },
+ {
+  "id": 389516047,
+  "category": "Numerical Ability",
+  "subtopic": "num_fractions",
+  "text": "Convert 1/3 to decimal.",
+  "optionA": "0.333...",
+  "optionB": "0.5",
+  "optionC": "0.25",
+  "optionD": "0.666..."
+ },
+ {
+  "id": 466426449,
+  "category": "Numerical Ability",
+  "subtopic": "num_geometry",
+  "text": "Number of sides in a hexagon?",
+  "optionA": "6",
+  "optionB": "5",
+  "optionC": "7",
+  "optionD": "4"
+ },
+ {
+  "id": 605251264,
+  "category": "Numerical Ability",
+  "subtopic": "num_geometry",
+  "text": "Number of sides in a heptagon?",
+  "optionA": "7",
+  "optionB": "6",
+  "optionC": "8",
+  "optionD": "5"
+ },
+ {
+  "id": 98467538,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 65% of 200?",
+  "optionA": "130",
+  "optionB": "120",
+  "optionC": "140",
+  "optionD": "150"
+ },
+ {
+  "id": 411712212,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 6% of 200?",
+  "optionA": "12",
+  "optionB": "10",
+  "optionC": "14",
+  "optionD": "8"
+ },
+ {
+  "id": 1059750230,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 55% of 200?",
+  "optionA": "110",
+  "optionB": "100",
+  "optionC": "120",
+  "optionD": "90"
+ },
+ {
+  "id": 1752148487,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 25% of 160?",
+  "optionA": "40",
+  "optionB": "35",
+  "optionC": "45",
+  "optionD": "50"
+ },
+ {
+  "id": 2021100914,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 12% of 150?",
+  "optionA": "18",
+  "optionB": "15",
+  "optionC": "20",
+  "optionD": "12"
+ },
+ {
+  "id": 2097167053,
+  "category": "Numerical Ability",
+  "subtopic": "num_percent",
+  "text": "What is 12.5% of 400?",
+  "optionA": "50",
+  "optionB": "40",
+  "optionC": "60",
+  "optionD": "45"
+ },
+ {
+  "id": 539613295,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a cyclist cycles 20 km in 1 hour, speed in km/h?",
+  "optionA": "20",
+  "optionB": "15",
+  "optionC": "25",
+  "optionD": "30"
+ },
+ {
+  "id": 1446253096,
+  "category": "Numerical Ability",
+  "subtopic": "num_rates",
+  "text": "If a train travels 60 km in 45 minutes, what is its speed in km/h?",
+  "optionA": "80",
+  "optionB": "90",
+  "optionC": "70",
+  "optionD": "100"
+ },
+ {
+  "id": 277354909,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 1, 8, 27, 64, 125?",
+  "optionA": "216",
+  "optionB": "150",
+  "optionC": "100",
+  "optionD": "175"
+ },
+ {
+  "id": 1260676570,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 1, 5, 9, 13, 17?",
+  "optionA": "21",
+  "optionB": "19",
+  "optionC": "23",
+  "optionD": "15"
+ },
+ {
+  "id": 1570412187,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 3, 9, 27, 81, ?",
+  "optionA": "243",
+  "optionB": "162",
+  "optionC": "108",
+  "optionD": "324"
+ },
+ {
+  "id": 1677984835,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "The next in the sequence: 7, 14, 28, 56?",
+  "optionA": "112",
+  "optionB": "84",
+  "optionC": "70",
+  "optionD": "98"
+ },
+ {
+  "id": 1911138141,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 49, 36, 25, 16, ?",
+  "optionA": "9",
+  "optionB": "4",
+  "optionC": "1",
+  "optionD": "0"
+ },
+ {
+  "id": 2022239685,
+  "category": "Numerical Ability",
+  "subtopic": "num_series",
+  "text": "What is the next number in the sequence: 5, 10, 15, 20, 25?",
+  "optionA": "30",
+  "optionB": "25",
+  "optionC": "35",
+  "optionD": "20"
+ },
+ {
+  "id": 53623703,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of players in a soccer team?",
+  "optionA": "11",
+  "optionB": "10",
+  "optionC": "12",
+  "optionD": "9"
+ },
+ {
+  "id": 1111574015,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of weeks in a year?",
+  "optionA": "52",
+  "optionB": "50",
+  "optionC": "53",
+  "optionD": "51"
+ },
+ {
+  "id": 1407941946,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of strings on a guitar?",
+  "optionA": "6",
+  "optionB": "4",
+  "optionC": "5",
+  "optionD": "7"
+ },
+ {
+  "id": 1511106379,
+  "category": "Numerical Ability",
+  "subtopic": "num_word",
+  "text": "Number of wheels on a car?",
+  "optionA": "4",
+  "optionB": "3",
+  "optionC": "5",
+  "optionD": "6"
+ },
+ {
+  "id": 161148794,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 2 machines assemble 2 products in 2 hours, how many hours for 4 machines to assemble 4 products?",
+  "optionA": "2",
+  "optionB": "4",
+  "optionC": "1",
+  "optionD": "3"
+ },
+ {
+  "id": 436461011,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 6 teachers grade 6 papers in 6 hours, how many hours for 12 teachers to grade 12 papers?",
+  "optionA": "6",
+  "optionB": "12",
+  "optionC": "3",
+  "optionD": "9"
+ },
+ {
+  "id": 1495293733,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 6 workers build 6 walls in 6 days, how many days for 3 workers to build 3 walls?",
+  "optionA": "6",
+  "optionB": "3",
+  "optionC": "12",
+  "optionD": "9"
+ },
+ {
+  "id": 2043291122,
+  "category": "Numerical Ability",
+  "subtopic": "num_work",
+  "text": "If 4 mechanics fix 4 cars in 4 hours, how many hours for 2 mechanics to fix 2 cars?",
+  "optionA": "4",
+  "optionB": "2",
+  "optionC": "8",
+  "optionD": "6"
+ }
+]

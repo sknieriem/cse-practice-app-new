@@ -1,0 +1,434 @@
+[
+ {
+  "id": 16495850,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To build a house, one must have a plan.\" Which assumption does this statement make?",
+  "optionA": "Having a plan guarantees that the house will be built well.",
+  "optionB": "A house cannot be built properly without a plan.",
+  "optionC": "Only engineers are allowed to build houses.",
+  "optionD": "Houses built with a plan cost less."
+ },
+ {
+  "id": 1728884847,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To succeed in business, one must take risks.\" Which assumption does this statement make?",
+  "optionA": "Taking risks guarantees success in business.",
+  "optionB": "A business is unlikely to succeed if its owner never takes risks.",
+  "optionC": "Most businesses fail within their first year.",
+  "optionD": "Only large businesses take risks."
+ },
+ {
+  "id": 855153085,
+  "category": "Analytical Ability",
+  "text": "If 2=8, 3=17, 4=28, 5=?",
+  "optionA": "40",
+  "optionB": "41",
+  "optionC": "42",
+  "optionD": "43"
+ },
+ {
+  "id": 1851378890,
+  "category": "Analytical Ability",
+  "text": "A graph shows Ana's scores on three tests: Test 1 = 80, Test 2 = 85, Test 3 = 90. What is her average score?",
+  "optionA": "83",
+  "optionB": "85",
+  "optionC": "87",
+  "optionD": "89"
+ },
+ {
+  "id": 118610683,
+  "category": "Analytical Ability",
+  "text": "Is this argument valid? \"All scientists do research. Some people are scientists. Therefore, some people do research.\"",
+  "optionA": "Valid: the conclusion must follow from the premises.",
+  "optionB": "Invalid: the scientists might not be among the people.",
+  "optionC": "Invalid: the conclusion should say all people do research.",
+  "optionD": "Valid only if every person is a scientist."
+ },
+ {
+  "id": 992826696,
+  "category": "Analytical Ability",
+  "text": "Is this argument valid? \"All birds sing. Sparky sings. Therefore, Sparky is a bird.\"",
+  "optionA": "Valid: Sparky sings, so Sparky must be a bird.",
+  "optionB": "Invalid: things other than birds may also sing.",
+  "optionC": "Valid: only birds can sing.",
+  "optionD": "Invalid: the premises contradict each other."
+ },
+ {
+  "id": 1769855880,
+  "category": "Analytical Ability",
+  "text": "\"If A, then B. If B, then C. Therefore, if A, then C.\" Is this argument valid?",
+  "optionA": "Yes (Hypothetical Syllogism)",
+  "optionB": "No",
+  "optionC": "Only if A is true",
+  "optionD": "Depends on C"
+ },
+ {
+  "id": 844066916,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Sandals, Boots, Slippers, Cap",
+  "optionA": "Sandals",
+  "optionB": "Boots",
+  "optionC": "Slippers",
+  "optionD": "Cap"
+ },
+ {
+  "id": 1716691115,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Mercury, Moon, Venus, Mars",
+  "optionA": "Mercury",
+  "optionB": "Moon",
+  "optionC": "Venus",
+  "optionD": "Mars"
+ },
+ {
+  "id": 1821169236,
+  "category": "Analytical Ability",
+  "text": "Next in series: 4, 11, 19, 28, ____",
+  "optionA": "36",
+  "optionB": "37",
+  "optionC": "38",
+  "optionD": "39"
+ },
+ {
+  "id": 1839757197,
+  "category": "Analytical Ability",
+  "text": "Next in series: 1, 5, 10, 16, ____",
+  "optionA": "22",
+  "optionB": "23",
+  "optionC": "24",
+  "optionD": "25"
+ },
+ {
+  "id": 1426649772,
+  "category": "General Information",
+  "text": "Under Article VI, Section 28(3) of the 1987 Constitution, which of the following is NOT exempt from taxation?",
+  "optionA": "A privately owned office building leased out for profit",
+  "optionB": "Churches and convents",
+  "optionC": "Charitable institutions",
+  "optionD": "Non-profit cemeteries"
+ },
+ {
+  "id": 1474498158,
+  "category": "General Information",
+  "text": "According to the Philippine Constitution, what is the minimum age to run for President?",
+  "optionA": "35",
+  "optionB": "30",
+  "optionC": "40",
+  "optionD": "25"
+ },
+ {
+  "id": 1499003041,
+  "category": "General Information",
+  "text": "Which non-flammable gas, heavier than air, is discharged from some fire extinguishers to smother flames by displacing oxygen?",
+  "optionA": "Oxygen",
+  "optionB": "Carbon Dioxide",
+  "optionC": "Nitrogen",
+  "optionD": "Helium"
+ },
+ {
+  "id": 1550724579,
+  "category": "General Information",
+  "text": "Who wrote 'On the Origin of Species' (1859), which presented the theory of evolution by natural selection?",
+  "optionA": "Charles Darwin",
+  "optionB": "Gregor Mendel",
+  "optionC": "Alfred Wallace",
+  "optionD": "Louis Pasteur"
+ },
+ {
+  "id": 1698968893,
+  "category": "General Information",
+  "text": "Which of the following planets is a gas giant?",
+  "optionA": "Mars",
+  "optionB": "Jupiter",
+  "optionC": "Venus",
+  "optionD": "Mercury"
+ },
+ {
+  "id": 277746663,
+  "category": "General Information",
+  "text": "Which festival in Kalibo, Aklan is known as the 'Mother of All Philippine Festivals'?",
+  "optionA": "Sinulog",
+  "optionB": "Panagbenga",
+  "optionC": "Ati-Atihan",
+  "optionD": "Dinagyang"
+ },
+ {
+  "id": 1246744583,
+  "category": "General Information",
+  "text": "Which bird was declared the national bird of the Philippines in 1995?",
+  "optionA": "Maya",
+  "optionB": "Philippine Eagle",
+  "optionC": "Philippine Cockatoo",
+  "optionD": "Rufous Hornbill"
+ },
+ {
+  "id": 1070144002,
+  "category": "Numerical Ability",
+  "text": "Solve for x: 2(x + 3) = 26.",
+  "optionA": "13",
+  "optionB": "11.5",
+  "optionC": "10",
+  "optionD": "16"
+ },
+ {
+  "id": 1955258917,
+  "category": "Numerical Ability",
+  "text": "Solve for x: x ÷ 3 = 7.",
+  "optionA": "7/3",
+  "optionB": "21",
+  "optionC": "10",
+  "optionD": "4"
+ },
+ {
+  "id": 264154965,
+  "category": "Numerical Ability",
+  "text": "Convert 3/8 to a decimal.",
+  "optionA": "0.0375",
+  "optionB": "0.375",
+  "optionC": "0.625",
+  "optionD": "2.667"
+ },
+ {
+  "id": 1462491363,
+  "category": "Numerical Ability",
+  "text": "2/3 × 9/10 = ?",
+  "optionA": "20/27",
+  "optionB": "3/5",
+  "optionC": "11/13",
+  "optionD": "47/30"
+ },
+ {
+  "id": 1569359555,
+  "category": "Numerical Ability",
+  "text": "1/3 + 2/5 = ?",
+  "optionA": "11/15",
+  "optionB": "7/15",
+  "optionC": "3/8",
+  "optionD": "9/15"
+ },
+ {
+  "id": 1583391362,
+  "category": "Numerical Ability",
+  "text": "3/6 + 2/6 = ?",
+  "optionA": "5/6",
+  "optionB": "1/6",
+  "optionC": "5/12",
+  "optionD": "6/36"
+ },
+ {
+  "id": 1861795099,
+  "category": "Numerical Ability",
+  "text": "5/6 − 3/4 = ?",
+  "optionA": "1",
+  "optionB": "19/12",
+  "optionC": "1/5",
+  "optionD": "1/12"
+ },
+ {
+  "id": 1561020875,
+  "category": "Numerical Ability",
+  "text": "Two angles of a triangle measure 48° and 67°. What is the measure of the third angle?",
+  "optionA": "115°",
+  "optionB": "65°",
+  "optionC": "245°",
+  "optionD": "75°"
+ },
+ {
+  "id": 449688089,
+  "category": "Numerical Ability",
+  "text": "A belt is priced at ₱400. It is sold at a 25% discount. What is the sale price?",
+  "optionA": "₱300",
+  "optionB": "₱350",
+  "optionC": "₱250",
+  "optionD": "₱320"
+ },
+ {
+  "id": 691490361,
+  "category": "Numerical Ability",
+  "text": "A microwave oven is priced at ₱4,000. The store gives 10% off, then another 5% off the reduced price. What is the final price?",
+  "optionA": "₱3,400",
+  "optionB": "₱3,600",
+  "optionC": "₱3,800",
+  "optionD": "₱3,420"
+ },
+ {
+  "id": 1808046236,
+  "category": "Numerical Ability",
+  "text": "A laptop bag is priced at ₱1,000. It is sold at a 10% discount. What is the sale price?",
+  "optionA": "₱900",
+  "optionB": "₱950",
+  "optionC": "₱850",
+  "optionD": "₱800"
+ },
+ {
+  "id": 1814244649,
+  "category": "Numerical Ability",
+  "text": "18 is 45% of what number?",
+  "optionA": "8.1",
+  "optionB": "36",
+  "optionC": "40",
+  "optionD": "26.1"
+ },
+ {
+  "id": 789621836,
+  "category": "Numerical Ability",
+  "text": "A jet flies 600 km in 45 minutes. What is its average speed in km/h?",
+  "optionA": "450",
+  "optionB": "800",
+  "optionC": "1,333",
+  "optionD": "13.3"
+ },
+ {
+  "id": 1460080057,
+  "category": "Numerical Ability",
+  "text": "A van travels 120 km from Town A to Town B at 60 km/h and returns along the same road at 40 km/h. What is its average speed for the whole round trip?",
+  "optionA": "50 km/h",
+  "optionB": "24 km/h",
+  "optionC": "48 km/h",
+  "optionD": "100 km/h"
+ },
+ {
+  "id": 1849687737,
+  "category": "Numerical Ability",
+  "text": "A hiker walks at a steady 4 km/h. How long will it take to walk 10 km?",
+  "optionA": "2 hours 50 minutes",
+  "optionB": "24 minutes",
+  "optionC": "2 hours 30 minutes",
+  "optionD": "2 hours 5 minutes"
+ },
+ {
+  "id": 144562164,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 1, 8, 27, 64, ?",
+  "optionA": "125",
+  "optionB": "100",
+  "optionC": "81",
+  "optionD": "121"
+ },
+ {
+  "id": 642159861,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the sequence: 3, 6, 12, 24, ?",
+  "optionA": "36",
+  "optionB": "48",
+  "optionC": "72",
+  "optionD": "30"
+ },
+ {
+  "id": 1213713850,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 2, 5, 10, 17, 26, ?",
+  "optionA": "35",
+  "optionB": "36",
+  "optionC": "37",
+  "optionD": "52"
+ },
+ {
+  "id": 1691723446,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 4, 8, 12, 16, 20, ?",
+  "optionA": "24",
+  "optionB": "22",
+  "optionC": "26",
+  "optionD": "18"
+ },
+ {
+  "id": 2013615148,
+  "category": "Numerical Ability",
+  "text": "A seminar runs from 8:45 a.m. to 11:20 a.m. How many minutes long is it?",
+  "optionA": "275",
+  "optionB": "235",
+  "optionC": "155",
+  "optionD": "135"
+ },
+ {
+  "id": 839106954,
+  "category": "Numerical Ability",
+  "text": "Six encoders finish encoding a batch of forms in 10 hours. Working at the same rate, how many hours would 4 encoders take to encode the same batch?",
+  "optionA": "6.67",
+  "optionB": "15",
+  "optionC": "12",
+  "optionD": "8"
+ },
+ {
+  "id": 974319781,
+  "category": "Numerical Ability",
+  "text": "If 3 gardeners plant 12 trees in 4 hours, how many trees can 5 gardeners plant in 6 hours at the same rate?",
+  "optionA": "18",
+  "optionB": "20",
+  "optionC": "30",
+  "optionD": "24"
+ },
+ {
+  "id": 1321192476,
+  "category": "Numerical Ability",
+  "text": "If 4 typists type 4 pages in 4 minutes, how many pages can 8 typists type in 10 minutes at the same rate?",
+  "optionA": "10",
+  "optionB": "20",
+  "optionC": "80",
+  "optionD": "40"
+ },
+ {
+  "id": 2141167408,
+  "category": "Numerical Ability",
+  "text": "If 8 workers dig a hole in 6 days, how many days for 4 workers?",
+  "optionA": "12",
+  "optionB": "3",
+  "optionC": "10",
+  "optionD": "14"
+ },
+ {
+  "id": 576021709,
+  "category": "Verbal Ability",
+  "text": "Rearrange the sentences: (1) The students packed their bags and left the room. (2) The bell rang to signal the end of the period. (3) The empty classroom finally fell quiet. (4) Hearing the bell, the teacher dismissed the class.",
+  "optionA": "4-2-1-3",
+  "optionB": "2-4-1-3",
+  "optionC": "2-1-4-3",
+  "optionD": "4-1-2-3"
+ },
+ {
+  "id": 1257319884,
+  "category": "Verbal Ability",
+  "text": "Rearrange the sentences: (1) It suddenly started raining. (2) Once indoors, we dried ourselves with towels. (3) We were playing basketball outside. (4) When the rain grew heavier, the referee stopped the game and we ran inside.",
+  "optionA": "3-1-4-2",
+  "optionB": "3-1-2-4",
+  "optionC": "1-3-4-2",
+  "optionD": "3-4-1-2"
+ },
+ {
+  "id": 1979050691,
+  "category": "Verbal Ability",
+  "text": "Rearrange the words to form a correct sentence: arrives / early / the / always / teacher",
+  "optionA": "The teacher arrives always early.",
+  "optionB": "The teacher always arrives early.",
+  "optionC": "The always teacher arrives early.",
+  "optionD": "The teacher early always arrives."
+ },
+ {
+  "id": 1424691502,
+  "category": "Verbal Ability",
+  "text": "'It was cold, so Lea wore her thick jacket.' What does the sentence imply?",
+  "optionA": "Lea wore the jacket to keep warm.",
+  "optionB": "Lea wears a jacket every day.",
+  "optionC": "Lea had just bought the jacket.",
+  "optionD": "Lea left her jacket at home."
+ },
+ {
+  "id": 928760992,
+  "category": "Verbal Ability",
+  "text": "We had a picnic on the bank of the Pasig River.\n\nIn this sentence, 'bank' most nearly means:",
+  "optionA": "a place that keeps money",
+  "optionB": "the land along the side of a river",
+  "optionC": "a row of switches or keys",
+  "optionD": "to rely on someone"
+ },
+ {
+  "id": 1111738095,
+  "category": "Verbal Ability",
+  "text": "Choose the synonym for 'eloquent'.",
+  "optionA": "Mute",
+  "optionB": "Fluent",
+  "optionC": "Stammering",
+  "optionD": "Quiet"
+ }
+]

@@ -1,0 +1,551 @@
+[
+ {
+  "id": 1503535450,
+  "category": "Analytical Ability",
+  "text": "Statement: \"To play the piano well, one must practice regularly.\" Which of the following is assumed by the statement?",
+  "optionA": "Piano playing is a skill that improves with practice",
+  "optionB": "Anyone who practices will become a concert pianist",
+  "optionC": "Only children can learn to play the piano",
+  "optionD": "Piano lessons are too expensive for most people"
+ },
+ {
+  "id": 208137246,
+  "category": "Analytical Ability",
+  "text": "If 1=3, 2=7, 3=13, 4=?",
+  "optionA": "20",
+  "optionB": "21",
+  "optionC": "22",
+  "optionD": "23"
+ },
+ {
+  "id": 511436158,
+  "category": "Analytical Ability",
+  "text": "A company's profits (in thousand pesos) were: Q1 600, Q2 650, Q3 700. What is the average profit per quarter?",
+  "optionA": "640",
+  "optionB": "650",
+  "optionC": "660",
+  "optionD": "670"
+ },
+ {
+  "id": 768367767,
+  "category": "Analytical Ability",
+  "text": "Monthly rainfall (in mm) was: April 50, May 60, June 70. What is the average monthly rainfall?",
+  "optionA": "58",
+  "optionB": "60",
+  "optionC": "62",
+  "optionD": "64"
+ },
+ {
+  "id": 890192414,
+  "category": "Analytical Ability",
+  "text": "A student's scores were: Test 1 = 90, Test 2 = 95, Test 3 = 100. What is the average score?",
+  "optionA": "93",
+  "optionB": "95",
+  "optionC": "97",
+  "optionD": "99"
+ },
+ {
+  "id": 1585774411,
+  "category": "Analytical Ability",
+  "text": "A store's profits (in thousand pesos) were: Q1 500, Q2 600, Q3 700. What is the average profit per quarter?",
+  "optionA": "590",
+  "optionB": "600",
+  "optionC": "610",
+  "optionD": "620"
+ },
+ {
+  "id": 83863444,
+  "category": "Analytical Ability",
+  "text": "X is Y’s father. Y is Z’s daughter. Z is a woman. What is Z to X?",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 87388746,
+  "category": "Analytical Ability",
+  "text": "Y is Z’s father. Z is A’s daughter. A is a woman. What is A to Y?",
+  "optionA": "Son",
+  "optionB": "Wife",
+  "optionC": "Daughter",
+  "optionD": "Mother"
+ },
+ {
+  "id": 14692262,
+  "category": "Analytical Ability",
+  "text": "All snakes are reptiles. Some reptiles are turtles. Therefore, some snakes are turtles. Does the conclusion follow?",
+  "optionA": "Yes, it necessarily follows",
+  "optionB": "No, it does not necessarily follow",
+  "optionC": "Yes, because snakes and turtles are both reptiles",
+  "optionD": "It follows only if all reptiles are snakes"
+ },
+ {
+  "id": 904082392,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Red, Yellow, Pink, Blue",
+  "optionA": "Red",
+  "optionB": "Yellow",
+  "optionC": "Pink",
+  "optionD": "Blue"
+ },
+ {
+  "id": 1902311237,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Mercury, Venus, Mars, Jupiter",
+  "optionA": "Mercury",
+  "optionB": "Venus",
+  "optionC": "Mars",
+  "optionD": "Jupiter"
+ },
+ {
+  "id": 2012019668,
+  "category": "Analytical Ability",
+  "text": "Odd one out: Copper, Brass, Tin, Zinc",
+  "optionA": "Copper",
+  "optionB": "Brass",
+  "optionC": "Tin",
+  "optionD": "Zinc"
+ },
+ {
+  "id": 799514571,
+  "category": "Analytical Ability",
+  "text": "Next in series: 2, 7, 13, 20, ____",
+  "optionA": "28",
+  "optionB": "29",
+  "optionC": "30",
+  "optionD": "31"
+ },
+ {
+  "id": 47588994,
+  "category": "General Information",
+  "text": "The President and Vice-President of the Philippines are elected for a term of how many years?",
+  "optionA": "3 years",
+  "optionB": "4 years",
+  "optionC": "5 years",
+  "optionD": "6 years"
+ },
+ {
+  "id": 557701591,
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, a candidate for President must be a resident of the Philippines for at least how many years immediately preceding the election?",
+  "optionA": "2 years",
+  "optionB": "5 years",
+  "optionC": "10 years",
+  "optionD": "15 years"
+ },
+ {
+  "id": 640360594,
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, Members of the Supreme Court hold office during good behavior until they reach the age of:",
+  "optionA": "65",
+  "optionB": "70",
+  "optionC": "75",
+  "optionD": "60"
+ },
+ {
+  "id": 1234666477,
+  "category": "General Information",
+  "text": "The main function of the Office of the Ombudsman is to:",
+  "optionA": "Investigate complaints against public officials and employees",
+  "optionB": "Enact laws and ordinances",
+  "optionC": "Audit government revenues and expenditures",
+  "optionD": "Decide questions on the constitutionality of laws"
+ },
+ {
+  "id": 1610271519,
+  "category": "General Information",
+  "text": "The Supreme Court is composed of a Chief Justice and how many Associate Justices?",
+  "optionA": "12",
+  "optionB": "13",
+  "optionC": "14",
+  "optionD": "15"
+ },
+ {
+  "id": 1865441410,
+  "category": "General Information",
+  "text": "The legislative power shall be vested in the _________ which shall consist of a Senate and a House of Representatives.",
+  "optionA": "Congress of the Philippines",
+  "optionB": "Batasang Pambansa",
+  "optionC": "Supreme Court",
+  "optionD": "Office of the President"
+ },
+ {
+  "id": 1650764253,
+  "category": "General Information",
+  "text": "What is the primary source of energy for Earth's climate system?",
+  "optionA": "Geothermal heat",
+  "optionB": "Sun",
+  "optionC": "Earth's core",
+  "optionD": "Ocean tides"
+ },
+ {
+  "id": 319480201,
+  "category": "General Information",
+  "text": "Counting both hot and cold deserts, which is the largest desert in the world?",
+  "optionA": "Sahara Desert",
+  "optionB": "Gobi Desert",
+  "optionC": "Antarctic Desert",
+  "optionD": "Kalahari Desert"
+ },
+ {
+  "id": 700029415,
+  "category": "General Information",
+  "text": "Which planet is closest to the Sun?",
+  "optionA": "Mercury",
+  "optionB": "Venus",
+  "optionC": "Earth",
+  "optionD": "Mars"
+ },
+ {
+  "id": 838353328,
+  "category": "General Information",
+  "text": "The Burj Khalifa, opened in 2010, is located in which city?",
+  "optionA": "Dubai",
+  "optionB": "Abu Dhabi",
+  "optionC": "Doha",
+  "optionD": "Riyadh"
+ },
+ {
+  "id": 1651628155,
+  "category": "General Information",
+  "text": "The International Rice Research Institute (IRRI) is headquartered in which Philippine town?",
+  "optionA": "Los Baños, Laguna",
+  "optionB": "Science City of Muñoz, Nueva Ecija",
+  "optionC": "Banaue, Ifugao",
+  "optionD": "Tagaytay, Cavite"
+ },
+ {
+  "id": 65674374,
+  "category": "General Information",
+  "text": "Which Filipino hero is known as the 'Brains of the Katipunan'?",
+  "optionA": "Emilio Jacinto",
+  "optionB": "Andres Bonifacio",
+  "optionC": "Apolinario Mabini",
+  "optionD": "Marcelo H. del Pilar"
+ },
+ {
+  "id": 846600262,
+  "category": "General Information",
+  "text": "What is the largest island in the Philippines?",
+  "optionA": "Luzon",
+  "optionB": "Mindanao",
+  "optionC": "Samar",
+  "optionD": "Palawan"
+ },
+ {
+  "id": 1806971651,
+  "category": "General Information",
+  "text": "Under the 1987 Constitution, who is the Commander-in-Chief of all armed forces of the Philippines?",
+  "optionA": "Secretary of National Defense",
+  "optionB": "President of the Philippines",
+  "optionC": "Chief of Staff of the AFP",
+  "optionD": "Senate President"
+ },
+ {
+  "id": 1818563915,
+  "category": "General Information",
+  "text": "February 25 is commemorated in the Philippines as the anniversary of which event?",
+  "optionA": "EDSA People Power Revolution",
+  "optionB": "Proclamation of Philippine Independence",
+  "optionC": "Fall of Bataan",
+  "optionD": "Cry of Pugad Lawin"
+ },
+ {
+  "id": 1821130614,
+  "category": "General Information",
+  "text": "Who composed the music of the Philippine national anthem?",
+  "optionA": "Jose Palma",
+  "optionB": "Julian Felipe",
+  "optionC": "Claro M. Recto",
+  "optionD": "Lope K. Santos"
+ },
+ {
+  "id": 2024639418,
+  "category": "General Information",
+  "text": "Who is regarded as the national hero of the Philippines?",
+  "optionA": "Jose Rizal",
+  "optionB": "Andres Bonifacio",
+  "optionC": "Emilio Aguinaldo",
+  "optionD": "Lapu-Lapu"
+ },
+ {
+  "id": 2107498529,
+  "category": "General Information",
+  "text": "Region VII of the Philippines is known as:",
+  "optionA": "Central Visayas",
+  "optionB": "Western Visayas",
+  "optionC": "Eastern Visayas",
+  "optionD": "Northern Mindanao"
+ },
+ {
+  "id": 95377751,
+  "category": "General Information",
+  "text": "In peace education, 'positive peace' refers to:",
+  "optionA": "The mere absence of war and violence",
+  "optionB": "The presence of justice, equity and respect for human rights",
+  "optionC": "A strong military that deters attack",
+  "optionD": "Steady economic growth"
+ },
+ {
+  "id": 1215094383,
+  "category": "Numerical Ability",
+  "text": "Solve for x: 2x - 6 = 4.",
+  "optionA": "4",
+  "optionB": "5",
+  "optionC": "6",
+  "optionD": "3"
+ },
+ {
+  "id": 1498426729,
+  "category": "Numerical Ability",
+  "text": "If k = 5j and j = 6, what is k?",
+  "optionA": "11",
+  "optionB": "25",
+  "optionC": "30",
+  "optionD": "35"
+ },
+ {
+  "id": 160688422,
+  "category": "Numerical Ability",
+  "text": "Express 3/10 as a decimal.",
+  "optionA": "0.03",
+  "optionB": "0.3",
+  "optionC": "0.33",
+  "optionD": "3.0"
+ },
+ {
+  "id": 317826174,
+  "category": "Numerical Ability",
+  "text": "What is 5/8 - 1/4?",
+  "optionA": "1/2",
+  "optionB": "1",
+  "optionC": "7/8",
+  "optionD": "3/8"
+ },
+ {
+  "id": 994003789,
+  "category": "Numerical Ability",
+  "text": "Express 5/6 as a decimal.",
+  "optionA": "0.56",
+  "optionB": "0.666...",
+  "optionC": "0.833...",
+  "optionD": "1.2"
+ },
+ {
+  "id": 301551909,
+  "category": "Numerical Ability",
+  "text": "A square lot has a perimeter of 48 meters. What is its area?",
+  "optionA": "144 sq m",
+  "optionB": "48 sq m",
+  "optionC": "576 sq m",
+  "optionD": "2,304 sq m"
+ },
+ {
+  "id": 883521151,
+  "category": "Numerical Ability",
+  "text": "The angles of a triangle are in the ratio 2:3:4. What is the measure of the largest angle?",
+  "optionA": "40°",
+  "optionB": "60°",
+  "optionC": "80°",
+  "optionD": "160°"
+ },
+ {
+  "id": 1333126242,
+  "category": "Numerical Ability",
+  "text": "The two legs of a right triangle measure 3 cm and 4 cm. How long is the hypotenuse?",
+  "optionA": "7 cm",
+  "optionB": "5 cm",
+  "optionC": "25 cm",
+  "optionD": "12 cm"
+ },
+ {
+  "id": 92762615,
+  "category": "Numerical Ability",
+  "text": "A ship sails 70 km in 2 hours. What is its average speed in km/h?",
+  "optionA": "35 km/h",
+  "optionB": "140 km/h",
+  "optionC": "72 km/h",
+  "optionD": "17.5 km/h"
+ },
+ {
+  "id": 103402290,
+  "category": "Numerical Ability",
+  "text": "A car travels 90 km in 1 hour and 30 minutes. What is its average speed in km/h?",
+  "optionA": "45 km/h",
+  "optionB": "135 km/h",
+  "optionC": "90 km/h",
+  "optionD": "60 km/h"
+ },
+ {
+  "id": 1324363821,
+  "category": "Numerical Ability",
+  "text": "Ana drives 120 km from Manila to a town at 60 km/h and returns along the same road at 40 km/h. What is her average speed for the whole round trip?",
+  "optionA": "50 km/h",
+  "optionB": "24 km/h",
+  "optionC": "100 km/h",
+  "optionD": "48 km/h"
+ },
+ {
+  "id": 1932654512,
+  "category": "Numerical Ability",
+  "text": "A bus travels 120 km in 2 hours and 30 minutes. What is its average speed in km/h?",
+  "optionA": "60 km/h",
+  "optionB": "52.2 km/h",
+  "optionC": "48 km/h",
+  "optionD": "300 km/h"
+ },
+ {
+  "id": 62184747,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 5, 9, 13, 17, 21, ...?",
+  "optionA": "25",
+  "optionB": "23",
+  "optionC": "26",
+  "optionD": "29"
+ },
+ {
+  "id": 602545768,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 2, 4, 8, 16, 32, ...?",
+  "optionA": "48",
+  "optionB": "64",
+  "optionC": "128",
+  "optionD": "34"
+ },
+ {
+  "id": 684643150,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 20, 18, 16, 14, ...?",
+  "optionA": "10",
+  "optionB": "13",
+  "optionC": "16",
+  "optionD": "12"
+ },
+ {
+  "id": 742655735,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 1, 5, 9, 13, ...?",
+  "optionA": "17",
+  "optionB": "15",
+  "optionC": "21",
+  "optionD": "18"
+ },
+ {
+  "id": 970730716,
+  "category": "Numerical Ability",
+  "text": "What is the next number in the series: 8, 13, 18, 23, ...?",
+  "optionA": "25",
+  "optionB": "33",
+  "optionC": "28",
+  "optionD": "27"
+ },
+ {
+  "id": 151693602,
+  "category": "Numerical Ability",
+  "text": "Evaluate: 2 + 3 × 4 - 5",
+  "optionA": "15",
+  "optionB": "9",
+  "optionC": "-1",
+  "optionD": "14"
+ },
+ {
+  "id": 325896063,
+  "category": "Numerical Ability",
+  "text": "Pedro bought 3 kg of rice at ₱52 per kg and 2 kg of sugar at ₱75 per kg. How much change did he get from ₱500?",
+  "optionA": "₱306",
+  "optionB": "₱171",
+  "optionC": "₱373",
+  "optionD": "₱194"
+ },
+ {
+  "id": 459624580,
+  "category": "Numerical Ability",
+  "text": "A barangay has 1,200 registered voters. If 85% of them voted, how many did NOT vote?",
+  "optionA": "180",
+  "optionB": "1,020",
+  "optionC": "15",
+  "optionD": "120"
+ },
+ {
+  "id": 564603729,
+  "category": "Numerical Ability",
+  "text": "Ana can paint a room in 6 hours, while Ben can paint the same room in 3 hours. Working together, how many hours will it take them to paint the room?",
+  "optionA": "4.5 hours",
+  "optionB": "9 hours",
+  "optionC": "2 hours",
+  "optionD": "1.5 hours"
+ },
+ {
+  "id": 852745417,
+  "category": "Numerical Ability",
+  "text": "The ratio of boys to girls in a class is 3:5. If there are 40 students in all, how many are girls?",
+  "optionA": "15",
+  "optionB": "25",
+  "optionC": "24",
+  "optionD": "8"
+ },
+ {
+  "id": 1028545692,
+  "category": "Numerical Ability",
+  "text": "In a leap year, March 1 falls on a Friday. On what day of the week did February 1 of that year fall?",
+  "optionA": "Friday",
+  "optionB": "Wednesday",
+  "optionC": "Saturday",
+  "optionD": "Thursday"
+ },
+ {
+  "id": 1993060714,
+  "category": "Numerical Ability",
+  "text": "A clerk works from 7:30 AM to 4:45 PM with a 1-hour lunch break. How many hours does she actually work?",
+  "optionA": "9.25 hours",
+  "optionB": "8.15 hours",
+  "optionC": "8.25 hours",
+  "optionD": "10.25 hours"
+ },
+ {
+  "id": 2100835973,
+  "category": "Numerical Ability",
+  "text": "A ₱1,500 item is discounted by 20%, and then an additional 10% is taken off the reduced price. What is the final price?",
+  "optionA": "₱1,080",
+  "optionB": "₱1,050",
+  "optionC": "₱1,200",
+  "optionD": "₱1,350"
+ },
+ {
+  "id": 265326331,
+  "category": "Verbal Ability",
+  "text": "Which part of the sentence contains an error?\n\n'The chef cooked the meal quick.'",
+  "optionA": "The",
+  "optionB": "cooked",
+  "optionC": "quick",
+  "optionD": "No error."
+ },
+ {
+  "id": 524610546,
+  "category": "Verbal Ability",
+  "text": "The group of students _____ arriving.",
+  "optionA": "is",
+  "optionB": "are",
+  "optionC": "were",
+  "optionD": "have"
+ },
+ {
+  "id": 869906807,
+  "category": "Verbal Ability",
+  "text": "Fill in the blank: He is proficient _____ mathematics.",
+  "optionA": "in",
+  "optionB": "on",
+  "optionC": "of",
+  "optionD": "with"
+ },
+ {
+  "id": 285853436,
+  "category": "Verbal Ability",
+  "text": "Arrange the words to form a correct sentence: house / the / is / big",
+  "optionA": "The big is house",
+  "optionB": "The house is big",
+  "optionC": "The is house big",
+  "optionD": "House the is big"
+ }
+]

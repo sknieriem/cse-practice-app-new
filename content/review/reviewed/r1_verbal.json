@@ -1,0 +1,153 @@
+[
+ {"id": 40703556, "blind": "B", "verdict": "unchanged", "reason": "Key correct; Hidden, Vague and Secretive are all near-synonyms of obscure, so only Clear is opposite.",
+  "fields": {
+   "hint": "Think of an obscure footnote: hard to see or understand. Look for the word that means the reverse.",
+   "whyA": "Hidden is close to a synonym of obscure, not its opposite.",
+   "whyC": "Vague means unclear, which is what obscure means.",
+   "whyD": "Secretive means keeping things hidden, so it leans toward obscure, not away from it.",
+   "explanationTl": "Ang obscure ay malabo o mahirap intindihin o makita. Kaya ang kabaligtaran niya ay clear, yung malinaw.",
+   "hintTl": "Isipin mo yung obscure na detalye, yung tago o malabo. Hanapin mo yung word na baligtad nun."
+  }},
+ {"id": 97539312, "blind": "B", "verdict": "unchanged", "reason": "Key correct; Cloudy, Thick and Dense all describe things light cannot pass through.",
+  "fields": {
+   "hint": "Picture a frosted bathroom window versus ordinary window glass.",
+   "whyA": "Cloudy glass blocks light too, so it is closer to opaque.",
+   "whyC": "Thick things usually let less light through; that is near opaque, not the opposite.",
+   "whyD": "Dense material blocks light, which matches opaque rather than opposing it.",
+   "explanationTl": "Ang opaque ay hindi tinatagusan ng liwanag, hindi mo makita yung nasa likod. Ang kabaligtaran niya ay clear o transparent, parang ordinaryong salamin.",
+   "hintTl": "Isipin mo yung frosted na bintana sa CR vs. yung malinaw na salamin."
+  }},
+ {"id": 2091737583, "blind": "B", "verdict": "unchanged", "reason": "Key correct; Thrifty is a synonym, Cautious and Modest are related but not opposites.",
+  "fields": {
+   "hint": "A frugal person stretches every peso. Who does the reverse?",
+   "whyA": "Thrifty is a synonym of frugal, not an antonym.",
+   "whyC": "Cautious describes being careful; it is not the opposite of saving money.",
+   "whyD": "Modest means simple or humble, which fits a frugal person rather than opposing one.",
+   "explanationTl": "Ang frugal ay matipid, ayaw mag-aksaya. Kaya ang opposite niya ay wasteful, yung gastador o maaksaya.",
+   "hintTl": "Ang frugal na tao ay pinapahaba ang bawat piso. Sino yung kabaligtaran nun?"
+  }},
+ {"id": 138672814, "blind": "B", "verdict": "minor edit", "reason": "Key correct; basic item, difficulty lowered to Subprofessional level.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "In passive voice the subject receives the action and the verb uses a form of 'be' plus a past participle. In 'The cat was chased by the dog,' the cat receives the chasing.",
+   "hint": "Look for a 'be' verb followed by a past participle, often with 'by' after it.",
+   "whyA": "The dog does the chasing here, so this is active voice.",
+   "whyC": "The cat is the doer of 'chases', so this is active voice (and the meaning is reversed).",
+   "whyD": "'Is chasing' is present progressive active voice; the dog still does the action.",
+   "explanationTl": "Sa passive voice, yung subject ang tumatanggap ng action, at may 'be' verb + past participle. Sa 'The cat was chased by the dog,' yung cat ang hinabol.",
+   "hintTl": "Hanapin mo yung may 'be' verb + past participle, kadalasan may 'by' pa pagkatapos."
+  }},
+ {"id": 265326331, "blind": "C", "verdict": "minor edit", "reason": "Stem had a stray 'most nearly means' line pasted in; rewritten as a clean error-identification question.",
+  "fields": {
+   "text": "Which part of the sentence contains an error?\n\n'The chef cooked the meal quick.'",
+   "explanation": "'Quick' is an adjective, but here it describes how the chef cooked, so it must be the adverb 'quickly': 'The chef cooked the meal quickly.'",
+   "hint": "Ask what the last word is describing: a noun, or the action?",
+   "whyA": "'The' is a correct article before 'chef'.",
+   "whyB": "'Cooked' is the correct past tense verb.",
+   "whyD": "There is an error: the word describing the verb needs an adverb form.",
+   "explanationTl": "Ang 'quick' ay adjective, pero dito dine-describe niya kung paano nagluto yung chef, kaya dapat adverb: 'quickly'.",
+   "hintTl": "Tanungin mo, ano ba dine-describe ng huling word? Noun ba o yung action?"
+  }},
+ {"id": 348171601, "blind": "B", "verdict": "minor edit", "reason": "Key correct; basic tense recognition, difficulty lowered to 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Past perfect is 'had' plus a past participle, as in 'had eaten'. It shows an action finished before another past action.",
+   "hint": "Past perfect always uses the helping verb 'had'.",
+   "whyA": "'Eats' is simple present tense.",
+   "whyC": "'Will eat' is simple future tense.",
+   "whyD": "'Is eating' is present progressive tense.",
+   "explanationTl": "Ang past perfect ay 'had' + past participle, gaya ng 'had eaten'. Ginagamit ito para sa action na tapos na bago ang isa pang past action.",
+   "hintTl": "Laging may 'had' ang past perfect."
+  }},
+ {"id": 407036540, "blind": "B", "verdict": "unchanged", "reason": "Key correct; subject 'effect' is singular and only 'is' fits.",
+  "fields": {
+   "hint": "Find the real subject; ignore the phrase that starts with 'of'.",
+   "whyA": "'Are' is plural, but the subject 'effect' is singular; 'drug' is only in the 'of' phrase.",
+   "whyC": "'Were' is plural, so it does not agree with 'effect'.",
+   "whyD": "'Have not known' changes the meaning and does not agree with a singular subject.",
+   "explanationTl": "Ang subject ay 'effect', singular. Yung 'of the drug' ay prepositional phrase lang, kaya 'is' ang tama.",
+   "hintTl": "Hanapin mo yung totoong subject. I-ignore mo muna yung phrase na nagsisimula sa 'of'."
+  }},
+ {"id": 524610546, "blind": "A", "verdict": "minor edit", "reason": "Option C 'was' was also grammatical ('The group was arriving'); replaced with 'were' so only 'is' fits.",
+  "fields": {
+   "optionC": "were",
+   "explanation": "The subject is 'group', a collective noun acting as one unit, so it takes the singular 'is'. 'Of students' is only a prepositional phrase.",
+   "hint": "Which word is the subject: 'group' or 'students'?",
+   "whyB": "'Are' agrees with 'students', but 'students' is inside the 'of' phrase; the subject is 'group'.",
+   "whyC": "'Were' is plural and does not agree with the singular subject 'group'.",
+   "whyD": "'Have arriving' is not a correct verb form.",
+   "explanationTl": "Ang subject ay 'group', isang collective noun na tinitingnan bilang isang unit, kaya singular na 'is'. Yung 'of students' ay prepositional phrase lang.",
+   "hintTl": "Alin ang subject, 'group' ba o 'students'?"
+  }},
+ {"id": 575430692, "blind": "B", "verdict": "minor edit", "reason": "Explanation was inaccurate ('completed in the present'); rewritten, difficulty lowered to 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Present perfect is 'has/have' plus a past participle, as in 'has eaten'. It shows an action completed at an unspecified time before now that still connects to the present.",
+   "hint": "Present perfect uses the helping verb 'has' or 'have'.",
+   "whyA": "'Eats' is simple present tense.",
+   "whyC": "'Will eat' is simple future tense.",
+   "whyD": "'Ate' is simple past tense.",
+   "explanationTl": "Ang present perfect ay 'has/have' + past participle, gaya ng 'has eaten'. Tapos na ang action pero konektado pa rin sa ngayon.",
+   "hintTl": "Ang present perfect ay may 'has' o 'have'."
+  }},
+ {"id": 869906807, "blind": "A", "verdict": "minor edit", "reason": "'Proficient at' is also standard usage, so option C was a second defensible answer; replaced with 'of'.",
+  "fields": {
+   "optionC": "of",
+   "explanation": "'Proficient' takes the preposition 'in' before a field or subject: proficient in mathematics, proficient in English.",
+   "hint": "Think of how you would say someone is skilled in a school subject.",
+   "whyB": "'Proficient on' is not standard English.",
+   "whyC": "'Proficient of' is not standard English.",
+   "whyD": "'With' goes with tools ('proficient with a computer'), not with a subject like mathematics.",
+   "explanationTl": "Ang 'proficient' ay sinasamahan ng 'in' kapag subject o field ang kasunod, gaya ng 'proficient in mathematics'.",
+   "hintTl": "Isipin mo kung paano mo sasabihin na magaling ang isang tao sa isang subject."
+  }},
+ {"id": 285853436, "blind": "B", "verdict": "minor edit", "reason": "Option C 'Big is the house' is a grammatical inversion (second answer) and the capitalized 'House' hinted the start; fixed both.",
+  "fields": {
+   "text": "Arrange the words to form a correct sentence: house / the / is / big",
+   "optionC": "The is house big",
+   "difficulty": 1,
+   "explanation": "A basic English sentence follows subject + verb + complement. The subject is 'the house', the verb is 'is', and 'big' describes it: 'The house is big.'",
+   "hint": "Start with the article and the noun it goes with, then the verb.",
+   "whyA": "'The big is house' puts the adjective where the subject should be.",
+   "whyC": "'The is house big' separates the article from its noun.",
+   "whyD": "'House the is big' puts the article after its noun.",
+   "explanationTl": "Ang basic na English sentence ay subject + verb + complement. Subject: 'the house', verb: 'is', tapos 'big' ang naglalarawan. Kaya 'The house is big.'",
+   "hintTl": "Unahin mo yung article kasama ng noun niya, tapos yung verb."
+  }},
+ {"id": 369006591, "blind": "B", "verdict": "unchanged", "reason": "Key correct; the three distractors are all antonyms, no second synonym.",
+  "fields": {
+   "hint": "A meticulous worker checks every small detail.",
+   "whyA": "Careless is the opposite of meticulous.",
+   "whyC": "Hasty means rushed, which is the opposite of taking careful time.",
+   "whyD": "Sloppy means messy and careless, the opposite of meticulous.",
+   "explanationTl": "Ang meticulous ay sobrang maingat at detalyado sa trabaho, kaya kasingkahulugan niya ang precise.",
+   "hintTl": "Ang meticulous na empleyado ay chine-check ang bawat maliit na detalye."
+  }},
+ {"id": 567036490, "blind": "B", "verdict": "unchanged", "reason": "Key correct; only one positive option, others are antonyms.",
+  "fields": {
+   "hint": "Candor is something people praise in a person who says what they really think.",
+   "whyA": "Dishonesty is the opposite of candor.",
+   "whyC": "Deceit means tricking people, the opposite of being candid.",
+   "whyD": "Secrecy means hiding things, while candor means being open.",
+   "explanationTl": "Ang candor ay pagiging tapat at prangka, yung sinasabi mo talaga ang totoo. Kaya honesty ang ibig sabihin.",
+   "hintTl": "Ang candor ay pinupuri sa taong diretsahan at sinasabi ang totoo niyang iniisip."
+  }},
+ {"id": 1199739628, "blind": "B", "verdict": "unchanged", "reason": "Key correct; Uniform, Consistent and Monotonous all mean sameness.",
+  "fields": {
+   "hint": "An eclectic collection draws from many different styles.",
+   "whyA": "Uniform means all the same, the opposite of eclectic.",
+   "whyC": "Consistent means unchanging in style, not drawn from many sources.",
+   "whyD": "Monotonous means dull and repetitive, the opposite of varied.",
+   "explanationTl": "Ang eclectic ay galing sa iba't ibang source o style, halo-halo. Kaya varied ang pinakamalapit na meaning.",
+   "hintTl": "Ang eclectic na koleksyon ay kumukuha sa maraming iba't ibang style."
+  }},
+ {"id": 2112260607, "blind": "B", "verdict": "unchanged", "reason": "Key correct; the three distractors are all antonyms of futile.",
+  "fields": {
+   "hint": "A futile effort gets you nowhere, no matter how hard you try.",
+   "whyA": "Useful is the opposite of futile.",
+   "whyC": "Effective means it works, which a futile plan does not.",
+   "whyD": "Productive means it gives results, the opposite of futile.",
+   "explanationTl": "Ang futile ay walang silbi o walang mangyayari kahit anong gawin mo. Kaya useless ang ibig sabihin.",
+   "hintTl": "Ang futile na effort ay walang patutunguhan, kahit gaano ka kasipag."
+  }}
+]

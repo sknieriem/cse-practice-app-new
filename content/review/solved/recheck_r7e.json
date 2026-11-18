@@ -1,0 +1,16 @@
+[
+ {
+  "id": 108426720,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "halving: 40/2=20"
+ },
+ {
+  "id": 882286800,
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "6*12=72 mason-days /4=18"
+ }
+]

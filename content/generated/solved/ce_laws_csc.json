@@ -1,0 +1,177 @@
+[
+ {
+  "uid": "ce_laws_csc-01",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12009 repeals RA 9184; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-02",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12064 Maritime Zones Act; officialgazette.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-03",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12065 designates 3 ASLs; pna.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-04",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "AFASA money mule offense; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-05",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12023 VAT on digital services 12%; bir.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-06",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12021 Magna Carta of Filipino Seafarers; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-07",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 11982 P10k at 80/85/90/95; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-08",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "DSWD/LSWDO certifies disadvantaged status; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-09",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "NIR = Negros Occ, Negros Or, Siquijor; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-10",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12027 ends MTB-MLE, mother tongue auxiliary; deped.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-11",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "ARAL national learning intervention/tutorial; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-12",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Eddie Garcia Law protects film/TV workers; pna.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-13",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "P10k teaching allowance, tax-exempt; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-14",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2025 SALN rules drop spouse signature; mb.com.ph"
+ },
+ {
+  "uid": "ce_laws_csc-15",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Konektadong Pinoy: no franchise, NTC registration; pna.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-16",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12022 economic sabotage; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-17",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "Anti-POGO Act repeals RA 11590 POGO tax law; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-18",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "DSWD lead implementing agency; lawphil.net, gmanetwork.com"
+ },
+ {
+  "uid": "ce_laws_csc-19",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12145 NEDA -> DEPDev; officialgazette.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-20",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "RA 12231 Government Optimization Act; lawphil.net"
+ },
+ {
+  "uid": "ce_laws_csc-21",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "1st Monday ASEAN-inspired, 2nd-4th Filipiniana; csc.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-22",
+  "answer": "B",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "CSC recognizes JHS/SHS completers for 1st level; csc.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-23",
+  "answer": "A",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "2025 RACCS replaced 2017 RACCS; csc.gov.ph"
+ },
+ {
+  "uid": "ce_laws_csc-24",
+  "answer": "C",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "online gambling incl. outside hours; ptvnews.ph, mb.com.ph"
+ },
+ {
+  "uid": "ce_laws_csc-25",
+  "answer": "D",
+  "confidence": "sure",
+  "ambiguous": false,
+  "note": "at least 5 years OFW service; mb.com.ph, gmanetwork.com"
+ }
+]

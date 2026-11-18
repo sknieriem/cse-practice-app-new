@@ -1,0 +1,695 @@
+[
+ {
+  "id": 47588994,
+  "blind": "D",
+  "verdict": "minor edit",
+  "reason": "Key right; smoothed stem and added Art VII Sec 4 citation.",
+  "fields": {
+   "text": "The President and Vice-President of the Philippines are elected for a term of how many years?",
+   "explanation": "Under Art. VII, Sec. 4 of the 1987 Constitution, the President and Vice-President are elected for a term of six years. The President cannot be reelected.",
+   "hint": "It is the same length as a senator's term.",
+   "whyA": "Three years is the term of members of the House of Representatives (Art. VI, Sec. 7).",
+   "whyB": "Four years is the US presidential term, not the Philippine one.",
+   "whyC": "Five years is not the term of any elected national official under the 1987 Constitution.",
+   "explanationTl": "Sa Art. VII, Sec. 4 ng 1987 Constitution, six years ang term ng President at Vice-President. Bawal nang ma-reelect ang President.",
+   "hintTl": "Pareho ito ng term ng senador."
+  }
+ },
+ {
+  "id": 557701591,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "'Current President as of 2022' is time-bound and ambiguous (Duterte until Jun 30, Marcos after); now tests stable Art VII Sec 2 qualification.",
+  "fields": {
+   "text": "Under the 1987 Constitution, a candidate for President must be a resident of the Philippines for at least how many years immediately preceding the election?",
+   "optionA": "2 years",
+   "optionB": "5 years",
+   "optionC": "10 years",
+   "optionD": "15 years",
+   "correctAnswer": "C",
+   "timeSensitive": false,
+   "explanation": "Art. VII, Sec. 2 requires the President to be a natural-born citizen, a registered voter, able to read and write, at least 40 years old on election day, and a resident of the Philippines for at least ten years immediately preceding the election.",
+   "hint": "It is the longest residency requirement among national elective posts.",
+   "whyA": "Two years is the residency requirement for Senators (Art. VI, Sec. 3).",
+   "whyB": "Five years is not the residency rule for any national elective post in the Constitution.",
+   "whyD": "Fifteen years is too long; no national post requires it.",
+   "explanationTl": "Sa Art. VII, Sec. 2, kailangan ng President na natural-born citizen, registered voter, marunong magbasa at magsulat, at least 40 years old, at resident ng Pilipinas for at least ten years bago ang election.",
+   "hintTl": "Ito ang pinakamahabang residency requirement sa mga national na posisyon."
+  }
+ },
+ {
+  "id": 640360594,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Current Chief Justice is a changing office-holder; now tests stable Art VIII Sec 11 retirement age.",
+  "fields": {
+   "text": "Under the 1987 Constitution, Members of the Supreme Court hold office during good behavior until they reach the age of:",
+   "optionA": "65",
+   "optionB": "70",
+   "optionC": "75",
+   "optionD": "60",
+   "correctAnswer": "B",
+   "timeSensitive": false,
+   "explanation": "Art. VIII, Sec. 11 provides that Members of the Supreme Court and judges of lower courts hold office during good behavior until they reach the age of seventy years or become incapacitated.",
+   "hint": "It is the same age limit that applies to judges of lower courts.",
+   "whyA": "65 is the compulsory retirement age in the general civil service, not for justices.",
+   "whyC": "75 is not the constitutional limit; justices must leave earlier.",
+   "whyD": "60 is the optional retirement age for many government workers, not the justices' limit.",
+   "explanationTl": "Sa Art. VIII, Sec. 11, ang Supreme Court justices at lower court judges ay nasa pwesto habang good behavior, until mag-70 years old sila o ma-incapacitate.",
+   "hintTl": "Parehong age ito para sa justices at sa mga judge ng lower courts."
+  }
+ },
+ {
+  "id": 1234666477,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key right; replaced vague options and cited Art XI Secs 12-13.",
+  "fields": {
+   "text": "The main function of the Office of the Ombudsman is to:",
+   "optionA": "Investigate complaints against public officials and employees",
+   "optionB": "Enact laws and ordinances",
+   "optionC": "Audit government revenues and expenditures",
+   "optionD": "Decide questions on the constitutionality of laws",
+   "explanation": "Under Art. XI, Secs. 12-13 of the 1987 Constitution, the Ombudsman acts on complaints against public officials and employees and investigates any illegal, unjust, improper or inefficient act or omission.",
+   "hint": "The Ombudsman is called the 'protector of the people' against abuse in government.",
+   "whyB": "Enacting laws belongs to Congress and local legislative bodies (Art. VI, Sec. 1).",
+   "whyC": "Auditing government funds is the job of the Commission on Audit (Art. IX-D).",
+   "whyD": "Ruling on constitutionality is a power of the Supreme Court (Art. VIII, Sec. 5).",
+   "explanationTl": "Sa Art. XI, Secs. 12-13, ang Ombudsman ang nag-a-act sa complaints laban sa public officials at employees, at nag-iimbestiga ng illegal o improper na acts nila.",
+   "hintTl": "Siya ang 'protector of the people' laban sa abuso sa gobyerno."
+  }
+ },
+ {
+  "id": 1397867088,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct and stable; added teaching fields.",
+  "fields": {
+   "explanation": "Emilio Aguinaldo was the first President of the Philippines, heading the First Philippine (Malolos) Republic inaugurated in January 1899.",
+   "hint": "He led the revolutionary government that declared independence in Kawit, Cavite.",
+   "whyA": "Rizal was a reformist writer executed in 1896; he never held office.",
+   "whyC": "Quezon was the first President of the Commonwealth (1935), not the first President.",
+   "whyD": "Marcos became President only in 1965.",
+   "explanationTl": "Si Emilio Aguinaldo ang first President ng Pilipinas, head ng First Philippine (Malolos) Republic na na-inaugurate noong January 1899.",
+   "hintTl": "Siya ang nag-declare ng independence sa Kawit, Cavite."
+  }
+ },
+ {
+  "id": 1610271519,
+  "blind": "C",
+  "verdict": "key fixed",
+  "reason": "Key was D (15); Art VIII Sec 4(1) says a Chief Justice and FOURTEEN Associate Justices. Fixed typo 'Associates'.",
+  "fields": {
+   "text": "The Supreme Court is composed of a Chief Justice and how many Associate Justices?",
+   "correctAnswer": "C",
+   "explanation": "Art. VIII, Sec. 4(1) of the 1987 Constitution: the Supreme Court is composed of a Chief Justice and fourteen Associate Justices, 15 members in all.",
+   "hint": "The full Court has 15 members; subtract the Chief Justice.",
+   "whyA": "Twelve is too few; the Court has 15 members in total.",
+   "whyB": "Thirteen would make only 14 members, one short.",
+   "whyD": "Fifteen is the total membership including the Chief Justice, not the number of Associate Justices.",
+   "explanationTl": "Sa Art. VIII, Sec. 4(1), ang Supreme Court ay may isang Chief Justice at fourteen Associate Justices, kaya 15 lahat.",
+   "hintTl": "15 ang buong Court; ibawas mo ang Chief Justice."
+  }
+ },
+ {
+  "id": 1865441410,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key right; replaced absurd distractors (BIR, 'House of Ombudsman'); cited Art VI Sec 1.",
+  "fields": {
+   "optionB": "Batasang Pambansa",
+   "optionC": "Supreme Court",
+   "optionD": "Office of the President",
+   "explanation": "Art. VI, Sec. 1 of the 1987 Constitution vests legislative power in the Congress of the Philippines, which consists of a Senate and a House of Representatives (except the power reserved to the people by initiative and referendum).",
+   "hint": "Look for the body with two chambers.",
+   "whyB": "Batasang Pambansa was the legislature under the 1973 Constitution, not the 1987 one.",
+   "whyC": "The Supreme Court holds judicial power (Art. VIII, Sec. 1).",
+   "whyD": "The President holds executive power (Art. VII, Sec. 1).",
+   "explanationTl": "Sa Art. VI, Sec. 1, ang legislative power ay nasa Congress of the Philippines, na binubuo ng Senate at House of Representatives.",
+   "hintTl": "Hanapin ang body na may dalawang chamber."
+  }
+ },
+ {
+  "id": 1904482849,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct; added Art VII Sec 1 citation and teaching fields.",
+  "fields": {
+   "explanation": "Art. VII, Sec. 1 of the 1987 Constitution: the executive power shall be vested in the President of the Philippines.",
+   "hint": "Executive means carrying out the laws; who heads the government?",
+   "whyB": "The House of Representatives shares legislative power with the Senate (Art. VI, Sec. 1).",
+   "whyC": "The Supreme Court holds judicial power (Art. VIII, Sec. 1).",
+   "whyD": "Congress holds legislative power, not executive power.",
+   "explanationTl": "Sa Art. VII, Sec. 1, ang executive power ay nasa President of the Philippines.",
+   "hintTl": "Executive = nagpapatupad ng batas. Sino ang head ng gobyerno?"
+  }
+ },
+ {
+  "id": 1650764253,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; 'Moon' and 'Wind' were weak, replaced with plausible energy sources; difficulty 1.",
+  "fields": {
+   "text": "What is the primary source of energy for Earth's climate system?",
+   "optionA": "Geothermal heat",
+   "optionC": "Earth's core",
+   "optionD": "Ocean tides",
+   "difficulty": 1,
+   "explanation": "Solar radiation from the Sun supplies almost all the energy that drives Earth's climate, including winds, ocean currents and the water cycle.",
+   "hint": "It is also the source of daylight.",
+   "whyA": "Geothermal heat is real but far too small to drive the climate.",
+   "whyC": "Heat from Earth's core adds only a tiny fraction of surface energy.",
+   "whyD": "Tides come from the Moon's gravity and do not power the climate.",
+   "explanationTl": "Ang solar radiation galing sa Sun ang nagbibigay ng halos lahat ng energy na nagpapatakbo ng climate, kasama ang hangin, ocean currents at water cycle.",
+   "hintTl": "Ito rin ang source ng liwanag sa araw."
+  }
+ },
+ {
+  "id": 14216838,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Neptune looks deep blue because methane in its atmosphere absorbs red light and reflects blue.",
+   "hint": "It is the eighth planet, named after the Roman god of the sea.",
+   "whyA": "Mars is known as the Red Planet.",
+   "whyB": "Jupiter shows tan, brown and white bands and the Great Red Spot.",
+   "whyD": "Venus looks yellowish-white because of thick sulfuric acid clouds.",
+   "explanationTl": "Blue ang Neptune kasi ang methane sa atmosphere niya ay nag-a-absorb ng red light at nagre-reflect ng blue.",
+   "hintTl": "Pang-walong planet ito, ipinangalan sa Roman god ng dagat."
+  }
+ },
+ {
+  "id": 124495185,
+  "blind": "C",
+  "verdict": "unchanged",
+  "reason": "Correct; Curie is a fair, plausible distractor.",
+  "fields": {
+   "explanation": "Henri Becquerel discovered radioactivity in 1896 while studying uranium salts; Marie and Pierre Curie later expanded the research.",
+   "hint": "The SI unit of radioactivity is named after him.",
+   "whyA": "Marie Curie coined the term 'radioactivity' and found polonium and radium, but after Becquerel's discovery.",
+   "whyB": "Rutherford later classified alpha and beta radiation; he did not discover radioactivity.",
+   "whyD": "Planck is known for quantum theory, not radioactivity.",
+   "explanationTl": "Si Henri Becquerel ang naka-discover ng radioactivity noong 1896 gamit ang uranium salts; sina Marie at Pierre Curie ang nagtuloy ng research.",
+   "hintTl": "Ipinangalan sa kanya ang SI unit ng radioactivity."
+  }
+ },
+ {
+  "id": 147687101,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during NASA's Apollo 11 mission.",
+   "hint": "He was the commander of Apollo 11.",
+   "whyA": "Buzz Aldrin walked on the Moon second, after Armstrong.",
+   "whyC": "Yuri Gagarin was the first human in space (1961) but never went to the Moon.",
+   "whyD": "John Glenn was the first American to orbit Earth, not to walk on the Moon.",
+   "explanationTl": "Si Neil Armstrong ang first na tao na naglakad sa Moon noong July 20, 1969, sa Apollo 11 mission.",
+   "hintTl": "Siya ang commander ng Apollo 11."
+  }
+ },
+ {
+  "id": 319480201,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Key right but Sahara is a common rival answer; stem now says hot and cold deserts count, so only one answer stands.",
+  "fields": {
+   "text": "Counting both hot and cold deserts, which is the largest desert in the world?",
+   "explanation": "A desert is defined by very low precipitation, not heat. By that measure the Antarctic Desert (about 14 million sq km) is the largest; the Sahara is the largest hot desert.",
+   "hint": "A desert is about lack of rain, not about high temperature.",
+   "whyA": "The Sahara is the largest HOT desert, but it is smaller than the Antarctic.",
+   "whyB": "The Gobi is a large cold desert in Asia, far smaller than the Antarctic.",
+   "whyD": "The Kalahari in southern Africa is much smaller.",
+   "explanationTl": "Ang desert ay base sa sobrang konting ulan, hindi sa init. Kaya ang Antarctic Desert (mga 14 million sq km) ang pinakamalaki; ang Sahara ang pinakamalaking hot desert.",
+   "hintTl": "Ang desert ay tungkol sa kakulangan ng ulan, hindi sa init."
+  }
+ },
+ {
+  "id": 423569218,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Buenos Aires is the capital and largest city of Argentina.",
+   "hint": "Its name is Spanish for 'good airs'.",
+   "whyB": "Córdoba is Argentina's second-largest city, not the capital.",
+   "whyC": "Mendoza is known for its wine region, not as the capital.",
+   "whyD": "Rosario is a major port city but not the capital.",
+   "explanationTl": "Ang Buenos Aires ang capital at pinakamalaking city ng Argentina.",
+   "hintTl": "Ang ibig sabihin ng pangalan ay 'good airs' sa Spanish."
+  }
+ },
+ {
+  "id": 455430751,
+  "blind": "C",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Paris is the capital of France, home of the Eiffel Tower and the Louvre.",
+   "hint": "It hosted the 2024 Summer Olympics.",
+   "whyA": "Lyon is a major city known for its cuisine, not the capital.",
+   "whyB": "Marseille is France's main port city, not the capital.",
+   "whyD": "Nice is a resort city on the French Riviera.",
+   "explanationTl": "Ang Paris ang capital ng France, kung nasaan ang Eiffel Tower at ang Louvre.",
+   "hintTl": "Dito ginanap ang 2024 Summer Olympics."
+  }
+ },
+ {
+  "id": 481078786,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Soviet cosmonaut Yuri Gagarin became the first person in space and the first to orbit Earth, aboard Vostok 1 on April 12, 1961.",
+   "hint": "He was a Soviet cosmonaut, not an American astronaut.",
+   "whyA": "Armstrong was the first to walk on the Moon (1969), not the first to orbit Earth.",
+   "whyC": "John Glenn was the first AMERICAN to orbit Earth, in 1962, after Gagarin.",
+   "whyD": "Aldrin was the second man on the Moon.",
+   "explanationTl": "Si Yuri Gagarin, Soviet cosmonaut, ang first na tao sa space at first na nag-orbit sa Earth sakay ng Vostok 1 noong April 12, 1961.",
+   "hintTl": "Soviet cosmonaut siya, hindi American astronaut."
+  }
+ },
+ {
+  "id": 501393926,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Correct; easy recall, set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Calcium's chemical symbol is Ca, from the first two letters of its name; its atomic number is 20.",
+   "hint": "The symbol uses the first two letters of the element's name.",
+   "whyB": "Cl is chlorine.",
+   "whyC": "C is carbon.",
+   "whyD": "Cu is copper, from the Latin 'cuprum'.",
+   "explanationTl": "Ang chemical symbol ng calcium ay Ca, galing sa unang dalawang letra ng pangalan niya; atomic number 20.",
+   "hintTl": "Unang dalawang letra ng pangalan ang gamit."
+  }
+ },
+ {
+  "id": 610897573,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Venus, the brightest planet in our sky, is called the 'Morning Star' when it appears in the east before sunrise (and the 'Evening Star' after sunset).",
+   "hint": "It is the brightest object in the night sky after the Moon.",
+   "whyA": "Mercury is seen near sunrise too, but it is much fainter and rarely noticed.",
+   "whyC": "Mars is called the Red Planet, not the Morning Star.",
+   "whyD": "Jupiter is bright but is not given the Morning Star name.",
+   "explanationTl": "Ang Venus, pinakamaliwanag na planet sa langit, ay tinatawag na 'Morning Star' kapag lumalabas siya sa silangan bago sumikat ang araw (at 'Evening Star' pagkalubog nito).",
+   "hintTl": "Ito ang pinakamaliwanag sa gabi kasunod ng Moon."
+  }
+ },
+ {
+  "id": 700029415,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Was a duplicate Evening Star (Venus) item; round-1 rewrite duplicated id 657782264 (closest planet), so rewritten again to the third planet (lead fix, caught by duplicate scan).",
+  "fields": {
+   "text": "Counting outward from the Sun, which planet is third?",
+   "optionA": "Venus",
+   "optionB": "Earth",
+   "optionC": "Mars",
+   "optionD": "Mercury",
+   "correctAnswer": "B",
+   "explanation": "The order from the Sun is Mercury, Venus, Earth, Mars, so Earth is the third planet.",
+   "hint": "Recall the order: My Very Educated Mother...",
+   "whyA": "Venus is second from the Sun.",
+   "whyC": "Mars is fourth from the Sun.",
+   "whyD": "Mercury is first, the closest to the Sun.",
+   "explanationTl": "Ang order mula sa Sun: Mercury, Venus, Earth, Mars. Kaya Earth ang pangatlo.",
+   "hintTl": "Alalahanin ang order: My Very Educated Mother...",
+   "difficulty": 1
+  }
+ },
+ {
+  "id": 838353328,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "'Tallest building as of 2025' is time-bound (Jeddah Tower under construction); now asks the stable location of Burj Khalifa.",
+  "fields": {
+   "text": "The Burj Khalifa, opened in 2010, is located in which city?",
+   "optionA": "Dubai",
+   "optionB": "Abu Dhabi",
+   "optionC": "Doha",
+   "optionD": "Riyadh",
+   "correctAnswer": "A",
+   "timeSensitive": false,
+   "explanation": "The Burj Khalifa stands in Dubai, United Arab Emirates. It opened in January 2010 at about 828 meters tall.",
+   "hint": "It is the UAE city known for its palm-shaped man-made islands.",
+   "whyB": "Abu Dhabi is the UAE capital, but the tower is in Dubai.",
+   "whyC": "Doha is the capital of Qatar.",
+   "whyD": "Riyadh is the capital of Saudi Arabia.",
+   "explanationTl": "Nasa Dubai, United Arab Emirates, ang Burj Khalifa. Binuksan ito noong January 2010, mga 828 meters ang taas.",
+   "hintTl": "UAE city ito na kilala sa palm-shaped na man-made islands."
+  }
+ },
+ {
+  "id": 886009167,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Neon gas glows bright reddish-orange when electricity passes through it, which is why such lights are called neon signs.",
+   "hint": "The sign is named after the gas.",
+   "whyA": "Helium gives a faint pinkish glow and is mostly used in balloons.",
+   "whyC": "Argon is used in some signs and light bulbs, but the classic sign gas is neon.",
+   "whyD": "Krypton is used in some lamps, not in typical neon signs.",
+   "explanationTl": "Ang neon gas ay nagli-glow ng reddish-orange kapag dinaanan ng kuryente, kaya tinawag silang neon signs.",
+   "hintTl": "Ipinangalan ang sign sa gas mismo."
+  }
+ },
+ {
+  "id": 1158147902,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; easy recall, set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Berlin is the capital of Germany; it became the capital of reunified Germany in 1990.",
+   "hint": "This city was once divided by a famous wall.",
+   "whyA": "Munich is the capital of Bavaria, not of Germany.",
+   "whyC": "Hamburg is Germany's largest port city.",
+   "whyD": "Frankfurt is Germany's financial center, not its capital.",
+   "explanationTl": "Ang Berlin ang capital ng Germany; naging capital siya ng reunified Germany noong 1990.",
+   "hintTl": "Dati itong hinati ng isang sikat na wall."
+  }
+ },
+ {
+  "id": 1378099863,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "Correct; very easy, set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "The Eiffel Tower stands in Paris, France; it was built for the 1889 World's Fair.",
+   "hint": "Same country whose capital is Paris.",
+   "whyA": "Italy is known for the Leaning Tower of Pisa.",
+   "whyC": "Spain is known for the Sagrada Familia.",
+   "whyD": "Germany is known for the Brandenburg Gate.",
+   "explanationTl": "Nasa Paris, France ang Eiffel Tower; ginawa ito para sa 1889 World's Fair.",
+   "hintTl": "Parehong bansa na ang capital ay Paris."
+  }
+ },
+ {
+  "id": 1516095501,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct, past event, stable; added teaching fields.",
+  "fields": {
+   "explanation": "The 2024 Summer Olympics were held in Paris, France, where Carlos Yulo won two gold medals for the Philippines.",
+   "hint": "Think of where Carlos Yulo won his two gold medals.",
+   "whyB": "Japan hosted the 2020 Games (held in 2021 in Tokyo).",
+   "whyC": "Brazil hosted the 2016 Games in Rio de Janeiro.",
+   "whyD": "Australia is set to host the 2032 Games in Brisbane.",
+   "explanationTl": "Sa Paris, France ginanap ang 2024 Summer Olympics, kung saan nanalo si Carlos Yulo ng dalawang gold para sa Pilipinas.",
+   "hintTl": "Saan nanalo ng dalawang gold si Carlos Yulo?"
+  }
+ },
+ {
+  "id": 1651628155,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "'Largest rice producer' is disputed (China historically, India in recent USDA estimates); replaced with a stable rice fact.",
+  "fields": {
+   "text": "The International Rice Research Institute (IRRI) is headquartered in which Philippine town?",
+   "optionA": "Los Baños, Laguna",
+   "optionB": "Science City of Muñoz, Nueva Ecija",
+   "optionC": "Banaue, Ifugao",
+   "optionD": "Tagaytay, Cavite",
+   "correctAnswer": "A",
+   "timeSensitive": false,
+   "explanation": "IRRI, founded in 1960, has its headquarters in Los Baños, Laguna, beside the University of the Philippines Los Baños.",
+   "hint": "It sits next to a University of the Philippines campus known for agriculture.",
+   "whyB": "Muñoz, Nueva Ecija hosts PhilRice (Philippine Rice Research Institute), not IRRI.",
+   "whyC": "Banaue is famous for its rice terraces, not a research institute.",
+   "whyD": "Tagaytay is a tourist city, not IRRI's home.",
+   "explanationTl": "Ang IRRI, itinatag noong 1960, ay naka-headquarter sa Los Baños, Laguna, katabi ng UP Los Baños.",
+   "hintTl": "Katabi ito ng UP campus na kilala sa agriculture."
+  }
+ },
+ {
+  "id": 1987067943,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Correct; easy recall, set difficulty 1.",
+  "fields": {
+   "difficulty": 1,
+   "explanation": "Seoul is the capital and largest city of South Korea.",
+   "hint": "It hosted the 1988 Summer Olympics.",
+   "whyB": "Busan is South Korea's second-largest city and main port.",
+   "whyC": "Incheon is known for the main international airport.",
+   "whyD": "Daegu is a large inland city, not the capital.",
+   "explanationTl": "Ang Seoul ang capital at pinakamalaking city ng South Korea.",
+   "hintTl": "Dito ginanap ang 1988 Summer Olympics."
+  }
+ },
+ {
+  "id": 2084301453,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "The South Korean won (KRW) is the official currency of South Korea.",
+   "hint": "North Korea's currency has the same name.",
+   "whyA": "The yen is Japan's currency.",
+   "whyC": "The yuan (renminbi) is China's currency.",
+   "whyD": "The ringgit is Malaysia's currency.",
+   "explanationTl": "Ang South Korean won (KRW) ang official currency ng South Korea.",
+   "hintTl": "Pareho ang pangalan ng currency ng North Korea."
+  }
+ },
+ {
+  "id": 65674374,
+  "blind": "C",
+  "verdict": "rewritten",
+  "reason": "KEY WRONG: key was Bonifacio (Father/Supremo of the Katipunan); the 'Brains of the Katipunan' is Emilio Jacinto, who was not an option. Options rebuilt.",
+  "fields": {
+   "text": "Which Filipino hero is known as the 'Brains of the Katipunan'?",
+   "optionA": "Emilio Jacinto",
+   "optionB": "Andres Bonifacio",
+   "optionC": "Apolinario Mabini",
+   "optionD": "Marcelo H. del Pilar",
+   "correctAnswer": "A",
+   "explanation": "Emilio Jacinto is called the 'Brains of the Katipunan'; he wrote the Kartilya ng Katipunan and edited its newspaper, Kalayaan.",
+   "hint": "He wrote the Kartilya, the Katipunan's code of conduct.",
+   "whyB": "Bonifacio is the Father of the Katipunan and its Supremo, not its 'Brains'.",
+   "whyC": "Mabini is the 'Brains of the Revolution', adviser to Aguinaldo.",
+   "whyD": "Del Pilar was a Propaganda Movement leader and editor of La Solidaridad.",
+   "explanationTl": "Si Emilio Jacinto ang tinatawag na 'Brains of the Katipunan'; siya ang sumulat ng Kartilya ng Katipunan at editor ng Kalayaan newspaper.",
+   "hintTl": "Siya ang sumulat ng Kartilya, ang code of conduct ng Katipunan."
+  }
+ },
+ {
+  "id": 777988385,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Ifugao is home to the Banaue terraces and other Rice Terraces of the Philippine Cordilleras, a UNESCO World Heritage Site.",
+   "hint": "The terraces are in the Cordillera mountains of northern Luzon.",
+   "whyB": "Pampanga lies on the flat central plains and is known for food and lanterns.",
+   "whyC": "Batangas is known for Taal Volcano and coffee.",
+   "whyD": "Quezon is known for coconuts and the Pahiyas Festival.",
+   "explanationTl": "Nasa Ifugao ang Banaue at iba pang Rice Terraces of the Philippine Cordilleras, isang UNESCO World Heritage Site.",
+   "hintTl": "Nasa Cordillera mountains sa northern Luzon ito."
+  }
+ },
+ {
+  "id": 846600262,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key right; 'Visayas' is an island group, not an island, so replaced with Samar.",
+  "fields": {
+   "optionC": "Samar",
+   "explanation": "Luzon is the largest island of the Philippines (about 109,000 sq km), followed by Mindanao.",
+   "hint": "It is the island where Metro Manila is.",
+   "whyB": "Mindanao is the second-largest island.",
+   "whyC": "Samar is the third-largest island, much smaller than Luzon.",
+   "whyD": "Palawan is long but far smaller than Luzon.",
+   "explanationTl": "Ang Luzon ang pinakamalaking island sa Pilipinas (mga 109,000 sq km), sunod ang Mindanao.",
+   "hintTl": "Dito nakalagay ang Metro Manila."
+  }
+ },
+ {
+  "id": 1407880570,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Panagbenga, Baguio City's flower festival held every February, is known for its flower-covered floats.",
+   "hint": "It is held in the Summer Capital of the Philippines.",
+   "whyB": "Sinulog is Cebu's Santo Niño festival, known for street dancing.",
+   "whyC": "Dinagyang is Iloilo's Santo Niño festival with warrior-style dancing.",
+   "whyD": "MassKara is Bacolod's festival of smiling masks.",
+   "explanationTl": "Ang Panagbenga, flower festival ng Baguio tuwing February, ay sikat sa mga float na puno ng bulaklak.",
+   "hintTl": "Ginaganap ito sa Summer Capital ng Pilipinas."
+  }
+ },
+ {
+  "id": 1628196838,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct per RA 9850; added citation and teaching fields.",
+  "fields": {
+   "explanation": "Republic Act No. 9850 (2009) declared Arnis the national martial art and sport of the Philippines.",
+   "hint": "It is a Filipino martial art that uses sticks.",
+   "whyA": "Basketball is the most popular sport but is not the legally declared national sport.",
+   "whyC": "Volleyball is popular but has no national-sport status.",
+   "whyD": "Boxing has produced Filipino champions but is not the national sport.",
+   "explanationTl": "Ang Republic Act No. 9850 (2009) ang nag-declare na Arnis ang national martial art at sport ng Pilipinas.",
+   "hintTl": "Filipino martial art ito na gumagamit ng stick."
+  }
+ },
+ {
+  "id": 1806971651,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Named office-holder 'in 2025' is time-bound and distractors were outdated (Sereno, Bautista); now tests Art VII Sec 18.",
+  "fields": {
+   "text": "Under the 1987 Constitution, who is the Commander-in-Chief of all armed forces of the Philippines?",
+   "optionA": "Secretary of National Defense",
+   "optionB": "President of the Philippines",
+   "optionC": "Chief of Staff of the AFP",
+   "optionD": "Senate President",
+   "correctAnswer": "B",
+   "timeSensitive": false,
+   "explanation": "Art. VII, Sec. 18 of the 1987 Constitution makes the President the Commander-in-Chief of all armed forces of the Philippines.",
+   "hint": "Civilian authority is supreme over the military; look for the highest civilian official.",
+   "whyA": "The Defense Secretary is a Cabinet member under the President, not the Commander-in-Chief.",
+   "whyC": "The AFP Chief of Staff is the top military officer but answers to the President.",
+   "whyD": "The Senate President heads the Senate, part of the legislative branch.",
+   "explanationTl": "Sa Art. VII, Sec. 18, ang President ang Commander-in-Chief ng lahat ng armed forces ng Pilipinas.",
+   "hintTl": "Mas mataas ang civilian authority kaysa military; sino ang pinakamataas na civilian official?"
+  }
+ },
+ {
+  "id": 1814858951,
+  "blind": "B",
+  "verdict": "unchanged",
+  "reason": "Correct; added teaching fields.",
+  "fields": {
+   "explanation": "Cebu City is called the 'Queen City of the South'; it is the country's oldest city and the trade center of the Visayas.",
+   "hint": "It is where Magellan planted a cross in 1521.",
+   "whyA": "Manila is the national capital, not the 'Queen City of the South'.",
+   "whyC": "Davao is a major Mindanao city but does not carry this title.",
+   "whyD": "Baguio is the 'Summer Capital of the Philippines'.",
+   "explanationTl": "Ang Cebu City ang 'Queen City of the South'; siya ang pinakamatandang city sa bansa at trade center ng Visayas.",
+   "hintTl": "Dito itinanim ni Magellan ang krus noong 1521."
+  }
+ },
+ {
+  "id": 1818563915,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Correct option just restated the stem (giveaway); now asks what February 25 commemorates.",
+  "fields": {
+   "text": "February 25 is commemorated in the Philippines as the anniversary of which event?",
+   "optionA": "EDSA People Power Revolution",
+   "optionB": "Proclamation of Philippine Independence",
+   "optionC": "Fall of Bataan",
+   "optionD": "Cry of Pugad Lawin",
+   "correctAnswer": "A",
+   "explanation": "February 25 marks the 1986 EDSA People Power Revolution, which ended the Marcos regime and installed Corazon Aquino as President.",
+   "hint": "Think of 1986 and a peaceful uprising along a highway in Metro Manila.",
+   "whyB": "Independence was proclaimed in Kawit on June 12, 1898.",
+   "whyC": "Bataan fell on April 9, 1942, now Araw ng Kagitingan.",
+   "whyD": "The Cry of Pugad Lawin happened in August 1896.",
+   "explanationTl": "Ang February 25 ay anniversary ng 1986 EDSA People Power Revolution, na nagpatalsik sa Marcos regime at naglagay kay Corazon Aquino bilang President.",
+   "hintTl": "Isipin mo ang 1986 at ang mapayapang pag-aalsa sa isang highway sa Metro Manila."
+  }
+ },
+ {
+  "id": 1821130614,
+  "blind": "B",
+  "verdict": "minor edit",
+  "reason": "'Wrote' was ambiguous (Felipe = music, Jose Palma = lyrics); stem now says 'composed the music', Palma replaces Jose Garcia Villa.",
+  "fields": {
+   "text": "Who composed the music of the Philippine national anthem?",
+   "optionA": "Jose Palma",
+   "explanation": "Julian Felipe composed the music of the national anthem in 1898; the original Spanish lyrics came later from Jose Palma's poem 'Filipinas'.",
+   "hint": "He was a composer from Cavite, commissioned by Aguinaldo.",
+   "whyA": "Jose Palma wrote the original Spanish lyrics, not the music.",
+   "whyC": "Claro M. Recto was a statesman and writer, not the anthem's composer.",
+   "whyD": "Lope K. Santos was a writer and Tagalog grammarian.",
+   "explanationTl": "Si Julian Felipe ang nag-compose ng music ng national anthem noong 1898; ang Spanish lyrics ay galing sa tula ni Jose Palma na 'Filipinas'.",
+   "hintTl": "Composer siya galing Cavite, inutusan ni Aguinaldo."
+  }
+ },
+ {
+  "id": 2024639418,
+  "blind": "A",
+  "verdict": "minor edit",
+  "reason": "Key right; no law formally proclaims a national hero, so 'officially recognized' softened; stem made a full question.",
+  "fields": {
+   "text": "Who is regarded as the national hero of the Philippines?",
+   "explanation": "Jose Rizal is honored as the national hero; Rizal Day on December 30 marks his execution at Bagumbayan in 1896.",
+   "hint": "He wrote Noli Me Tangere and El Filibusterismo.",
+   "whyB": "Bonifacio founded the Katipunan and is a national hero too, but Rizal is the one honored as THE national hero.",
+   "whyC": "Aguinaldo was the first President, not the national hero.",
+   "whyD": "Lapu-Lapu is honored as the first Filipino to resist Spanish rule.",
+   "explanationTl": "Si Jose Rizal ang kinikilalang national hero; ang Rizal Day tuwing December 30 ay paggunita sa execution niya sa Bagumbayan noong 1896.",
+   "hintTl": "Siya ang sumulat ng Noli Me Tangere at El Filibusterismo."
+  }
+ },
+ {
+  "id": 2107498529,
+  "blind": "B",
+  "verdict": "rewritten",
+  "reason": "Region count changes over time (17 -> 18 with Negros Island Region, 2024); now tests a stable region name.",
+  "fields": {
+   "text": "Region VII of the Philippines is known as:",
+   "optionA": "Central Visayas",
+   "optionB": "Western Visayas",
+   "optionC": "Eastern Visayas",
+   "optionD": "Northern Mindanao",
+   "correctAnswer": "A",
+   "timeSensitive": false,
+   "explanation": "Region VII is Central Visayas, with Cebu City as its regional center; Western Visayas is Region VI and Eastern Visayas is Region VIII.",
+   "hint": "The Visayas regions are numbered west to east: VI, VII, VIII.",
+   "whyB": "Western Visayas is Region VI.",
+   "whyC": "Eastern Visayas is Region VIII.",
+   "whyD": "Northern Mindanao is Region X.",
+   "explanationTl": "Ang Region VII ay Central Visayas, Cebu City ang regional center. Ang Western Visayas ay Region VI, at Eastern Visayas ay Region VIII.",
+   "hintTl": "Ang Visayas regions ay naka-number mula west papuntang east: VI, VII, VIII."
+  }
+ },
+ {
+  "id": 95377751,
+  "blind": "A",
+  "verdict": "rewritten",
+  "reason": "Stem said 'per the reviewer' (an unseen source); rebuilt as a clean positive-vs-negative peace item.",
+  "fields": {
+   "text": "In peace education, 'positive peace' refers to:",
+   "optionA": "The mere absence of war and violence",
+   "optionB": "The presence of justice, equity and respect for human rights",
+   "optionC": "A strong military that deters attack",
+   "optionD": "Steady economic growth",
+   "correctAnswer": "B",
+   "explanation": "Positive peace goes beyond the absence of war (negative peace): it means social justice, equity and respect for human rights that remove the causes of conflict.",
+   "hint": "'Positive' means something is present, not just missing.",
+   "whyA": "The mere absence of war is 'negative peace'.",
+   "whyC": "Military strength may deter war but does not create justice.",
+   "whyD": "Economic growth alone does not ensure justice or rights.",
+   "explanationTl": "Ang positive peace ay higit pa sa walang giyera (negative peace); ibig sabihin may social justice, equity at respeto sa human rights na nag-aalis ng ugat ng conflict.",
+   "hintTl": "'Positive' = may meron, hindi lang may nawala."
+  }
+ },
+ {
+  "id": 1888897707,
+  "blind": "A",
+  "verdict": "unchanged",
+  "reason": "Correct; added Art III citation and teaching fields.",
+  "fields": {
+   "explanation": "The Bill of Rights, Article III of the 1987 Constitution, protects individual rights and freedoms, such as due process and free speech, against abuse by the State.",
+   "hint": "It limits what the government can do to a person.",
+   "whyB": "Economic policy is in Art. XII (National Economy and Patrimony), not the Bill of Rights.",
+   "whyC": "Foreign relations are led by the President, with treaties needing Senate concurrence; not Art. III.",
+   "whyD": "Military powers fall under the Commander-in-Chief clause, Art. VII, Sec. 18.",
+   "explanationTl": "Ang Bill of Rights, Article III ng 1987 Constitution, ay nagpo-protect ng individual rights at freedoms, gaya ng due process at free speech, laban sa abuso ng State.",
+   "hintTl": "Nililimitahan nito ang kayang gawin ng gobyerno sa isang tao."
+  }
+ }
+]
