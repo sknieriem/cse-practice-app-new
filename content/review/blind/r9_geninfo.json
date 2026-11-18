@@ -1,0 +1,132 @@
+[
+ {
+  "id": 205637847,
+  "category": "General Information",
+  "subtopic": "gi_constitution",
+  "text": "How many Representatives are in the House based on population?",
+  "optionA": "Up to 250 or more",
+  "optionB": "Exactly 100",
+  "optionC": "24",
+  "optionD": "200 fixed"
+ },
+ {
+  "id": 202822796,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for sodium?",
+  "optionA": "Na",
+  "optionB": "So",
+  "optionC": "Sd",
+  "optionD": "Sn"
+ },
+ {
+  "id": 448580032,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which country is known as the 'Land of the Rising Sun'?",
+  "optionA": "China",
+  "optionB": "Japan",
+  "optionC": "South Korea",
+  "optionD": "Thailand"
+ },
+ {
+  "id": 493965148,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the freezing point of water at sea level?",
+  "optionA": "0°C",
+  "optionB": "100°C",
+  "optionC": "-10°C",
+  "optionD": "50°C"
+ },
+ {
+  "id": 769290179,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who painted 'The Starry Night'?",
+  "optionA": "Claude Monet",
+  "optionB": "Vincent van Gogh",
+  "optionC": "Pablo Picasso",
+  "optionD": "Salvador Dali"
+ },
+ {
+  "id": 1008708217,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which element is essential for human respiration?",
+  "optionA": "Hydrogen",
+  "optionB": "Oxygen",
+  "optionC": "Nitrogen",
+  "optionD": "Carbon"
+ },
+ {
+  "id": 1120264301,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the capital of Nigeria?",
+  "optionA": "Lagos",
+  "optionB": "Abuja",
+  "optionC": "Kano",
+  "optionD": "Ibadan"
+ },
+ {
+  "id": 1180020210,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the chemical symbol for oxygen?",
+  "optionA": "O",
+  "optionB": "Ox",
+  "optionC": "Og",
+  "optionD": "Os"
+ },
+ {
+  "id": 1613457749,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "What is the primary source of energy for hydropower?",
+  "optionA": "Wind",
+  "optionB": "Sun",
+  "optionC": "Water",
+  "optionD": "Geothermal"
+ },
+ {
+  "id": 1662213605,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Who wrote the novel 'Noli Me Tangere'?",
+  "optionA": "Ferdinand Marcos",
+  "optionB": "Jose Rizal",
+  "optionC": "Apolinario Mabini",
+  "optionD": "Andres Bonifacio"
+ },
+ {
+  "id": 1694779328,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas is used in balloons to make them float?",
+  "optionA": "Oxygen",
+  "optionB": "Helium",
+  "optionC": "Nitrogen",
+  "optionD": "Carbon Dioxide"
+ },
+ {
+  "id": 1712132286,
+  "category": "General Information",
+  "subtopic": "gi_general",
+  "text": "Which gas is the second most abundant in Earth’s atmosphere?",
+  "optionA": "Nitrogen",
+  "optionB": "Oxygen",
+  "optionC": "Carbon Dioxide",
+  "optionD": "Argon"
+ },
+ {
+  "id": 2039204713,
+  "category": "General Information",
+  "subtopic": "gi_ph",
+  "text": "What is the national fruit of the Philippines?",
+  "optionA": "Mango",
+  "optionB": "Banana",
+  "optionC": "Coconut",
+  "optionD": "Pineapple"
+ }
+]

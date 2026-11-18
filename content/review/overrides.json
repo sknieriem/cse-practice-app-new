@@ -9260,5 +9260,953 @@
   "whyD": "'Bear' means produce in 'the tree bears fruit', not with pain.",
   "explanationTl": "Sa 'I can't bear the pain', ang 'bear' ay tiisin o kayanin.",
   "hintTl": "Isingit mo ang bawat option sa sentence at tingnan kung alin ang may sense kasama ang 'the pain'."
+ },
+ "336675233": {
+  "hint": "Ask what each instrument is mainly used to do.",
+  "whyB": "Measuring is what rulers and gauges do; a telescope's job is to let you see distant objects.",
+  "whyC": "Recording is the job of a camera or recorder, not a telescope.",
+  "whyD": "Navigating uses a compass or map; a telescope may help, but its function is observing.",
+  "explanationTl": "Ang calculator ay ginagamit sa computing, at ang telescope naman ay ginagamit sa observing ng malalayong bagay.",
+  "hintTl": "Isipin kung ano ang pangunahing gamit ng bawat instrument."
+ },
+ "1044464886": {
+  "hint": "What activity do you use each object for?",
+  "whyA": "Drawing is done with a pencil or crayon, not a fork.",
+  "whyC": "Writing pairs with a pen; it echoes the book theme but not the fork.",
+  "whyD": "Cooking is done with a pan or spatula; a fork is used mainly for eating.",
+  "explanationTl": "Ang book ay ginagamit sa pagbabasa (reading), at ang fork naman ay ginagamit sa pagkain (eating).",
+  "hintTl": "Ano ang activity na ginagamitan ng bawat object?"
+ },
+ "1241605545": {
+  "hint": "Pair each physical quantity with the unit used to measure it.",
+  "whyB": "Meters measure length, not mass.",
+  "whyC": "Seconds measure time, not mass.",
+  "whyD": "Liters measure volume, the quantity already in the first pair, not mass.",
+  "explanationTl": "Ang volume ay sinusukat in cubic meters, at ang mass naman ay sinusukat in kilograms.",
+  "hintTl": "I-match ang bawat quantity sa unit na ginagamit pang-sukat dito."
+ },
+ "1550681737": {
+  "hint": "Name exactly what each instrument shows a reading of.",
+  "whyA": "Heat is energy; a thermometer reads temperature, not the amount of heat.",
+  "whyC": "Weather has many parts; a thermometer measures only one of them.",
+  "whyD": "Pressure is measured by a barometer or gauge, not a thermometer.",
+  "explanationTl": "Ang clock ay sumusukat ng time, at ang thermometer naman ay sumusukat ng temperature.",
+  "hintTl": "Ano mismo ang binabasa o sinusukat ng bawat instrument?"
+ },
+ "1902616705": {
+  "hint": "What substance does each tool put onto a surface?",
+  "whyB": "Canvas is the surface painted on, matching paper, not ink.",
+  "whyC": "Paper is the surface a pen writes on, not the substance it uses.",
+  "whyD": "Wood may be what a brush handle is made of; it is not what the brush applies.",
+  "explanationTl": "Ang pen ay gumagamit ng ink para magsulat, at ang brush naman ay gumagamit ng paint para magpinta.",
+  "hintTl": "Anong substance ang inilalagay ng bawat tool sa surface?"
+ },
+ "462985586": {
+  "explanation": "The results go up by 7, 9, then 11 (each gap grows by 2), which fits n^2 + 2n - 1. So 5 = 25 + 10 - 1 = 34.",
+  "steps": "1. Gaps: 14 - 7 = 7, 23 - 14 = 9.\n2. The gaps grow by 2, so the next gap is 11.\n3. 23 + 11 = 34.\n4. Check with n^2 + 2n - 1: 2 gives 7, 3 gives 14, 4 gives 23, 5 gives 34.",
+  "hint": "Look at how much the right-hand numbers increase each time.",
+  "whyA": "32 adds 9 again instead of letting the gap grow to 11.",
+  "whyB": "33 comes from adding 10, a gap that grows by only 1.",
+  "whyD": "35 comes from adding 12; the gaps are odd numbers 7, 9, 11.",
+  "explanationTl": "Tumataas ang sagot ng 7, 9, tapos 11 (lumalaki ng 2 ang gap), kaya fit ang n^2 + 2n - 1. Kaya ang 5 = 25 + 10 - 1 = 34.",
+  "stepsTl": "1. Gaps: 14 - 7 = 7, 23 - 14 = 9.\n2. Lumalaki ng 2 ang gap, kaya 11 ang susunod na gap.\n3. 23 + 11 = 34.\n4. I-check gamit ang n^2 + 2n - 1: 2 → 7, 3 → 14, 4 → 23, 5 → 34.",
+  "hintTl": "Tingnan kung gaano tumataas ang numbers sa kanan bawat step."
+ },
+ "1572732000": {
+  "correctAnswer": "A",
+  "explanation": "The results go up by 9, 11, then 13 (each gap grows by 2), which fits n^2 + 4n - 3. So 5 = 25 + 20 - 3 = 42.",
+  "steps": "1. Gaps: 18 - 9 = 9, 29 - 18 = 11.\n2. The gaps grow by 2, so the next gap is 13.\n3. 29 + 13 = 42.\n4. Check with n^2 + 4n - 3: 2 gives 9, 3 gives 18, 4 gives 29, 5 gives 42.",
+  "hint": "Look at how much the right-hand numbers increase each time.",
+  "whyB": "43 comes from adding 14, a gap that does not follow the +2 growth.",
+  "whyC": "44 comes from forcing a formula like n^2 + 3n + 4 that doesn't fit 2 = 9.",
+  "whyD": "45 comes from adding 16; the gaps are odd numbers 9, 11, 13.",
+  "explanationTl": "Tumataas ang sagot ng 9, 11, tapos 13 (lumalaki ng 2 ang gap), kaya fit ang n^2 + 4n - 3. Kaya ang 5 = 25 + 20 - 3 = 42.",
+  "stepsTl": "1. Gaps: 18 - 9 = 9, 29 - 18 = 11.\n2. Lumalaki ng 2 ang gap, kaya 13 ang susunod na gap.\n3. 29 + 13 = 42.\n4. I-check gamit ang n^2 + 4n - 3: 2 → 9, 3 → 18, 4 → 29, 5 → 42.",
+  "hintTl": "Tingnan kung gaano tumataas ang numbers sa kanan bawat step."
+ },
+ "965276504": {
+  "text": "A table shows the temperatures recorded on three days: Monday 20°C, Tuesday 22°C, Wednesday 24°C. What is the average temperature for the three days?",
+  "optionA": "20°C",
+  "optionB": "21°C",
+  "optionC": "22°C",
+  "optionD": "23°C",
+  "difficulty": 1,
+  "explanation": "Average = (20 + 22 + 24) / 3 = 66 / 3 = 22°C.",
+  "steps": "1. Add the temperatures: 20 + 22 + 24 = 66.\n2. Divide by the number of days: 66 / 3 = 22.\n3. Average = 22°C.",
+  "hint": "Add all the values, then divide by how many days there are.",
+  "whyA": "20°C is just the lowest reading, not the average.",
+  "whyB": "21°C averages only Monday and Tuesday.",
+  "whyD": "23°C averages only Tuesday and Wednesday.",
+  "explanationTl": "Average = (20 + 22 + 24) / 3 = 66 / 3 = 22°C.",
+  "stepsTl": "1. I-add ang temperatures: 20 + 22 + 24 = 66.\n2. I-divide sa bilang ng days: 66 / 3 = 22.\n3. Average = 22°C.",
+  "hintTl": "I-add lahat ng values, tapos i-divide sa dami ng days."
+ },
+ "700928295": {
+  "whyA": "27 adds 6 again instead of increasing the gap to 7.",
+  "whyC": "29 adds 8, skipping the gap of 7.",
+  "whyD": "30 adds 9, as if the gaps grew by more than 1.",
+  "explanationTl": "Ang pagitan ay 4, 5, 6, kaya 7 ang susunod: 21 + 7 = 28."
+ },
+ "1574729397": {
+  "whyA": "23 adds 6 again instead of increasing the gap to 7.",
+  "whyC": "25 adds 8, skipping the gap of 7.",
+  "whyD": "26 adds 9, as if the gaps grew by more than 1.",
+  "explanationTl": "Ang pagitan ay 4, 5, 6, kaya 7 ang susunod: 17 + 7 = 24."
+ },
+ "205637847": {
+  "text": "Under Article VI, Section 5(1) of the 1987 Constitution, the House of Representatives shall be composed of not more than how many members, unless otherwise fixed by law?",
+  "optionA": "250",
+  "optionB": "200",
+  "optionD": "300",
+  "explanation": "Article VI, Section 5(1) of the 1987 Constitution provides that the House shall have not more than 250 members, unless otherwise fixed by law. This total already includes party-list representatives, who make up 20% of the House under Section 5(2).",
+  "hint": "Recall the number written in Article VI, Section 5(1); don't confuse it with the Senate.",
+  "whyB": "200 is a round-number guess; the figure written in Section 5(1) is 250.",
+  "whyC": "24 is the number of Senators (Art. VI, Sec. 2), not House members.",
+  "whyD": "300 is not in the Constitution; Congress may change the size by law, but the stated cap is 250.",
+  "explanationTl": "Sabi ng Article VI, Section 5(1) ng 1987 Constitution, hindi hihigit sa 250 ang members ng House, unless otherwise fixed by law. Kasama na diyan ang party-list representatives, na 20% ng House under Section 5(2).",
+  "hintTl": "Alalahanin ang number sa Article VI, Section 5(1); huwag ipagkamali sa Senate."
+ },
+ "202822796": {
+  "hint": "The symbol comes from sodium's Latin name, not its English name.",
+  "whyB": "'So' just takes the first two letters of the English name.",
+  "whyC": "'Sd' is a made-up abbreviation of 'sodium'; no element uses it.",
+  "whyD": "Sn is tin (from Latin stannum).",
+  "explanationTl": "Ang chemical symbol ng sodium ay Na, galing sa Latin name nito na natrium.",
+  "hintTl": "Galing sa Latin name ng sodium ang symbol, hindi sa English."
+ },
+ "448580032": {
+  "hint": "Think of the country whose flag shows a red sun disc.",
+  "whyA": "China lies west of Japan and is not called the Land of the Rising Sun.",
+  "whyC": "South Korea is called the 'Land of the Morning Calm', a common mix-up.",
+  "whyD": "Thailand is known as the 'Land of Smiles'.",
+  "explanationTl": "Tinatawag na 'Land of the Rising Sun' ang Japan kasi nasa silangan ito, kung saan sumisikat ang araw; ang Nihon o Nippon ay ibig sabihin 'origin of the sun'.",
+  "hintTl": "Isipin ang bansa na may pulang bilog na araw sa flag."
+ },
+ "493965148": {
+  "hint": "It is the zero point of the Celsius scale.",
+  "whyB": "100°C is the boiling point of water at sea level, not freezing.",
+  "whyC": "-10°C is below freezing; water is already ice there, but it starts freezing at 0°C.",
+  "whyD": "50°C is warm liquid water, nowhere near freezing.",
+  "explanationTl": "Nagyeyelo ang tubig sa 0°C sa sea level, under standard atmospheric pressure.",
+  "hintTl": "Ito yung zero point ng Celsius scale."
+ },
+ "769290179": {
+  "hint": "The painter was a Dutch post-impressionist famous for swirling brushstrokes and 'Sunflowers'.",
+  "whyA": "Monet was a French impressionist known for 'Water Lilies', not 'The Starry Night'.",
+  "whyC": "Picasso, a Cubist, painted 'Guernica'.",
+  "whyD": "Dali, a surrealist, painted 'The Persistence of Memory'.",
+  "explanationTl": "Si Vincent van Gogh ang nagpinta ng 'The Starry Night' noong 1889, isang sikat na post-impressionist na obra.",
+  "hintTl": "Dutch post-impressionist siya, sikat sa paikot-ikot na brushstrokes at sa 'Sunflowers'."
+ },
+ "1008708217": {
+  "hint": "It is the gas we inhale and our cells use to release energy from food.",
+  "whyA": "Hydrogen is in water and food molecules but is not the gas we breathe in for respiration.",
+  "whyC": "Nitrogen is the most abundant gas we inhale, but the body does not use it in respiration; we exhale it unchanged.",
+  "whyD": "Carbon leaves the body as carbon dioxide, a waste product of respiration.",
+  "explanationTl": "Oxygen ang kailangan sa human respiration; ginagamit ito ng cells para makagawa ng energy.",
+  "hintTl": "Ito yung gas na nilalanghap natin at ginagamit ng cells para kumuha ng energy sa pagkain."
+ },
+ "1120264301": {
+  "explanation": "Abuja is the capital of Nigeria; the planned city, built in the 1980s, officially replaced Lagos as the capital in 1991.",
+  "hint": "The capital is a planned city in the center of the country, not the biggest city.",
+  "whyA": "Lagos is Nigeria's largest city and former capital, but not the current capital.",
+  "whyC": "Kano is a major northern city, not the capital.",
+  "whyD": "Ibadan is a large southwestern city, not the capital.",
+  "explanationTl": "Abuja ang capital ng Nigeria; planned city ito na itinayo noong 1980s at pinalitan ang Lagos bilang capital noong 1991.",
+  "hintTl": "Planned city sa gitna ng bansa ang capital, hindi yung pinakamalaking city."
+ },
+ "1180020210": {
+  "hint": "It is a single capital letter.",
+  "whyB": "'Ox' is a common abbreviation guess but not the chemical symbol.",
+  "whyC": "Og is oganesson, element 118.",
+  "whyD": "Os is osmium, a metal.",
+  "explanationTl": "Ang chemical symbol ng oxygen ay O sa periodic table.",
+  "hintTl": "Isang capital letter lang ito."
+ },
+ "1613457749": {
+  "hint": "'Hydro' means water.",
+  "whyA": "Wind drives wind turbines, which is wind power, not hydropower.",
+  "whyB": "The sun ultimately drives the water cycle, but the direct source for hydropower is moving water; solar power uses sunlight.",
+  "whyD": "Geothermal power uses heat from inside the Earth.",
+  "explanationTl": "Ginagamit ng hydropower ang energy ng gumagalaw na tubig para gumawa ng kuryente.",
+  "hintTl": "Ang ibig sabihin ng 'hydro' ay tubig."
+ },
+ "1662213605": {
+  "hint": "The author also wrote 'El Filibusterismo' and is the national hero.",
+  "whyA": "Ferdinand Marcos was a 20th-century president, not a Propaganda-era novelist.",
+  "whyC": "Mabini, the 'Brains of the Revolution', wrote 'El Verdadero Decalogo', not the Noli.",
+  "whyD": "Bonifacio founded the Katipunan; he did not write the Noli.",
+  "explanationTl": "Si Jose Rizal ang sumulat ng 'Noli Me Tangere', nobela na naglantad ng pang-aabuso ng Spanish colonial rule sa Pilipinas.",
+  "hintTl": "Siya rin ang sumulat ng 'El Filibusterismo' at siya ang national hero."
+ },
+ "1694779328": {
+  "hint": "Choose the gas that is much lighter than air and does not burn.",
+  "whyA": "Oxygen is slightly denser than air, so it will not lift a balloon.",
+  "whyC": "Nitrogen is about as dense as air, so the balloon will not rise.",
+  "whyD": "Carbon dioxide is heavier than air; a CO2 balloon sinks.",
+  "explanationTl": "Helium ang ginagamit kasi mas magaan ito kaysa hangin, kaya lumulutang ang balloon.",
+  "hintTl": "Piliin ang gas na mas magaan kaysa hangin at hindi nasusunog."
+ },
+ "1712132286": {
+  "hint": "Nitrogen is first at about 78%; which gas is next?",
+  "whyA": "Nitrogen is the MOST abundant (about 78%), not the second.",
+  "whyC": "Carbon dioxide is only about 0.04% of the atmosphere.",
+  "whyD": "Argon is third, at about 0.9%.",
+  "explanationTl": "Oxygen ay mga 21% ng atmosphere ng Earth, pangalawa sa nitrogen.",
+  "hintTl": "Nitrogen ang una sa mga 78%; ano ang sunod?"
+ },
+ "2039204713": {
+  "explanation": "The mango, especially the 'carabao' variety, is widely recognized as the national fruit of the Philippines, although unlike the flag and anthem it is not declared by law.",
+  "hint": "Think of the sweet yellow fruit Guimaras is famous for.",
+  "whyB": "Banana is a major Philippine export, but it is not the national fruit.",
+  "whyC": "Coconut is called the 'tree of life' and is a top crop, but it is not the national fruit.",
+  "whyD": "Pineapple is widely grown in Mindanao, but it is not the national fruit.",
+  "explanationTl": "Ang mangga, lalo na yung 'carabao' variety, ay kilala bilang national fruit ng Pilipinas, kahit hindi ito idineklara by law gaya ng flag at anthem.",
+  "hintTl": "Isipin ang matamis na dilaw na prutas na sikat sa Guimaras."
+ },
+ "30964422": {
+  "difficulty": 1,
+  "text": "If z = x × y, x = 5 and y = 5, what is z?",
+  "explanation": "Substitute: z = 5 × 5 = 25.",
+  "steps": "1. Replace the letters with their given values.\n2. z = 5 × 5 = 25.",
+  "stepsTl": "1. Palitan ng given values ang mga letra.\n2. z = 5 × 5 = 25.",
+  "whyB": "10 adds x and y (5 + 5) instead of multiplying.",
+  "whyC": "0 subtracts (5 − 5) instead of multiplying.",
+  "whyD": "30 is a multiplication slip; 5 × 5 = 25.",
+  "explanationTl": "I-substitute lang: z = 5 × 5 = 25."
+ },
+ "80115330": {
+  "difficulty": 1,
+  "text": "If x = y − z, y = 25 and z = 10, what is x?",
+  "explanation": "Substitute: x = 25 − 10 = 15.",
+  "steps": "1. Replace the letters with their given values.\n2. x = 25 − 10 = 15.",
+  "stepsTl": "1. Palitan ng given values ang mga letra.\n2. x = 25 − 10 = 15.",
+  "whyB": "35 adds (25 + 10) instead of subtracting.",
+  "whyC": "10 is just the value of z, not y − z.",
+  "whyD": "5 is a subtraction slip; 25 − 10 = 15.",
+  "explanationTl": "I-substitute lang: x = 25 − 10 = 15."
+ },
+ "269539567": {
+  "difficulty": 1,
+  "steps": "1. Subtract 9 from both sides: x = 15 − 9 = 6.\nCheck: 6 + 9 = 15 ✓",
+  "stepsTl": "1. Ibawas ang 9 sa magkabilang side: x = 15 − 9 = 6.\nCheck: 6 + 9 = 15 ✓",
+  "hint": "Do the opposite of \"+ 9\" to both sides.",
+  "hintTl": "Gawin ang kabaligtaran ng \"+ 9\" sa magkabilang side.",
+  "whyB": "5 is a subtraction slip; 5 + 9 = 14, not 15.",
+  "whyC": "7 is a subtraction slip; 7 + 9 = 16, not 15.",
+  "whyD": "8 is a subtraction slip; 8 + 9 = 17, not 15.",
+  "explanationTl": "Ibawas ang 9 sa magkabilang side: x = 15 − 9 = 6."
+ },
+ "399223859": {
+  "difficulty": 1,
+  "explanation": "Subtract 3 from both sides (6x = 18), then divide by 6: x = 3.",
+  "explanationTl": "Ibawas ang 3 sa magkabilang side (6x = 18), tapos i-divide sa 6: x = 3."
+ },
+ "401138244": {
+  "difficulty": 1,
+  "explanation": "Multiply both sides by 2: x = 7 × 2 = 14.",
+  "steps": "1. x/2 means x divided by 2.\n2. Multiply both sides by 2: x = 7 × 2 = 14.\nCheck: 14 ÷ 2 = 7 ✓",
+  "hint": "What operation undoes dividing by 2?",
+  "whyB": "3.5 divides 7 by 2 instead of multiplying.",
+  "whyC": "7 leaves the right side unchanged; you still have to undo the ÷ 2.",
+  "whyD": "2 is the divisor, not the value of x.",
+  "explanationTl": "I-multiply sa 2 ang magkabilang side: x = 7 × 2 = 14.",
+  "stepsTl": "1. Ang x/2 ay x divided by 2.\n2. I-multiply sa 2 ang magkabilang side: x = 7 × 2 = 14.\nCheck: 14 ÷ 2 = 7 ✓",
+  "hintTl": "Anong operation ang kabaligtaran ng pag-divide sa 2?"
+ },
+ "1541189285": {
+  "difficulty": 1,
+  "steps": "1. Add 8 to both sides: x = 12 + 8 = 20.\nCheck: 20 − 8 = 12 ✓",
+  "stepsTl": "1. Idagdag ang 8 sa magkabilang side: x = 12 + 8 = 20.\nCheck: 20 − 8 = 12 ✓",
+  "hint": "Do the opposite of \"− 8\" to both sides.",
+  "hintTl": "Gawin ang kabaligtaran ng \"− 8\" sa magkabilang side.",
+  "whyB": "4 subtracts 8 from 12 instead of adding.",
+  "whyC": "16 is an addition slip; 12 + 8 = 20.",
+  "whyD": "24 is an addition slip; 12 + 8 = 20.",
+  "explanationTl": "Idagdag ang 8 sa magkabilang side: x = 12 + 8 = 20."
+ },
+ "1552137391": {
+  "difficulty": 1,
+  "text": "If t = u + v, u = 11 and v = 4, what is t?",
+  "explanation": "Substitute: t = 11 + 4 = 15.",
+  "steps": "1. Replace the letters with their given values.\n2. t = 11 + 4 = 15.",
+  "stepsTl": "1. Palitan ng given values ang mga letra.\n2. t = 11 + 4 = 15.",
+  "whyB": "7 subtracts (11 − 4) instead of adding.",
+  "whyC": "16 is an addition slip; 11 + 4 = 15.",
+  "whyD": "10 is an addition slip; 11 + 4 = 15.",
+  "explanationTl": "I-substitute lang: t = 11 + 4 = 15."
+ },
+ "1709508975": {
+  "difficulty": 1,
+  "explanation": "Divide both sides by 3: x = 15 ÷ 3 = 5.",
+  "hint": "3x means 3 times x. What undoes multiplying by 3?",
+  "hintTl": "Ang 3x ay 3 times x. Ano ang kabaligtaran ng pag-multiply sa 3?",
+  "explanationTl": "I-divide sa 3 ang magkabilang side: x = 15 ÷ 3 = 5."
+ },
+ "1711590104": {
+  "difficulty": 1,
+  "text": "If g = h ÷ i, h = 18 and i = 3, what is g?",
+  "explanation": "Substitute: g = 18 ÷ 3 = 6.",
+  "steps": "1. Replace the letters with their given values.\n2. g = 18 ÷ 3 = 6.",
+  "stepsTl": "1. Palitan ng given values ang mga letra.\n2. g = 18 ÷ 3 = 6.",
+  "whyB": "15 subtracts (18 − 3) instead of dividing.",
+  "whyC": "21 adds (18 + 3) instead of dividing.",
+  "whyD": "5 is a division slip; 18 ÷ 3 = 6.",
+  "explanationTl": "I-substitute lang: g = 18 ÷ 3 = 6."
+ },
+ "1785779591": {
+  "difficulty": 1,
+  "explanation": "Add 6 to both sides (3x = 15), then divide by 3: x = 5.",
+  "explanationTl": "Idagdag ang 6 sa magkabilang side (3x = 15), tapos i-divide sa 3: x = 5."
+ },
+ "1845148216": {
+  "difficulty": 1,
+  "steps": "1. Add 5 to both sides: x = 10 + 5 = 15.\nCheck: 15 − 5 = 10 ✓",
+  "stepsTl": "1. Idagdag ang 5 sa magkabilang side: x = 10 + 5 = 15.\nCheck: 15 − 5 = 10 ✓",
+  "hint": "Do the opposite of \"− 5\" to both sides.",
+  "hintTl": "Gawin ang kabaligtaran ng \"− 5\" sa magkabilang side.",
+  "whyB": "5 subtracts 5 from 10 instead of adding.",
+  "whyC": "10 leaves the right side unchanged; you still have to undo the − 5.",
+  "whyD": "20 is an addition slip; 10 + 5 = 15.",
+  "explanationTl": "Idagdag ang 5 sa magkabilang side: x = 10 + 5 = 15."
+ },
+ "3630601": {
+  "difficulty": 1,
+  "whyB": "0.25 is 1/4, not 1/8.",
+  "whyC": "0.5 is 1/2, not 1/8.",
+  "whyD": "0.1 is 1/10; it treats the 8 like a 10.",
+  "explanationTl": "I-divide ang 1 sa 8: 1 ÷ 8 = 0.125."
+ },
+ "24143042": {
+  "difficulty": 1,
+  "text": "1/4 × 8/2 = ?",
+  "explanation": "(1 × 8)/(4 × 2) = 8/8 = 1.",
+  "steps": "1. Multiply the numerators: 1 × 8 = 8.\n2. Multiply the denominators: 4 × 2 = 8.\n3. Simplify: 8/8 = 1.",
+  "stepsTl": "1. I-multiply ang numerators: 1 × 8 = 8.\n2. I-multiply ang denominators: 4 × 2 = 8.\n3. I-simplify: 8/8 = 1.",
+  "hintTl": "Numerator × numerator, denominator × denominator, tapos i-simplify.",
+  "whyB": "2 is 1/4 × 8; it forgets to divide by the 2 in 8/2.",
+  "whyC": "4 is just 8/2 simplified; you still have to multiply it by 1/4.",
+  "whyD": "0.5 is half the answer; recheck the tops: 1 × 8 = 8, so 8/8 = 1.",
+  "explanationTl": "(1 × 8)/(4 × 2) = 8/8 = 1."
+ },
+ "869811056": {
+  "difficulty": 1,
+  "whyB": "0.25 is 1/4; 2/4 simplifies to 1/2.",
+  "whyC": "0.75 is 3/4, not 2/4.",
+  "whyD": "0.4 is 2/5, not 2/4.",
+  "explanationTl": "I-divide ang 2 sa 4: 2 ÷ 4 = 0.5 (kasi 2/4 = 1/2)."
+ },
+ "1015392083": {
+  "difficulty": 1,
+  "text": "3/4 × 2/3 = ?",
+  "optionA": "9/8",
+  "optionB": "5/7",
+  "optionC": "1/2",
+  "optionD": "6/7",
+  "correctAnswer": "C",
+  "explanation": "(3 × 2)/(4 × 3) = 6/12 = 1/2.",
+  "steps": "1. Multiply the numerators: 3 × 2 = 6.\n2. Multiply the denominators: 4 × 3 = 12.\n3. Simplify: 6/12 = 1/2.",
+  "stepsTl": "1. I-multiply ang numerators: 3 × 2 = 6.\n2. I-multiply ang denominators: 4 × 3 = 12.\n3. I-simplify: 6/12 = 1/2.",
+  "hintTl": "Numerator × numerator, denominator × denominator, tapos i-simplify.",
+  "whyA": "9/8 flips the second fraction; that is division, not multiplication.",
+  "whyB": "5/7 adds the tops and the bottoms instead of multiplying.",
+  "whyD": "6/7 multiplies the tops but adds the bottoms (4 + 3).",
+  "explanationTl": "(3 × 2)/(4 × 3) = 6/12, at kapag sinimplify, 1/2."
+ },
+ "1148606973": {
+  "difficulty": 1,
+  "whyB": "0.5 is 2/4 (1/2), not 3/4.",
+  "whyC": "0.25 is 1/4, not 3/4.",
+  "whyD": "1.0 is 4/4, a whole.",
+  "explanationTl": "I-divide ang 3 sa 4: 3 ÷ 4 = 0.75."
+ },
+ "1752561608": {
+  "difficulty": 1,
+  "hintTl": "Keep, change, flip: gawing × ang ÷, tapos baligtarin ang second fraction.",
+  "whyB": "2/5 is just the first fraction left unchanged.",
+  "whyC": "1 would mean the two fractions are equal; 2/5 is only half of 4/5.",
+  "whyD": "8/25 multiplies straight across without flipping 4/5.",
+  "explanationTl": "Keep-change-flip: 2/5 × 5/4 = 10/20 = 1/2."
+ },
+ "2036006001": {
+  "difficulty": 1,
+  "steps": "1. The denominators are the same (5), so add the numerators: 2 + 1 = 3.\n2. Keep the denominator: 3/5.",
+  "stepsTl": "1. Pareho ang denominator (5), kaya i-add lang ang numerators: 2 + 1 = 3.\n2. Same denominator pa rin: 3/5.",
+  "hintTl": "Kapag pareho ang denominator, i-add lang ang numerators.",
+  "whyB": "1/5 subtracts (2 − 1) instead of adding.",
+  "whyC": "4/5 is an addition slip; 2 + 1 = 3.",
+  "whyD": "5/5 = 1 is too big; 2/5 + 1/5 is less than a whole.",
+  "explanationTl": "Pareho ang denominator, kaya 2 + 1 = 3: ang sagot ay 3/5."
+ },
+ "2134528283": {
+  "difficulty": 1,
+  "optionD": "3/6",
+  "steps": "1. The denominators are the same (3), so add the numerators: 1 + 2 = 3.\n2. 3/3 = 1.",
+  "stepsTl": "1. Pareho ang denominator (3), kaya i-add ang numerators: 1 + 2 = 3.\n2. 3/3 = 1.",
+  "hintTl": "Kapag pareho ang denominator, i-add lang ang numerators.",
+  "whyB": "1/3 subtracts (2/3 − 1/3) instead of adding.",
+  "whyC": "2/3 is only the second fraction; you still have to add 1/3.",
+  "whyD": "3/6 adds the tops AND the bottoms; keep the common denominator 3.",
+  "explanationTl": "1/3 + 2/3 = 3/3, at ang 3/3 ay 1."
+ },
+ "444838310": {
+  "difficulty": 1,
+  "explanation": "12.5% = 0.125 (or 1/8), so 0.125 × 80 = 10.",
+  "whyD": "15 is too high; 12.5% is 1/8, and 80 ÷ 8 = 10.",
+  "explanationTl": "Ang 12.5% ay 1/8, kaya 80 ÷ 8 = 10."
+ },
+ "607748819": {
+  "difficulty": 1,
+  "explanationTl": "0.18 × 500 = 90. (10% ng 500 = 50, 8% = 40, kaya 90.)"
+ },
+ "636091509": {
+  "difficulty": 1,
+  "whyB": "100 is about 33% (1/3) of 300, not 35%.",
+  "whyC": "110 is too high; 10% of 300 is 30, so 35% = 3.5 × 30 = 105.",
+  "whyD": "95 is too low; 35% of 300 = 105.",
+  "explanationTl": "0.35 × 300 = 105."
+ },
+ "944048397": {
+  "difficulty": 1,
+  "text": "A book priced at ₱300 is sold at a 25% discount. What is the sale price?",
+  "optionA": "₱225",
+  "optionB": "₱250",
+  "optionC": "₱200",
+  "optionD": "₱275",
+  "explanation": "25% of ₱300 = ₱75, so ₱300 − ₱75 = ₱225.",
+  "whyB": "₱250 subtracts only ₱50 instead of the ₱75 discount.",
+  "whyC": "₱200 subtracts ₱100, which would be a 33⅓% discount.",
+  "whyD": "₱275 subtracts only ₱25, treating 25% as ₱25.",
+  "explanationTl": "Ang 25% ng ₱300 ay ₱75, kaya ₱300 − ₱75 = ₱225."
+ },
+ "1256121476": {
+  "difficulty": 1,
+  "text": "A hat priced at ₱300 is sold at a 10% discount. What is the sale price?",
+  "optionA": "₱270",
+  "optionB": "₱280",
+  "optionC": "₱290",
+  "optionD": "₱260",
+  "explanation": "10% of ₱300 = ₱30, so ₱300 − ₱30 = ₱270.",
+  "whyB": "₱280 subtracts only ₱20 instead of the ₱30 discount.",
+  "whyC": "₱290 subtracts only ₱10, treating 10% as ₱10.",
+  "whyD": "₱260 subtracts ₱40, more than 10% of ₱300.",
+  "explanationTl": "Ang 10% ng ₱300 ay ₱30, kaya ₱300 − ₱30 = ₱270."
+ },
+ "58950500": {
+  "difficulty": 1,
+  "text": "A plane travels 500 km in 2.5 hours. What is its average speed in km/h?",
+  "whyB": "150 km/h would cover only 375 km in 2.5 hours.",
+  "whyC": "250 divides by 2 and ignores the extra half hour.",
+  "whyD": "100 km/h would cover only 250 km in 2.5 hours.",
+  "explanationTl": "Speed = distance ÷ oras: 500 ÷ 2.5 = 200 km/h."
+ },
+ "557427307": {
+  "difficulty": 1,
+  "text": "A robot moves 50 m in 10 seconds. What is its speed in m/s?",
+  "steps": "1. Speed = distance ÷ time.\n2. 50 m ÷ 10 s = 5 m/s.",
+  "stepsTl": "1. Speed = distance ÷ oras.\n2. 50 m ÷ 10 s = 5 m/s.",
+  "hint": "Speed = distance ÷ time.",
+  "hintTl": "Bilis = layo ÷ oras.",
+  "whyB": "4 m/s would cover only 40 m in 10 seconds.",
+  "whyC": "6 m/s would cover 60 m in 10 seconds.",
+  "whyD": "10 is the time in seconds, not the speed.",
+  "explanationTl": "Speed = distance ÷ oras: 50 ÷ 10 = 5 m/s."
+ },
+ "1161601848": {
+  "text": "A bus leaves at 7:30 AM and travels 180 km at an average speed of 60 km/h. What time does it arrive?",
+  "optionA": "9:30 AM",
+  "optionB": "10:00 AM",
+  "optionC": "10:30 AM",
+  "optionD": "11:00 AM",
+  "correctAnswer": "C",
+  "explanation": "Travel time = 180 ÷ 60 = 3 hours, and 7:30 AM + 3 hours = 10:30 AM.",
+  "steps": "1. Time = distance ÷ speed = 180 km ÷ 60 km/h = 3 hours.\n2. Add it to the departure time: 7:30 AM + 3 h = 10:30 AM.",
+  "stepsTl": "1. Oras ng biyahe = distance ÷ speed = 180 ÷ 60 = 3 hours.\n2. I-add sa oras ng alis: 7:30 AM + 3 h = 10:30 AM.",
+  "hint": "Find the travel time first, then add it to the departure time.",
+  "hintTl": "Alamin muna kung ilang oras ang biyahe, tapos i-add sa oras ng alis.",
+  "whyA": "9:30 AM adds only 2 hours; 180 ÷ 60 = 3.",
+  "whyB": "10:00 AM adds 2.5 hours; 180 ÷ 60 = 3.",
+  "whyD": "11:00 AM adds 3.5 hours; 180 ÷ 60 = 3.",
+  "explanationTl": "180 ÷ 60 = 3 hours ang biyahe, kaya 7:30 AM + 3 hours = 10:30 AM."
+ },
+ "1512852403": {
+  "difficulty": 1,
+  "text": "A cyclist rides 30 km in 1.5 hours. What is the average speed in km/h?",
+  "whyB": "25 km/h would cover 37.5 km in 1.5 hours.",
+  "whyC": "15 divides 30 by 2, but the time is 1.5 hours, not 2.",
+  "whyD": "30 divides by 1 hour and ignores the extra half hour.",
+  "explanationTl": "Speed = distance ÷ oras: 30 ÷ 1.5 = 20 km/h."
+ },
+ "1574272955": {
+  "text": "A runner covers 8 km in 40 minutes. What is the speed in km/h?",
+  "steps": "1. Change minutes to hours: 40 min = 40/60 = 2/3 h.\n2. Speed = 8 ÷ 2/3 = 8 × 3/2 = 12 km/h.",
+  "stepsTl": "1. Gawing hours ang minutes: 40 min = 2/3 h.\n2. Speed = 8 ÷ 2/3 = 8 × 3/2 = 12 km/h.",
+  "whyB": "10 km/h would cover 8 km in 48 minutes, not 40.",
+  "whyC": "14 km/h would cover 8 km in about 34 minutes.",
+  "whyD": "16 km/h would cover 8 km in 30 minutes.",
+  "explanationTl": "Ang 40 minutes ay 2/3 ng isang oras, kaya 8 ÷ 2/3 = 12 km/h."
+ },
+ "93140923": {
+  "difficulty": 1,
+  "explanationTl": "Even numbers ito, dagdag 2: 10 + 2 = 12.",
+  "whyB": "11 adds only 1; the step is 2.",
+  "whyC": "13 adds 3; the step is 2.",
+  "whyD": "9 goes down; the sequence goes up by 2."
+ },
+ "99115311": {
+  "difficulty": 1,
+  "explanationTl": "Squares ito (4², 5², 6², 7²), kaya 8² = 64.",
+  "whyB": "60 adds 11 again; the gaps grow by 2, so the next gap is 15.",
+  "whyC": "70 adds 21; 8² = 64.",
+  "whyD": "55 adds only 6; 8² = 64."
+ },
+ "208871148": {
+  "difficulty": 1,
+  "explanationTl": "Dagdag 5 bawat isa: 20 + 5 = 25.",
+  "whyB": "30 adds 10, skipping a term.",
+  "whyC": "22 adds only 2; the step is 5.",
+  "whyD": "28 adds 8; the step is 5."
+ },
+ "230155382": {
+  "difficulty": 1,
+  "explanationTl": "Multiples of 7: 5 × 7 = 35.",
+  "whyB": "30 adds only 2; the step is 7.",
+  "whyC": "32 adds 4; the step is 7.",
+  "whyD": "40 adds 12; the step is 7.",
+  "explanation": "Multiples of 7: 5 × 7 = 35."
+ },
+ "288502493": {
+  "difficulty": 1,
+  "explanationTl": "Dagdag 3 bawat isa: 14 + 3 = 17.",
+  "whyB": "16 adds only 2; the step is 3.",
+  "whyC": "15 adds only 1; the step is 3.",
+  "whyD": "18 adds 4; the step is 3."
+ },
+ "465554006": {
+  "difficulty": 1,
+  "explanationTl": "Squares ito (1², 2², ..., 5²), kaya 6² = 36.",
+  "whyB": "30 adds 5; the next gap is 11.",
+  "whyC": "35 adds 10; the next gap is 11 (6² = 36).",
+  "whyD": "40 adds 15; the next gap is 11."
+ },
+ "477662742": {
+  "explanationTl": "Times 4 bawat isa: 192 × 4 = 768.",
+  "whyB": "384 multiplies by 2; the ratio is 4.",
+  "whyC": "576 multiplies by 3; the ratio is 4.",
+  "whyD": "960 multiplies by 5; the ratio is 4.",
+  "explanation": "Multiply by 4: 192 × 4 = 768."
+ },
+ "900470789": {
+  "difficulty": 1,
+  "explanationTl": "Dagdag 4 bawat isa: 16 + 4 = 20.",
+  "whyB": "18 adds only 2; the step is 4.",
+  "whyC": "22 adds 6; the step is 4.",
+  "whyD": "24 adds 8, skipping a term."
+ },
+ "1058068768": {
+  "difficulty": 1,
+  "explanationTl": "Dagdag 6 bawat isa: 30 + 6 = 36.",
+  "whyB": "32 adds only 2; the step is 6.",
+  "whyC": "35 adds 5; the step is 6.",
+  "whyD": "40 adds 10; the step is 6."
+ },
+ "1076032827": {
+  "difficulty": 1,
+  "explanationTl": "Squares ito (1², 2², 3², 4²), kaya 5² = 25.",
+  "whyB": "20 adds 4; the next gap is 9.",
+  "whyC": "30 adds 14; 5² = 25.",
+  "whyD": "36 is 6², skipping 5²."
+ },
+ "1147458080": {
+  "difficulty": 1,
+  "explanationTl": "Squares ito (1² hanggang 6²), kaya 7² = 49.",
+  "whyB": "40 adds 4; the next gap is 13.",
+  "whyC": "45 adds 9; the next gap is 13.",
+  "whyD": "50 adds 14; the next gap is 13 (7² = 49)."
+ },
+ "1276097534": {
+  "difficulty": 1,
+  "steps": "1. Each term is the sum of the two before it: 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.\n2. Next: 5 + 8 = 13.",
+  "stepsTl": "1. Bawat term ay sum ng dalawang nauna: 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.\n2. Kaya ang susunod: 5 + 8 = 13.",
+  "hint": "Compare each term with the two terms before it.",
+  "hintTl": "Ikumpara ang bawat term sa dalawang term bago nito.",
+  "whyB": "10 adds 2, as if the gap were constant.",
+  "whyC": "11 adds 3, repeating the last gap.",
+  "whyD": "12 adds 4, guessing the gaps grow by 1.",
+  "explanationTl": "Ang bawat term ay sum ng dalawang nauna (Fibonacci): 5 + 8 = 13."
+ },
+ "1286839637": {
+  "text": "What comes next: 2187, 729, 243, 81, 27, 9, ____?",
+  "steps": "1. Each term is divided by 3: 2187 ÷ 3 = 729, 729 ÷ 3 = 243, and so on.\n2. Next: 9 ÷ 3 = 3.",
+  "stepsTl": "1. Bawat term ay hinahati sa 3: 2187 ÷ 3 = 729, 729 ÷ 3 = 243, at iba pa.\n2. Kaya ang susunod: 9 ÷ 3 = 3.",
+  "whyA": "6 subtracts 3 instead of dividing by 3.",
+  "whyC": "4 roughly halves 9; the rule is ÷ 3, not ÷ 2.",
+  "whyD": "2 is not 9 ÷ 3; the rule is ÷ 3, giving 3.",
+  "explanationTl": "Hinahati sa 3 ang bawat term, kaya 9 ÷ 3 = 3."
+ },
+ "1394905072": {
+  "text": "What is the next number in the sequence: 2, 9, 28, 65, ?",
+  "optionA": "125",
+  "optionB": "126",
+  "optionC": "100",
+  "optionD": "217",
+  "correctAnswer": "B",
+  "explanation": "Each term is a cube plus 1: 1³+1, 2³+1, 3³+1, 4³+1, so the next is 5³+1 = 126.",
+  "steps": "1. 2 = 1×1×1 + 1, 9 = 2×2×2 + 1, 28 = 3×3×3 + 1, 65 = 4×4×4 + 1.\n2. Next: 5×5×5 + 1 = 125 + 1 = 126.",
+  "stepsTl": "1. 2 = 1×1×1 + 1, 9 = 2×2×2 + 1, 28 = 3×3×3 + 1, 65 = 4×4×4 + 1.\n2. Kaya ang susunod: 5×5×5 + 1 = 125 + 1 = 126.",
+  "hint": "Compare each term with 1, 8, 27, 64.",
+  "hintTl": "I-compare ang bawat term sa 1, 8, 27, 64.",
+  "whyA": "125 is 5³ but forgets to add the 1 that every term has.",
+  "whyC": "100 comes from guessing a square (10²) instead of following the cube-plus-one pattern.",
+  "explanationTl": "Ang bawat term ay cube plus 1: 1³+1, 2³+1, 3³+1, 4³+1, kaya ang susunod ay 5³+1 = 126.",
+  "whyD": "217 is 6³+1, which skips the 5th term."
+ },
+ "1826184778": {
+  "difficulty": 1,
+  "steps": "1. 2, 3, 5, 7, 11 are prime numbers (divisible only by 1 and themselves).\n2. 12 is divisible by 2, so the next prime is 13.",
+  "stepsTl": "1. Ang 2, 3, 5, 7, 11 ay prime numbers (divisible lang sa 1 at sa sarili).\n2. Ang 12 ay divisible sa 2, kaya ang susunod na prime ay 13.",
+  "hint": "What do these numbers have in common? Check what each can be divided by.",
+  "hintTl": "Ano ang pagkakapareho nila? Tingnan kung saan sila divisible.",
+  "whyB": "14 = 2 × 7, so it is not prime.",
+  "whyC": "15 = 3 × 5, so it is not prime.",
+  "whyD": "17 is prime but skips 13.",
+  "explanationTl": "Prime numbers ito, at ang susunod na prime pagkatapos ng 11 ay 13."
+ },
+ "1874968719": {
+  "difficulty": 1,
+  "explanationTl": "Squares ito (2² hanggang 6²), kaya 7² = 49.",
+  "whyB": "40 adds 4; the next gap is 13.",
+  "whyC": "45 adds 9; the next gap is 13.",
+  "whyD": "50 adds 14; the next gap is 13 (7² = 49)."
+ },
+ "1940139030": {
+  "difficulty": 1,
+  "explanationTl": "Dagdag 3 bawat isa: 15 + 3 = 18.",
+  "whyB": "16 adds only 1; the step is 3.",
+  "whyC": "17 adds 2; the step is 3.",
+  "whyD": "20 adds 5; the step is 3."
+ },
+ "1966001898": {
+  "difficulty": 1,
+  "explanationTl": "Squares ito (3² hanggang 7²), kaya 8² = 64.",
+  "whyB": "60 adds 11; the next gap is 15.",
+  "whyC": "55 adds only 6; the next gap is 15.",
+  "whyD": "70 adds 21; 8² = 64."
+ },
+ "1973072366": {
+  "difficulty": 1,
+  "explanationTl": "Bawas 10 bawat isa: 70 − 10 = 60.",
+  "whyB": "65 subtracts only 5; the step is −10.",
+  "whyC": "75 goes up; the sequence goes down by 10.",
+  "whyD": "55 subtracts 15; the step is −10.",
+  "stepsTl": "1. Pare-pareho ang bawas (10) bawat hakbang.\n2. Kaya ang susunod ay 60."
+ },
+ "1981300329": {
+  "difficulty": 1,
+  "explanationTl": "Multiples of 12: 5 × 12 = 60.",
+  "whyB": "50 adds only 2; the step is 12.",
+  "whyC": "72 adds 24, skipping a term.",
+  "whyD": "54 adds 6; the step is 12.",
+  "explanation": "Multiples of 12: 5 × 12 = 60."
+ },
+ "1073181394": {
+  "difficulty": 1,
+  "text": "Ana buys 3 notebooks at ₱25 each and a pen for ₱15. How much change does she get from ₱100?",
+  "optionA": "₱25",
+  "optionB": "₱10",
+  "optionC": "₱60",
+  "optionD": "₱90",
+  "correctAnswer": "B",
+  "explanation": "She spends 3 × ₱25 + ₱15 = ₱90, so her change is ₱100 − ₱90 = ₱10.",
+  "steps": "1. Notebooks: 3 × ₱25 = ₱75.\n2. Total: ₱75 + ₱15 = ₱90.\n3. Change: ₱100 − ₱90 = ₱10.",
+  "stepsTl": "1. Notebooks: 3 × ₱25 = ₱75.\n2. Total: ₱75 + ₱15 = ₱90.\n3. Sukli: ₱100 − ₱90 = ₱10.",
+  "hint": "Find the total cost first, then subtract it from ₱100.",
+  "hintTl": "Alamin muna ang total na gastos, tapos ibawas sa ₱100.",
+  "whyA": "₱25 forgets to include the pen.",
+  "whyC": "₱60 counts only one notebook.",
+  "whyD": "₱90 is the total spent, not the change.",
+  "explanationTl": "₱75 sa notebooks + ₱15 sa pen = ₱90, kaya ang sukli ay ₱100 − ₱90 = ₱10."
+ },
+ "712363549": {
+  "difficulty": 1,
+  "explanation": "Each teacher teaches one class at the same time as the other, so 2 classes still take 1 hour.",
+  "whyB": "2 hours assumes the teachers take turns instead of working at the same time.",
+  "whyC": "0.5 assumes extra teachers speed things up, but there are also more classes.",
+  "whyD": "3 just adds the numbers (1 + 2).",
+  "explanationTl": "Sabay silang nagtuturo, isang class bawat teacher, kaya 1 hour pa rin."
+ },
+ "822405742": {
+  "difficulty": 1,
+  "explanation": "Artists and pictures both doubled, so each artist still draws one picture in 2 days.",
+  "whyB": "4 doubles the time, but the extra artists share the extra pictures.",
+  "whyC": "1 halves the time, but there are also twice as many pictures.",
+  "whyD": "3 has no basis; artists and pictures both doubled, so the time stays 2 days.",
+  "explanationTl": "Dumoble ang artists at dumoble rin ang pictures, kaya 2 days pa rin."
+ },
+ "1073969172": {
+  "difficulty": 1,
+  "explanation": "Drivers and trucks were both halved, so each driver still drives one truck in 4 hours.",
+  "whyB": "2 halves the time, but there are also half as many trucks.",
+  "whyC": "8 doubles the time for fewer drivers, but there are also fewer trucks.",
+  "whyD": "6 has no basis; drivers and trucks were both halved, so the time stays 4 hours.",
+  "explanationTl": "Nahati ang drivers at nahati rin ang trucks, kaya 4 hours pa rin."
+ },
+ "1397387693": {
+  "difficulty": 1,
+  "explanation": "Cooks and meals were both halved, so each cook still cooks one meal in 8 hours.",
+  "whyB": "4 halves the time, but there are also half as many meals.",
+  "whyC": "16 doubles the time for fewer cooks, but there are also fewer meals.",
+  "whyD": "12 has no basis; cooks and meals were both halved, so the time stays 8 hours.",
+  "explanationTl": "Nahati ang cooks at nahati rin ang meals, kaya 8 hours pa rin."
+ },
+ "1560003315": {
+  "difficulty": 1,
+  "explanation": "Builders and houses both doubled, so each builder's share is unchanged and it still takes 5 months.",
+  "whyB": "10 doubles the time, but the extra builders share the extra houses.",
+  "whyC": "2.5 halves the time, but there are also twice as many houses.",
+  "whyD": "7.5 has no basis; builders and houses both doubled, so the time stays 5 months.",
+  "explanationTl": "Dumoble ang builders at dumoble rin ang houses, kaya 5 months pa rin."
+ },
+ "2057559314": {
+  "text": "5 chefs can prepare 20 meals in 4 hours. At the same rate, how many hours will 10 chefs need to prepare 60 meals?",
+  "optionA": "12",
+  "optionB": "6",
+  "optionC": "24",
+  "optionD": "3",
+  "correctAnswer": "B",
+  "explanation": "One chef makes 20 ÷ (5 × 4) = 1 meal per hour, so 10 chefs make 10 meals per hour and need 60 ÷ 10 = 6 hours.",
+  "steps": "1. One chef's rate: 20 meals ÷ (5 chefs × 4 h) = 1 meal per hour.\n2. 10 chefs: 10 × 1 = 10 meals per hour.\n3. Time: 60 ÷ 10 = 6 hours.",
+  "stepsTl": "1. Rate ng isang chef: 20 ÷ (5 × 4) = 1 meal kada hour.\n2. 10 chefs: 10 meals kada hour.\n3. Oras: 60 ÷ 10 = 6 hours.",
+  "hint": "Find how many meals ONE chef makes in one hour.",
+  "hintTl": "Alamin muna kung ilang meals ang kaya ng ISANG chef sa isang oras.",
+  "whyA": "12 hours keeps only 5 chefs (60 ÷ 5); it ignores the extra chefs.",
+  "whyC": "24 multiplies by 2 for the extra chefs instead of dividing by 2.",
+  "whyD": "3 is too fast; 10 chefs only double the rate while the meals triple.",
+  "explanationTl": "Isang chef = 1 meal kada hour, kaya 10 chefs = 10 meals kada hour; 60 ÷ 10 = 6 hours."
+ },
+ "2060097319": {
+  "text": "4 tailors can sew 12 uniforms in 3 days. At the same rate, how many days will 6 tailors need to sew 30 uniforms?",
+  "optionA": "7.5",
+  "optionC": "5",
+  "optionD": "3.75",
+  "correctAnswer": "C",
+  "explanation": "One tailor sews 12 ÷ (4 × 3) = 1 uniform a day, so 6 tailors sew 6 a day and need 30 ÷ 6 = 5 days.",
+  "steps": "1. One tailor's rate: 12 uniforms ÷ (4 tailors × 3 days) = 1 uniform per day.\n2. 6 tailors: 6 × 1 = 6 uniforms per day.\n3. Time: 30 ÷ 6 = 5 days.",
+  "stepsTl": "1. Rate ng isang tailor: 12 ÷ (4 × 3) = 1 uniform kada araw.\n2. 6 tailors: 6 uniforms kada araw.\n3. Araw: 30 ÷ 6 = 5 days.",
+  "hint": "Find how many uniforms ONE tailor sews in one day.",
+  "hintTl": "Alamin muna kung ilang uniform ang kaya ng ISANG tailor sa isang araw.",
+  "whyA": "7.5 days keeps only 4 tailors (4 a day); it ignores the 2 extra tailors.",
+  "whyB": "10 divides 30 by 3, mixing up the days with the daily rate.",
+  "whyD": "3.75 halves 7.5 as if the tailors doubled; 6 is only 1.5 times 4.",
+  "explanationTl": "Isang tailor = 1 uniform kada araw, kaya 6 tailors = 6 kada araw; 30 ÷ 6 = 5 days."
+ },
+ "453917633": {
+  "explanation": "'Exuberant' means full of lively energy and excitement. Its opposite is 'subdued', meaning quiet and restrained.",
+  "hint": "Look for the one option that does NOT describe a high-energy person.",
+  "whyA": "'Energetic' is a synonym of exuberant, not an antonym.",
+  "whyC": "'Vibrant' means full of energy and life, a synonym.",
+  "whyD": "'Lively' is close to exuberant in meaning, not its opposite.",
+  "explanationTl": "Ang 'exuberant' ay sobrang energetic at excited. Ang kabaligtaran niyan ay 'subdued', ibig sabihin tahimik at kalmado.",
+  "hintTl": "Hanapin mo yung isang option na HINDI naglalarawan ng taong punong-puno ng energy."
+ },
+ "44855011": {
+  "difficulty": 1,
+  "explanation": "'Children' is a plural subject, so the verb must be the plural form 'sing'. The correct sentence is 'The children sing songs.'",
+  "hint": "Check whether the subject is singular or plural, then check the verb.",
+  "whyA": "'The' is a correct article; nothing is wrong with it.",
+  "whyB": "'Children' is the correct plural of 'child'; the error is in the verb that follows it.",
+  "whyD": "'Songs' is a correct plural object.",
+  "explanationTl": "Plural ang 'children', kaya dapat plural din ang verb: 'sing', hindi 'sings'. Tama: 'The children sing songs.'",
+  "hintTl": "Tingnan mo kung singular o plural ang subject, tapos i-check mo kung tugma ang verb."
+ },
+ "861962027": {
+  "difficulty": 1,
+  "explanation": "'Interested' always takes the preposition 'in': interested in learning, interested in music.",
+  "hint": "Think of the fixed preposition that goes with 'interested'.",
+  "whyB": "'Interested on' is a common Filipino-English error; the standard preposition is 'in'.",
+  "whyC": "'At' goes with words like 'good at', not 'interested'.",
+  "whyD": "'For' goes with words like 'eager for', not 'interested'.",
+  "explanationTl": "Laging 'in' ang kasunod ng 'interested': 'interested in learning French'. Common mistake natin ang 'interested on'.",
+  "hintTl": "Isipin mo kung anong preposition ang laging kasama ng 'interested'."
+ },
+ "402742710": {
+  "text": "Arrange the sentences in logical order: (1) She dropped the envelope into the mailbox. (2) She folded the finished letter and sealed it inside an envelope. (3) She wrote a long letter to her lola in Iloilo. (4) She wrote the address on the sealed envelope and stuck on a stamp.",
+  "optionA": "3-4-2-1",
+  "optionB": "2-3-4-1",
+  "optionC": "3-2-4-1",
+  "optionD": "3-2-1-4",
+  "correctAnswer": "C",
+  "explanation": "She must first write the letter (3), then seal it in an envelope (2), then address and stamp the sealed envelope (4), and finally mail it (1).",
+  "steps": "1. The letter must exist before anything else: (3) comes first.\n2. 'The finished letter' is sealed in an envelope: (2) follows (3).\n3. (4) refers to 'the sealed envelope', so it comes after (2).\n4. Mailing is the last act: (1).\n5. Order: 3-2-4-1.",
+  "hint": "Look for words like 'finished' and 'sealed' that point back to an earlier step.",
+  "whyA": "Puts addressing the 'sealed envelope' (4) before the envelope is sealed (2).",
+  "whyB": "Seals the 'finished letter' (2) before the letter has been written (3).",
+  "whyD": "Mails the envelope (1) before it has an address and stamp (4).",
+  "explanationTl": "Una, isusulat muna ang letter (3), tapos ise-seal sa envelope (2), saka lalagyan ng address at stamp ang sealed envelope (4), at huli, ihuhulog sa mailbox (1).",
+  "stepsTl": "1. Kailangan munang may sulat bago lahat: (3) ang una.\n2. Yung 'finished letter' ang ise-seal sa envelope: (2) pagkatapos ng (3).\n3. Sinabi sa (4) na 'sealed envelope' na, kaya after (2) siya.\n4. Huli ang pag-mail: (1).\n5. Order: 3-2-4-1.",
+  "hintTl": "Hanapin mo yung mga salitang 'finished' at 'sealed', tinuturo nila kung ano ang naunang nangyari."
+ },
+ "218706530": {
+  "difficulty": 1,
+  "explanation": "'Diligent' describes someone who works carefully and steadily, so its synonym is 'hardworking'.",
+  "hint": "Picture an employee who never slacks off.",
+  "whyA": "'Lazy' is the opposite of diligent.",
+  "whyC": "'Careless' is the opposite; a diligent person is careful.",
+  "whyD": "'Idle' means not working, the opposite of diligent.",
+  "explanationTl": "Ang 'diligent' ay masipag at maingat sa trabaho, kaya ang synonym niya ay 'hardworking'.",
+  "hintTl": "Isipin mo yung empleyadong hindi kailanman nagpapabaya sa trabaho."
+ },
+ "277748706": {
+  "explanation": "A 'cavalier' attitude shows a careless lack of proper concern, so 'dismissive' is the closest meaning.",
+  "hint": "Think of someone who brushes off a serious matter with a shrug.",
+  "whyA": "'Serious' is the opposite; a cavalier person treats things too lightly.",
+  "whyC": "'Concerned' is the opposite of the offhand attitude cavalier describes.",
+  "whyD": "'Attentive' means paying close attention, which a cavalier person does not.",
+  "explanationTl": "Kapag 'cavalier' ang attitude, parang wala siyang pakialam o binabalewala lang niya ang mga bagay, kaya 'dismissive' ang pinakamalapit.",
+  "hintTl": "Isipin mo yung taong kibit-balikat lang kahit seryoso ang usapan."
+ },
+ "297258727": {
+  "difficulty": 1,
+  "explanation": "'Plausible' means reasonable and likely to be true, so 'believable' is the closest meaning.",
+  "hint": "Would people accept this idea as possibly true?",
+  "whyA": "'Unbelievable' is the opposite of plausible.",
+  "whyC": "'Absurd' means clearly unreasonable, the opposite of plausible.",
+  "whyD": "'Ridiculous' means laughably unreasonable, the opposite of plausible.",
+  "explanationTl": "Ang 'plausible' ay kapani-paniwala o posibleng totoo, kaya 'believable' ang sagot.",
+  "hintTl": "Tanungin mo sarili mo: matatanggap ba ng tao na posibleng totoo ang idea na ito?"
+ },
+ "358450392": {
+  "optionA": "moderation",
+  "explanation": "'Abstinence' is the deliberate act of refraining from something, so 'avoidance' is the closest meaning. 'Complete' abstinence means staying away from social media entirely.",
+  "hint": "The word 'complete' tells you this is about staying away entirely, by choice.",
+  "whyA": "'Moderation' means using something in limited amounts, not refraining from it completely.",
+  "whyC": "'Sickness' confuses the word with the depression being treated.",
+  "whyD": "'Prescription' is what a doctor orders; it does not mean refraining from something.",
+  "explanationTl": "Ang 'abstinence' ay sadyang pag-iwas o hindi paggamit ng isang bagay, kaya 'avoidance' ang sagot. 'Complete abstinence' ibig sabihin totally walang social media.",
+  "hintTl": "Yung salitang 'complete' ang clue: buong-buo kang lalayo, at sinasadya mo ito."
+ },
+ "806934615": {
+  "explanation": "'Propensity' means a natural inclination or tendency toward something, so she naturally leans toward music.",
+  "hint": "Is she drawn toward music or away from it?",
+  "whyA": "'Dislike' is the opposite of a natural pull toward something.",
+  "whyC": "'Fear' has nothing to do with being naturally inclined to something.",
+  "whyD": "'Aversion' means strong dislike, the opposite of propensity.",
+  "explanationTl": "Ang 'propensity' ay natural na hilig o tendency, kaya ibig sabihin, likas siyang mahilig sa music.",
+  "hintTl": "Naaakit ba siya sa music o umiiwas siya rito?"
+ },
+ "840852189": {
+  "optionD": "Deadline",
+  "difficulty": 1,
+  "explanation": "In 'We have a date tonight', 'date' means a planned social or romantic meeting between two people.",
+  "hint": "Think about what two people 'have' together on an evening out.",
+  "whyA": "'Fruit' is a real meaning of date, but it does not fit 'have a date tonight'.",
+  "whyC": "A calendar day is not something you 'have' tonight; tonight is already a time.",
+  "whyD": "A deadline is a time limit for work, not an evening appointment between people.",
+  "explanationTl": "Sa 'We have a date tonight', ang 'date' ay planned na lakad o romantic na pagkikita ng dalawang tao.",
+  "hintTl": "Isipin mo kung ano ang 'meron' ang dalawang tao kapag lalabas sila ngayong gabi."
+ },
+ "849748625": {
+  "explanation": "'Demure' describes someone reserved, quiet and modest in manner, so 'modest' is the closest meaning.",
+  "hint": "Picture a quiet, shy person who avoids drawing attention.",
+  "whyA": "'Bold' is the opposite of demure.",
+  "whyC": "'Brash' means loud and pushy, the opposite of demure.",
+  "whyD": "'Outspoken' means speaking out freely, the opposite of reserved.",
+  "explanationTl": "Ang 'demure' ay mahinhin, tahimik, at hindi pabida, kaya 'modest' ang sagot.",
+  "hintTl": "Isipin mo yung tahimik at mahiyaing tao na ayaw mapansin."
+ },
+ "857551967": {
+  "explanation": "'Regressed' means went back to a worse or less developed state. Her health is declining, so 'deteriorated' fits.",
+  "hint": "The sentence says she may die soon; is her health getting better or worse?",
+  "whyA": "'Remembered' confuses the word with recalling the past.",
+  "whyB": "'Alluded' means referred to indirectly, unrelated to health.",
+  "whyD": "'Progressed' means moved forward or improved, the opposite of regressed.",
+  "explanationTl": "Ang 'regressed' ay bumalik sa mas malalang kalagayan. Humihina ang health ni Lola, kaya 'deteriorated' ang tama.",
+  "hintTl": "Sabi sa sentence baka mamatay na siya anytime. Gumaganda ba o lumalala ang health niya?"
+ },
+ "953434823": {
+  "difficulty": 1,
+  "explanation": "'Benevolent' means well-meaning and kindly, so its closest synonym is 'kind'.",
+  "hint": "Think of someone who loves to help others.",
+  "whyA": "'Harsh' is the opposite of benevolent.",
+  "whyC": "'Distant' means aloof, which is not the warmth benevolent describes.",
+  "whyD": "'Cautious' means careful, unrelated to goodwill.",
+  "explanationTl": "Ang 'benevolent' ay mabait at may mabuting loob sa kapwa, kaya 'kind' ang sagot.",
+  "hintTl": "Isipin mo yung taong mahilig tumulong sa iba."
+ },
+ "975653059": {
+  "optionA": "Flying mammal",
+  "optionB": "Club used to hit a ball",
+  "optionC": "To blink the eyes",
+  "optionD": "A player's turn in a game",
+  "difficulty": 1,
+  "explanation": "In 'He hit the ball with a bat', 'bat' is the object he used to hit the ball: a club used in sports like baseball.",
+  "hint": "'With a ...' tells you it is something held in the hand.",
+  "whyA": "A flying mammal is another meaning of bat, but you cannot hit a ball with one.",
+  "whyC": "'To blink' is a verb meaning; here 'bat' is a noun used as a tool.",
+  "whyD": "A turn ('at bat') is not something you hit a ball with.",
+  "explanationTl": "Sa 'He hit the ball with a bat', ang 'bat' ay yung ginamit niya para tamaan ang bola, yung club sa baseball.",
+  "hintTl": "Yung 'with a ...' ang clue: bagay ito na hawak sa kamay."
+ },
+ "1381718224": {
+  "explanation": "'Beset' means surrounded or troubled on all sides, so a path beset by peril is surrounded by danger.",
+  "hint": "Imagine dangers on every side of the path.",
+  "whyA": "'Bested' only sounds like beset; it means defeated.",
+  "whyB": "'Frightened' is a feeling of the person, not what danger does to a path.",
+  "whyD": "'Chased' means pursued from behind, not hemmed in on all sides.",
+  "explanationTl": "Ang 'beset' ay napapaligiran o pinalilibutan ng problema o panganib, kaya 'surrounded' ang sagot.",
+  "hintTl": "Isipin mo na may panganib sa lahat ng gilid ng daan."
+ },
+ "1502510258": {
+  "explanation": "A 'rendezvous' is a place where people agree to meet, so the cafe is a favorite meeting place of the titas.",
+  "hint": "What do the titas do when they all go to the same cafe?",
+  "whyA": "A rendezvous need not be hidden; this cafe is a popular public spot.",
+  "whyB": "'Hiding place' adds secrecy that the word does not require here.",
+  "whyD": "'Dining room' is a room in a house, not a place where friends agree to meet.",
+  "explanationTl": "Ang 'rendezvous' ay lugar na pinagkikitaan ng mga tao, kaya ang cafe ay favorite meeting place ng mga tita.",
+  "hintTl": "Ano ba ang ginagawa ng mga tita kapag sabay-sabay silang pumupunta sa iisang cafe?"
+ },
+ "1561963653": {
+  "difficulty": 1,
+  "explanation": "'Vivacious' means attractively full of life and spirit, so its synonym is 'lively'.",
+  "hint": "Think of the life of the party.",
+  "whyA": "'Dull' is the opposite of vivacious.",
+  "whyC": "'Boring' is the opposite of a lively, spirited person.",
+  "whyD": "'Lethargic' means sluggish and low on energy, the opposite.",
+  "explanationTl": "Ang 'vivacious' ay masigla at puno ng buhay, kaya 'lively' ang synonym.",
+  "hintTl": "Isipin mo yung 'life of the party' sa isang handaan."
+ },
+ "1632983908": {
+  "explanation": "'Loquacious' means tending to talk a great deal, so the closest meaning is 'talkative'.",
+  "hint": "The root 'loqu-' relates to speaking.",
+  "whyA": "'Taciturn' means saying very little, the opposite.",
+  "whyC": "'Quiet' is the opposite of loquacious.",
+  "whyD": "'Reserved' means holding back, the opposite of a chatty person.",
+  "explanationTl": "Ang 'loquacious' ay madaldal o sobrang dami magsalita, kaya 'talkative' ang sagot.",
+  "hintTl": "Ang root na 'loqu-' ay may kinalaman sa pagsasalita."
+ },
+ "1871424407": {
+  "text": "The garrulous taxi driver annoyed most of his passengers, especially the introverted ones.\n\nIn this sentence, 'garrulous' most nearly means:",
+  "explanation": "'Garrulous' means excessively talkative, which is why he annoyed introverted passengers who prefer quiet.",
+  "hint": "Why would introverts in particular be annoyed by a driver?",
+  "whyB": "'Gracious' only sounds similar; a gracious driver would not annoy passengers.",
+  "whyC": "'Sickly' has nothing to do with annoying passengers.",
+  "whyD": "'Grey' is a sound-alike trap and does not explain why introverts were annoyed.",
+  "explanationTl": "Ang 'garrulous' ay sobrang daldal, kaya nainis ang mga introvert na pasahero na gusto ng tahimik.",
+  "hintTl": "Bakit kaya lalo na ang mga introvert ang nainis sa driver?"
+ },
+ "1942322852": {
+  "text": "The soldier was court-martialed because he chose to desert his unit in the middle of the battle.\n\nIn this sentence, 'desert' most nearly means:",
+  "optionA": "guard",
+  "optionB": "lead",
+  "optionC": "dry up",
+  "optionD": "abandon",
+  "correctAnswer": "D",
+  "explanation": "Used as a verb, 'desert' means to leave someone or something behind when you have a duty to stay. The soldier was punished for abandoning his unit.",
+  "hint": "Why would a soldier be punished for what he did to his unit during battle?",
+  "whyA": "Guarding his unit is a duty he would not be court-martialed for.",
+  "whyB": "Leading his unit would not be a punishable act.",
+  "whyC": "'Dry up' comes from the noun 'desert' (arid land), which does not fit a verb about a soldier.",
+  "explanationTl": "Bilang verb, ang 'desert' ay ang pag-iwan sa isang tao o grupo kahit may obligasyon kang manatili. Pinarusahan ang sundalo kasi iniwan niya ang unit niya.",
+  "hintTl": "Bakit kaya paparusahan ang sundalo dahil sa ginawa niya sa unit niya habang may labanan?"
  }
 }

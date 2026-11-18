@@ -1,4 +1,4 @@
-# Review of original questions (801 reviewed)
+# Review of original questions (901 reviewed)
 
 | round | unchanged | minor edit | key fixed | rewritten | flagged |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | r6 | 31 | 37 | 5 | 27 | 0 |
 | r7 | 23 | 45 | 2 | 30 | 0 |
 | r8 | 16 | 61 | 1 | 22 | 0 |
+| r9 | 25 | 65 | 1 | 9 | 0 |
 
 | round | id | subject | verdict | why |
 |---|---|---|---|---|
@@ -814,3 +815,103 @@
 | r8 | 1814613962 | Verbal Ability | unchanged | Key correct ('is' not offered, 'is being' unidiomatic); teaching fields added. |
 | r8 | 161155379 | Verbal Ability | unchanged | Key correct; teaching fields added. |
 | r8 | 434904680 | Verbal Ability | unchanged | Key correct; teaching fields added. |
+| r9 | 205637847 | General Information | rewritten | Options 'Up to 250 or more'/'200 fixed' were muddled and explanation wrongly said party-list adds seats beyond 250; rewritten to the exact Art. VI Sec. 5(1) cap. |
+| r9 | 1015392083 | Numerical Ability | rewritten | all four options equalled 1 (1, 12/12, 7/7, 1/1); new product item with one answer |
+| r9 | 1161601848 | Numerical Ability | rewritten | near-duplicate of 58950500 (plane, same answer 200 and options); new arrival-time item |
+| r9 | 1394905072 | Numerical Ability | rewritten | exact duplicate of 465554006; rewritten as a cubes-plus-one series (plain cubes 1, 8, 27, 64 already in bank) |
+| r9 | 1073181394 | Numerical Ability | rewritten | trivia ('Number of continents?'), not math; new change-making word problem |
+| r9 | 2057559314 | Numerical Ability | rewritten | near-duplicate of 1560003315/2060097319 (same 5-5-5 trick); new real work-rate item |
+| r9 | 2060097319 | Numerical Ability | rewritten | near-duplicate of 1560003315 (same 5-5-5 trick); new real work-rate item |
+| r9 | 402742710 | Verbal Ability | rewritten | Original was ambiguous: stamping before or after sealing are both valid, so 4-3-2-1 (key) and 4-2-3-1 were both defensible. Rewrote with clear sequence cues. |
+| r9 | 1942322852 | Verbal Ability | rewritten | Banned 'Both A and B' / 'None' option set; rewrote as a context item on the verb 'desert'. |
+| r9 | 1572732000 | Analytical Ability | key fixed | Keyed 44 via n^2+3n+4, which gives 14 for n=2; correct rule n^2+4n-3 (gaps 9, 11, 13) gives 42 = A. |
+| r9 | 462985586 | Analytical Ability | minor edit | Key 34 correct, but explanation formula n^2+n+4 fails (gives 10 for n=2); fixed to n^2+2n-1. |
+| r9 | 965276504 | Analytical Ability | minor edit | Key correct; stem reworded naturally and units (°C) added; difficulty lowered to 1. |
+| r9 | 1120264301 | General Information | minor edit | Key correct; explanation clarified that Abuja replaced Lagos as capital in 1991. |
+| r9 | 2039204713 | General Information | minor edit | Key correct; explanation now notes the mango is traditionally recognized, not declared by law. |
+| r9 | 30964422 | Numerical Ability | minor edit | key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added |
+| r9 | 80115330 | Numerical Ability | minor edit | key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added |
+| r9 | 269539567 | Numerical Ability | minor edit | key OK; steps tidied, hint fitted, difficulty 1, Taglish added |
+| r9 | 399223859 | Numerical Ability | minor edit | key OK; explanation fuller, difficulty 1, Taglish added |
+| r9 | 401138244 | Numerical Ability | minor edit | key OK; lost × in explanation ('72 = 14'), steps/hint/whys/Taglish added |
+| r9 | 1541189285 | Numerical Ability | minor edit | key OK; steps tidied, whys specific, difficulty 1, Taglish added |
+| r9 | 1552137391 | Numerical Ability | minor edit | key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added |
+| r9 | 1709508975 | Numerical Ability | minor edit | key OK; hint fitted, difficulty 1, Taglish added |
+| r9 | 1711590104 | Numerical Ability | minor edit | key OK; ×/÷ and spacing in stem, difficulty 1, whys and Taglish added |
+| r9 | 1785779591 | Numerical Ability | minor edit | key OK; explanation fuller, difficulty 1, Taglish added |
+| r9 | 1845148216 | Numerical Ability | minor edit | key OK; steps tidied, whys specific, difficulty 1, Taglish added |
+| r9 | 3630601 | Numerical Ability | minor edit | key OK; whys made specific, difficulty 1, Taglish added |
+| r9 | 24143042 | Numerical Ability | minor edit | key OK; lost × in stem/explanation ('(18)/(42)'), steps didn't match stem, whys/Taglish fixed |
+| r9 | 869811056 | Numerical Ability | minor edit | key OK; whys made specific, difficulty 1, Taglish added |
+| r9 | 1148606973 | Numerical Ability | minor edit | key OK; whys made specific, difficulty 1, Taglish added |
+| r9 | 1752561608 | Numerical Ability | minor edit | key OK; whys specific, Taglish hint fitted, difficulty 1 |
+| r9 | 2036006001 | Numerical Ability | minor edit | key OK; steps tidied, whys specific, difficulty 1, Taglish added |
+| r9 | 2134528283 | Numerical Ability | minor edit | option D '3/3' also equalled 1 (second answer); replaced with 3/6 |
+| r9 | 444838310 | Numerical Ability | minor edit | key OK; explanation adds 1/8 shortcut, whyD specific, difficulty 1, Taglish |
+| r9 | 607748819 | Numerical Ability | minor edit | key OK; difficulty 1, Taglish added |
+| r9 | 636091509 | Numerical Ability | minor edit | key OK; whys specific, difficulty 1, Taglish added |
+| r9 | 944048397 | Numerical Ability | minor edit | key OK; stem clarified, ₱ units on options, whys specific, Taglish |
+| r9 | 1256121476 | Numerical Ability | minor edit | key OK; stem clarified, ₱ units on options, whys specific, Taglish |
+| r9 | 58950500 | Numerical Ability | minor edit | key OK; stem clarified, whys specific, difficulty 1, Taglish |
+| r9 | 557427307 | Numerical Ability | minor edit | key OK; stem clarified, steps/hint/whys/Taglish added |
+| r9 | 1512852403 | Numerical Ability | minor edit | key OK; stem tidied, whys specific, difficulty 1, Taglish |
+| r9 | 1574272955 | Numerical Ability | minor edit | key OK; steps used rounded 0.6667 h, now exact 2/3 h; whys/Taglish added |
+| r9 | 93140923 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 99115311 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 208871148 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 230155382 | Numerical Ability | minor edit | key OK; lost × in explanation ('57 = 35'), whys/Taglish added |
+| r9 | 288502493 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 465554006 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 477662742 | Numerical Ability | minor edit | key OK; lost × in explanation ('1924 = 768'), whys/Taglish added |
+| r9 | 900470789 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 1058068768 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 1076032827 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 1147458080 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 1276097534 | Numerical Ability | minor edit | key OK; steps/hint/whys/Taglish added, difficulty 1 |
+| r9 | 1286839637 | Numerical Ability | minor edit | key OK; stem had no question, steps said '× 0.3333' (now ÷ 3), whys/Taglish added |
+| r9 | 1826184778 | Numerical Ability | minor edit | key OK; steps/hint/whys/Taglish added, difficulty 1 |
+| r9 | 1874968719 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 1940139030 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 1966001898 | Numerical Ability | minor edit | key OK; difficulty 1, whys and Taglish added |
+| r9 | 1973072366 | Numerical Ability | minor edit | key OK; stepsTl said 'dagdag (-10)', whys/Taglish added |
+| r9 | 1981300329 | Numerical Ability | minor edit | key OK; lost × in explanation ('512 = 60'), whys/Taglish added |
+| r9 | 712363549 | Numerical Ability | minor edit | key OK; explanation clearer, whys added, difficulty 1, Taglish |
+| r9 | 822405742 | Numerical Ability | minor edit | key OK; explanation clearer, whys added, difficulty 1, Taglish |
+| r9 | 1073969172 | Numerical Ability | minor edit | key OK; explanation clearer, whys added, difficulty 1, Taglish |
+| r9 | 1397387693 | Numerical Ability | minor edit | key OK; explanation clearer, whys added, difficulty 1, Taglish |
+| r9 | 1560003315 | Numerical Ability | minor edit | key OK; explanation clearer, whys added, difficulty 1, Taglish |
+| r9 | 44855011 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; added teaching fields. |
+| r9 | 861962027 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; added teaching fields. |
+| r9 | 218706530 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; added teaching fields. |
+| r9 | 297258727 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; added teaching fields. |
+| r9 | 358450392 | Verbal Ability | minor edit | Key correct; replaced distractor 'absence' (too close to a second answer) with 'moderation'; added teaching fields. |
+| r9 | 840852189 | Verbal Ability | minor edit | Key correct; replaced silly distractor 'Tree' with 'Deadline'; easy item set to difficulty 1; added teaching fields. |
+| r9 | 953434823 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; added teaching fields. |
+| r9 | 975653059 | Verbal Ability | minor edit | Key correct; banned 'None' option replaced and options made parallel; easy item set to difficulty 1; added teaching fields. |
+| r9 | 1561963653 | Verbal Ability | minor edit | Key correct; easy item set to difficulty 1; added teaching fields. |
+| r9 | 1871424407 | Verbal Ability | minor edit | Key correct; added missing comma before 'especially'; added teaching fields. |
+| r9 | 336675233 | Analytical Ability | unchanged | Key correct (tool : function); added teaching fields. |
+| r9 | 1044464886 | Analytical Ability | unchanged | Key correct (object : activity it is used for); added teaching fields. |
+| r9 | 1241605545 | Analytical Ability | unchanged | Key correct (quantity : SI unit); added teaching fields. |
+| r9 | 1550681737 | Analytical Ability | unchanged | Key correct (instrument : what it measures); added teaching fields. |
+| r9 | 1902616705 | Analytical Ability | unchanged | Key correct (tool : medium it applies); added teaching fields. |
+| r9 | 700928295 | Analytical Ability | unchanged | Key correct (gaps +4,+5,+6,+7); added whyX and explanationTl. |
+| r9 | 1574729397 | Analytical Ability | unchanged | Key correct (gaps +4,+5,+6,+7); added whyX and explanationTl. |
+| r9 | 202822796 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 448580032 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 493965148 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 769290179 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 1008708217 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 1180020210 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 1613457749 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 1662213605 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 1694779328 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 1712132286 | General Information | unchanged | Correct; added teaching fields. |
+| r9 | 453917633 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r9 | 277748706 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r9 | 806934615 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r9 | 849748625 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r9 | 857551967 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r9 | 1381718224 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r9 | 1502510258 | Verbal Ability | unchanged | Key correct; added teaching fields. |
+| r9 | 1632983908 | Verbal Ability | unchanged | Key correct; added teaching fields. |
