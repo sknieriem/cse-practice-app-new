@@ -54,6 +54,7 @@ object Encourage {
         correct: Int
     ): List<String> {
         val out = mutableListOf<String>()
+        val praised = mutableSetOf<String>()
         // improvement on a topic vs. their own past
         topics.filter { it.sessionTotal >= 3 && it.priorAnswered >= 3 }
             .map { it to (it.sessionCorrect.toDouble() / it.sessionTotal - it.priorCorrect.toDouble() / it.priorAnswered) }
@@ -61,13 +62,14 @@ object Encourage {
             .sortedByDescending { it.second }
             .take(2)
             .forEach { (d, _) ->
+                praised += d.topicName
                 val before = d.priorCorrect * 100 / d.priorAnswered
                 out += t(lang,
                     "${d.topicName}: ${d.sessionCorrect} of ${d.sessionTotal} right — up from $before% before 📈",
                     "${d.topicName}: ${d.sessionCorrect}/${d.sessionTotal} tama — mula $before% dati 📈")
             }
         // perfect topic within the session
-        if (out.size < 2) topics.filter { it.sessionTotal >= 3 && it.sessionCorrect == it.sessionTotal }
+        if (out.size < 2) topics.filter { it.sessionTotal >= 3 && it.sessionCorrect == it.sessionTotal && it.topicName !in praised }
             .take(1).forEach {
                 out += t(lang, "All ${it.sessionTotal} ${it.topicName} questions right! ⭐", "Lahat ng ${it.sessionTotal} sa ${it.topicName}, tama! ⭐")
             }
@@ -122,6 +124,10 @@ object Encourage {
 
     fun readinessLine(lang: String, r: Planner.Readiness, subjectShort: (String) -> String): String {
         val weak = r.weakestSubject?.let { subjectShort(it) }
+        val missing = Planner.CATEGORIES.filter { (r.bySubject[it] ?: -1) < 0 }.map(subjectShort)
+        if (missing.isNotEmpty()) return t(lang,
+            "You're at ${r.overall}%. Passing is ${Planner.PASS_MARK}%. Try ${missing.joinToString(", ")} to see your full exam estimate.",
+            "Nasa ${r.overall}% ka. Ang pasado ay ${Planner.PASS_MARK}%. Subukan ang ${missing.joinToString(", ")} para makita ang buong estimate mo.")
         return if (r.overall >= Planner.PASS_MARK) t(lang,
             "You're at ${r.overall}%. Passing is ${Planner.PASS_MARK}%. You're there — keep it steady!",
             "Nasa ${r.overall}% ka. Ang pasado ay ${Planner.PASS_MARK}%. Pasok ka na — tuloy lang!")

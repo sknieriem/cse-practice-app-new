@@ -79,7 +79,7 @@ data class QuizState(
             val opts = q.options()
             // "Both A and B" refers to letters: shuffling would make it point at the wrong options
             if (opts.any { Regex("\\b[A-D] (and|or) [A-D]\\b").containsMatchIn(it) }) return listOf(0, 1, 2, 3)
-            val pinned = Regex("(?i)^(all of the above|none of the above|both|both a and b|none|cannot (be )?determined?|no implication\\.?)$")
+            val pinned = Regex("(?i)^(all of the above|none of the above|both|both a and b|none|cannot (be )?determined?|no implication\\.?|no error\\.?)$")
             val fixed = (0..3).filter { pinned.matches(opts[it].trim()) }
             val free = (0..3).filter { it !in fixed }.shuffled()
             return free + fixed

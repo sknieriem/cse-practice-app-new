@@ -2,6 +2,7 @@ package com.pjcinc.csepractice.repository
 
 import android.content.Context
 import android.util.Log
+import androidx.room.withTransaction
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.pjcinc.csepractice.data.AppDatabase
@@ -33,7 +34,8 @@ import java.util.UUID
 /** Owns content seeding, session building, and scoring. Everything works offline. */
 class QuestionRepository(private val context: Context) {
 
-    val dao = AppDatabase.getDatabase(context).questionDao()
+    private val db = AppDatabase.getDatabase(context)
+    val dao = db.questionDao()
     val prefs = Prefs(context)
     private val gson = Gson()
 
@@ -163,71 +165,77 @@ class QuestionRepository(private val context: Context) {
         val readinessBefore = Planner.estimate(priorProgress)
         val priorBest = dao.bestScore()
 
-        dao.insertAttempts(items.mapIndexed { i, it ->
-            Attempt(
-                questionId = it.question.id,
-                category = it.question.category,
-                subtopic = it.question.subtopic,
-                chosen = it.chosen,
-                correct = it.isCorrect,
-                usedHint = state.hinted[i],
-                timeMs = state.timeMs[i],
-                mode = state.mode.name,
-                day = today
-            )
-        })
-
-        // Spaced repetition (Leitner): wrong -> box 1 tomorrow; right -> next box, longer gap.
-        var reviewsFixed = 0
-        for (it in items) {
-            if (it.chosen < 0) continue
-            val card = dao.getCard(it.question.id)
-            if (!it.isCorrect) {
-                dao.upsertCard(ReviewCard(it.question.id, 1, today + 1))
-            } else if (card != null && card.box < 5) {
-                val box = card.box + 1
-                dao.upsertCard(ReviewCard(it.question.id, box, if (box >= 5) Long.MAX_VALUE / 2 else Planner.nextReviewDay(today, box)))
-                if (it.question.id in state.reviewIds) reviewsFixed++
-            }
-        }
-
         val correct = items.count { it.isCorrect }
         val total = items.size
         val perCat = items.groupBy { it.question.category }
             .map { (c, xs) -> CategoryScore(c, xs.count { it.isCorrect }, xs.size) }
             .sortedBy { Planner.CATEGORIES.indexOf(it.category) }
-
-        val allCats = dao.categoryStatsNow().associate { it.category to (it.n to it.correct) }
         val old = prefs.current()
-        val reward = Game.reward(
-            old, Game.SessionFacts(
-                mode = state.mode,
-                total = total,
-                correct = correct,
-                correctWithHint = items.indices.count { items[it].isCorrect && state.hinted[it] },
-                wrong = items.count { it.chosen >= 0 && !it.isCorrect },
-                reviewsFixed = reviewsFixed,
-                today = today,
-                hourOfDay = LocalTime.now().hour,
-                totalAnsweredAllTime = dao.answeredCountNow(),
-                categoryTotals = allCats
-            )
-        )
-        prefs.saveGame(reward.newState)
+        var reviewsFixed = 0
 
-        val sessionId = dao.insertSession(
-            PracticeSession(
-                score = if (total == 0) 0 else correct * 100 / total,
-                correctCount = correct,
-                totalQuestions = total,
-                categories = perCat.joinToString(",") { it.category },
-                timeTaken = state.elapsedMs,
-                mode = state.mode.name,
-                xpEarned = reward.xpGained
+        // All Room writes in ONE transaction: a process kill mid-save leaves either everything or nothing.
+        val reward = db.withTransaction {
+            dao.insertAttempts(items.mapIndexed { i, it ->
+                Attempt(
+                    questionId = it.question.id,
+                    category = it.question.category,
+                    subtopic = it.question.subtopic,
+                    chosen = it.chosen,
+                    correct = it.isCorrect,
+                    usedHint = state.hinted[i],
+                    timeMs = state.timeMs[i],
+                    mode = state.mode.name,
+                    day = today
+                )
+            })
+
+            // Spaced repetition (Leitner): wrong -> box 1 tomorrow; right -> next box, longer gap.
+            // A card only moves up when it is due, so retrying a miss the same day can't skip the schedule.
+            // In exam mode an unanswered question counts as wrong, the same as on the real exam.
+            for (it in items) {
+                if (it.chosen < 0 && !state.mode.isExam) continue
+                val card = dao.getCard(it.question.id)
+                if (!it.isCorrect) {
+                    dao.upsertCard(ReviewCard(it.question.id, 1, today + 1))
+                } else if (card != null && card.box < 5 && card.dueDay <= today) {
+                    val box = card.box + 1
+                    dao.upsertCard(ReviewCard(it.question.id, box, if (box >= 5) Long.MAX_VALUE / 2 else Planner.nextReviewDay(today, box)))
+                    if (it.question.id in state.reviewIds) reviewsFixed++
+                }
+            }
+
+            val allCats = dao.categoryStatsNow().associate { it.category to (it.n to it.correct) }
+            val r = Game.reward(
+                old, Game.SessionFacts(
+                    mode = state.mode,
+                    total = total,
+                    correct = correct,
+                    correctWithHint = items.indices.count { items[it].isCorrect && state.hinted[it] },
+                    wrong = items.count { it.chosen >= 0 && !it.isCorrect },
+                    reviewsFixed = reviewsFixed,
+                    today = today,
+                    hourOfDay = LocalTime.now().hour,
+                    totalAnsweredAllTime = dao.answeredCountNow(),
+                    categoryTotals = allCats
+                )
             )
-        ).toInt()
-        dao.insertCategoryResults(perCat.map { SessionCategoryResult(0, sessionId, it.category, it.correct, it.total) })
-        prefs.setActiveQuiz(null)
+            val sessionId = dao.insertSession(
+                PracticeSession(
+                    score = if (total == 0) 0 else correct * 100 / total,
+                    correctCount = correct,
+                    totalQuestions = total,
+                    categories = perCat.joinToString(",") { it.category },
+                    timeTaken = state.elapsedMs,
+                    mode = state.mode.name,
+                    xpEarned = r.xpGained
+                )
+            ).toInt()
+            dao.insertCategoryResults(perCat.map { SessionCategoryResult(0, sessionId, it.category, it.correct, it.total) })
+            r
+        }
+        // Right after the Room commit: save XP/streak and clear the saved session in ONE DataStore write,
+        // so the session can't be submitted (and scored) twice and its XP can't be lost.
+        prefs.saveGame(reward.newState, clearActiveQuiz = true)
 
         // ---- encouragement: computed only from what actually happened ----
         val lang = old.language
@@ -317,7 +325,7 @@ class QuestionRepository(private val context: Context) {
         private const val QUESTIONS_ASSET = "questions.json"
         private const val TOPICS_ASSET = "topics.json"
         /** Bump when shipping a new questions.json so installed apps re-seed. */
-        const val QUESTIONS_VERSION = 8
+        const val QUESTIONS_VERSION = 9
         /** Exam mode allows about one minute per item. */
         const val EXAM_SECONDS_PER_ITEM = 60
     }

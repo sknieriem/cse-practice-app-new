@@ -61,8 +61,8 @@ object Game {
         Badge("master_verb", "📖", "Verbal Master", "80%+ on 50+ Verbal answers"),
         Badge("master_ana", "🧩", "Analytical Master", "80%+ on 50+ Analytical answers"),
         Badge("master_gi", "🏛️", "Gen Info Master", "80%+ on 50+ General Information answers"),
-        Badge("night_owl", "🦉", "Night Owl", "Finish a session after 10 PM"),
-        Badge("early_bird", "🐓", "Early Bird", "Finish a session before 7 AM")
+        Badge("night_owl", "🦉", "Night Owl", "Finish a session between 10 PM and 4 AM"),
+        Badge("early_bird", "🐓", "Early Bird", "Finish a session between 4 and 7 AM")
     )
 
     fun badge(id: String) = BADGES.firstOrNull { it.id == id }
@@ -111,7 +111,8 @@ object Game {
         var freezesUsed = 0
         var freezeEarned = false
         var restarted = false
-        if (old.lastActiveDay != f.today) {
+        // A phone clock set backward (time zone, manual fix) must never touch the streak.
+        if (old.lastActiveDay < 0 || f.today > old.lastActiveDay) {
             val missed = if (old.lastActiveDay < 0) -1L else f.today - old.lastActiveDay - 1
             streak = when {
                 missed < 0 -> 1
@@ -163,7 +164,7 @@ object Game {
         if (mastered("Verbal Ability")) earned += "master_verb"
         if (mastered("Analytical Ability")) earned += "master_ana"
         if (mastered("General Information")) earned += "master_gi"
-        if (f.hourOfDay >= 22) earned += "night_owl"
+        if (f.hourOfDay >= 22 || f.hourOfDay < 4) earned += "night_owl"
         if (f.hourOfDay in 4..6) earned += "early_bird"
 
         val newBadgeIds = earned - old.badges
@@ -172,7 +173,7 @@ object Game {
             xp = newXp,
             streak = streak,
             bestStreak = maxOf(old.bestStreak, streak),
-            lastActiveDay = f.today,
+            lastActiveDay = maxOf(old.lastActiveDay, f.today),
             badges = old.badges + newBadgeIds,
             dailyDoneDay = dailyDone,
             dailyCount = dailyCount,
@@ -203,5 +204,5 @@ object Game {
     }
 
     /** Days since last practice (0 = practised today, -1 = never). */
-    fun daysAway(s: UserState, today: Long): Long = if (s.lastActiveDay < 0) -1 else today - s.lastActiveDay
+    fun daysAway(s: UserState, today: Long): Long = if (s.lastActiveDay < 0) -1 else (today - s.lastActiveDay).coerceAtLeast(0)
 }

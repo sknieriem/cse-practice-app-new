@@ -1,6 +1,8 @@
 package com.pjcinc.csepractice.ui.share
 
 import android.content.Context
+import android.content.ClipData
+import android.net.Uri
 import android.content.Intent
 import android.graphics.Bitmap
 import android.graphics.Canvas
@@ -320,16 +322,26 @@ object ShareCards {
         return f
     }
 
-    /** Opens the Android share sheet with the card image. */
-    fun share(context: Context, card: Card, name: String, format: Format = Format.SQUARE) {
+    /** Draws the card and writes it to cache/shared/. Slow (big bitmap + PNG): call off the main thread. */
+    fun prepare(context: Context, card: Card, name: String, format: Format = Format.SQUARE): Uri {
         val tag = if (format == Format.STORY) "${name}_story" else name
-        val file = saveToCache(context, render(card, format), tag)
-        val uri = FileProvider.getUriForFile(context, "${context.packageName}.fileprovider", file)
+        val bmp = render(card, format)
+        val file = try { saveToCache(context, bmp, tag) } finally { bmp.recycle() }
+        return FileProvider.getUriForFile(context, "${context.packageName}.fileprovider", file)
+    }
+
+    /** Opens the Android share sheet for a prepared card. */
+    fun launch(context: Context, uri: Uri) {
         val send = Intent(Intent.ACTION_SEND).apply {
             type = "image/png"
             putExtra(Intent.EXTRA_STREAM, uri)
+            clipData = ClipData.newRawUri("", uri)   // reliable read grant + share-sheet preview thumbnail
             addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION)
         }
         context.startActivity(Intent.createChooser(send, "Share").addFlags(Intent.FLAG_ACTIVITY_NEW_TASK))
     }
+
+    /** Opens the Android share sheet with the card image (draws on the calling thread). */
+    fun share(context: Context, card: Card, name: String, format: Format = Format.SQUARE) =
+        launch(context, prepare(context, card, name, format))
 }
