@@ -243,13 +243,13 @@ fun HomeScreen(vm: AppViewModel) {
                     onClick = { vm.start(QuizMode.REVIEW, 20) }
                 )
             }
-            val weakest = Planner.weakest(progress).firstOrNull { it.answered >= 3 }
+            val weakest = Planner.focusTopics(progress).firstOrNull()
             if (weakest != null) {
                 Spacer(Modifier.height(10.dp))
                 val st = subjectStyle(weakest.topic.category)
                 ActionCard(
                     title = "Focus: ${weakest.topic.name}",
-                    subtitle = "Your weakest topic so far · ${weakest.accuracyPercent}% correct",
+                    subtitle = "Your weakest topic so far · ${weakest.correct} of ${weakest.answered} right (${weakest.accuracyPercent}%)",
                     icon = Icons.Filled.TrackChanges,
                     color = st.color,
                     enabled = !busy,

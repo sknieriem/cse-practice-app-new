@@ -172,7 +172,7 @@ fun ProgressScreen(vm: AppViewModel) {
             }
         }
 
-        val weak = Planner.weakest(progress).filter { it.answered >= 3 }.take(5)
+        val weak = Planner.focusTopics(progress).take(5)
         if (weak.isNotEmpty()) {
             SectionTitle("Focus on these")
             weak.forEach { tp ->

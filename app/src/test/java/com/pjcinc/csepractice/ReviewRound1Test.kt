@@ -68,6 +68,16 @@ class ReviewRound1Test {
         assertFalse(noon.contains("night_owl") || noon.contains("early_bird"))
     }
 
+    @Test fun a_perfect_topic_is_never_called_weakest() {
+        // Steve's phone: vocabulary 100% was shown as "Focus: your weakest topic"
+        val perfect = Planner.topicProgress(topics, sizes, listOf(TopicStat("t1", 3, 3), TopicStat("t0", 10, 9)))
+        assertTrue(Planner.focusTopics(perfect).isEmpty())
+        val mixed = Planner.topicProgress(topics, sizes, listOf(TopicStat("t1", 3, 3), TopicStat("t0", 10, 5), TopicStat("t2", 5, 3)))
+        assertEquals(listOf("t0", "t2"), Planner.focusTopics(mixed).map { it.topic.id })
+        // fewer than 3 answers is not enough to call anything weak
+        assertTrue(Planner.focusTopics(Planner.topicProgress(topics, sizes, listOf(TopicStat("t0", 2, 0)))).isEmpty())
+    }
+
     @Test fun a_topic_is_praised_once_per_session() {
         val p = Encourage.praise("en", listOf(Encourage.TopicDelta("Fractions", 3, 3, 10, 4)),
             streak = 1, streakExtended = false, freezesUsed = 0, weeklyGain = null, total = 10, correct = 8)

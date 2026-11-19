@@ -53,6 +53,14 @@ object Planner {
         }.filter { it.questions > 0 }
     }
 
+    /**
+     * Topics worth a "Focus" suggestion: tried at least [minAnswers] times AND below the pass mark,
+     * weakest first. A topic the user is already passing is never called "weakest", even if it is
+     * their lowest one; when nothing is below the pass mark this is empty and no Focus card shows.
+     */
+    fun focusTopics(progress: List<TopicProgress>, minAnswers: Int = 3): List<TopicProgress> =
+        weakest(progress).filter { it.answered >= minAnswers && it.accuracyPercent < PASS_MARK }
+
     /** Weakest syllabus topics first. Topics never tried rank as "unknown" (skill 0.5). */
     fun weakest(progress: List<TopicProgress>): List<TopicProgress> =
         progress.filter { it.topic.syllabus }.sortedWith(compareBy({ it.skill }, { -it.questions }))
