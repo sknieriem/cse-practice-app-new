@@ -3376,13 +3376,13 @@
   "optionD": "Piano lessons are too expensive for most people",
   "correctAnswer": "A",
   "explanation": "Saying practice is needed to play well only makes sense if piano skill can be improved by practicing. The other choices go beyond the statement or are unrelated to it.",
-  "steps": "1. An assumption is an unstated idea the statement depends on.\n2. The statement links practice to playing well.\n3. That link only holds if practice actually improves piano skill.\n4. B claims a guarantee; C and D bring in ideas the statement never relies on.\n5. So the assumption is A.",
+  "steps": "1. An assumption is an unstated idea the statement depends on.\n2. The statement links practice to playing well.\n3. That link only holds if practice actually improves piano skill.\n4. 'Anyone who practices will become a concert pianist' claims a guarantee; the choices about children and about expensive lessons bring in ideas the statement never relies on.\n5. So the assumption is that piano playing is a skill that improves with practice.",
   "hint": "Look for the unstated idea that must be true for the advice to make sense, not a stronger claim.",
   "whyB": "The statement says practice is needed, not that it guarantees becoming a concert pianist.",
   "whyC": "Nothing in the statement depends on the learner's age.",
   "whyD": "The cost of lessons has nothing to do with the claim about practice.",
   "explanationTl": "Kung sinasabi na kailangan ng practice para gumaling sa piano, ang assumption ay na nag-iimprove talaga ang skill kapag nag-practice. Yung ibang choices, sobra na o walang kinalaman sa statement.",
-  "stepsTl": "1. Ang assumption ay yung hindi sinabi pero kailangang totoo para mag-make sense ang statement.\n2. Ikinokonekta ng statement ang practice sa pagtugtog nang mahusay.\n3. Magwo-work lang yun kung nag-iimprove talaga ang skill sa practice.\n4. Ang B ay nag-guarantee; ang C at D ay walang kinalaman.\n5. Kaya A ang assumption.",
+  "stepsTl": "1. Ang assumption ay yung hindi sinabi pero kailangang totoo para mag-make sense ang statement.\n2. Ikinokonekta ng statement ang practice sa pagtugtog nang mahusay.\n3. Magwo-work lang yun kung nag-iimprove talaga ang skill sa practice.\n4. Ang 'Anyone who practices will become a concert pianist' ay nag-guarantee; ang tungkol sa mga bata at sa mahal na lessons ay walang kinalaman.\n5. Kaya ang assumption: ang pagtugtog ng piano ay skill na gumagaling sa practice.",
   "hintTl": "Hanapin mo yung idea na hindi sinabi pero dapat totoo para may sense ang advice, hindi yung mas malaking claim."
  },
  "208137246": {
@@ -5851,7 +5851,7 @@
   "hint": "With 'neither...nor', look at the subject closest to the verb.",
   "whyA": "The subject is 'list' (singular), so 'is' is correct; 'of requirements' does not change it.",
   "whyB": "'Each' is singular, so 'has' is correct.",
-  "whyD": "Sentence C has an error, so 'No error' is wrong.",
+  "whyD": "The 'neither the manager nor the employees is happy' sentence has an error, so 'No error' is wrong.",
   "explanationTl": "Sa 'neither...nor', sa subject na pinakamalapit sa verb ito nag-a-agree. Plural ang 'employees', kaya dapat 'are happy', hindi 'is happy'.",
   "hintTl": "Sa 'neither...nor', tingnan ang subject na pinakamalapit sa verb."
  },
@@ -7993,7 +7993,7 @@
   "whyA": "Mixes infinitives (to swim, to hike) with a gerund (running).",
   "whyC": "Mixes base verbs (swim, run) with a gerund (hiking), and 'likes swim' is ungrammatical.",
   "whyD": "Starts with infinitives (to swim, run) but ends with a gerund (hiking).",
-  "explanationTl": "Sa parallelism, dapat pare-pareho ang form ng mga nasa listahan. Sa B, lahat -ing (gerund): swimming, running, hiking.",
+  "explanationTl": "Sa parallelism, dapat pare-pareho ang form ng mga nasa listahan. Sa 'She likes swimming, running, and hiking.', lahat -ing (gerund): swimming, running, hiking.",
   "hintTl": "Tingnan mo kung pare-pareho ang anyo ng bawat item sa listahan."
  },
  "542674840": {
@@ -10201,12 +10201,12 @@
   "hintTl": "Tingnan kung singular o plural ang subject."
  },
  "1031589169": {
-  "explanation": "Option B lists three gerunds (eating, sleeping, watching), so all items in the series have the same form.",
+  "explanation": "The correct sentence, 'He likes eating, sleeping, and watching TV.', lists three gerunds (eating, sleeping, watching), so all items in the series have the same form.",
   "hint": "Check that every item in the list has the same grammatical form.",
   "whyA": "Mixes infinitives (to eat, sleep) with a gerund (watching).",
   "whyC": "'Likes eat' is ungrammatical; 'likes' needs an infinitive or a gerund.",
   "whyD": "Repeats 'to' twice then drops it for 'watch', breaking the pattern, and lacks 'and'.",
-  "explanationTl": "Sa option B, puro gerund (eating, sleeping, watching) ang nasa list, kaya parallel ang structure.",
+  "explanationTl": "Sa 'He likes eating, sleeping, and watching TV.', puro gerund (eating, sleeping, watching) ang nasa list, kaya parallel ang structure.",
   "hintTl": "Dapat pare-pareho ang form ng bawat item sa list."
  },
  "1341079469": {

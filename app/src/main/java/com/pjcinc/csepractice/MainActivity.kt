@@ -108,11 +108,13 @@ fun AppRoot(vm: AppViewModel, onExit: () -> Unit) {
             Button(onClick = { vm.boot() }) { Text("Retry") }
         }
         Boot.Ready -> AnimatedContent(
-            targetState = overlay::class,
+            targetState = overlay,
             transitionSpec = { fadeIn() togetherWith fadeOut() },
+            contentKey = { it::class },   // fade only when the screen type changes
             label = "overlay"
-        ) { _ ->
-            when (val o = vm.overlay.collectAsState().value) {
+        ) { o ->
+            // draw the state this slot was made for, so the outgoing screen stays itself during the fade
+            when (o) {
                 Overlay.Onboarding -> OnboardingScreen(vm)
                 Overlay.Quiz -> QuizScreen(vm, snackbar)
                 is Overlay.Result -> ResultScreen(vm, o.result)

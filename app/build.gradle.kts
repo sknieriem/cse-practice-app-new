@@ -14,7 +14,7 @@ android {
         // Whatever this is at the time of first publish becomes permanent for that listing.
         applicationId = "com.pjcinc.csepractice"
         minSdk = 26
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 4
         versionName = "3.0-beta"
 
@@ -24,6 +24,8 @@ android {
         }
         // Online "Ask the tutor" (needs Steve's server + INTERNET permission). Off = fully offline app.
         buildConfigField("boolean", "TUTOR_ENABLED", "false")
+        // Store builds must never wipe a subscriber's progress: schema changes need a real Migration.
+        buildConfigField("boolean", "DB_RESET_ON_SCHEMA_CHANGE", "false")
     }
 
     buildTypes {
@@ -31,6 +33,7 @@ android {
             // Friendlier obfuscated package name in logs.
             applicationIdSuffix = ".debug"
             isMinifyEnabled = false
+            buildConfigField("boolean", "DB_RESET_ON_SCHEMA_CHANGE", "true")
         }
         release {
             isMinifyEnabled = true
@@ -49,6 +52,7 @@ android {
             versionNameSuffix = "-tester"
             signingConfig = signingConfigs.getByName("debug")
             matchingFallbacks += listOf("release")
+            buildConfigField("boolean", "DB_RESET_ON_SCHEMA_CHANGE", "true")   // testers only
         }
     }
     compileOptions {
@@ -77,6 +81,11 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+}
+
+ksp {
+    // Room writes each schema version to app/schemas/ (commit it): needed to write and test migrations.
+    arg("room.schemaLocation", "$projectDir/schemas")
 }
 
 dependencies {

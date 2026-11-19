@@ -25,6 +25,7 @@ import kotlinx.coroutines.flow.asSharedFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.combine
 import kotlinx.coroutines.flow.flatMapLatest
+import kotlinx.coroutines.flow.flowOn
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.isActive
@@ -89,7 +90,8 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     val topicProgress: StateFlow<List<TopicProgress>> =
         combine(dao.topicSizes(), dao.topicStats()) { sizes, stats ->
             runCatching { Planner.topicProgress(repo.topics(), sizes, stats) }.getOrDefault(emptyList())
-        }.stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
+        }.flowOn(kotlinx.coroutines.Dispatchers.IO)   // topics() may read the asset file
+            .stateIn(viewModelScope, SharingStarted.Eagerly, emptyList())
 
     private val todayFlow = MutableStateFlow(repo.today())
 
@@ -207,11 +209,25 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
                 app.contentResolver.openInputStream(uri)?.use { android.graphics.BitmapFactory.decodeStream(it, null, opts) }
                 var sample = 1
                 while (opts.outWidth / sample > 1080 || opts.outHeight / sample > 1080) sample *= 2
-                val bmp = app.contentResolver.openInputStream(uri)?.use {
+                val raw = app.contentResolver.openInputStream(uri)?.use {
                     android.graphics.BitmapFactory.decodeStream(it, null, android.graphics.BitmapFactory.Options().apply { inSampleSize = sample })
                 } ?: return@withContext ""
+                // phone cameras save portrait photos sideways plus an EXIF rotation tag: apply it
+                val degrees = app.contentResolver.openInputStream(uri)?.use {
+                    when (android.media.ExifInterface(it).getAttributeInt(
+                        android.media.ExifInterface.TAG_ORIENTATION, android.media.ExifInterface.ORIENTATION_NORMAL)) {
+                        android.media.ExifInterface.ORIENTATION_ROTATE_90 -> 90f
+                        android.media.ExifInterface.ORIENTATION_ROTATE_180 -> 180f
+                        android.media.ExifInterface.ORIENTATION_ROTATE_270 -> 270f
+                        else -> 0f
+                    }
+                } ?: 0f
+                val bmp = if (degrees == 0f) raw else android.graphics.Bitmap.createBitmap(
+                    raw, 0, 0, raw.width, raw.height, android.graphics.Matrix().apply { postRotate(degrees) }, true
+                ).also { if (it !== raw) raw.recycle() }
                 val f = java.io.File(app.filesDir, "inspiration.jpg")
                 f.outputStream().use { bmp.compress(android.graphics.Bitmap.CompressFormat.JPEG, 88, it) }
+                bmp.recycle()
                 f.absolutePath + "?v=" + System.currentTimeMillis()
             } catch (e: Exception) {
                 Log.w(TAG, "Could not read photo", e)
@@ -251,11 +267,18 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         format: com.pjcinc.csepractice.ui.share.ShareCards.Format
     ) {
         _shareRequest.value = null
-        try {
-            com.pjcinc.csepractice.ui.share.ShareCards.share(getApplication(), card, name, format)
-        } catch (e: Exception) {
-            Log.w(TAG, "Share failed", e)
-            _messages.tryEmit("Couldn't open sharing on this phone.")
+        viewModelScope.launch {
+            try {
+                val app = getApplication<Application>()
+                // drawing the 1080px card and PNG-encoding it is slow: do it off the main thread
+                val uri = kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.IO) {
+                    com.pjcinc.csepractice.ui.share.ShareCards.prepare(app, card, name, format)
+                }
+                com.pjcinc.csepractice.ui.share.ShareCards.launch(app, uri)
+            } catch (e: Exception) {
+                Log.w(TAG, "Share failed", e)
+                _messages.tryEmit("Couldn't open sharing on this phone.")
+            }
         }
     }
 

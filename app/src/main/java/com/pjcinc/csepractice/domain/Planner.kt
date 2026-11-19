@@ -58,6 +58,8 @@ object Planner {
         progress.filter { it.topic.syllabus }.sortedWith(compareBy({ it.skill }, { -it.questions }))
 
     const val PASS_MARK = 80
+    /** Conservative stand-in score for a subject the user has not tried yet. */
+    const val UNTRIED_SUBJECT = 50
     /** Readiness is only shown after this many answers — fewer is guesswork. */
     const val MIN_ANSWERS_FOR_READINESS = 20
 
@@ -72,13 +74,17 @@ object Planner {
         val weakestSubject: String?
     ) {
         val shown: Boolean get() = answered >= MIN_ANSWERS_FOR_READINESS
+        val allSubjectsTried: Boolean get() = bySubject.values.none { it < 0 }
         val gapToPass: Int get() = (PASS_MARK - overall).coerceAtLeast(0)
     }
 
     /**
      * Estimated exam score from practice answers (syllabus topics only).
      * Each topic's accuracy is shrunk toward the user's overall accuracy, so a topic with 1 answer
-     * can't swing the number; untried topics assume the overall level. Subjects weigh equally.
+     * can't swing the number. Subjects weigh equally. A subject not tried yet counts at
+     * [UNTRIED_SUBJECT] (or the user's own level if that is lower), so drilling one easy subject can
+     * never show a passing estimate for the whole exam. The overall estimate stays below the pass mark
+     * until all four subjects have been tried.
      * Honest by construction: it is an estimate of % correct, the same scale as the 80 pass mark.
      */
     fun estimate(progress: List<TopicProgress>): Readiness {
@@ -93,9 +99,10 @@ object Planner {
             else (100 * ts.sumOf { t -> (t.correct + 4 * g) / (t.answered + 4) * t.questions } / w).toInt()
         }
         val tried = bySubject.values.filter { it >= 0 }
-        // untried subjects count at the overall level, so trying a new subject can't "cost" points
-        val overall = if (n == 0) 0 else
-            ((tried.sum() + (CATEGORIES.size - tried.size) * 100 * g) / CATEGORIES.size).toInt()
+        val untried = minOf(UNTRIED_SUBJECT.toDouble(), 100 * g)
+        val raw = if (n == 0) 0 else
+            ((tried.sum() + (CATEGORIES.size - tried.size) * untried) / CATEGORIES.size).toInt()
+        val overall = if (tried.size < CATEGORIES.size) minOf(raw, PASS_MARK - 1) else raw
         val weakest = bySubject.filterValues { it >= 0 }.minByOrNull { it.value }?.key
         return Readiness(overall, bySubject, n, syl.count { it.answered >= 3 }, syl.size, weakest)
     }

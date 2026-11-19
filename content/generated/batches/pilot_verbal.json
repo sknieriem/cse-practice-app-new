@@ -281,14 +281,14 @@
     "optionC": "While walking along Roxas Boulevard, the sunset was beautiful to us.",
     "optionD": "Walking along Roxas Boulevard, the sunset was admired by us.",
     "correctAnswer": "A",
-    "explanation": "An opening modifier like 'Walking along Roxas Boulevard' must be followed by the person doing the walking. Only option A puts 'we' right after it.",
-    "steps": "1. Ask who is 'walking along Roxas Boulevard'.\n2. Check the noun right after the comma in each choice.\n3. Only A places 'we' (the walkers) there; the others make 'the sunset' do the walking.",
-    "stepsTl": "1. Itanong kung sino ang 'walking along Roxas Boulevard'.\n2. Tingnan ang noun na kasunod mismo ng comma sa bawat choice.\n3. Sa A lang nandoon ang 'we' (ang mga naglalakad); sa iba, 'the sunset' ang lumalabas na naglalakad.",
+    "explanation": "An opening modifier like 'Walking along Roxas Boulevard' must be followed by the person doing the walking. Only 'we found the sunset beautiful' puts 'we' right after it.",
+    "steps": "1. Ask who is 'walking along Roxas Boulevard'.\n2. Check the noun right after the comma in each choice.\n3. Only the sentence with 'we found the sunset beautiful' places 'we' (the walkers) there; the others make 'the sunset' do the walking.",
+    "stepsTl": "1. Itanong kung sino ang 'walking along Roxas Boulevard'.\n2. Tingnan ang noun na kasunod mismo ng comma sa bawat choice.\n3. Sa sentence na 'we found the sunset beautiful' lang nandoon ang 'we' (ang mga naglalakad); sa iba, 'the sunset' ang lumalabas na naglalakad.",
     "hint": "Look at the word right after the comma. Is that the one doing the walking?",
     "whyB": "Dangling modifier: it says the sunset was walking along Roxas Boulevard.",
     "whyC": "Adding 'while' does not fix it; the subject after the comma is still 'the sunset'.",
     "whyD": "The passive voice still puts 'the sunset' after the modifier, so the sunset is still the one walking.",
-    "explanationTl": "Yung 'Walking along Roxas Boulevard' ay dapat sinusundan ng taong naglalakad. Sa A lang 'we' ang kasunod. Sa iba, parang yung sunset ang naglalakad, kaya mali (dangling modifier).",
+    "explanationTl": "Yung 'Walking along Roxas Boulevard' ay dapat sinusundan ng taong naglalakad. Sa 'we found the sunset beautiful' lang, 'we' ang kasunod. Sa iba, parang yung sunset ang naglalakad, kaya mali (dangling modifier).",
     "hintTl": "Tingnan mo yung salita pagkatapos ng comma. Siya ba talaga ang naglalakad?"
   },
   {
@@ -622,13 +622,13 @@
     "optionD": "Tumakbo siya nang mabilis papunta sa munisipyo.",
     "correctAnswer": "D",
     "explanation": "'Nang' is used between a verb and an adverb of manner (pang-abay na pamaraan), as in 'tumakbo nang mabilis'. 'Ng' is used before a noun that is the object, as in 'kumain ng tinapay'.",
-    "steps": "1. Ask what follows the marker: a noun (object) or a word describing how the action was done.\n2. Before an object noun, use 'ng' (kumain ng tinapay).\n3. Before a word telling how the action was done, use 'nang' (tumakbo nang mabilis).\n4. Only D follows these rules.",
-    "stepsTl": "1. Itanong kung ano ang kasunod ng marker: noun (object) ba o salitang naglalarawan kung paano ginawa ang kilos.\n2. Bago ang object noun, gamitin ang 'ng' (kumain ng tinapay).\n3. Bago ang salitang nagsasabi kung paano ginawa ang kilos, gamitin ang 'nang' (tumakbo nang mabilis).\n4. D lang ang sumusunod sa mga rule na ito.",
+    "steps": "1. Ask what follows the marker: a noun (object) or a word describing how the action was done.\n2. Before an object noun, use 'ng' (kumain ng tinapay).\n3. Before a word telling how the action was done, use 'nang' (tumakbo nang mabilis).\n4. Only 'Tumakbo siya nang mabilis papunta sa munisipyo.' follows these rules.",
+    "stepsTl": "1. Itanong kung ano ang kasunod ng marker: noun (object) ba o salitang naglalarawan kung paano ginawa ang kilos.\n2. Bago ang object noun, gamitin ang 'ng' (kumain ng tinapay).\n3. Bago ang salitang nagsasabi kung paano ginawa ang kilos, gamitin ang 'nang' (tumakbo nang mabilis).\n4. 'Tumakbo siya nang mabilis papunta sa munisipyo.' lang ang sumusunod sa mga rule na ito.",
     "hint": "Tingnan kung ang kasunod ay pangngalan (bagay) o salitang naglalarawan kung paano ginawa ang kilos.",
     "whyA": "'Mabilis' tells how he ran, so it needs 'nang', not 'ng'.",
     "whyB": "'Tinapay' is the object (a noun), so it needs 'ng', not 'nang'.",
     "whyC": "'Malakas' tells how he spoke, so it needs 'nang', not 'ng'.",
-    "explanationTl": "Kapag kung PAANO ginawa ang kilos ang kasunod (mabilis, malakas), 'nang' ang gamit: 'tumakbo nang mabilis'. Kapag bagay o pangngalan ang kasunod, 'ng': 'kumain ng tinapay'. Kaya D lang ang tama.",
+    "explanationTl": "Kapag kung PAANO ginawa ang kilos ang kasunod (mabilis, malakas), 'nang' ang gamit: 'tumakbo nang mabilis'. Kapag bagay o pangngalan ang kasunod, 'ng': 'kumain ng tinapay'. Kaya 'Tumakbo siya nang mabilis papunta sa munisipyo.' lang ang tama.",
     "hintTl": "Tingnan mo kung bagay ba ang kasunod, o yung paraan ng pagkilos."
   }
 ]
