@@ -15,8 +15,8 @@ android {
         applicationId = "com.pjcinc.csepractice"
         minSdk = 26
         targetSdk = 36
-        versionCode = 4
-        versionName = "3.0-beta"
+        versionCode = 5
+        versionName = "4.0-beta"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
