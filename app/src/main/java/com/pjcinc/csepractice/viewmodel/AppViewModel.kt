@@ -212,16 +212,19 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
                 val raw = app.contentResolver.openInputStream(uri)?.use {
                     android.graphics.BitmapFactory.decodeStream(it, null, android.graphics.BitmapFactory.Options().apply { inSampleSize = sample })
                 } ?: return@withContext ""
-                // phone cameras save portrait photos sideways plus an EXIF rotation tag: apply it
-                val degrees = app.contentResolver.openInputStream(uri)?.use {
-                    when (android.media.ExifInterface(it).getAttributeInt(
-                        android.media.ExifInterface.TAG_ORIENTATION, android.media.ExifInterface.ORIENTATION_NORMAL)) {
-                        android.media.ExifInterface.ORIENTATION_ROTATE_90 -> 90f
-                        android.media.ExifInterface.ORIENTATION_ROTATE_180 -> 180f
-                        android.media.ExifInterface.ORIENTATION_ROTATE_270 -> 270f
-                        else -> 0f
-                    }
-                } ?: 0f
+                // phone cameras save portrait photos sideways plus an EXIF rotation tag: apply it.
+                // Some images (PNG/WebP on older Android) make the EXIF reader throw: then just don't rotate.
+                val degrees = runCatching {
+                    app.contentResolver.openInputStream(uri)?.use {
+                        when (android.media.ExifInterface(it).getAttributeInt(
+                            android.media.ExifInterface.TAG_ORIENTATION, android.media.ExifInterface.ORIENTATION_NORMAL)) {
+                            android.media.ExifInterface.ORIENTATION_ROTATE_90 -> 90f
+                            android.media.ExifInterface.ORIENTATION_ROTATE_180 -> 180f
+                            android.media.ExifInterface.ORIENTATION_ROTATE_270 -> 270f
+                            else -> 0f
+                        }
+                    } ?: 0f
+                }.getOrDefault(0f)
                 val bmp = if (degrees == 0f) raw else android.graphics.Bitmap.createBitmap(
                     raw, 0, 0, raw.width, raw.height, android.graphics.Matrix().apply { postRotate(degrees) }, true
                 ).also { if (it !== raw) raw.recycle() }

@@ -140,7 +140,10 @@ class Prefs(private val context: Context) {
     suspend fun setDailyGoal(goal: Int) = context.dataStore.edit { it[K.GOAL] = goal }
 
     /** Writes the game fields of [s] back (used after a session is scored). */
-    suspend fun saveGame(s: UserState) = context.dataStore.edit { p: MutablePreferences ->
+    /** Saves the game state; with [clearActiveQuiz] it also drops the finished session in the SAME
+     *  DataStore write, so a crash can neither lose this session's XP nor let it be submitted twice. */
+    suspend fun saveGame(s: UserState, clearActiveQuiz: Boolean = false) = context.dataStore.edit { p: MutablePreferences ->
+        if (clearActiveQuiz) p.remove(K.ACTIVE_QUIZ)
         p[K.XP] = s.xp
         p[K.STREAK] = s.streak
         p[K.BEST] = s.bestStreak

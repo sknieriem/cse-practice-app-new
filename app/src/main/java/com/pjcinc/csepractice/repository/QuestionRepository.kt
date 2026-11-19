@@ -233,10 +233,9 @@ class QuestionRepository(private val context: Context) {
             dao.insertCategoryResults(perCat.map { SessionCategoryResult(0, sessionId, it.category, it.correct, it.total) })
             r
         }
-        // Clear the saved session right after the commit, so it can't be submitted (and scored) twice.
-        // If the app dies between these two lines the session's XP is lost, never doubled.
-        prefs.setActiveQuiz(null)
-        prefs.saveGame(reward.newState)
+        // Right after the Room commit: save XP/streak and clear the saved session in ONE DataStore write,
+        // so the session can't be submitted (and scored) twice and its XP can't be lost.
+        prefs.saveGame(reward.newState, clearActiveQuiz = true)
 
         // ---- encouragement: computed only from what actually happened ----
         val lang = old.language
